@@ -963,3 +963,756 @@ LogInit: Object subsystem initialized
 [2019.02.10-21.05.25:630][ 57]SourceControl:  rewrite GeoShot/Content/Creations/shots/secondaries/Meteor_secondary.uasset (79%)
 [2019.02.10-21.05.25:630][ 57]SourceControl:  rewrite GeoShot/Content/Creations/shots/secondaries/Perpendicular_Secondary.uasset (93%)
 [2019.02.10-21.05.25:635][ 57]SourceControl: Commited [master 3c1fb88] Added single player steam support! This was surprisingly easy..
+[2019.02.10-21.08.44:899][ 76]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.02.10-21.09.16:742][478]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.02.10-21.10.11:238][851]LogSavePackage: Save=209.70ms
+[2019.02.10-21.10.11:238][851]LogSavePackage: Moving '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/GeoShot/Saved/WeaponSelectF02BD31D4E7E9FC57B9B38B8FDEB7643.tmp' to '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/GeoShot/Content/Creations/Widgets/WeaponSelect.uasset'
+[2019.02.10-21.10.11:247][851]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/GeoShot/Content/Creations/Widgets/WeaponSelect.uasset
+[2019.02.10-21.10.55:608][815]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.02.10-21.11.15:916][557]BlueprintLog: New page: Compile WeaponSelect
+[2019.02.10-21.11.51:925][341]LogSavePackage: Save=221.14ms
+[2019.02.10-21.11.51:925][341]LogSavePackage: Moving '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/GeoShot/Saved/WeaponSelect32FBD550409E419EE1D530A62B788EF1.tmp' to '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/GeoShot/Content/Creations/Widgets/WeaponSelect.uasset'
+[2019.02.10-21.11.51:932][341]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/GeoShot/Content/Creations/Widgets/WeaponSelect.uasset
+[2019.02.10-21.13.23:004][333]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.10-21.13.23:050][333]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2019.02.10-21.13.23:050][333]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.10-21.13.23:052][333]PIE: New page: PIE session: TwinStickExampleMap (Feb 10, 2019, 5:13:23 AM)
+[2019.02.10-21.13.23:052][333]LogPlayLevel: Creating play world package: /Game/TwinStickBP/Maps/UEDPIE_1_TwinStickExampleMap
+[2019.02.10-21.13.23:063][333]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010406s)
+[2019.02.10-21.13.23:063][333]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2019.02.10-21.13.23:064][333]LogPlayLevel: PIE: World Init took: (0.000827s)
+[2019.02.10-21.13.23:064][333]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap to /Game/TwinStickBP/Maps/UEDPIE_1_TwinStickExampleMap.TwinStickExampleMap (0.011668s)
+[2019.02.10-21.13.23:112][333]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.02.10-21.13.23:203][333]LogInit: FAudioDevice initialized.
+[2019.02.10-21.13.23:241][333]LogLoad: Game class is 'TwinStickGameMode_C'
+[2019.02.10-21.13.23:243][333]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_1_TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 60) at 2019.02.10-13.13.23
+[2019.02.10-21.13.23:244][333]LogWorld: Bringing up level for play took: 0.002421
+[2019.02.10-21.13.23:257][333]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.02.10-21.13.23:257][333]LogTemp: Display: ParseSettings for IpNetDriver_8
+[2019.02.10-21.13.23:257][333]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.02.10-21.13.23:257][333]LogInit: WinSock: Socket queue 131072 / 131072
+[2019.02.10-21.13.23:258][333]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.02.10-21.13.23:258][333]LogNet: GameNetDriver IpNetDriver_8 IpNetDriver listening on port 17777
+[2019.02.10-21.13.23:260][333]PIE: Play in editor start time for /Game/TwinStickBP/Maps/UEDPIE_1_TwinStickExampleMap 0.185
+[2019.02.10-21.13.23:261][333]PIE: New page: PIE session: TwinStickExampleMap (Feb 10, 2019, 5:13:23 AM)
+[2019.02.10-21.13.23:324][333]LogNet: Browse: 127.0.0.1:17777//Game/TwinStickBP/Maps/TwinStickExampleMap
+[2019.02.10-21.13.23:325][333]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.02.10-21.13.23:325][333]LogTemp: Display: ParseSettings for IpNetDriver_9
+[2019.02.10-21.13.23:325][333]LogTemp: Display: ParseSettings for PendingNetDriver
+[2019.02.10-21.13.23:325][333]LogInit: WinSock: Socket queue 32768 / 32768
+[2019.02.10-21.13.23:326][333]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.02.10-21.13.23:326][333]LogNet: Game client on port 17777, rate 10000
+[2019.02.10-21.13.23:337][333]PIE: Play in editor start time for /Game/TwinStickBP/Maps/TwinStickExampleMap 0.263
+[2019.02.10-21.13.23:348][333]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2019.02.10-21.13.23:349][333]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:49939
+[2019.02.10-21.13.23:349][333]LogHandshake: SendConnectChallenge. Timestamp: 0.016667, Cookie: 066093091211216055075248030226176042035082108004037005069135
+[2019.02.10-21.13.23:349][333]LogHandshake: SendChallengeResponse. Timestamp: 0.016667, Cookie: 066093091211216055075248030226176042035082108004037005069135
+[2019.02.10-21.13.23:447][334]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:49939
+[2019.02.10-21.13.23:448][334]LogHandshake: SendChallengeAck. InCookie: 066093091211216055075248030226176042035082108004037005069135
+[2019.02.10-21.13.23:448][334]LogNet: Server accepting post-challenge connection from: 127.0.0.1:49939
+[2019.02.10-21.13.23:448][334]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.02.10-21.13.23:448][334]LogNet: NotifyAcceptedConnection: Name: TwinStickExampleMap, TimeStamp: 02/10/19 13:13:23, [UNetConnection] RemoteAddr: 127.0.0.1:49939, Name: IpConnection_9, Driver: GameNetDriver IpNetDriver_8, IsServer: YES, PC: NULL, Owner: NULL
+[2019.02.10-21.13.23:448][334]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:49939, Name: IpConnection_9, Driver: GameNetDriver IpNetDriver_8, IsServer: YES, PC: NULL, Owner: NULL
+[2019.02.10-21.13.23:448][334]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_8, Driver: PendingNetDriver IpNetDriver_9, IsServer: NO, PC: NULL, Owner: NULL
+[2019.02.10-21.13.23:472][335]LogNet: NotifyAcceptingChannel Control 0 server World /Game/TwinStickBP/Maps/UEDPIE_1_TwinStickExampleMap.TwinStickExampleMap: Accepted
+[2019.02.10-21.13.23:473][335]LogNet: Remote platform little endian=1
+[2019.02.10-21.13.23:473][335]LogNet: This platform little endian=1
+[2019.02.10-21.13.23:504][336]LogNet: Login request: /Game/TwinStickBP/Maps/TwinStickExampleMap?Name=MSI-F456A74B42EE4D4AF64E418488A87DCF userId: MSI-F456A74B42EE4D4AF64E418488A87DCF
+[2019.02.10-21.13.23:505][336]LogNet: Welcomed by server (Level: /Game/TwinStickBP/Maps/UEDPIE_1_TwinStickExampleMap, Game: /Game/TwinStickBP/Blueprints/TwinStickGameMode.TwinStickGameMode_C)
+[2019.02.10-21.13.23:514][336]LogLoad: LoadMap: 127.0.0.1:17777//Game/TwinStickBP/Maps/UEDPIE_1_TwinStickExampleMap?game=/Game/TwinStickBP/Blueprints/TwinStickGameMode.TwinStickGameMode_C
+[2019.02.10-21.13.23:559][336]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2019.02.10-21.13.23:559][336]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.02.10-21.13.23:562][336]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_2_TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 60) at 2019.02.10-13.13.23
+[2019.02.10-21.13.23:563][336]LogWorld: Bringing up level for play took: 0.002097
+[2019.02.10-21.13.23:563][336]LogLoad: Took 0.048933 seconds to LoadMap(/Game/TwinStickBP/Maps/UEDPIE_1_TwinStickExampleMap)
+[2019.02.10-21.13.23:579][337]LogNet: Client netspeed is 10000
+[2019.02.10-21.13.23:579][337]LogNet: Join request: /Game/TwinStickBP/Maps/TwinStickExampleMap?Name=MSI-F456A74B42EE4D4AF64E418488A87DCF?SplitscreenCount=1
+[2019.02.10-21.13.23:580][337]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2019.02.10-21.13.23:582][337]LogNet: Join succeeded: MSI-F456A74B42EE4D4A
+[2019.02.10-21.13.23:637][339]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2019.02.10-21.13.23:688][341]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2019.02.10-21.13.25:383][424]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.10-21.13.25:383][424]LogPhysics: Warning: ForeachShape(Convex): [/Game/StarterContent/Shapes/Shape_Cone.Shape_Cone] ScaledElem[0] invalid
+[2019.02.10-21.13.43:725][417]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2019.02.10-21.13.43:787][417]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2019.02.10-21.13.43:787][417]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2019.02.10-21.13.43:788][417]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2019.02.10-21.13.43:788][417]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2019.02.10-21.13.43:788][417]LogOnline: Warning: OSS: No game present to leave for session (GameSession)
+[2019.02.10-21.13.43:820][417]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2019.02.10-21.13.43:820][417]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2019.02.10-21.13.43:821][417]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2019.02.10-21.13.43:821][417]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2019.02.10-21.13.43:821][417]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.10-21.13.43:822][417]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2019.02.10-21.13.43:850][417]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:49939, Name: IpConnection_9, Driver: GameNetDriver IpNetDriver_8, IsServer: YES, PC: None, Owner: None
+[2019.02.10-21.13.43:850][417]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:49939, Name: IpConnection_9, Driver: GameNetDriver IpNetDriver_8, IsServer: YES, PC: None, Owner: None, Channels: 2, Time: 2019.02.10-21.13.43
+[2019.02.10-21.13.43:850][417]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:49939, Name: IpConnection_9, Driver: GameNetDriver IpNetDriver_8, IsServer: YES, PC: None, Owner: None
+[2019.02.10-21.13.43:850][417]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_8, Driver: GameNetDriver IpNetDriver_9, IsServer: NO, PC: None, Owner: None
+[2019.02.10-21.13.43:850][417]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_8, Driver: GameNetDriver IpNetDriver_9, IsServer: NO, PC: None, Owner: None, Channels: 2, Time: 2019.02.10-21.13.43
+[2019.02.10-21.13.43:850][417]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_8, Driver: GameNetDriver IpNetDriver_9, IsServer: NO, PC: None, Owner: None
+[2019.02.10-21.13.43:857][417]LogExit: GameNetDriver None shut down
+[2019.02.10-21.13.43:858][417]LogExit: GameNetDriver None shut down
+[2019.02.10-21.13.43:880][418]LogPlayLevel: Display: Destroying online subsystem :Context_55
+[2019.02.10-21.13.43:880][418]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2019.02.10-21.13.43:880][418]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2019.02.10-21.13.43:880][418]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2019.02.10-21.13.45:964][542]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.10-21.13.46:010][542]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2019.02.10-21.13.46:011][542]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.10-21.13.46:012][542]PIE: New page: PIE session: TwinStickExampleMap (Feb 10, 2019, 5:13:46 AM)
+[2019.02.10-21.13.46:013][542]LogPlayLevel: Creating play world package: /Game/TwinStickBP/Maps/UEDPIE_1_TwinStickExampleMap
+[2019.02.10-21.13.46:021][542]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008701s)
+[2019.02.10-21.13.46:022][542]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2019.02.10-21.13.46:022][542]LogPlayLevel: PIE: World Init took: (0.000709s)
+[2019.02.10-21.13.46:022][542]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap to /Game/TwinStickBP/Maps/UEDPIE_1_TwinStickExampleMap.TwinStickExampleMap (0.009830s)
+[2019.02.10-21.13.46:067][542]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.02.10-21.13.46:155][542]LogInit: FAudioDevice initialized.
+[2019.02.10-21.13.46:188][542]LogLoad: Game class is 'TwinStickGameMode_C'
+[2019.02.10-21.13.46:190][542]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_1_TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 60) at 2019.02.10-13.13.46
+[2019.02.10-21.13.46:190][542]LogWorld: Bringing up level for play took: 0.001785
+[2019.02.10-21.13.46:203][542]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.02.10-21.13.46:204][542]LogTemp: Display: ParseSettings for IpNetDriver_10
+[2019.02.10-21.13.46:204][542]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.02.10-21.13.46:204][542]LogInit: WinSock: Socket queue 131072 / 131072
+[2019.02.10-21.13.46:204][542]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.02.10-21.13.46:205][542]LogNet: GameNetDriver IpNetDriver_10 IpNetDriver listening on port 17777
+[2019.02.10-21.13.46:206][542]PIE: Play in editor start time for /Game/TwinStickBP/Maps/UEDPIE_1_TwinStickExampleMap 1.132
+[2019.02.10-21.13.46:208][542]PIE: New page: PIE session: TwinStickExampleMap (Feb 10, 2019, 5:13:46 AM)
+[2019.02.10-21.13.46:269][542]LogNet: Browse: 127.0.0.1:17777//Game/TwinStickBP/Maps/TwinStickExampleMap
+[2019.02.10-21.13.46:269][542]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.02.10-21.13.46:269][542]LogTemp: Display: ParseSettings for IpNetDriver_11
+[2019.02.10-21.13.46:269][542]LogTemp: Display: ParseSettings for PendingNetDriver
+[2019.02.10-21.13.46:269][542]LogInit: WinSock: Socket queue 32768 / 32768
+[2019.02.10-21.13.46:270][542]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.02.10-21.13.46:270][542]LogNet: Game client on port 17777, rate 10000
+[2019.02.10-21.13.46:279][542]PIE: Play in editor start time for /Game/TwinStickBP/Maps/TwinStickExampleMap 1.205
+[2019.02.10-21.13.46:291][542]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2019.02.10-21.13.46:291][542]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:54200
+[2019.02.10-21.13.46:291][542]LogHandshake: SendConnectChallenge. Timestamp: 0.016667, Cookie: 062136144010031051104194083202054038083176247019167065163175
+[2019.02.10-21.13.46:292][542]LogHandshake: SendChallengeResponse. Timestamp: 0.016667, Cookie: 062136144010031051104194083202054038083176247019167065163175
+[2019.02.10-21.13.46:356][543]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:54200
+[2019.02.10-21.13.46:356][543]LogHandshake: SendChallengeAck. InCookie: 062136144010031051104194083202054038083176247019167065163175
+[2019.02.10-21.13.46:356][543]LogNet: Server accepting post-challenge connection from: 127.0.0.1:54200
+[2019.02.10-21.13.46:356][543]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.02.10-21.13.46:356][543]LogNet: NotifyAcceptedConnection: Name: TwinStickExampleMap, TimeStamp: 02/10/19 13:13:46, [UNetConnection] RemoteAddr: 127.0.0.1:54200, Name: IpConnection_11, Driver: GameNetDriver IpNetDriver_10, IsServer: YES, PC: NULL, Owner: NULL
+[2019.02.10-21.13.46:356][543]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:54200, Name: IpConnection_11, Driver: GameNetDriver IpNetDriver_10, IsServer: YES, PC: NULL, Owner: NULL
+[2019.02.10-21.13.46:356][543]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_10, Driver: PendingNetDriver IpNetDriver_11, IsServer: NO, PC: NULL, Owner: NULL
+[2019.02.10-21.13.46:374][544]LogNet: NotifyAcceptingChannel Control 0 server World /Game/TwinStickBP/Maps/UEDPIE_1_TwinStickExampleMap.TwinStickExampleMap: Accepted
+[2019.02.10-21.13.46:374][544]LogNet: Remote platform little endian=1
+[2019.02.10-21.13.46:374][544]LogNet: This platform little endian=1
+[2019.02.10-21.13.46:397][545]LogNet: Login request: /Game/TwinStickBP/Maps/TwinStickExampleMap?Name=MSI-0196B13C4264209C36C648B2B389BB15 userId: MSI-0196B13C4264209C36C648B2B389BB15
+[2019.02.10-21.13.46:397][545]LogNet: Welcomed by server (Level: /Game/TwinStickBP/Maps/UEDPIE_1_TwinStickExampleMap, Game: /Game/TwinStickBP/Blueprints/TwinStickGameMode.TwinStickGameMode_C)
+[2019.02.10-21.13.46:406][545]LogLoad: LoadMap: 127.0.0.1:17777//Game/TwinStickBP/Maps/UEDPIE_1_TwinStickExampleMap?game=/Game/TwinStickBP/Blueprints/TwinStickGameMode.TwinStickGameMode_C
+[2019.02.10-21.13.46:448][545]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2019.02.10-21.13.46:448][545]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.02.10-21.13.46:451][545]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_2_TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 60) at 2019.02.10-13.13.46
+[2019.02.10-21.13.46:451][545]LogWorld: Bringing up level for play took: 0.001939
+[2019.02.10-21.13.46:451][545]LogLoad: Took 0.045002 seconds to LoadMap(/Game/TwinStickBP/Maps/UEDPIE_1_TwinStickExampleMap)
+[2019.02.10-21.13.46:473][546]LogNet: Client netspeed is 10000
+[2019.02.10-21.13.46:473][546]LogNet: Join request: /Game/TwinStickBP/Maps/TwinStickExampleMap?Name=MSI-0196B13C4264209C36C648B2B389BB15?SplitscreenCount=1
+[2019.02.10-21.13.46:474][546]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2019.02.10-21.13.46:475][546]LogNet: Join succeeded: MSI-0196B13C4264209C
+[2019.02.10-21.13.46:526][549]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2019.02.10-21.13.46:589][552]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2019.02.10-21.13.49:719][709]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.10-21.13.49:720][709]LogPhysics: Warning: ForeachShape(Convex): [/Game/StarterContent/Shapes/Shape_Cone.Shape_Cone] ScaledElem[0] invalid
+[2019.02.10-21.13.51:680][816]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.10-21.13.51:680][816]LogPhysics: Warning: ForeachShape(Convex): [/Game/StarterContent/Shapes/Shape_Cone.Shape_Cone] ScaledElem[0] invalid
+[2019.02.10-21.13.52:638][866]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2019.02.10-21.13.52:697][866]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2019.02.10-21.13.52:697][866]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2019.02.10-21.13.52:698][866]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2019.02.10-21.13.52:698][866]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2019.02.10-21.13.52:698][866]LogOnline: Warning: OSS: No game present to leave for session (GameSession)
+[2019.02.10-21.13.52:730][866]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2019.02.10-21.13.52:730][866]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2019.02.10-21.13.52:731][866]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2019.02.10-21.13.52:731][866]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2019.02.10-21.13.52:731][866]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.10-21.13.52:731][866]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2019.02.10-21.13.52:755][866]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:54200, Name: IpConnection_11, Driver: GameNetDriver IpNetDriver_10, IsServer: YES, PC: None, Owner: None
+[2019.02.10-21.13.52:755][866]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:54200, Name: IpConnection_11, Driver: GameNetDriver IpNetDriver_10, IsServer: YES, PC: None, Owner: None, Channels: 2, Time: 2019.02.10-21.13.52
+[2019.02.10-21.13.52:755][866]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:54200, Name: IpConnection_11, Driver: GameNetDriver IpNetDriver_10, IsServer: YES, PC: None, Owner: None
+[2019.02.10-21.13.52:756][866]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_10, Driver: GameNetDriver IpNetDriver_11, IsServer: NO, PC: None, Owner: None
+[2019.02.10-21.13.52:756][866]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_10, Driver: GameNetDriver IpNetDriver_11, IsServer: NO, PC: None, Owner: None, Channels: 2, Time: 2019.02.10-21.13.52
+[2019.02.10-21.13.52:756][866]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_10, Driver: GameNetDriver IpNetDriver_11, IsServer: NO, PC: None, Owner: None
+[2019.02.10-21.13.52:763][866]LogExit: GameNetDriver None shut down
+[2019.02.10-21.13.52:764][866]LogExit: GameNetDriver None shut down
+[2019.02.10-21.13.52:783][867]LogPlayLevel: Display: Destroying online subsystem :Context_57
+[2019.02.10-21.13.52:783][867]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2019.02.10-21.13.52:783][867]LogPlayLevel: Display: Destroying online subsystem :Context_56
+[2019.02.10-21.13.52:783][867]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2019.02.10-21.13.57:943][ 97]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall7)
+[2019.02.10-21.14.29:331][912]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.10-21.14.29:393][912]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2019.02.10-21.14.29:393][912]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.10-21.14.29:395][912]PIE: New page: PIE session: TwinStickExampleMap (Feb 10, 2019, 5:14:29 AM)
+[2019.02.10-21.14.29:395][912]LogPlayLevel: Creating play world package: /Game/TwinStickBP/Maps/UEDPIE_1_TwinStickExampleMap
+[2019.02.10-21.14.29:405][912]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009924s)
+[2019.02.10-21.14.29:406][912]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2019.02.10-21.14.29:406][912]LogPlayLevel: PIE: World Init took: (0.001043s)
+[2019.02.10-21.14.29:407][912]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap to /Game/TwinStickBP/Maps/UEDPIE_1_TwinStickExampleMap.TwinStickExampleMap (0.011459s)
+[2019.02.10-21.14.29:454][912]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.02.10-21.14.29:546][912]LogInit: FAudioDevice initialized.
+[2019.02.10-21.14.29:583][912]LogLoad: Game class is 'TwinStickGameMode_C'
+[2019.02.10-21.14.29:585][912]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_1_TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 60) at 2019.02.10-13.14.29
+[2019.02.10-21.14.29:586][912]LogWorld: Bringing up level for play took: 0.001883
+[2019.02.10-21.14.29:599][912]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.02.10-21.14.29:599][912]LogTemp: Display: ParseSettings for IpNetDriver_12
+[2019.02.10-21.14.29:599][912]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.02.10-21.14.29:600][912]LogInit: WinSock: Socket queue 131072 / 131072
+[2019.02.10-21.14.29:600][912]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.02.10-21.14.29:600][912]LogNet: GameNetDriver IpNetDriver_12 IpNetDriver listening on port 17777
+[2019.02.10-21.14.29:604][912]PIE: Play in editor start time for /Game/TwinStickBP/Maps/UEDPIE_1_TwinStickExampleMap 0.53
+[2019.02.10-21.14.29:605][912]PIE: New page: PIE session: TwinStickExampleMap (Feb 10, 2019, 5:14:29 AM)
+[2019.02.10-21.14.29:673][912]LogNet: Browse: 127.0.0.1:17777//Game/TwinStickBP/Maps/TwinStickExampleMap
+[2019.02.10-21.14.29:674][912]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.02.10-21.14.29:674][912]LogTemp: Display: ParseSettings for IpNetDriver_13
+[2019.02.10-21.14.29:674][912]LogTemp: Display: ParseSettings for PendingNetDriver
+[2019.02.10-21.14.29:674][912]LogInit: WinSock: Socket queue 32768 / 32768
+[2019.02.10-21.14.29:675][912]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.02.10-21.14.29:675][912]LogNet: Game client on port 17777, rate 10000
+[2019.02.10-21.14.29:685][912]PIE: Play in editor start time for /Game/TwinStickBP/Maps/TwinStickExampleMap 0.611
+[2019.02.10-21.14.29:697][912]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2019.02.10-21.14.29:698][912]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:54911
+[2019.02.10-21.14.29:698][912]LogHandshake: SendConnectChallenge. Timestamp: 0.016667, Cookie: 153090182131185046163066199073022205250067137100135180169200
+[2019.02.10-21.14.29:698][912]LogHandshake: SendChallengeResponse. Timestamp: 0.016667, Cookie: 153090182131185046163066199073022205250067137100135180169200
+[2019.02.10-21.14.29:766][913]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:54911
+[2019.02.10-21.14.29:766][913]LogHandshake: SendChallengeAck. InCookie: 153090182131185046163066199073022205250067137100135180169200
+[2019.02.10-21.14.29:766][913]LogNet: Server accepting post-challenge connection from: 127.0.0.1:54911
+[2019.02.10-21.14.29:766][913]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.02.10-21.14.29:766][913]LogNet: NotifyAcceptedConnection: Name: TwinStickExampleMap, TimeStamp: 02/10/19 13:14:29, [UNetConnection] RemoteAddr: 127.0.0.1:54911, Name: IpConnection_13, Driver: GameNetDriver IpNetDriver_12, IsServer: YES, PC: NULL, Owner: NULL
+[2019.02.10-21.14.29:766][913]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:54911, Name: IpConnection_13, Driver: GameNetDriver IpNetDriver_12, IsServer: YES, PC: NULL, Owner: NULL
+[2019.02.10-21.14.29:766][913]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_12, Driver: PendingNetDriver IpNetDriver_13, IsServer: NO, PC: NULL, Owner: NULL
+[2019.02.10-21.14.29:782][914]LogNet: NotifyAcceptingChannel Control 0 server World /Game/TwinStickBP/Maps/UEDPIE_1_TwinStickExampleMap.TwinStickExampleMap: Accepted
+[2019.02.10-21.14.29:782][914]LogNet: Remote platform little endian=1
+[2019.02.10-21.14.29:782][914]LogNet: This platform little endian=1
+[2019.02.10-21.14.29:809][915]LogNet: Login request: /Game/TwinStickBP/Maps/TwinStickExampleMap?Name=MSI-C50CA92D44F6985A6FC2A3BF2A521908 userId: MSI-C50CA92D44F6985A6FC2A3BF2A521908
+[2019.02.10-21.14.29:809][915]LogNet: Welcomed by server (Level: /Game/TwinStickBP/Maps/UEDPIE_1_TwinStickExampleMap, Game: /Game/TwinStickBP/Blueprints/TwinStickGameMode.TwinStickGameMode_C)
+[2019.02.10-21.14.29:817][915]LogLoad: LoadMap: 127.0.0.1:17777//Game/TwinStickBP/Maps/UEDPIE_1_TwinStickExampleMap?game=/Game/TwinStickBP/Blueprints/TwinStickGameMode.TwinStickGameMode_C
+[2019.02.10-21.14.29:864][915]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2019.02.10-21.14.29:864][915]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.02.10-21.14.29:867][915]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_2_TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 60) at 2019.02.10-13.14.29
+[2019.02.10-21.14.29:867][915]LogWorld: Bringing up level for play took: 0.002111
+[2019.02.10-21.14.29:868][915]LogLoad: Took 0.050289 seconds to LoadMap(/Game/TwinStickBP/Maps/UEDPIE_1_TwinStickExampleMap)
+[2019.02.10-21.14.29:890][916]LogNet: Client netspeed is 10000
+[2019.02.10-21.14.29:890][916]LogNet: Join request: /Game/TwinStickBP/Maps/TwinStickExampleMap?Name=MSI-C50CA92D44F6985A6FC2A3BF2A521908?SplitscreenCount=1
+[2019.02.10-21.14.29:890][916]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2019.02.10-21.14.29:891][916]LogNet: Join succeeded: MSI-C50CA92D44F6985A
+[2019.02.10-21.14.29:951][919]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2019.02.10-21.14.29:998][921]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2019.02.10-21.14.31:641][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.10-21.14.31:642][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/StarterContent/Shapes/Shape_Cone.Shape_Cone] ScaledElem[0] invalid
+[2019.02.10-21.14.33:837][107]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.10-21.14.33:838][107]LogPhysics: Warning: ForeachShape(Convex): [/Game/StarterContent/Shapes/Shape_Cone.Shape_Cone] ScaledElem[0] invalid
+[2019.02.10-21.14.36:528][227]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2019.02.10-21.14.36:599][227]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2019.02.10-21.14.36:599][227]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2019.02.10-21.14.36:600][227]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2019.02.10-21.14.36:600][227]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2019.02.10-21.14.36:600][227]LogOnline: Warning: OSS: No game present to leave for session (GameSession)
+[2019.02.10-21.14.36:631][227]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2019.02.10-21.14.36:631][227]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2019.02.10-21.14.36:632][227]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2019.02.10-21.14.36:632][227]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2019.02.10-21.14.36:632][227]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.10-21.14.36:633][227]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2019.02.10-21.14.36:660][227]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:54911, Name: IpConnection_13, Driver: GameNetDriver IpNetDriver_12, IsServer: YES, PC: None, Owner: None
+[2019.02.10-21.14.36:660][227]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:54911, Name: IpConnection_13, Driver: GameNetDriver IpNetDriver_12, IsServer: YES, PC: None, Owner: None, Channels: 2, Time: 2019.02.10-21.14.36
+[2019.02.10-21.14.36:660][227]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:54911, Name: IpConnection_13, Driver: GameNetDriver IpNetDriver_12, IsServer: YES, PC: None, Owner: None
+[2019.02.10-21.14.36:660][227]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_12, Driver: GameNetDriver IpNetDriver_13, IsServer: NO, PC: None, Owner: None
+[2019.02.10-21.14.36:660][227]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_12, Driver: GameNetDriver IpNetDriver_13, IsServer: NO, PC: None, Owner: None, Channels: 2, Time: 2019.02.10-21.14.36
+[2019.02.10-21.14.36:660][227]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_12, Driver: GameNetDriver IpNetDriver_13, IsServer: NO, PC: None, Owner: None
+[2019.02.10-21.14.36:668][227]LogExit: GameNetDriver None shut down
+[2019.02.10-21.14.36:669][227]LogExit: GameNetDriver None shut down
+[2019.02.10-21.14.36:699][228]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2019.02.10-21.14.36:699][228]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2019.02.10-21.14.36:699][228]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2019.02.10-21.14.36:699][228]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2019.02.10-21.16.25:028][129]BlueprintLog: New page: Compile Shot
+[2019.02.10-21.16.31:950][208]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.10-21.16.32:000][208]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2019.02.10-21.16.32:000][208]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.10-21.16.32:002][208]PIE: New page: PIE session: TwinStickExampleMap (Feb 10, 2019, 5:16:32 AM)
+[2019.02.10-21.16.32:002][208]LogPlayLevel: Creating play world package: /Game/TwinStickBP/Maps/UEDPIE_1_TwinStickExampleMap
+[2019.02.10-21.16.32:012][208]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009790s)
+[2019.02.10-21.16.32:013][208]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2019.02.10-21.16.32:013][208]LogPlayLevel: PIE: World Init took: (0.000823s)
+[2019.02.10-21.16.32:013][208]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap to /Game/TwinStickBP/Maps/UEDPIE_1_TwinStickExampleMap.TwinStickExampleMap (0.011023s)
+[2019.02.10-21.16.32:060][208]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.02.10-21.16.32:164][208]LogInit: FAudioDevice initialized.
+[2019.02.10-21.16.32:200][208]LogLoad: Game class is 'TwinStickGameMode_C'
+[2019.02.10-21.16.32:202][208]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_1_TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 60) at 2019.02.10-13.16.32
+[2019.02.10-21.16.32:202][208]LogWorld: Bringing up level for play took: 0.002043
+[2019.02.10-21.16.32:214][208]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.02.10-21.16.32:215][208]LogTemp: Display: ParseSettings for IpNetDriver_14
+[2019.02.10-21.16.32:215][208]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.02.10-21.16.32:215][208]LogInit: WinSock: Socket queue 131072 / 131072
+[2019.02.10-21.16.32:216][208]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.02.10-21.16.32:216][208]LogNet: GameNetDriver IpNetDriver_14 IpNetDriver listening on port 17777
+[2019.02.10-21.16.32:218][208]PIE: Play in editor start time for /Game/TwinStickBP/Maps/UEDPIE_1_TwinStickExampleMap 1.144
+[2019.02.10-21.16.32:221][208]PIE: New page: PIE session: TwinStickExampleMap (Feb 10, 2019, 5:16:32 AM)
+[2019.02.10-21.16.32:279][208]LogNet: Browse: 127.0.0.1:17777//Game/TwinStickBP/Maps/TwinStickExampleMap
+[2019.02.10-21.16.32:279][208]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.02.10-21.16.32:279][208]LogTemp: Display: ParseSettings for IpNetDriver_15
+[2019.02.10-21.16.32:279][208]LogTemp: Display: ParseSettings for PendingNetDriver
+[2019.02.10-21.16.32:279][208]LogInit: WinSock: Socket queue 32768 / 32768
+[2019.02.10-21.16.32:280][208]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.02.10-21.16.32:280][208]LogNet: Game client on port 17777, rate 10000
+[2019.02.10-21.16.32:289][208]PIE: Play in editor start time for /Game/TwinStickBP/Maps/TwinStickExampleMap 1.215
+[2019.02.10-21.16.32:300][208]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2019.02.10-21.16.32:301][208]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:63420
+[2019.02.10-21.16.32:302][208]LogHandshake: SendConnectChallenge. Timestamp: 0.016667, Cookie: 228176040110075060028208076205084087043177224131096234050089
+[2019.02.10-21.16.32:302][208]LogHandshake: SendChallengeResponse. Timestamp: 0.016667, Cookie: 228176040110075060028208076205084087043177224131096234050089
+[2019.02.10-21.16.32:370][209]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:63420
+[2019.02.10-21.16.32:370][209]LogHandshake: SendChallengeAck. InCookie: 228176040110075060028208076205084087043177224131096234050089
+[2019.02.10-21.16.32:370][209]LogNet: Server accepting post-challenge connection from: 127.0.0.1:63420
+[2019.02.10-21.16.32:370][209]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.02.10-21.16.32:370][209]LogNet: NotifyAcceptedConnection: Name: TwinStickExampleMap, TimeStamp: 02/10/19 13:16:32, [UNetConnection] RemoteAddr: 127.0.0.1:63420, Name: IpConnection_15, Driver: GameNetDriver IpNetDriver_14, IsServer: YES, PC: NULL, Owner: NULL
+[2019.02.10-21.16.32:370][209]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:63420, Name: IpConnection_15, Driver: GameNetDriver IpNetDriver_14, IsServer: YES, PC: NULL, Owner: NULL
+[2019.02.10-21.16.32:371][209]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_14, Driver: PendingNetDriver IpNetDriver_15, IsServer: NO, PC: NULL, Owner: NULL
+[2019.02.10-21.16.32:387][210]LogNet: NotifyAcceptingChannel Control 0 server World /Game/TwinStickBP/Maps/UEDPIE_1_TwinStickExampleMap.TwinStickExampleMap: Accepted
+[2019.02.10-21.16.32:387][210]LogNet: Remote platform little endian=1
+[2019.02.10-21.16.32:387][210]LogNet: This platform little endian=1
+[2019.02.10-21.16.32:418][211]LogNet: Login request: /Game/TwinStickBP/Maps/TwinStickExampleMap?Name=MSI-11A377084343A366E6C16CBD35EF72A1 userId: MSI-11A377084343A366E6C16CBD35EF72A1
+[2019.02.10-21.16.32:419][211]LogNet: Welcomed by server (Level: /Game/TwinStickBP/Maps/UEDPIE_1_TwinStickExampleMap, Game: /Game/TwinStickBP/Blueprints/TwinStickGameMode.TwinStickGameMode_C)
+[2019.02.10-21.16.32:428][211]LogLoad: LoadMap: 127.0.0.1:17777//Game/TwinStickBP/Maps/UEDPIE_1_TwinStickExampleMap?game=/Game/TwinStickBP/Blueprints/TwinStickGameMode.TwinStickGameMode_C
+[2019.02.10-21.16.32:473][211]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2019.02.10-21.16.32:473][211]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.02.10-21.16.32:476][211]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_2_TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 60) at 2019.02.10-13.16.32
+[2019.02.10-21.16.32:477][211]LogWorld: Bringing up level for play took: 0.002022
+[2019.02.10-21.16.32:477][211]LogLoad: Took 0.049373 seconds to LoadMap(/Game/TwinStickBP/Maps/UEDPIE_1_TwinStickExampleMap)
+[2019.02.10-21.16.32:494][212]LogNet: Client netspeed is 10000
+[2019.02.10-21.16.32:494][212]LogNet: Join request: /Game/TwinStickBP/Maps/TwinStickExampleMap?Name=MSI-11A377084343A366E6C16CBD35EF72A1?SplitscreenCount=1
+[2019.02.10-21.16.32:495][212]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2019.02.10-21.16.32:497][212]LogNet: Join succeeded: MSI-11A377084343A366
+[2019.02.10-21.16.32:552][215]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2019.02.10-21.16.32:603][217]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2019.02.10-21.16.36:433][414]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.10-21.16.36:433][414]LogPhysics: Warning: ForeachShape(Convex): [/Game/StarterContent/Shapes/Shape_Cone.Shape_Cone] ScaledElem[0] invalid
+[2019.02.10-21.16.38:397][506]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.10-21.16.38:397][506]LogPhysics: Warning: ForeachShape(Convex): [/Game/StarterContent/Shapes/Shape_Cone.Shape_Cone] ScaledElem[0] invalid
+[2019.02.10-21.16.45:260][813]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.10-21.16.45:260][813]LogPhysics: Warning: ForeachShape(Convex): [/Game/StarterContent/Shapes/Shape_Cone.Shape_Cone] ScaledElem[0] invalid
+[2019.02.10-21.16.51:270][123]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2019.02.10-21.16.51:333][123]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2019.02.10-21.16.51:333][123]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2019.02.10-21.16.51:334][123]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2019.02.10-21.16.51:334][123]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2019.02.10-21.16.51:334][123]LogOnline: Warning: OSS: No game present to leave for session (GameSession)
+[2019.02.10-21.16.51:367][123]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2019.02.10-21.16.51:367][123]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2019.02.10-21.16.51:368][123]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2019.02.10-21.16.51:368][123]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2019.02.10-21.16.51:368][123]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.10-21.16.51:369][123]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2019.02.10-21.16.51:394][123]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:63420, Name: IpConnection_15, Driver: GameNetDriver IpNetDriver_14, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1
+[2019.02.10-21.16.51:394][123]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:63420, Name: IpConnection_15, Driver: GameNetDriver IpNetDriver_14, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, Channels: 14, Time: 2019.02.10-21.16.51
+[2019.02.10-21.16.51:394][123]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:63420, Name: IpConnection_15, Driver: GameNetDriver IpNetDriver_14, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1
+[2019.02.10-21.16.51:394][123]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_14, Driver: GameNetDriver IpNetDriver_15, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1
+[2019.02.10-21.16.51:395][123]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_14, Driver: GameNetDriver IpNetDriver_15, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, Channels: 14, Time: 2019.02.10-21.16.51
+[2019.02.10-21.16.51:395][123]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_14, Driver: GameNetDriver IpNetDriver_15, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1
+[2019.02.10-21.16.51:403][123]LogExit: GameNetDriver None shut down
+[2019.02.10-21.16.51:403][123]LogExit: GameNetDriver None shut down
+[2019.02.10-21.16.51:427][124]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2019.02.10-21.16.51:427][124]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2019.02.10-21.16.51:427][124]LogPlayLevel: Display: Destroying online subsystem :Context_61
+[2019.02.10-21.16.51:427][124]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2019.02.10-21.17.13:922][350]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.02.10-21.17.14:037][350]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.02.10-21.17.14:337][350]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.02.10-21.17.14:430][350]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.02.10-21.17.23:012][805]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.10-21.17.23:012][805]LogPhysics: Warning: ForeachShape(Convex): [/Game/StarterContent/Shapes/Shape_Cone.Shape_Cone] ScaledElem[0] invalid
+[2019.02.10-21.17.46:237][564]SourceControl: rm 'GeoShot/Content/Creations/shots/Chaos_Storm.uasset'
+[2019.02.10-21.18.14:640][943]LogSavePackage: Save=479.95ms
+[2019.02.10-21.18.14:640][943]LogSavePackage: Moving '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/GeoShot/Saved/TwinStickExampleMap_Auto10300CB1D4FA7E84597E54993C2881ADA.tmp' to '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/GeoShot/Saved/Autosaves/Game/TwinStickBP/Maps/TwinStickExampleMap_Auto1.umap'
+[2019.02.10-21.18.14:668][943]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/GeoShot/Saved/Autosaves/Game/TwinStickBP/Maps/TwinStickExampleMap_Auto1.umap
+[2019.02.10-21.18.14:685][943]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TwinStickBP/Maps/TwinStickExampleMap' took 0.839
+[2019.02.10-21.18.14:685][943]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.839
+[2019.02.10-21.18.14:697][943]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Creations/shots/Shot] ([1] browsable assets)...
+[2019.02.10-21.18.14:726][943]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Creations/shots/Shot.Shot]
+[2019.02.10-21.18.14:726][943]OBJ SavePackage: Finished generating thumbnails for package [/Game/Creations/shots/Shot]
+[2019.02.10-21.18.15:054][943]LogSavePackage: Save=93.94ms
+[2019.02.10-21.18.15:054][943]LogSavePackage: Moving '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/GeoShot/Saved/Shot_Auto1F30327C34F3BD93B09FD8A83F1458CED.tmp' to '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/GeoShot/Saved/Autosaves/Game/Creations/shots/Shot_Auto1.uasset'
+[2019.02.10-21.18.15:058][943]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/GeoShot/Saved/Autosaves/Game/Creations/shots/Shot_Auto1.uasset
+[2019.02.10-21.18.15:058][943]LogFileHelpers: Auto-saving content packages took 0.362
+[2019.02.10-21.18.33:449][381]LogSavePackage: Save=481.65ms
+[2019.02.10-21.18.33:449][381]LogSavePackage: Moving '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/GeoShot/Saved/TwinStickExampleMap35F827664C8FE84EF4954EBD01743A16.tmp' to '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/GeoShot/Content/TwinStickBP/Maps/TwinStickExampleMap.umap'
+[2019.02.10-21.18.33:458][381]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/GeoShot/Content/TwinStickBP/Maps/TwinStickExampleMap.umap
+[2019.02.10-21.18.33:517][381]LogFileHelpers: Saving map 'TwinStickExampleMap' took 1.026
+[2019.02.10-21.18.33:537][381]LightingResults: New page: Lighting Build
+[2019.02.10-21.18.33:539][381]MapCheck: New page: Map Check
+[2019.02.10-21.18.33:539][381]LightingResults: New page: Lighting Build
+[2019.02.10-21.18.33:581][381]LogAIModule: Creating AISystem for world Untitled
+[2019.02.10-21.18.33:585][381]LoadErrors: New page: New Map
+[2019.02.10-21.19.24:710][120]LogSavePackage: Save=16.39ms
+[2019.02.10-21.19.24:710][120]LogSavePackage: Moving '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/GeoShot/Saved/MainMenuD4B7D0AA4DCCF9AF97CEC9A568A03297.tmp' to '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/GeoShot/Content/Creations/Maps/MainMenu.umap'
+[2019.02.10-21.19.24:713][120]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/GeoShot/Content/Creations/Maps/MainMenu.umap
+[2019.02.10-21.19.25:588][120]LogFileHelpers: Saving map 'MainMenu' took 1.186
+[2019.02.10-21.19.25:607][120]Cmd: MAP LOAD FILE="../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/GeoShot/Content/Creations/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.02.10-21.19.25:636][120]LightingResults: New page: Lighting Build
+[2019.02.10-21.19.25:638][120]LoadErrors: New page: Loading map: MainMenu.umap
+[2019.02.10-21.19.25:641][120]MapCheck: New page: Map Check
+[2019.02.10-21.19.25:641][120]LightingResults: New page: Lighting Build
+[2019.02.10-21.19.25:679][120]LogAIModule: Creating AISystem for world MainMenu
+[2019.02.10-21.19.25:687][120]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.02.10-21.19.25:823][120]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.02.10-21.19.26:099][120]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 275.994ms to complete.
+[2019.02.10-21.19.26:100][120]LogFileHelpers: Loading map 'MainMenu' took 0.512
+[2019.02.10-21.20.08:256][433]SourceControl: On branch master
+[2019.02.10-21.20.08:256][433]SourceControl: Changes to be committed:
+[2019.02.10-21.20.08:256][433]SourceControl:   (use "git reset HEAD <file>..." to unstage)
+[2019.02.10-21.20.08:256][433]SourceControl: 	new file:   GeoShot/Content/Creations/Maps/MainMenu.umap
+[2019.02.10-21.20.08:256][433]SourceControl: 	deleted:    GeoShot/Content/Creations/shots/Chaos_Storm.uasset
+[2019.02.10-21.20.08:256][433]SourceControl: Changes not staged for commit:
+[2019.02.10-21.20.08:256][433]SourceControl:   (use "git add/rm <file>..." to update what will be committed)
+[2019.02.10-21.20.08:256][433]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
+[2019.02.10-21.20.08:256][433]SourceControl: 	modified:   GeoShot/Content/Creations/Widgets/WeaponSelect.uasset
+[2019.02.10-21.20.08:256][433]SourceControl: 	modified:   GeoShot/Content/TwinStickBP/Maps/TwinStickExampleMap.umap
+[2019.02.10-21.20.08:257][433]SourceControl: 	modified:   GeoShot/Saved/Autosaves/Game/Creations/shots/Shot_Auto1.uasset
+[2019.02.10-21.20.08:257][433]SourceControl: 	modified:   GeoShot/Saved/Autosaves/Game/TwinStickBP/Maps/TwinStickExampleMap_Auto1.umap
+[2019.02.10-21.20.08:257][433]SourceControl: 	modified:   GeoShot/Saved/Autosaves/PackageRestoreData.json
+[2019.02.10-21.20.08:257][433]SourceControl: 	deleted:    GeoShot/Saved/Backup/TwinStickExampleMap_2018-10-12-13-12-09.umap
+[2019.02.10-21.20.08:257][433]SourceControl: 	deleted:    GeoShot/Saved/Backup/WeaponsandHP_2018-10-11-18-02-46.uasset
+[2019.02.10-21.20.08:257][433]SourceControl: 	modified:   GeoShot/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+[2019.02.10-21.20.08:257][433]SourceControl: 	modified:   GeoShot/Saved/Logs/GeoShot_2.log
+[2019.02.10-21.20.08:257][433]SourceControl: Untracked files:
+[2019.02.10-21.20.08:257][433]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2019.02.10-21.20.08:257][433]SourceControl: 	GeoShot/Saved/Backup/Shot_2019-02-10-13-18-14.uasset
+[2019.02.10-21.20.08:257][433]SourceControl: 	GeoShot/Saved/Backup/TwinStickExampleMap_2019-02-10-13-18-14.umap
+[2019.02.10-21.20.08:257][433]SourceControl: 	GeoShot/Saved/Backup/WeaponSelect_2019-02-10-13-10-11.uasset
+[2019.02.10-21.20.08:257][433]SourceControl: 	GeoShot/Saved/Config/WorldState/2751824043.json
+[2019.02.10-21.20.09:695][433]LogMetaData: Removing '/Game/Creations/Widgets/MainMenuUI.SKEL_MainMenuUI_C' ref from Metadata '/Game/Creations/Widgets/MenuUI.PackageMetaData'
+[2019.02.10-21.20.09:695][433]LogMetaData: Removing '/Game/Creations/Widgets/MainMenuUI.MainMenuUI_C' ref from Metadata '/Game/Creations/Widgets/MenuUI.PackageMetaData'
+[2019.02.10-21.20.09:695][433]LogMetaData: Removing '/Game/Creations/Widgets/MainMenuUI.MainMenuUI:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Creations/Widgets/MenuUI.PackageMetaData'
+[2019.02.10-21.20.09:695][433]LogMetaData: Removing '/Game/Creations/Widgets/MainMenuUI.MainMenuUI:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Creations/Widgets/MenuUI.PackageMetaData'
+[2019.02.10-21.20.09:695][433]LogMetaData: Removing '/Game/Creations/Widgets/MainMenuUI.MainMenuUI:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Creations/Widgets/MenuUI.PackageMetaData'
+[2019.02.10-21.20.09:856][433]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Creations/Widgets/MainMenuUI" FILE="../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/GeoShot/Content/Creations/Widgets/MainMenuUI.uasset" SILENT=true
+[2019.02.10-21.20.09:874][433]LogSavePackage: Save=15.29ms
+[2019.02.10-21.20.09:874][433]LogSavePackage: Moving '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/GeoShot/Saved/MainMenuUIECF4ACA043716C0B36EEE5B843B67E4D.tmp' to '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/GeoShot/Content/Creations/Widgets/MainMenuUI.uasset'
+[2019.02.10-21.20.09:880][433]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/GeoShot/Content/Creations/Widgets/MainMenuUI.uasset
+[2019.02.10-21.20.41:951][137]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_30' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.20.41:986][137]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_32' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.20.41:988][137]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_34' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.20.42:020][138]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_36' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.20.42:023][138]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_38' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.20.42:043][139]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_40' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.20.42:046][139]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_42' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.20.42:070][140]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_44' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.20.42:073][140]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_46' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.20.42:093][141]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_48' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.20.42:097][141]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_50' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.20.42:119][142]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_52' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.20.42:144][143]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_54' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.20.42:172][144]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_56' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.20.42:197][145]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_58' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.20.42:221][146]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_60' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.20.42:248][147]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_62' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.20.42:273][148]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_64' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.20.42:299][149]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_66' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.20.42:326][150]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_68' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.20.42:351][151]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_70' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.20.42:355][151]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_72' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.20.42:381][152]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_74' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.20.42:385][152]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_76' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.20.42:409][153]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_78' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.20.42:413][153]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_80' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.20.42:439][154]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_82' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.20.42:443][154]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_84' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.20.42:467][155]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_86' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.20.42:470][155]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_88' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.20.42:492][156]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_90' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.20.42:513][157]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_92' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.20.42:534][158]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_94' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.20.42:554][159]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_96' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.20.42:577][160]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_98' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.20.42:599][161]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_100' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.20.42:621][162]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_102' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.20.43:228][185]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_30' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.20.43:230][185]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_106' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.20.43:233][185]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_108' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.20.43:262][186]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_110' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.20.43:281][187]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_112' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.20.43:302][188]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_114' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.20.43:322][189]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_116' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.20.43:325][189]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_118' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.20.43:349][190]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_120' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.20.43:369][191]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_122' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.20.43:374][191]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_124' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.20.43:397][192]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_126' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.20.43:399][192]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_128' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.20.43:420][193]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_130' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.20.43:440][194]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_132' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.20.43:443][194]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_134' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.20.43:465][195]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_136' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.20.43:485][196]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_138' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.20.43:507][197]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_140' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.20.43:530][198]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_142' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.20.43:549][199]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_144' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.20.43:571][200]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_146' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.20.43:597][201]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_148' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.20.43:618][202]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_150' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.20.43:642][203]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_152' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.20.43:668][204]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_154' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.20.43:672][204]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_156' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.20.43:702][205]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_158' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.20.43:706][205]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_160' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.20.43:730][206]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_162' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.20.43:750][207]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_164' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.20.43:772][208]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_166' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.20.43:791][209]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_168' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.20.43:796][209]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_170' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.20.43:816][210]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_172' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.20.43:839][211]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_174' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.20.43:842][211]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_176' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.20.43:862][212]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_178' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.20.43:866][212]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_180' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.20.43:885][213]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_182' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.20.43:888][213]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_184' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.20.43:915][214]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_186' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.20.43:940][215]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_188' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.20.43:967][216]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_190' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.20.43:993][217]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_192' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.28.58:604][838]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Creations/Maps/MainMenu' took 0.023
+[2019.02.10-21.28.58:606][838]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Creations/shots/Shot] ([1] browsable assets)...
+[2019.02.10-21.28.58:629][838]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Creations/shots/Shot.Shot]
+[2019.02.10-21.28.58:630][838]OBJ SavePackage: Finished generating thumbnails for package [/Game/Creations/shots/Shot]
+[2019.02.10-21.28.58:923][838]LogSavePackage: Save=76.41ms
+[2019.02.10-21.28.58:923][838]LogSavePackage: Moving '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/GeoShot/Saved/Shot_Auto2002E803945C0A732CACC8D9832D54A0A.tmp' to '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/GeoShot/Saved/Autosaves/Game/Creations/shots/Shot_Auto2.uasset'
+[2019.02.10-21.28.58:925][838]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/GeoShot/Saved/Autosaves/Game/Creations/shots/Shot_Auto2.uasset
+[2019.02.10-21.28.58:926][838]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Creations/Widgets/MainMenuUI] ([1] browsable assets)...
+[2019.02.10-21.28.58:926][838]OBJ SavePackage: Finished generating thumbnails for package [/Game/Creations/Widgets/MainMenuUI]
+[2019.02.10-21.28.59:160][838]LogSavePackage: Save=17.35ms
+[2019.02.10-21.28.59:160][838]LogSavePackage: Moving '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/GeoShot/Saved/MainMenuUI_Auto2BD98B1CF4F8C15AD8157409CC3B5B3AF.tmp' to '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/GeoShot/Saved/Autosaves/Game/Creations/Widgets/MainMenuUI_Auto2.uasset'
+[2019.02.10-21.28.59:162][838]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/GeoShot/Saved/Autosaves/Game/Creations/Widgets/MainMenuUI_Auto2.uasset
+[2019.02.10-21.28.59:162][838]LogFileHelpers: Auto-saving content packages took 0.558
+[2019.02.10-21.28.59:163][838]LogSlate: Took 0.000253 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.02.10-21.35.10:706][229]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_30' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.10:708][229]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_196' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.10:734][230]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_198' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.10:750][231]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_200' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.10:752][231]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_202' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.10:768][232]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_204' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.10:770][232]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_206' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.10:772][232]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_208' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.10:791][233]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_210' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.10:793][233]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_212' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.10:811][234]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_214' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.10:829][235]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_216' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.10:847][236]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_218' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.10:865][237]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_220' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.10:882][238]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_222' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.10:900][239]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_224' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.10:919][240]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_226' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.10:937][241]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_228' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.10:957][242]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_230' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.10:974][243]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_232' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.10:993][244]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_234' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.11:011][245]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_236' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.11:029][246]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_238' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.11:048][247]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_240' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.11:065][248]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_242' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.11:083][249]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_244' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.11:101][250]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_246' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.11:119][251]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_248' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.11:137][252]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_250' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.11:156][253]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_252' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.11:173][254]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_254' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.11:192][255]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_256' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.11:209][256]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_258' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.11:229][257]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_260' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.11:247][258]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_262' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.11:249][258]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_264' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.11:267][259]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_266' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.11:285][260]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_268' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.11:303][261]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_270' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.11:323][262]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_272' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.11:341][263]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_274' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.25:870][747]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_30' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.25:871][747]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_278' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.25:873][747]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_280' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.25:897][748]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_282' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.25:899][748]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_284' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.25:915][749]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_286' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.25:917][749]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_288' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.25:935][750]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_290' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.25:952][751]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_292' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.25:954][751]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_294' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.25:972][752]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_296' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.25:975][752]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_298' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.25:992][753]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_300' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.25:994][753]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_302' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.25:996][753]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_304' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.26:014][754]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_306' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.26:031][755]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_308' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.26:034][755]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_310' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.26:052][756]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_312' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.26:069][757]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_314' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.26:071][757]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_316' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.26:089][758]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_318' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.26:107][759]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_320' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.26:109][759]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_322' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.26:127][760]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_324' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.26:147][761]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_326' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.26:164][762]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_328' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.26:182][763]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_330' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.26:200][764]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_332' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.26:218][765]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_334' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.26:221][765]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_336' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.26:240][766]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_338' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.26:242][766]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_340' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.26:259][767]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_342' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.26:261][767]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_344' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.26:279][768]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_346' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.26:281][768]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_348' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.26:298][769]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_350' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.26:300][769]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_352' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.26:318][770]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_354' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.26:320][770]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_356' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.26:337][771]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_358' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.26:340][771]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_360' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.26:356][772]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_362' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.26:358][772]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_364' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.26:376][773]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_366' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.26:393][774]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_368' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.26:412][775]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_370' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.26:430][776]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_372' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.26:448][777]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_374' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.26:469][778]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_376' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.26:487][779]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_378' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.26:506][780]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_380' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.26:523][781]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_382' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.26:541][782]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_384' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.26:558][783]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_386' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.26:575][784]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_388' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.26:592][785]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_390' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.26:610][786]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_392' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.26:628][787]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_394' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.26:647][788]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_396' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.26:649][788]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_398' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.26:666][789]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_400' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.26:669][789]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_402' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.26:686][790]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_404' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.26:705][791]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_406' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.26:723][792]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_408' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.26:741][793]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_410' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.26:758][794]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_412' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.26:761][794]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_414' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.26:778][795]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_416' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.26:780][795]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_418' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.26:797][796]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_420' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.26:799][796]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_422' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.26:820][797]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_424' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.26:822][797]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_426' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.26:839][798]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_428' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.26:841][798]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_430' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.26:858][799]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_432' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.26:860][799]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_434' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.26:878][800]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_436' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.26:881][800]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_438' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.26:898][801]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_440' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.26:917][802]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_442' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.26:920][802]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_444' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.26:938][803]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_446' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.26:955][804]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_448' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.26:975][805]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_450' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.26:992][806]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_452' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.26:995][806]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_454' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.27:015][807]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_456' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.27:033][808]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_458' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.27:051][809]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_460' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.35.27:068][810]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.VerticalBox_462' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.02.10-21.37.09:484][769]LogSlate: Took 0.068999 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2019.02.10-21.39.29:392][210]BlueprintLog: New page: Compile MainMenuUI
+[2019.02.10-21.39.58:721][536]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Creations/Maps/MainMenu' took 0.025
+[2019.02.10-21.39.58:723][536]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Creations/Widgets/MainMenuUI] ([1] browsable assets)...
+[2019.02.10-21.39.58:723][536]OBJ SavePackage: Finished generating thumbnails for package [/Game/Creations/Widgets/MainMenuUI]
+[2019.02.10-21.39.58:985][536]LogSavePackage: Save=29.38ms
+[2019.02.10-21.39.58:985][536]LogSavePackage: Moving '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/GeoShot/Saved/MainMenuUI_Auto3DD1242934C605923A5E5ED81DD0E9ED5.tmp' to '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/GeoShot/Saved/Autosaves/Game/Creations/Widgets/MainMenuUI_Auto3.uasset'
+[2019.02.10-21.39.58:988][536]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/GeoShot/Saved/Autosaves/Game/Creations/Widgets/MainMenuUI_Auto3.uasset
+[2019.02.10-21.39.58:988][536]LogFileHelpers: Auto-saving content packages took 0.267
+[2019.02.10-21.41.01:007][127]SourceControl: On branch master
+[2019.02.10-21.41.01:007][127]SourceControl: Changes to be committed:
+[2019.02.10-21.41.01:007][127]SourceControl:   (use "git reset HEAD <file>..." to unstage)
+[2019.02.10-21.41.01:007][127]SourceControl: 	new file:   GeoShot/Content/Creations/Maps/MainMenu.umap
+[2019.02.10-21.41.01:007][127]SourceControl: 	new file:   GeoShot/Content/Creations/Widgets/MainMenuUI.uasset
+[2019.02.10-21.41.01:007][127]SourceControl: 	deleted:    GeoShot/Content/Creations/shots/Chaos_Storm.uasset
+[2019.02.10-21.41.01:007][127]SourceControl: Changes not staged for commit:
+[2019.02.10-21.41.01:007][127]SourceControl:   (use "git add/rm <file>..." to update what will be committed)
+[2019.02.10-21.41.01:007][127]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
+[2019.02.10-21.41.01:007][127]SourceControl: 	modified:   GeoShot/Content/Creations/Widgets/WeaponSelect.uasset
+[2019.02.10-21.41.01:007][127]SourceControl: 	modified:   GeoShot/Content/TwinStickBP/Maps/TwinStickExampleMap.umap
+[2019.02.10-21.41.01:007][127]SourceControl: 	modified:   GeoShot/Saved/Autosaves/Game/Creations/shots/Shot_Auto1.uasset
+[2019.02.10-21.41.01:007][127]SourceControl: 	modified:   GeoShot/Saved/Autosaves/Game/Creations/shots/Shot_Auto2.uasset
+[2019.02.10-21.41.01:007][127]SourceControl: 	modified:   GeoShot/Saved/Autosaves/Game/TwinStickBP/Maps/TwinStickExampleMap_Auto1.umap
+[2019.02.10-21.41.01:007][127]SourceControl: 	modified:   GeoShot/Saved/Autosaves/PackageRestoreData.json
+[2019.02.10-21.41.01:007][127]SourceControl: 	deleted:    GeoShot/Saved/Backup/TwinStickExampleMap_2018-10-12-13-12-09.umap
+[2019.02.10-21.41.01:007][127]SourceControl: 	deleted:    GeoShot/Saved/Backup/WeaponsandHP_2018-10-11-18-02-46.uasset
+[2019.02.10-21.41.01:007][127]SourceControl: 	modified:   GeoShot/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+[2019.02.10-21.41.01:007][127]SourceControl: 	modified:   GeoShot/Saved/Logs/GeoShot_2.log
+[2019.02.10-21.41.01:007][127]SourceControl: Untracked files:
+[2019.02.10-21.41.01:007][127]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2019.02.10-21.41.01:007][127]SourceControl: 	GeoShot/Saved/Autosaves/Game/Creations/Widgets/MainMenuUI_Auto2.uasset
+[2019.02.10-21.41.01:007][127]SourceControl: 	GeoShot/Saved/Autosaves/Game/Creations/Widgets/MainMenuUI_Auto3.uasset
+[2019.02.10-21.41.01:007][127]SourceControl: 	GeoShot/Saved/Backup/MainMenuUI_2019-02-10-13-28-59.uasset
+[2019.02.10-21.41.01:007][127]SourceControl: 	GeoShot/Saved/Backup/MainMenuUI_2019-02-10-13-39-58.uasset
+[2019.02.10-21.41.01:007][127]SourceControl: 	GeoShot/Saved/Backup/Shot_2019-02-10-13-18-14.uasset
+[2019.02.10-21.41.01:007][127]SourceControl: 	GeoShot/Saved/Backup/Shot_2019-02-10-13-28-58.uasset
+[2019.02.10-21.41.01:007][127]SourceControl: 	GeoShot/Saved/Backup/TwinStickExampleMap_2019-02-10-13-18-14.umap
+[2019.02.10-21.41.01:007][127]SourceControl: 	GeoShot/Saved/Backup/WeaponSelect_2019-02-10-13-10-11.uasset
+[2019.02.10-21.41.01:007][127]SourceControl: 	GeoShot/Saved/Config/WorldState/2751824043.json
+[2019.02.10-21.41.01:881][127]LogMetaData: Removing '/Game/Creations/GInstances/MainInstance.SKEL_MainInstance_C' ref from Metadata '/Game/Creations/GInstances/NewBlueprint.PackageMetaData'
+[2019.02.10-21.41.01:882][127]LogMetaData: Removing '/Game/Creations/GInstances/MainInstance.MainInstance_C' ref from Metadata '/Game/Creations/GInstances/NewBlueprint.PackageMetaData'
+[2019.02.10-21.41.01:935][127]LogSavePackage: Save=11.25ms
+[2019.02.10-21.41.01:935][127]LogSavePackage: Moving '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/GeoShot/Saved/MainInstanceF8FD9DAC481ECF3E768A229BEF73F5ED.tmp' to '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/GeoShot/Content/Creations/GInstances/MainInstance.uasset'
+[2019.02.10-21.41.01:941][127]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/GeoShot/Content/Creations/GInstances/MainInstance.uasset
+[2019.02.10-21.41.30:994][568]BlueprintLog: New page: Compile MainMenuUI
+[2019.02.10-21.43.45:052][628]BlueprintLog: New page: Compile MainInstance
+[2019.02.10-21.48.32:021][696]BlueprintLog: New page: Compile HostGameMenu
+[2019.02.10-21.49.10:665][627]BlueprintLog: New page: Compile HostGameMenu
+[2019.02.10-21.49.59:694][837]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Creations/Maps/MainMenu' took 0.024
+[2019.02.10-21.49.59:696][837]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Creations/Widgets/HostGameMenu] ([1] browsable assets)...
+[2019.02.10-21.49.59:697][837]OBJ SavePackage: Finished generating thumbnails for package [/Game/Creations/Widgets/HostGameMenu]
+[2019.02.10-21.49.59:719][837]LogSavePackage: Save=19.60ms
+[2019.02.10-21.49.59:720][837]LogSavePackage: Moving '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/GeoShot/Saved/HostGameMenu_Auto4A3D2011D4123BBA07057E3A1B4E5B909.tmp' to '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/GeoShot/Saved/Autosaves/Game/Creations/Widgets/HostGameMenu_Auto4.uasset'
+[2019.02.10-21.49.59:722][837]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/GeoShot/Saved/Autosaves/Game/Creations/Widgets/HostGameMenu_Auto4.uasset
+[2019.02.10-21.49.59:723][837]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Creations/shots/Shot] ([1] browsable assets)...
+[2019.02.10-21.49.59:741][837]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Creations/shots/Shot.Shot]
+[2019.02.10-21.49.59:741][837]OBJ SavePackage: Finished generating thumbnails for package [/Game/Creations/shots/Shot]
+[2019.02.10-21.50.00:020][837]LogSavePackage: Save=73.04ms
+[2019.02.10-21.50.00:020][837]LogSavePackage: Moving '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/GeoShot/Saved/Shot_Auto4C698665F480D9250FA17BBB0C8C41E6B.tmp' to '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/GeoShot/Saved/Autosaves/Game/Creations/shots/Shot_Auto4.uasset'
+[2019.02.10-21.50.00:023][837]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/GeoShot/Saved/Autosaves/Game/Creations/shots/Shot_Auto4.uasset
+[2019.02.10-21.50.00:024][837]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Creations/Widgets/MainMenuUI] ([1] browsable assets)...
+[2019.02.10-21.50.00:024][837]OBJ SavePackage: Finished generating thumbnails for package [/Game/Creations/Widgets/MainMenuUI]
+[2019.02.10-21.50.00:266][837]LogSavePackage: Save=28.85ms
+[2019.02.10-21.50.00:266][837]LogSavePackage: Moving '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/GeoShot/Saved/MainMenuUI_Auto4339EE09246BEF8C7EF87DCBD5BF649A4.tmp' to '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/GeoShot/Saved/Autosaves/Game/Creations/Widgets/MainMenuUI_Auto4.uasset'
+[2019.02.10-21.50.00:268][837]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/GeoShot/Saved/Autosaves/Game/Creations/Widgets/MainMenuUI_Auto4.uasset
+[2019.02.10-21.50.00:269][837]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Creations/GInstances/MainInstance] ([1] browsable assets)...
+[2019.02.10-21.50.00:269][837]OBJ SavePackage: Finished generating thumbnails for package [/Game/Creations/GInstances/MainInstance]
+[2019.02.10-21.50.00:484][837]LogSavePackage: Save=10.84ms
+[2019.02.10-21.50.00:484][837]LogSavePackage: Moving '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/GeoShot/Saved/MainInstance_Auto4DB348E6F45825AE8BAC0B386FEC01B5C.tmp' to '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/GeoShot/Saved/Autosaves/Game/Creations/GInstances/MainInstance_Auto4.uasset'
+[2019.02.10-21.50.00:487][837]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/GeoShot/Saved/Autosaves/Game/Creations/GInstances/MainInstance_Auto4.uasset
+[2019.02.10-21.50.00:487][837]LogFileHelpers: Auto-saving content packages took 0.791
+[2019.02.10-21.59.19:652][573]LogSavePackage: Save=17.85ms
+[2019.02.10-21.59.19:652][573]LogSavePackage: Moving '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/GeoShot/Saved/HostGameMenuBCC9196241A212C626329483A20D06C8.tmp' to '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/GeoShot/Content/Creations/Widgets/HostGameMenu.uasset'
+[2019.02.10-21.59.19:664][573]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/GeoShot/Content/Creations/Widgets/HostGameMenu.uasset
+[2019.02.10-21.59.24:080][808]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/' is outside repository
+[2019.02.10-21.59.29:249][808]LogSavePackage: Save=16.14ms
+[2019.02.10-21.59.29:249][808]LogSavePackage: Moving '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/GeoShot/Saved/MainInstanceBA452DF54625606F1260A795A779F2CD.tmp' to '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/GeoShot/Content/Creations/GInstances/MainInstance.uasset'
+[2019.02.10-21.59.29:257][808]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/GeoShot/Content/Creations/GInstances/MainInstance.uasset
+[2019.02.10-21.59.29:261][808]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Creations/Widgets/MainMenuUI" FILE="../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/GeoShot/Content/Creations/Widgets/MainMenuUI.uasset" SILENT=true
+[2019.02.10-21.59.29:526][808]LogSavePackage: Save=22.86ms
+[2019.02.10-21.59.29:526][808]LogSavePackage: Moving '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/GeoShot/Saved/MainMenuUI593D649445BD74A2ECAD7C989173B154.tmp' to '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/GeoShot/Content/Creations/Widgets/MainMenuUI.uasset'
+[2019.02.10-21.59.29:533][808]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/GeoShot/Content/Creations/Widgets/MainMenuUI.uasset
+[2019.02.10-22.00.03:215][808]LogSourceControl: FGitCheckInWorker: commit successful
+[2019.02.10-22.00.04:217][808]SourceControl: [master de4e0ea] Added the first iterations of main menus
+[2019.02.10-22.00.04:217][808]SourceControl:  7 files changed, 0 insertions(+), 0 deletions(-)
+[2019.02.10-22.00.04:217][808]SourceControl:  create mode 100644 GeoShot/Content/Creations/GInstances/MainInstance.uasset
+[2019.02.10-22.00.04:217][808]SourceControl:  create mode 100644 GeoShot/Content/Creations/Maps/MainMenu.umap
+[2019.02.10-22.00.04:217][808]SourceControl:  create mode 100644 GeoShot/Content/Creations/Widgets/HostGameMenu.uasset
+[2019.02.10-22.00.04:217][808]SourceControl:  create mode 100644 GeoShot/Content/Creations/Widgets/MainMenuUI.uasset
+[2019.02.10-22.00.04:217][808]SourceControl:  rewrite GeoShot/Content/Creations/Widgets/WeaponSelect.uasset (72%)
+[2019.02.10-22.00.04:217][808]SourceControl:  delete mode 100644 GeoShot/Content/Creations/shots/Chaos_Storm.uasset
+[2019.02.10-22.00.04:224][808]SourceControl: Commited [master de4e0ea] Added the first iterations of main menus.
