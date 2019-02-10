@@ -1,3 +1,19 @@
+## 2/10/19
+
+Added single-player Steam platform support under appID 480 (Valve's developer test ID).
+Sources: 
+    https://docs.unrealengine.com/en-us/Programming/Online/Steam
+    https://www.youtube.com/watch?v=TPakLkxc6f0&t=1060s  
+
+...Then proceeded to fix the multitude of bugs that arose from testing the game for the first time in standalone mode...
+
+## 2/8/19
+Added Swap
+
+Swap:
+
+  A fast projectile that swaps the location of the player hit with the player who fired it. Snares for 0.3 seconds.
+
 ## 2/7/19
 Added Shockwave and DualSMG
 
