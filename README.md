@@ -3,6 +3,7 @@
 Added single-player Steam platform support under appID 480 (Valve's developer test ID).
 
 Sources: 
+
     https://docs.unrealengine.com/en-us/Programming/Online/Steam
 
     https://www.youtube.com/watch?v=TPakLkxc6f0&t=1060s  
@@ -13,9 +14,9 @@ Added bland menus and barebones functionality for them.
 
 Hosting multiplayer games is now possible (though there aren't win conditions... onward!).
 
-Credit to mordentral for their Advanced Sessions Plugin, which I am now using.
+Credit to mordentral for their Advanced Sessions plugin, which I am now using:
 
-https://forums.unrealengine.com/community/community-content-tools-and-tutorials/41043-advanced-sessions-plugin
+    https://forums.unrealengine.com/community/community-content-tools-and-tutorials/41043-advanced-sessions-plugin
 
 ## 2/8/19
 Added Swap
