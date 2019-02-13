@@ -1,10 +1,18 @@
+## 2/12/19
+
+Tried to get a rudimentary chat system to work. It's harder than it seems.
+
+Source:
+
+    https://www.youtube.com/watch?v=ommD3qgCrnI 
+
 ## 2/11/19
 
 Made some more progress toward multiplayer support with the following sources:
 
-	https://www.youtube.com/watch?v=3lN2eZIgAQ0
+    https://www.youtube.com/watch?v=3lN2eZIgAQ0
 
-	https://www.youtube.com/watch?v=VATImPiTj1g
+    https://www.youtube.com/watch?v=VATImPiTj1g
 
 ## 2/10/19
 Added single-player Steam platform support under appID 480 (Valve's developer test ID).
