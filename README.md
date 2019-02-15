@@ -1,3 +1,11 @@
+## 2/13-14/19
+
+Several very long nights later... the lobby chat system now works! Huzzah!
+
+Specifically...
+
+   Players can now host a lobby and browse available lobbies to join. This puts them in a multiplayer session complete with chat system (yay).
+
 ## 2/12/19
 
 Tried to get a rudimentary chat system to work. It's harder than it seems.
