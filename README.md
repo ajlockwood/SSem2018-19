@@ -1,4 +1,4 @@
-## 2/13-14/19
+## 2/13-2/14/19
 
 Several very long nights later... the lobby chat system now works! Huzzah!
 

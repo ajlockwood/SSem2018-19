@@ -1,0 +1,784 @@
+﻿Log file open, 02/13/19 17:15:43
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: GeoShot
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-228728254) SRandInit(-228728254).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3794801, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.215822
+LogPluginManager: Warning: Plugin 'AdvancedSessions' exists at '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/GeoShot/Plugins/AdvancedSessions/AdvancedSessions/AdvancedSessions.uplugin' and '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/GeoShot/Plugins/AdvancedSessions/AdvancedSessions.uplugin' - second location will be ignored
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemSteam/Binaries/Win64/UE4Editor-OnlineSubsystemSteam.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/GeoShot/Plugins/AdvancedSessions/AdvancedSessions/Binaries/Win64/UE4Editor-AdvancedSessions.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/GeoShot/Plugins/AdvancedSessions/AdvancedSteamSessions/Binaries/Win64/UE4Editor-AdvancedSteamSessions.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemSteam
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin AdvancedSessions
+LogPluginManager: Mounting plugin AdvancedSteamSessions
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogOnline: Display: STEAM: Loading Steam SDK 1.39
+LogOnline: Warning: STEAM: Steam API disabled!
+LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.18-CL-3794801
+LogInit: Engine Version: 4.18.2-3794801+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Dec  8 2017 02:04:53
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.02.14-01.15.48:206][  0]LogInit: Selected Device Profile: [Windows]
+[2019.02.14-01.15.48:206][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.02.14-01.15.48:228][  0]LogInit: Computer: MSI
+[2019.02.14-01.15.48:228][  0]LogInit: User: Alex
+[2019.02.14-01.15.48:228][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.02.14-01.15.48:228][  0]LogInit: High frequency timer resolution =2.533214 MHz
+[2019.02.14-01.15.48:229][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.02.14-01.15.48:229][  0]LogMemory: Platform Memory Stats for Windows
+[2019.02.14-01.15.48:229][  0]LogMemory: Process Physical Memory: 274.53 MB used, 274.53 MB peak
+[2019.02.14-01.15.48:229][  0]LogMemory: Process Virtual Memory: 270.26 MB used, 270.26 MB peak
+[2019.02.14-01.15.48:229][  0]LogMemory: Physical Memory: 7496.38 MB used,  8776.96 MB free, 16273.34 MB total
+[2019.02.14-01.15.48:229][  0]LogMemory: Virtual Memory: 4784.44 MB used,  8776.96 MB free, 134217728.00 MB total
+[2019.02.14-01.15.49:523][  0]LogInit: Using OS detected language (en-US).
+[2019.02.14-01.15.49:523][  0]LogInit: Using OS detected locale (en-US).
+[2019.02.14-01.15.49:528][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.02.14-01.15.50:101][  0]LogInit: Setting process to per monitor DPI aware
+[2019.02.14-01.15.50:644][  0]LogD3D11RHI: D3D11 adapters:
+[2019.02.14-01.15.50:718][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 965M' (Feature Level 11_0)
+[2019.02.14-01.15.50:718][  0]LogD3D11RHI:       2010/0/8136 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.02.14-01.15.50:727][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
+[2019.02.14-01.15.50:727][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.02.14-01.15.50:730][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.02.14-01.15.50:730][  0]LogD3D11RHI:       0/0/8136 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.02.14-01.15.50:730][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.02.14-01.15.50:765][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.02.14-01.15.50:765][  0]LogD3D11RHI:     GPU DeviceId: 0x13d9 (for the marketing name, search the web for "GPU Device Id")
+[2019.02.14-01.15.50:765][  0]LogWindows: EnumDisplayDevices:
+[2019.02.14-01.15.50:765][  0]LogWindows:    0. 'Intel(R) HD Graphics 4600' (P:1 D:1)
+[2019.02.14-01.15.50:765][  0]LogWindows:    1. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2019.02.14-01.15.50:766][  0]LogWindows:    2. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2019.02.14-01.15.50:766][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.02.14-01.15.50:766][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 965M
+[2019.02.14-01.15.50:766][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.02.14-01.15.50:766][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.02.14-01.15.50:766][  0]LogRHI: Texture pool is 1407 MB (70% of 2010 MB)
+[2019.02.14-01.15.50:816][  0]LogD3D11RHI: Async texture creation enabled
+[2019.02.14-01.15.50:838][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.02.14-01.15.50:839][  0]LogShaderCompilers: Guid format shader working directory is -26 characters bigger than the processId version (../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/GeoShot/Intermediate/Shaders/WorkingDirectory/9096/).
+[2019.02.14-01.15.50:839][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/lockw/AppData/Local/Temp/UnrealShaderWorkingDir/A626E6374CCB4D5DC42F4FA9F989646D/'.
+[2019.02.14-01.15.50:839][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.02.14-01.15.52:905][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.02.14-01.15.53:090][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.02.14-01.15.53:303][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.02.14-01.15.53:500][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.02.14-01.15.53:709][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.02.14-01.15.53:918][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.02.14-01.15.54:147][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.02.14-01.15.54:362][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.02.14-01.15.54:566][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.02.14-01.15.54:771][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2019.02.14-01.15.54:979][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2019.02.14-01.15.55:212][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2019.02.14-01.15.55:419][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2019.02.14-01.15.55:613][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2019.02.14-01.15.56:001][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2019.02.14-01.15.56:001][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2019.02.14-01.15.56:192][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.14-01.15.56:365][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.02.14-01.15.56:663][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.02.14-01.15.56:747][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.02.14-01.15.56:918][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.02.14-01.15.57:095][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.02.14-01.15.57:261][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.02.14-01.15.57:464][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.02.14-01.15.57:464][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.02.14-01.15.59:411][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.02.14-01.15.59:563][  0]LogDerivedDataCache: Loaded boot cache 0.15s 78MB C:/Users/lockw/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2019.02.14-01.15.59:563][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/lockw/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2019.02.14-01.15.59:564][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/GeoShot/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.02.14-01.15.59:564][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.02.14-01.15.59:564][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/GeoShot/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.02.14-01.15.59:564][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.02.14-01.15.59:586][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.02.14-01.15.59:599][  0]LogDerivedDataCache: Using Local data cache path C:/Users/lockw/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.02.14-01.15.59:615][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.02.14-01.15.59:616][  0]LogSlate: Using Freetype 2.6.0
+[2019.02.14-01.15.59:617][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.02.14-01.15.59:617][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.02.14-01.16.00:331][  0]LogInit: Selected Device Profile: [Windows]
+[2019.02.14-01.16.01:342][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.02.14-01.16.01:499][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.02.14-01.16.01:499][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.02.14-01.16.01:499][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.02.14-01.16.01:499][  0]LogMeshReduction: No automatic mesh merging module available
+[2019.02.14-01.16.01:499][  0]LogMeshMerging: No automatic mesh merging module available
+[2019.02.14-01.16.01:579][  0]LogNetVersion: GeoShot , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1270197996)
+[2019.02.14-01.16.01:931][  0]LogAssetRegistry: FAssetRegistry took 0.0284 seconds to start up
+[2019.02.14-01.16.03:329][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.153233 seconds
+[2019.02.14-01.16.03:341][  0]LogUObjectArray: 35907 objects as part of root set at end of initial load.
+[2019.02.14-01.16.03:341][  0]LogUObjectAllocator: 7585952 out of 0 bytes used by permanent object pool.
+[2019.02.14-01.16.03:341][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.02.14-01.16.11:771][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.02.14-01.16.11:913][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.02.14-01.16.14:989][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2019.02.14-01.16.16:592][  0]SourceControl: Source control is disabled
+[2019.02.14-01.16.22:699][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.02.14-01.16.23:728][  0]LogOcInput: OculusInput pre-init called
+[2019.02.14-01.16.24:723][  0]LogEngine: Initializing Engine...
+[2019.02.14-01.16.24:730][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.02.14-01.16.25:116][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.02.14-01.16.25:116][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.02.14-01.16.25:627][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.02.14-01.16.25:669][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.02.14-01.16.25:792][  0]LogInit: FAudioDevice initialized.
+[2019.02.14-01.16.26:003][  0]LogDerivedDataCache: Saved boot cache 0.21s 78MB C:/Users/lockw/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2019.02.14-01.16.26:013][  0]LogInit: Texture streaming: Enabled
+[2019.02.14-01.16.26:402][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.02.14-01.16.26:402][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={A78DA468-4FC9-E5C5-D931-92A8B321937B}
+[2019.02.14-01.16.26:895][  0]LogInit: Transaction tracking system initialized
+[2019.02.14-01.16.28:095][  0]BlueprintLog: New page: Editor Load
+[2019.02.14-01.16.31:664][  0]LocalizationService: Localization service is disabled
+[2019.02.14-01.16.34:727][  0]LogConsoleResponse: Display: 
+[2019.02.14-01.16.35:215][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.02.14-01.16.35:215][  0]LogCook: Display: Mobile HDR setting 1
+[2019.02.14-01.16.35:215][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.02.14-01.16.35:960][  0]LogFileCache: Scanning file cache for directory 'C:/Users/lockw/OneDrive/Documents/Unreal Projects/GeoShot/Content/' took 0.18s
+[2019.02.14-01.16.40:142][  0]Cmd: MAP LOAD FILE="../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/GeoShot/Content/Creations/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.02.14-01.16.40:143][  0]LightingResults: New page: Lighting Build
+[2019.02.14-01.16.40:307][  0]MapCheck: New page: Map Check
+[2019.02.14-01.16.40:307][  0]LightingResults: New page: Lighting Build
+[2019.02.14-01.16.41:009][  0]LogAIModule: Creating AISystem for world MainMenu
+[2019.02.14-01.16.41:011][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.02.14-01.16.41:027][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.02.14-01.16.41:150][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 122.463ms to complete.
+[2019.02.14-01.16.41:150][  0]LogFileHelpers: Loading map 'MainMenu' took 1.008
+[2019.02.14-01.16.41:387][  0]LogCollectionManager: Loaded 0 collections in 0.006207 seconds
+[2019.02.14-01.16.41:606][  0]LogFileCache: Scanning file cache for directory 'C:/Users/lockw/OneDrive/Documents/Unreal Projects/GeoShot/Saved/Collections/' took 0.01s
+[2019.02.14-01.16.41:606][  0]LogFileCache: Scanning file cache for directory 'C:/Users/lockw/OneDrive/Documents/Unreal Projects/GeoShot/Content/Developers/Alex/Collections/' took 0.01s
+[2019.02.14-01.16.41:607][  0]LogFileCache: Scanning file cache for directory 'C:/Users/lockw/OneDrive/Documents/Unreal Projects/GeoShot/Content/Collections/' took 0.01s
+[2019.02.14-01.16.41:607][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.02.14-01.16.41:638][  0]LogContentBrowser: Native class hierarchy populated in 0.0309 seconds. Added 2388 classes and 528 folders.
+[2019.02.14-01.16.41:910][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.02.14-01.16.42:140][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.02.14-01.16.42:311][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.02.14-01.16.42:405][  0]LogSlate: Took 0.000495 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.02.14-01.16.42:409][  0]LogSlate: Took 0.000414 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.02.14-01.16.42:419][  0]LogSlate: Took 0.000455 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.02.14-01.16.42:571][  0]LogRenderer: Reallocating scene render targets to support 1208x592 Format 10 NumSamples 1 (Frame:1).
+[2019.02.14-01.16.42:961][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.02.14-01.16.42:961][  0]LogLoad: (Engine Initialization) Total time: 61.54 seconds
+[2019.02.14-01.16.42:961][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.02.14-01.16.42:961][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2019.02.14-01.16.43:320][  0]SourceControl: On branch master
+[2019.02.14-01.16.43:320][  0]SourceControl: Changes not staged for commit:
+[2019.02.14-01.16.43:321][  0]SourceControl:   (use "git add/rm <file>..." to update what will be committed)
+[2019.02.14-01.16.43:321][  0]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
+[2019.02.14-01.16.43:321][  0]SourceControl: 	modified:   GeoShot/Content/Creations/GInstances/MainGm.uasset
+[2019.02.14-01.16.43:321][  0]SourceControl: 	modified:   GeoShot/Content/Creations/GInstances/MainInstance.uasset
+[2019.02.14-01.16.43:321][  0]SourceControl: 	modified:   GeoShot/Content/Creations/GInstances/mainGameState.uasset
+[2019.02.14-01.16.43:321][  0]SourceControl: 	modified:   GeoShot/Content/Creations/GInstances/mainPC.uasset
+[2019.02.14-01.16.43:321][  0]SourceControl: 	modified:   GeoShot/Content/Creations/GInstances/mainPlayerState.uasset
+[2019.02.14-01.16.43:321][  0]SourceControl: 	modified:   GeoShot/Content/Creations/Maps/MainMenu.umap
+[2019.02.14-01.16.43:321][  0]SourceControl: 	modified:   GeoShot/Content/Creations/Maps/MultiplayerLobby.umap
+[2019.02.14-01.16.43:321][  0]SourceControl: 	modified:   GeoShot/Content/Creations/Widgets/MultiplayerLobbyWidget.uasset
+[2019.02.14-01.16.43:321][  0]SourceControl: 	modified:   GeoShot/Content/Creations/Widgets/SearchGames.uasset
+[2019.02.14-01.16.43:321][  0]SourceControl: 	modified:   GeoShot/Content/Creations/Widgets/playerChatText.uasset
+[2019.02.14-01.16.43:321][  0]SourceControl: 	modified:   GeoShot/Content/Creations/Widgets/searchedGame.uasset
+[2019.02.14-01.16.43:321][  0]SourceControl: 	modified:   GeoShot/Intermediate/AssetRegistryCache/c90e3f55.bin
+[2019.02.14-01.16.43:321][  0]SourceControl: 	modified:   GeoShot/Intermediate/CachedAssetRegistry.bin
+[2019.02.14-01.16.43:321][  0]SourceControl: 	modified:   GeoShot/Saved/Autosaves/Game/Creations/GInstances/MainGm_Auto3.uasset
+[2019.02.14-01.16.43:321][  0]SourceControl: 	modified:   GeoShot/Saved/Autosaves/Game/Creations/GInstances/MainGm_Auto4.uasset
+[2019.02.14-01.16.43:322][  0]SourceControl: 	modified:   GeoShot/Saved/Autosaves/Game/Creations/GInstances/MainInstance_Auto1.uasset
+[2019.02.14-01.16.43:322][  0]SourceControl: 	modified:   GeoShot/Saved/Autosaves/Game/Creations/GInstances/mainPC_Auto3.uasset
+[2019.02.14-01.16.43:322][  0]SourceControl: 	modified:   GeoShot/Saved/Autosaves/Game/Creations/GInstances/mainPC_Auto4.uasset
+[2019.02.14-01.16.43:322][  0]SourceControl: 	modified:   GeoShot/Saved/Autosaves/Game/Creations/Widgets/MultiplayerLobbyWidget_Auto1.uasset
+[2019.02.14-01.16.43:322][  0]SourceControl: 	modified:   GeoShot/Saved/Autosaves/Game/Creations/Widgets/MultiplayerLobbyWidget_Auto2.uasset
+[2019.02.14-01.16.43:322][  0]SourceControl: 	modified:   GeoShot/Saved/Autosaves/Game/Creations/Widgets/MultiplayerLobbyWidget_Auto3.uasset
+[2019.02.14-01.16.43:322][  0]SourceControl: 	modified:   GeoShot/Saved/Autosaves/Game/Creations/Widgets/SearchGames_Auto1.uasset
+[2019.02.14-01.16.43:322][  0]SourceControl: 	modified:   GeoShot/Saved/Autosaves/Game/Creations/Widgets/searchedGame_Auto1.uasset
+[2019.02.14-01.16.43:322][  0]SourceControl: 	deleted:    GeoShot/Saved/Backup/Fort_2018-10-13-17-53-29.uasset
+[2019.02.14-01.16.43:322][  0]SourceControl: 	deleted:    GeoShot/Saved/Backup/Fortress_2018-10-13-17-53-29.uasset
+[2019.02.14-01.16.43:322][  0]SourceControl: 	deleted:    GeoShot/Saved/Backup/SMG_2018-10-13-17-53-28.uasset
+[2019.02.14-01.16.43:322][  0]SourceControl: 	deleted:    GeoShot/Saved/Backup/SMG_2018-10-13-20-44-32.uasset
+[2019.02.14-01.16.43:322][  0]SourceControl: 	deleted:    GeoShot/Saved/Backup/TargetBot_2018-10-13-20-44-33.uasset
+[2019.02.14-01.16.43:322][  0]SourceControl: 	deleted:    GeoShot/Saved/Backup/TwinStickExampleMap_2018-10-13-17-53-34.umap
+[2019.02.14-01.16.43:322][  0]SourceControl: 	deleted:    GeoShot/Saved/Backup/TwinStickExampleMap_2018-10-13-20-44-31.umap
+[2019.02.14-01.16.43:323][  0]SourceControl: 	deleted:    GeoShot/Saved/Backup/TwinStickExampleMap_2018-10-13-20-59-02.umap
+[2019.02.14-01.16.43:323][  0]SourceControl: 	deleted:    GeoShot/Saved/Backup/TwinStickPawn_2018-10-13-20-44-32.uasset
+[2019.02.14-01.16.43:323][  0]SourceControl: 	deleted:    GeoShot/Saved/Backup/Wall_2018-10-13-17-53-29.uasset
+[2019.02.14-01.16.43:323][  0]SourceControl: 	deleted:    GeoShot/Saved/Backup/WeaponSelect_2018-10-13-17-53-29.uasset
+[2019.02.14-01.16.43:323][  0]SourceControl: 	deleted:    GeoShot/Saved/Backup/WeaponSelect_2018-10-13-20-44-32.uasset
+[2019.02.14-01.16.43:323][  0]SourceControl: 	deleted:    GeoShot/Saved/Config/CrashReportClient/UE4CC-Windows-4008ACC24A6DEEC0C7FAD790F23841F4/CrashReportClient.ini
+[2019.02.14-01.16.43:323][  0]SourceControl: 	deleted:    GeoShot/Saved/Config/CrashReportClient/UE4CC-Windows-58B0B6B548901394D4D4088F8179F174/CrashReportClient.ini
+[2019.02.14-01.16.43:323][  0]SourceControl: 	deleted:    GeoShot/Saved/Config/CrashReportClient/UE4CC-Windows-6861CC914A40B6DF990CDD93DD21186F/CrashReportClient.ini
+[2019.02.14-01.16.43:323][  0]SourceControl: 	deleted:    GeoShot/Saved/Config/CrashReportClient/UE4CC-Windows-A3CC3B74408D7908F08968B8FB54E54C/CrashReportClient.ini
+[2019.02.14-01.16.43:323][  0]SourceControl: 	deleted:    GeoShot/Saved/Config/CrashReportClient/UE4CC-Windows-D7AEBE33418B50DB392FA5B261ED5453/CrashReportClient.ini
+[2019.02.14-01.16.43:323][  0]SourceControl: 	modified:   GeoShot/Saved/Config/Windows/Editor.ini
+[2019.02.14-01.16.43:323][  0]SourceControl: 	modified:   GeoShot/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+[2019.02.14-01.16.43:323][  0]SourceControl: 	deleted:    GeoShot/Saved/Logs/GeoShot-backup-2019.02.10-12.47.39.log
+[2019.02.14-01.16.43:323][  0]SourceControl: 	deleted:    GeoShot/Saved/Logs/GeoShot-backup-2019.02.10-12.51.01.log
+[2019.02.14-01.16.43:323][  0]SourceControl: 	deleted:    GeoShot/Saved/Logs/GeoShot-backup-2019.02.10-13.01.25.log
+[2019.02.14-01.16.43:323][  0]SourceControl: 	deleted:    GeoShot/Saved/Logs/GeoShot-backup-2019.02.10-20.07.59.log
+[2019.02.14-01.16.43:324][  0]SourceControl: 	deleted:    GeoShot/Saved/Logs/GeoShot-backup-2019.02.10-20.36.50.log
+[2019.02.14-01.16.43:324][  0]SourceControl: 	modified:   GeoShot/Saved/Logs/GeoShot.log
+[2019.02.14-01.16.43:324][  0]SourceControl: 	deleted:    GeoShot/Saved/Logs/GeoShot_2-backup-2019.02.10-12.42.34.log
+[2019.02.14-01.16.43:324][  0]SourceControl: 	deleted:    GeoShot/Saved/Logs/GeoShot_2-backup-2019.02.10-20.41.23.log
+[2019.02.14-01.16.43:324][  0]SourceControl: 	modified:   GeoShot/Saved/Logs/GeoShot_2.log
+[2019.02.14-01.16.43:324][  0]SourceControl: Untracked files:
+[2019.02.14-01.16.43:324][  0]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2019.02.14-01.16.43:324][  0]SourceControl: 	GeoShot/Saved/Autosaves/Game/Creations/GInstances/MainGm_Auto1.uasset
+[2019.02.14-01.16.43:324][  0]SourceControl: 	GeoShot/Saved/Autosaves/Game/Creations/GInstances/MainGm_Auto5.uasset
+[2019.02.14-01.16.43:324][  0]SourceControl: 	GeoShot/Saved/Autosaves/Game/Creations/GInstances/mainGameState_Auto4.uasset
+[2019.02.14-01.16.43:324][  0]SourceControl: 	GeoShot/Saved/Autosaves/Game/Creations/GInstances/mainPlayerState_Auto4.uasset
+[2019.02.14-01.16.43:324][  0]SourceControl: 	GeoShot/Saved/Autosaves/Game/Creations/Maps/MainMenu_Auto1.umap
+[2019.02.14-01.16.43:324][  0]SourceControl: 	GeoShot/Saved/Autosaves/Game/Creations/Maps/MultiplayerLobby_Auto4.umap
+[2019.02.14-01.16.43:324][  0]SourceControl: 	GeoShot/Saved/Autosaves/Game/Creations/Maps/MultiplayerLobby_Auto5.umap
+[2019.02.14-01.16.43:324][  0]SourceControl: 	GeoShot/Saved/Autosaves/Game/Creations/Widgets/playerChatText_Auto2.uasset
+[2019.02.14-01.16.43:324][  0]SourceControl: 	GeoShot/Saved/Backup/MainGm_2019-02-13-12-30-02.uasset
+[2019.02.14-01.16.43:324][  0]SourceControl: 	GeoShot/Saved/Backup/MainGm_2019-02-13-12-35-11.uasset
+[2019.02.14-01.16.43:324][  0]SourceControl: 	GeoShot/Saved/Backup/MainGm_2019-02-13-13-23-55.uasset
+[2019.02.14-01.16.43:325][  0]SourceControl: 	GeoShot/Saved/Backup/MainGm_2019-02-13-13-34-58.uasset
+[2019.02.14-01.16.43:325][  0]SourceControl: 	GeoShot/Saved/Backup/MainGm_2019-02-13-14-08-13.uasset
+[2019.02.14-01.16.43:325][  0]SourceControl: 	GeoShot/Saved/Backup/MainGm_2019-02-13-14-21-53.uasset
+[2019.02.14-01.16.43:325][  0]SourceControl: 	GeoShot/Saved/Backup/MainGm_2019-02-13-14-41-17.uasset
+[2019.02.14-01.16.43:325][  0]SourceControl: 	GeoShot/Saved/Backup/MainGm_2019-02-13-14-49-11.uasset
+[2019.02.14-01.16.43:325][  0]SourceControl: 	GeoShot/Saved/Backup/MainInstance_2019-02-13-12-30-02.uasset
+[2019.02.14-01.16.43:325][  0]SourceControl: 	GeoShot/Saved/Backup/MainInstance_2019-02-13-12-35-11.uasset
+[2019.02.14-01.16.43:325][  0]SourceControl: 	GeoShot/Saved/Backup/MainInstance_2019-02-13-12-56-36.uasset
+[2019.02.14-01.16.43:325][  0]SourceControl: 	GeoShot/Saved/Backup/MainInstance_2019-02-13-13-34-58.uasset
+[2019.02.14-01.16.43:325][  0]SourceControl: 	GeoShot/Saved/Backup/MainInstance_2019-02-13-13-52-39.uasset
+[2019.02.14-01.16.43:325][  0]SourceControl: 	GeoShot/Saved/Backup/MainInstance_2019-02-13-17-06-15.uasset
+[2019.02.14-01.16.43:325][  0]SourceControl: 	GeoShot/Saved/Backup/MainInstance_2019-02-13-17-14-42.uasset
+[2019.02.14-01.16.43:325][  0]SourceControl: 	GeoShot/Saved/Backup/MainMenu_2019-02-13-12-46-03.umap
+[2019.02.14-01.16.43:325][  0]SourceControl: 	GeoShot/Saved/Backup/MainMenu_2019-02-13-12-56-35.umap
+[2019.02.14-01.16.43:325][  0]SourceControl: 	GeoShot/Saved/Backup/MainMenu_2019-02-13-13-34-59.umap
+[2019.02.14-01.16.43:325][  0]SourceControl: 	GeoShot/Saved/Backup/MainMenu_2019-02-13-13-52-40.umap
+[2019.02.14-01.16.43:325][  0]SourceControl: 	GeoShot/Saved/Backup/MainMenu_2019-02-13-17-06-16.umap
+[2019.02.14-01.16.43:326][  0]SourceControl: 	GeoShot/Saved/Backup/MultiplayerLobbyWidget_2019-02-13-12-09-44.uasset
+[2019.02.14-01.16.43:326][  0]SourceControl: 	GeoShot/Saved/Backup/MultiplayerLobbyWidget_2019-02-13-12-19-35.uasset
+[2019.02.14-01.16.43:326][  0]SourceControl: 	GeoShot/Saved/Backup/MultiplayerLobbyWidget_2019-02-13-12-30-02.uasset
+[2019.02.14-01.16.43:326][  0]SourceControl: 	GeoShot/Saved/Backup/MultiplayerLobbyWidget_2019-02-13-12-46-04.uasset
+[2019.02.14-01.16.43:326][  0]SourceControl: 	GeoShot/Saved/Backup/MultiplayerLobbyWidget_2019-02-13-13-12-17.uasset
+[2019.02.14-01.16.43:326][  0]SourceControl: 	GeoShot/Saved/Backup/MultiplayerLobbyWidget_2019-02-13-13-23-56.uasset
+[2019.02.14-01.16.43:326][  0]SourceControl: 	GeoShot/Saved/Backup/MultiplayerLobbyWidget_2019-02-13-13-34-59.uasset
+[2019.02.14-01.16.43:326][  0]SourceControl: 	GeoShot/Saved/Backup/MultiplayerLobbyWidget_2019-02-13-13-52-40.uasset
+[2019.02.14-01.16.43:326][  0]SourceControl: 	GeoShot/Saved/Backup/MultiplayerLobbyWidget_2019-02-13-14-57-21.uasset
+[2019.02.14-01.16.43:326][  0]SourceControl: 	GeoShot/Saved/Backup/MultiplayerLobby_2019-02-13-12-19-34.umap
+[2019.02.14-01.16.43:326][  0]SourceControl: 	GeoShot/Saved/Backup/MultiplayerLobby_2019-02-13-12-37-25.umap
+[2019.02.14-01.16.43:326][  0]SourceControl: 	GeoShot/Saved/Backup/MultiplayerLobby_2019-02-13-13-37-47.umap
+[2019.02.14-01.16.43:326][  0]SourceControl: 	GeoShot/Saved/Backup/MultiplayerLobby_2019-02-13-14-08-13.umap
+[2019.02.14-01.16.43:326][  0]SourceControl: 	GeoShot/Saved/Backup/MultiplayerLobby_2019-02-13-14-21-52.umap
+[2019.02.14-01.16.43:326][  0]SourceControl: 	GeoShot/Saved/Backup/MultiplayerLobby_2019-02-13-14-31-07.umap
+[2019.02.14-01.16.43:326][  0]SourceControl: 	GeoShot/Saved/Backup/MultiplayerLobby_2019-02-13-14-41-17.umap
+[2019.02.14-01.16.43:326][  0]SourceControl: 	GeoShot/Saved/Backup/MultiplayerLobby_2019-02-13-14-49-10.umap
+[2019.02.14-01.16.43:326][  0]SourceControl: 	GeoShot/Saved/Backup/MultiplayerLobby_2019-02-13-14-57-13.umap
+[2019.02.14-01.16.43:327][  0]SourceControl: 	GeoShot/Saved/Backup/MultiplayerLobby_2019-02-13-17-14-43.umap
+[2019.02.14-01.16.43:327][  0]SourceControl: 	GeoShot/Saved/Backup/SearchGames_2019-02-13-12-56-36.uasset
+[2019.02.14-01.16.43:327][  0]SourceControl: 	GeoShot/Saved/Backup/SearchGames_2019-02-13-13-35-00.uasset
+[2019.02.14-01.16.43:327][  0]SourceControl: 	GeoShot/Saved/Backup/mainGameState_2019-02-13-14-08-14.uasset
+[2019.02.14-01.16.43:327][  0]SourceControl: 	GeoShot/Saved/Backup/mainGameState_2019-02-13-14-21-54.uasset
+[2019.02.14-01.16.43:327][  0]SourceControl: 	GeoShot/Saved/Backup/mainPC_2019-02-13-12-19-34.uasset
+[2019.02.14-01.16.43:327][  0]SourceControl: 	GeoShot/Saved/Backup/mainPC_2019-02-13-13-23-56.uasset
+[2019.02.14-01.16.43:327][  0]SourceControl: 	GeoShot/Saved/Backup/mainPC_2019-02-13-13-34-58.uasset
+[2019.02.14-01.16.43:327][  0]SourceControl: 	GeoShot/Saved/Backup/mainPC_2019-02-13-13-52-39.uasset
+[2019.02.14-01.16.43:327][  0]SourceControl: 	GeoShot/Saved/Backup/mainPC_2019-02-13-14-08-13.uasset
+[2019.02.14-01.16.43:327][  0]SourceControl: 	GeoShot/Saved/Backup/mainPC_2019-02-13-14-21-53.uasset
+[2019.02.14-01.16.43:327][  0]SourceControl: 	GeoShot/Saved/Backup/mainPC_2019-02-13-14-57-21.uasset
+[2019.02.14-01.16.43:327][  0]SourceControl: 	GeoShot/Saved/Backup/mainPlayerState_2019-02-13-13-37-46.uasset
+[2019.02.14-01.16.43:327][  0]SourceControl: 	GeoShot/Saved/Backup/mainPlayerState_2019-02-13-13-52-39.uasset
+[2019.02.14-01.16.43:327][  0]SourceControl: 	GeoShot/Saved/Backup/mainPlayerState_2019-02-13-14-08-14.uasset
+[2019.02.14-01.16.43:327][  0]SourceControl: 	GeoShot/Saved/Backup/mainPlayerState_2019-02-13-14-21-54.uasset
+[2019.02.14-01.16.43:327][  0]SourceControl: 	GeoShot/Saved/Backup/mainPlayerState_2019-02-13-14-31-07.uasset
+[2019.02.14-01.16.43:327][  0]SourceControl: 	GeoShot/Saved/Backup/mainPlayerState_2019-02-13-17-14-42.uasset
+[2019.02.14-01.16.43:328][  0]SourceControl: 	GeoShot/Saved/Backup/playerChatText_2019-02-13-13-12-17.uasset
+[2019.02.14-01.16.43:328][  0]SourceControl: 	GeoShot/Saved/Backup/playerChatText_2019-02-13-13-34-59.uasset
+[2019.02.14-01.16.43:328][  0]SourceControl: 	GeoShot/Saved/Backup/searchedGame_2019-02-13-12-56-36.uasset
+[2019.02.14-01.16.43:328][  0]SourceControl: 	GeoShot/Saved/Backup/searchedGame_2019-02-13-13-35-00.uasset
+[2019.02.14-01.16.43:328][  0]SourceControl: 	GeoShot/Saved/Config/CrashReportClient/UE4CC-Windows-1EE23E924F0DA41E65E4A28A30C80E34/
+[2019.02.14-01.16.43:328][  0]SourceControl: 	GeoShot/Saved/Config/CrashReportClient/UE4CC-Windows-45D29EC34CC9B7CF0132DEA2A462B8C7/
+[2019.02.14-01.16.43:328][  0]SourceControl: 	GeoShot/Saved/Config/CrashReportClient/UE4CC-Windows-53FAB43B48EFDBF8A11B958D019CB80D/
+[2019.02.14-01.16.43:328][  0]SourceControl: 	GeoShot/Saved/Config/CrashReportClient/UE4CC-Windows-6ECE9DDA4C01D257C2653C957C830A1B/
+[2019.02.14-01.16.43:328][  0]SourceControl: 	GeoShot/Saved/Config/CrashReportClient/UE4CC-Windows-B25BDF754D5D20E2F902DD9DB4281E94/
+[2019.02.14-01.16.43:328][  0]SourceControl: 	GeoShot/Saved/Crashes/UE4CC-Windows-1EE23E924F0DA41E65E4A28A30C80E34_0000/
+[2019.02.14-01.16.43:328][  0]SourceControl: 	GeoShot/Saved/Crashes/UE4CC-Windows-45D29EC34CC9B7CF0132DEA2A462B8C7_0000/
+[2019.02.14-01.16.43:328][  0]SourceControl: 	GeoShot/Saved/Crashes/UE4CC-Windows-45D29EC34CC9B7CF0132DEA2A462B8C7_0001/
+[2019.02.14-01.16.43:328][  0]SourceControl: 	GeoShot/Saved/Crashes/UE4CC-Windows-53FAB43B48EFDBF8A11B958D019CB80D_0000/
+[2019.02.14-01.16.43:328][  0]SourceControl: 	GeoShot/Saved/Crashes/UE4CC-Windows-B25BDF754D5D20E2F902DD9DB4281E94_0000/
+[2019.02.14-01.16.43:328][  0]SourceControl: 	GeoShot/Saved/Logs/GeoShot-backup-2019.02.13-12.01.01.log
+[2019.02.14-01.16.43:328][  0]SourceControl: 	GeoShot/Saved/Logs/GeoShot-backup-2019.02.13-12.30.49.log
+[2019.02.14-01.16.43:328][  0]SourceControl: 	GeoShot/Saved/Logs/GeoShot-backup-2019.02.13-16.59.34.log
+[2019.02.14-01.16.43:328][  0]SourceControl: 	GeoShot/Saved/Logs/GeoShot-backup-2019.02.13-17.07.57.log
+[2019.02.14-01.16.43:328][  0]SourceControl: 	GeoShot/Saved/Logs/GeoShot-backup-2019.02.13-17.15.43.log
+[2019.02.14-01.16.43:328][  0]SourceControl: 	GeoShot/Saved/Logs/GeoShot_2-backup-2019.02.13-12.19.38.log
+[2019.02.14-01.16.43:328][  0]SourceControl: 	GeoShot/Saved/Logs/GeoShot_2-backup-2019.02.13-12.20.52.log
+[2019.02.14-01.16.43:329][  0]SourceControl: 	GeoShot/Saved/Logs/GeoShot_2-backup-2019.02.13-12.21.30.log
+[2019.02.14-01.16.43:329][  0]SourceControl: no changes added to commit (use "git add" and/or "git commit -a")
+[2019.02.14-01.16.43:329][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.02.14-01.16.43:353][  0]LogSlate: Took 0.000347 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2019.02.14-01.16.44:305][  3]LogAssetRegistry: Asset discovery search completed in 42.3972 seconds
+[2019.02.14-01.16.44:315][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.02.14-01.16.44:315][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000109 seconds (updated 0 objects)
+[2019.02.14-01.16.44:330][  3]LogSlate: Took 0.000287 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2019.02.14-01.32.25:951][920]LogSlate: Took 0.000269 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2019.02.14-01.32.26:295][920]LogClass: Warning: Enum '/Game/AdvancedMagicFX13/DemoRoomData/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2019.02.14-01.32.26:429][920]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
+[2019.02.14-01.32.27:512][920]LogSlate: Took 0.000353 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.02.14-01.32.27:585][921]LogSlate: Took 0.000794 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.02.14-01.33.07:504][272]BlueprintLog: New page: Compile mainPlayerState
+[2019.02.14-01.33.09:070][350]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.14-01.33.09:337][350]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Creations/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Creations/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Creations/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Creations/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.02.14-01.33.09:337][350]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.14-01.33.09:337][350]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2019.02.14-01.33.09:337][350]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2019.02.14-01.33.09:338][350]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2019.02.14-01.33.09:338][350]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2019.02.14-01.33.09:338][350]LogOnline: Warning: STEAM: Steam API disabled!
+[2019.02.14-01.33.09:338][350]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2019.02.14-01.33.09:352][350]PIE: New page: PIE session: MainMenu (Feb 13, 2019, 9:33:09 AM)
+[2019.02.14-01.33.09:353][350]LogPlayLevel: Creating play world package: /Game/Creations/Maps/UEDPIE_1_MainMenu
+[2019.02.14-01.33.09:354][350]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000951s)
+[2019.02.14-01.33.09:354][350]LogAIModule: Creating AISystem for world MainMenu
+[2019.02.14-01.33.09:354][350]LogPlayLevel: PIE: World Init took: (0.000657s)
+[2019.02.14-01.33.09:354][350]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Creations/Maps/MainMenu.MainMenu to /Game/Creations/Maps/UEDPIE_1_MainMenu.MainMenu (0.001869s)
+[2019.02.14-01.33.09:392][350]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.02.14-01.33.09:482][350]LogInit: FAudioDevice initialized.
+[2019.02.14-01.33.09:530][350]LogLoad: Game class is 'MainGm_C'
+[2019.02.14-01.33.09:532][350]LogWorld: Bringing World /Game/Creations/Maps/UEDPIE_1_MainMenu.MainMenu up for play (max tick rate 60) at 2019.02.13-17.33.09
+[2019.02.14-01.33.09:532][350]LogWorld: Bringing up level for play took: 0.000590
+[2019.02.14-01.33.09:714][350]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 11 classes and 0 folders.
+[2019.02.14-01.33.09:714][350]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.02.14-01.33.09:714][350]LogTemp: Display: ParseSettings for IpNetDriver_0
+[2019.02.14-01.33.09:714][350]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.02.14-01.33.09:715][350]LogInit: WinSock: Socket queue 131072 / 131072
+[2019.02.14-01.33.09:715][350]LogInit: WinSock: I am MSI (158.104.227.197:0)
+[2019.02.14-01.33.09:715][350]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.02.14-01.33.09:715][350]LogNet: GameNetDriver IpNetDriver_0 IpNetDriver listening on port 17777
+[2019.02.14-01.33.09:718][350]PIE: Play in editor start time for /Game/Creations/Maps/UEDPIE_1_MainMenu -0.404
+[2019.02.14-01.33.09:720][350]PIE: New page: PIE session: MainMenu (Feb 13, 2019, 9:33:09 AM)
+[2019.02.14-01.33.09:783][350]LogNet: Browse: 127.0.0.1:17777//Game/Creations/Maps/MainMenu
+[2019.02.14-01.33.09:783][350]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.02.14-01.33.09:783][350]LogTemp: Display: ParseSettings for IpNetDriver_1
+[2019.02.14-01.33.09:783][350]LogTemp: Display: ParseSettings for PendingNetDriver
+[2019.02.14-01.33.09:784][350]LogInit: WinSock: Socket queue 32768 / 32768
+[2019.02.14-01.33.09:784][350]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.02.14-01.33.09:785][350]LogNet: Game client on port 17777, rate 10000
+[2019.02.14-01.33.09:792][350]PIE: Play in editor start time for /Game/Creations/Maps/MainMenu -0.329
+[2019.02.14-01.33.09:803][350]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Creations/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Creations/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Creations/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Creations/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.02.14-01.33.09:804][350]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:58312
+[2019.02.14-01.33.09:804][350]LogHandshake: SendConnectChallenge. Timestamp: 0.016667, Cookie: 154089232137229024220195209069200197036197118191200216159207
+[2019.02.14-01.33.09:895][350]LogHandshake: SendChallengeResponse. Timestamp: 0.016667, Cookie: 154089232137229024220195209069200197036197118191200216159207
+[2019.02.14-01.33.09:966][351]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:58312
+[2019.02.14-01.33.09:966][351]LogHandshake: SendChallengeAck. InCookie: 154089232137229024220195209069200197036197118191200216159207
+[2019.02.14-01.33.09:967][351]LogNet: Server accepting post-challenge connection from: 127.0.0.1:58312
+[2019.02.14-01.33.09:967][351]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.02.14-01.33.09:967][351]LogNet: NotifyAcceptedConnection: Name: MainMenu, TimeStamp: 02/13/19 17:33:09, [UNetConnection] RemoteAddr: 127.0.0.1:58312, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL
+[2019.02.14-01.33.09:967][351]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:58312, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL
+[2019.02.14-01.33.09:967][351]LogNetVersion: GeoShot 1.0.0.0, NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2552449043)
+[2019.02.14-01.33.09:968][351]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: PendingNetDriver IpNetDriver_1, IsServer: NO, PC: NULL, Owner: NULL
+[2019.02.14-01.33.09:986][352]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Creations/Maps/UEDPIE_1_MainMenu.MainMenu: Accepted
+[2019.02.14-01.33.09:987][352]LogNet: Remote platform little endian=1
+[2019.02.14-01.33.09:987][352]LogNet: This platform little endian=1
+[2019.02.14-01.33.10:006][353]LogNet: Login request: /Game/Creations/Maps/MainMenu?Name=MSI-826DEA1648D6DE7F3E3D4B8C36ADBC12 userId: MSI-826DEA1648D6DE7F3E3D4B8C36ADBC12
+[2019.02.14-01.33.10:007][353]LogNet: Welcomed by server (Level: /Game/Creations/Maps/UEDPIE_1_MainMenu, Game: /Game/Creations/GInstances/MainGm.MainGm_C)
+[2019.02.14-01.33.10:017][353]LogLoad: LoadMap: 127.0.0.1:17777//Game/Creations/Maps/UEDPIE_1_MainMenu?game=/Game/Creations/GInstances/MainGm.MainGm_C
+[2019.02.14-01.33.10:043][353]LogAIModule: Creating AISystem for world MainMenu
+[2019.02.14-01.33.10:043][353]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.02.14-01.33.10:044][353]LogWorld: Bringing World /Game/Creations/Maps/UEDPIE_2_MainMenu.MainMenu up for play (max tick rate 60) at 2019.02.13-17.33.10
+[2019.02.14-01.33.10:045][353]LogWorld: Bringing up level for play took: 0.000435
+[2019.02.14-01.33.10:045][353]LogLoad: Took 0.027644 seconds to LoadMap(/Game/Creations/Maps/UEDPIE_1_MainMenu)
+[2019.02.14-01.33.10:057][354]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2019.02.14-01.33.10:058][354]LogNet: Client netspeed is 10000
+[2019.02.14-01.33.10:058][354]LogNet: Join request: /Game/Creations/Maps/MainMenu?Name=MSI-826DEA1648D6DE7F3E3D4B8C36ADBC12?SplitscreenCount=1
+[2019.02.14-01.33.10:059][354]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2019.02.14-01.33.10:060][354]LogNet: Join succeeded: MSI-826DEA1648D6DE7F
+[2019.02.14-01.33.10:106][356]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2019.02.14-01.33.10:162][358]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2019.02.14-01.33.17:691][623]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Creations/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Creations/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Creations/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Creations/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.02.14-01.33.17:759][623]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2019.02.14-01.33.17:759][623]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2019.02.14-01.33.17:760][623]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2019.02.14-01.33.17:760][623]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2019.02.14-01.33.17:760][623]LogOnline: Warning: OSS: No game present to leave for session (GameSession)
+[2019.02.14-01.33.17:792][623]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2019.02.14-01.33.17:792][623]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2019.02.14-01.33.17:793][623]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2019.02.14-01.33.17:793][623]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2019.02.14-01.33.17:793][623]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.14-01.33.17:793][623]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Creations/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Creations/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Creations/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Creations/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.02.14-01.33.17:818][623]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:58312, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: None, Owner: None
+[2019.02.14-01.33.17:819][623]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:58312, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: None, Owner: None, Channels: 2, Time: 2019.02.14-01.33.17
+[2019.02.14-01.33.17:819][623]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:58312, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: None, Owner: None
+[2019.02.14-01.33.17:819][623]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: None, Owner: None
+[2019.02.14-01.33.17:819][623]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: None, Owner: None, Channels: 2, Time: 2019.02.14-01.33.17
+[2019.02.14-01.33.17:819][623]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: None, Owner: None
+[2019.02.14-01.33.17:826][623]LogExit: GameNetDriver None shut down
+[2019.02.14-01.33.17:827][623]LogExit: GameNetDriver None shut down
+[2019.02.14-01.33.17:852][624]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2019.02.14-01.33.17:853][624]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2019.02.14-01.33.17:853][624]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2019.02.14-01.33.17:853][624]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2019.02.14-01.33.21:178][694]LogSavePackage: Save=33.18ms
+[2019.02.14-01.33.21:178][694]LogSavePackage: Moving '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/GeoShot/Saved/mainPlayerState55C8E3574BD76FC51DC48EB11CE8FBB5.tmp' to '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/GeoShot/Content/Creations/GInstances/mainPlayerState.uasset'
+[2019.02.14-01.33.21:183][694]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/GeoShot/Content/Creations/GInstances/mainPlayerState.uasset
+[2019.02.14-01.33.21:184][694]LogSlate: Took 0.000253 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.02.14-01.33.21:191][694]Cmd: MAP LOAD FILE="../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/GeoShot/Content/Creations/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.02.14-01.33.21:191][694]LightingResults: New page: Lighting Build
+[2019.02.14-01.33.21:192][694]LoadErrors: New page: Loading map: MainMenu.umap
+[2019.02.14-01.33.21:195][694]MapCheck: New page: Map Check
+[2019.02.14-01.33.21:195][694]LightingResults: New page: Lighting Build
+[2019.02.14-01.33.21:234][694]LogAIModule: Creating AISystem for world MainMenu
+[2019.02.14-01.33.21:330][694]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.02.14-01.33.21:418][694]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.02.14-01.33.21:544][694]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 125.384ms to complete.
+[2019.02.14-01.33.21:545][694]LogFileHelpers: Loading map 'MainMenu' took 0.355
+[2019.02.14-01.34.01:520][866]BlueprintLog: New page: Compile MainInstance
+[2019.02.14-01.34.41:692][975]BlueprintLog: New page: Compile MainInstance
+[2019.02.14-01.34.41:798][975]LogBlueprint: Error: [Compiler MainInstance] This blueprint (self) is not a UserWidget, therefore ' Target ' must have a connection.
+[2019.02.14-01.34.41:983][975]LogBlueprint: Warning: [Compiler MainInstance] [1140.56] Compile of MainInstance failed. 1 Fatal Issue(s) 0 Warning(s) [in 290 ms] (/Game/Creations/GInstances/MainInstance.MainInstance)
+[2019.02.14-01.34.46:571][216]BlueprintLog: New page: Compile MainInstance
+[2019.02.14-01.35.36:925][854]BlueprintLog: New page: Compile mainPlayerState
+[2019.02.14-01.35.38:127][910]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.14-01.35.38:166][910]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Creations/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Creations/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Creations/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Creations/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.02.14-01.35.38:167][910]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.14-01.35.38:169][910]PIE: New page: PIE session: MainMenu (Feb 13, 2019, 9:35:38 AM)
+[2019.02.14-01.35.38:226][910]LogPlayLevel: Creating play world package: /Game/Creations/Maps/UEDPIE_1_MainMenu
+[2019.02.14-01.35.38:227][910]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001157s)
+[2019.02.14-01.35.38:228][910]LogAIModule: Creating AISystem for world MainMenu
+[2019.02.14-01.35.38:228][910]LogPlayLevel: PIE: World Init took: (0.000872s)
+[2019.02.14-01.35.38:228][910]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Creations/Maps/MainMenu.MainMenu to /Game/Creations/Maps/UEDPIE_1_MainMenu.MainMenu (0.002349s)
+[2019.02.14-01.35.38:272][910]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.02.14-01.35.38:375][910]LogInit: FAudioDevice initialized.
+[2019.02.14-01.35.38:409][910]LogLoad: Game class is 'MainGm_C'
+[2019.02.14-01.35.38:410][910]LogWorld: Bringing World /Game/Creations/Maps/UEDPIE_1_MainMenu.MainMenu up for play (max tick rate 60) at 2019.02.13-17.35.38
+[2019.02.14-01.35.38:410][910]LogWorld: Bringing up level for play took: 0.000441
+[2019.02.14-01.35.38:423][910]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.02.14-01.35.38:423][910]LogTemp: Display: ParseSettings for IpNetDriver_2
+[2019.02.14-01.35.38:423][910]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.02.14-01.35.38:423][910]LogInit: WinSock: Socket queue 131072 / 131072
+[2019.02.14-01.35.38:424][910]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.02.14-01.35.38:424][910]LogNet: GameNetDriver IpNetDriver_2 IpNetDriver listening on port 17777
+[2019.02.14-01.35.38:426][910]PIE: Play in editor start time for /Game/Creations/Maps/UEDPIE_1_MainMenu 0.303
+[2019.02.14-01.35.38:428][910]PIE: New page: PIE session: MainMenu (Feb 13, 2019, 9:35:38 AM)
+[2019.02.14-01.35.38:482][910]LogNet: Browse: 127.0.0.1:17777//Game/Creations/Maps/MainMenu
+[2019.02.14-01.35.38:482][910]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.02.14-01.35.38:482][910]LogTemp: Display: ParseSettings for IpNetDriver_3
+[2019.02.14-01.35.38:482][910]LogTemp: Display: ParseSettings for PendingNetDriver
+[2019.02.14-01.35.38:482][910]LogInit: WinSock: Socket queue 32768 / 32768
+[2019.02.14-01.35.38:483][910]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.02.14-01.35.38:483][910]LogNet: Game client on port 17777, rate 10000
+[2019.02.14-01.35.38:491][910]PIE: Play in editor start time for /Game/Creations/Maps/MainMenu 0.369
+[2019.02.14-01.35.38:501][910]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Creations/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Creations/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Creations/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Creations/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.02.14-01.35.38:502][910]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:52504
+[2019.02.14-01.35.38:502][910]LogHandshake: SendConnectChallenge. Timestamp: 0.016667, Cookie: 241051242119087142028100075199038050151061008206026239077061
+[2019.02.14-01.35.38:503][910]LogHandshake: SendChallengeResponse. Timestamp: 0.016667, Cookie: 241051242119087142028100075199038050151061008206026239077061
+[2019.02.14-01.35.38:565][911]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:52504
+[2019.02.14-01.35.38:565][911]LogHandshake: SendChallengeAck. InCookie: 241051242119087142028100075199038050151061008206026239077061
+[2019.02.14-01.35.38:566][911]LogNet: Server accepting post-challenge connection from: 127.0.0.1:52504
+[2019.02.14-01.35.38:566][911]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.02.14-01.35.38:566][911]LogNet: NotifyAcceptedConnection: Name: MainMenu, TimeStamp: 02/13/19 17:35:38, [UNetConnection] RemoteAddr: 127.0.0.1:52504, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: NULL, Owner: NULL
+[2019.02.14-01.35.38:566][911]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:52504, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: NULL, Owner: NULL
+[2019.02.14-01.35.38:567][911]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_2, Driver: PendingNetDriver IpNetDriver_3, IsServer: NO, PC: NULL, Owner: NULL
+[2019.02.14-01.35.38:582][912]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Creations/Maps/UEDPIE_1_MainMenu.MainMenu: Accepted
+[2019.02.14-01.35.38:582][912]LogNet: Remote platform little endian=1
+[2019.02.14-01.35.38:582][912]LogNet: This platform little endian=1
+[2019.02.14-01.35.38:603][913]LogNet: Login request: /Game/Creations/Maps/MainMenu?Name=MSI-E86393BA4A414DD501A450A3DD1DBDE2 userId: MSI-E86393BA4A414DD501A450A3DD1DBDE2
+[2019.02.14-01.35.38:603][913]LogNet: Welcomed by server (Level: /Game/Creations/Maps/UEDPIE_1_MainMenu, Game: /Game/Creations/GInstances/MainGm.MainGm_C)
+[2019.02.14-01.35.38:614][913]LogLoad: LoadMap: 127.0.0.1:17777//Game/Creations/Maps/UEDPIE_1_MainMenu?game=/Game/Creations/GInstances/MainGm.MainGm_C
+[2019.02.14-01.35.38:641][913]LogAIModule: Creating AISystem for world MainMenu
+[2019.02.14-01.35.38:642][913]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.02.14-01.35.38:643][913]LogWorld: Bringing World /Game/Creations/Maps/UEDPIE_2_MainMenu.MainMenu up for play (max tick rate 60) at 2019.02.13-17.35.38
+[2019.02.14-01.35.38:643][913]LogWorld: Bringing up level for play took: 0.000632
+[2019.02.14-01.35.38:644][913]LogLoad: Took 0.030089 seconds to LoadMap(/Game/Creations/Maps/UEDPIE_1_MainMenu)
+[2019.02.14-01.35.38:655][914]LogNet: Client netspeed is 10000
+[2019.02.14-01.35.38:655][914]LogNet: Join request: /Game/Creations/Maps/MainMenu?Name=MSI-E86393BA4A414DD501A450A3DD1DBDE2?SplitscreenCount=1
+[2019.02.14-01.35.38:656][914]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2019.02.14-01.35.38:657][914]LogNet: Join succeeded: MSI-E86393BA4A414DD5
+[2019.02.14-01.35.38:733][918]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2019.02.14-01.35.38:750][919]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2019.02.14-01.35.42:548][145]LogNet: Browse: /Game/Creations/Maps/MultiplayerLobby?listen
+[2019.02.14-01.35.42:550][145]LogLoad: LoadMap: /Game/Creations/Maps/MultiplayerLobby?listen
+[2019.02.14-01.35.42:550][145]LogNet: World NetDriver shutdown IpNetDriver_2 [GameNetDriver]
+[2019.02.14-01.35.42:550][145]LogNet: DestroyNamedNetDriver IpNetDriver_2 [GameNetDriver]
+[2019.02.14-01.35.42:551][145]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:52504, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: mainPC_C_1, Owner: mainPC_C_1
+[2019.02.14-01.35.42:552][145]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:52504, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: mainPC_C_1, Owner: mainPC_C_1, Channels: 10, Time: 2019.02.14-01.35.42
+[2019.02.14-01.35.42:552][145]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:52504, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: mainPC_C_1, Owner: mainPC_C_1
+[2019.02.14-01.35.42:552][145]LogExit: GameNetDriver IpNetDriver_2 shut down
+[2019.02.14-01.35.42:987][145]LogAIModule: Creating AISystem for world MultiplayerLobby
+[2019.02.14-01.35.42:988][145]LogLoad: Game class is 'MainGm_C'
+[2019.02.14-01.35.42:988][145]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.02.14-01.35.42:988][145]LogTemp: Display: ParseSettings for IpNetDriver_4
+[2019.02.14-01.35.42:988][145]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.02.14-01.35.42:988][145]LogInit: WinSock: Socket queue 131072 / 131072
+[2019.02.14-01.35.42:989][145]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.02.14-01.35.42:989][145]LogNet: GameNetDriver IpNetDriver_4 IpNetDriver listening on port 7777
+[2019.02.14-01.35.42:990][145]LogWorld: Bringing World /Game/Creations/Maps/UEDPIE_1_MultiplayerLobby.MultiplayerLobby up for play (max tick rate 60) at 2019.02.13-17.35.42
+[2019.02.14-01.35.42:991][145]LogWorld: Bringing up level for play took: 0.000849
+[2019.02.14-01.35.42:991][145]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.02.14-01.35.42:992][145]LogScript: Warning: Accessed None trying to read property MainMenuWidget
+	MultiplayerLobby_C /Game/Creations/Maps/UEDPIE_1_MultiplayerLobby.MultiplayerLobby:PersistentLevel.MultiplayerLobby_C_1
+	Function /Game/Creations/Maps/UEDPIE_1_MultiplayerLobby.MultiplayerLobby_C:ExecuteUbergraph_MultiplayerLobby:0547
+[2019.02.14-01.35.42:992][145]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property MainMenuWidget from function: 'ExecuteUbergraph_MultiplayerLobby' from node: Set Visibility in graph: EventGraph in object: MultiplayerLobby with description: Accessed None trying to read property MainMenuWidget
+[2019.02.14-01.35.42:994][145]LogLoad: Took 0.443065 seconds to LoadMap(/Game/Creations/Maps/MultiplayerLobby)
+[2019.02.14-01.35.42:994][145]LogNet: Warning: Network Failure: GameNetDriver[FailureReceived]: Host closed the connection.
+[2019.02.14-01.35.42:994][145]LogNet: Warning: Network Failure: GameNetDriver[FailureReceived]: Host closed the connection.
+[2019.02.14-01.35.42:994][145]LogNet: NetworkFailure: FailureReceived, Error: 'Host closed the connection.'
+[2019.02.14-01.35.42:994][145]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_3, IsServer: NO, PC: mainPC_C_0, Owner: mainPC_C_0, Channels: 10, Time: 2019.02.14-01.35.42
+[2019.02.14-01.35.42:994][145]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_3, IsServer: NO, PC: mainPC_C_0, Owner: mainPC_C_0
+[2019.02.14-01.35.42:995][145]LogNet: Warning: Network Failure: GameNetDriver[ConnectionLost]: Your connection to the host has been lost.
+[2019.02.14-01.35.42:995][145]LogNet: Warning: Network Failure: GameNetDriver[ConnectionLost]: Your connection to the host has been lost.
+[2019.02.14-01.35.42:995][145]LogNet: NetworkFailure: ConnectionLost, Error: 'Your connection to the host has been lost.'
+[2019.02.14-01.35.43:017][146]LogNet: Browse: /Game/Creations/Maps/MainMenu?closed
+[2019.02.14-01.35.43:017][146]LogNet: Failed; returning to Entry
+[2019.02.14-01.35.43:029][146]LogLoad: LoadMap: /Game/Creations/Maps/MainMenu?closed
+[2019.02.14-01.35.43:029][146]LogNet: World NetDriver shutdown IpNetDriver_3 [GameNetDriver]
+[2019.02.14-01.35.43:029][146]LogNet: DestroyNamedNetDriver IpNetDriver_3 [GameNetDriver]
+[2019.02.14-01.35.43:029][146]LogExit: GameNetDriver IpNetDriver_3 shut down
+[2019.02.14-01.35.43:059][146]LogPlayLevel: Creating play world package: /Game/Creations/Maps/UEDPIE_2_MainMenu
+[2019.02.14-01.35.43:060][146]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001013s)
+[2019.02.14-01.35.43:060][146]LogAIModule: Creating AISystem for world MainMenu
+[2019.02.14-01.35.43:061][146]LogPlayLevel: PIE: World Init took: (0.000699s)
+[2019.02.14-01.35.43:061][146]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Creations/Maps/MainMenu.MainMenu to /Game/Creations/Maps/UEDPIE_2_MainMenu.MainMenu (0.002033s)
+[2019.02.14-01.35.43:061][146]LogLoad: Game class is 'MainGm_C'
+[2019.02.14-01.35.43:062][146]LogWorld: Bringing World /Game/Creations/Maps/UEDPIE_2_MainMenu.MainMenu up for play (max tick rate 60) at 2019.02.13-17.35.43
+[2019.02.14-01.35.43:062][146]LogWorld: Bringing up level for play took: 0.000541
+[2019.02.14-01.35.43:063][146]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.02.14-01.35.43:064][146]LogLoad: Took 0.035425 seconds to LoadMap(/Game/Creations/Maps/UEDPIE_2_MainMenu)
+[2019.02.14-01.35.44:919][255]LogScript: Warning: Accessed None trying to read property playerLobbyWidget
+	mainPlayerState_C /Game/Creations/Maps/UEDPIE_1_MultiplayerLobby.MultiplayerLobby:PersistentLevel.mainPlayerState_C_0
+	Function /Game/Creations/GInstances/mainPlayerState.mainPlayerState_C:ExecuteUbergraph_mainPlayerState:00CD
+[2019.02.14-01.36.00:354][482]LogNet: UNetDriver::TickDispatch: Very long time between ticks. DeltaTime: 0.02, Realtime: 10.44. IpNetDriver_4
+[2019.02.14-01.36.00:365][483]LogNet: UNetDriver::TickDispatch: Very long time between ticks. DeltaTime: 10.43, Realtime: 0.01. IpNetDriver_4
+[2019.02.14-01.36.00:376][484]LogScriptCore: Script Msg: Found a session. Ping is 17
+[2019.02.14-01.36.01:032][523]LogNet: Browse: 158.104.227.197//Game/Creations/Maps/MainMenu
+[2019.02.14-01.36.01:033][523]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.02.14-01.36.01:033][523]LogTemp: Display: ParseSettings for IpNetDriver_5
+[2019.02.14-01.36.01:033][523]LogTemp: Display: ParseSettings for PendingNetDriver
+[2019.02.14-01.36.01:033][523]LogInit: WinSock: Socket queue 32768 / 32768
+[2019.02.14-01.36.01:034][523]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.02.14-01.36.01:034][523]LogNet: Game client on port 7777, rate 10000
+[2019.02.14-01.36.01:049][524]LogNet: NotifyAcceptingConnection accepted from: 158.104.227.197:52505
+[2019.02.14-01.36.01:049][524]LogHandshake: SendConnectChallenge. Timestamp: 18.502449, Cookie: 085107160030152131207184044242047203154160106067038023084233
+[2019.02.14-01.36.01:050][524]LogHandshake: SendChallengeResponse. Timestamp: 18.502449, Cookie: 085107160030152131207184044242047203154160106067038023084233
+[2019.02.14-01.36.01:066][525]LogNet: NotifyAcceptingConnection accepted from: 158.104.227.197:52505
+[2019.02.14-01.36.01:066][525]LogHandshake: SendChallengeAck. InCookie: 085107160030152131207184044242047203154160106067038023084233
+[2019.02.14-01.36.01:066][525]LogNet: Server accepting post-challenge connection from: 158.104.227.197:52505
+[2019.02.14-01.36.01:066][525]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.02.14-01.36.01:066][525]LogNet: NotifyAcceptedConnection: Name: MultiplayerLobby, TimeStamp: 02/13/19 17:36:01, [UNetConnection] RemoteAddr: 158.104.227.197:52505, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_4, IsServer: YES, PC: NULL, Owner: NULL
+[2019.02.14-01.36.01:066][525]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 158.104.227.197:52505, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_4, IsServer: YES, PC: NULL, Owner: NULL
+[2019.02.14-01.36.01:067][525]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 158.104.227.197:7777, Name: IpConnection_4, Driver: PendingNetDriver IpNetDriver_5, IsServer: NO, PC: NULL, Owner: NULL
+[2019.02.14-01.36.01:085][526]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Creations/Maps/UEDPIE_1_MultiplayerLobby.MultiplayerLobby: Accepted
+[2019.02.14-01.36.01:085][526]LogNet: Remote platform little endian=1
+[2019.02.14-01.36.01:085][526]LogNet: This platform little endian=1
+[2019.02.14-01.36.01:101][527]LogNet: Login request: /Game/Creations/Maps/MainMenu?Name=MSI-E86393BA4A414DD501A450A3DD1DBDE2 userId: MSI-E86393BA4A414DD501A450A3DD1DBDE2
+[2019.02.14-01.36.01:102][527]LogNet: Welcomed by server (Level: /Game/Creations/Maps/UEDPIE_1_MultiplayerLobby, Game: /Game/Creations/GInstances/MainGm.MainGm_C)
+[2019.02.14-01.36.01:111][527]LogLoad: LoadMap: 158.104.227.197//Game/Creations/Maps/UEDPIE_1_MultiplayerLobby?game=/Game/Creations/GInstances/MainGm.MainGm_C
+[2019.02.14-01.36.01:320][527]LogAIModule: Creating AISystem for world MultiplayerLobby
+[2019.02.14-01.36.01:321][527]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.02.14-01.36.01:322][527]LogWorld: Bringing World /Game/Creations/Maps/UEDPIE_2_MultiplayerLobby.MultiplayerLobby up for play (max tick rate 60) at 2019.02.13-17.36.01
+[2019.02.14-01.36.01:323][527]LogWorld: Bringing up level for play took: 0.000692
+[2019.02.14-01.36.01:323][527]LogLoad: Took 0.211342 seconds to LoadMap(/Game/Creations/Maps/UEDPIE_1_MultiplayerLobby)
+[2019.02.14-01.36.01:339][528]LogNet: Client netspeed is 10000
+[2019.02.14-01.36.01:339][528]LogNet: Join request: /Game/Creations/Maps/MainMenu?Name=MSI-E86393BA4A414DD501A450A3DD1DBDE2?SplitscreenCount=1
+[2019.02.14-01.36.01:340][528]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.02.14-01.36.01:341][528]LogNet: Join succeeded: MSI-E86393BA4A414DD5
+[2019.02.14-01.36.14:570][155]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Creations/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Creations/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Creations/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Creations/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.02.14-01.36.14:640][155]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2019.02.14-01.36.14:640][155]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2019.02.14-01.36.14:643][155]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2019.02.14-01.36.14:643][155]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2019.02.14-01.36.14:676][155]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2019.02.14-01.36.14:676][155]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2019.02.14-01.36.14:677][155]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2019.02.14-01.36.14:677][155]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2019.02.14-01.36.14:677][155]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.14-01.36.14:678][155]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Creations/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Creations/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Creations/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Creations/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.02.14-01.36.14:701][155]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 158.104.227.197:52505, Name: IpConnection_5, Driver: GameNetDriver None, IsServer: YES, PC: mainPC_C_1, Owner: mainPC_C_1
+[2019.02.14-01.36.14:701][155]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 158.104.227.197:52505, Name: IpConnection_5, Driver: GameNetDriver None, IsServer: YES, PC: mainPC_C_1, Owner: mainPC_C_1, Channels: 11, Time: 2019.02.14-01.36.14
+[2019.02.14-01.36.14:701][155]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 158.104.227.197:52505, Name: IpConnection_5, Driver: GameNetDriver None, IsServer: YES, PC: mainPC_C_1, Owner: mainPC_C_1
+[2019.02.14-01.36.14:701][155]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 158.104.227.197:7777, Name: IpConnection_4, Driver: GameNetDriver IpNetDriver_5, IsServer: NO, PC: mainPC_C_0, Owner: mainPC_C_0
+[2019.02.14-01.36.14:701][155]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 158.104.227.197:7777, Name: IpConnection_4, Driver: GameNetDriver IpNetDriver_5, IsServer: NO, PC: mainPC_C_0, Owner: mainPC_C_0, Channels: 11, Time: 2019.02.14-01.36.14
+[2019.02.14-01.36.14:701][155]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 158.104.227.197:7777, Name: IpConnection_4, Driver: GameNetDriver IpNetDriver_5, IsServer: NO, PC: mainPC_C_0, Owner: mainPC_C_0
+[2019.02.14-01.36.14:708][155]LogExit: GameNetDriver None shut down
+[2019.02.14-01.36.14:708][155]LogExit: GameNetDriver None shut down
+[2019.02.14-01.36.14:713][155]LogPlayLevel: Error: No PIE world was found when attempting to gather references after GC.
+[2019.02.14-01.36.14:890][155]LogWindows: Windows GetLastError: The operation completed successfully. (0)
