@@ -1,3 +1,9 @@
+## 2/18/19
+
+Locally spawning players into the world works now. 
+
+Took one look at how much I'd have to do to move everything I'd already created so that it would work on servers and closed my session. See you tomorrow!
+
 ## 2/13-2/14/19
 
 Several very long nights later... the lobby chat system now works! Huzzah!
