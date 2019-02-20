@@ -1,6 +1,18 @@
+## 2/19/19
+
+Player characters now replicate properly; remote clients can now see the locations and rotations of actors on the server, including other replicated player characters.
+
+	Basically this just means that players can now see each other properly in game and the server updates everyone properly when someone moves.
+
+	https://forums.unrealengine.com/development-discussion/blueprint-visual-scripting/40390-problem-with-character-rotation-on-client
+
 ## 2/18/19
 
 Locally spawning players into the world works now. 
+
+	https://wiki.unrealengine.com/Replication
+
+	https://forums.unrealengine.com/development-discussion/blueprint-visual-scripting/2238-come-learn-blueprint-multiplayer-with-me-aka-tom-s-a-glutton-for-punishment/page3?2107-Come-Learn-Blueprint-Multiplayer-with-me!-(aka-Tom-s-a-Glutton-for-Punishment)=&viewfull=1
 
 Took one look at how much I'd have to do to move everything I'd already created so that it would work on servers and closed my session. See you tomorrow!
 
