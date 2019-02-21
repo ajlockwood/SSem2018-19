@@ -1,3 +1,13 @@
+## 2/20/19 
+
+Began work on converting the menu and gameplay work I had done in a single player context to multiplayer. 
+
+	Players who enter the main game after a multiplayer lobby are now greeted with a pre-game movement phase followed by a unique ability selection phase.
+
+	Shots fired by the player now occur on the server and replicate to clients properly. I think I'm getting the hang of this!
+
+Also did some work on commenting functions and making things a little prettier.
+
 ## 2/19/19
 
 Player characters now replicate properly; remote clients can now see the locations and rotations of actors on the server, including other replicated player characters.
@@ -64,7 +74,7 @@ Added Swap
 
 Swap:
 
-  A fast projectile that swaps the location of the player hit with the player who fired it. Snares for 0.3 seconds.
+  A fast projectile that swaps the location of the player hit with the player who fired it. Deals no damage and snares for 0.3 seconds.
 
 ## 2/7/19
 Added Shockwave and DualSMG
