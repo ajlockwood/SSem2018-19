@@ -2,9 +2,11 @@
 
 Began work on converting the menu and gameplay work I had done in a single player context to multiplayer. 
 
-	Players who enter the main game after a multiplayer lobby are now greeted with a pre-game movement phase followed by a unique ability selection phase.
+Players who enter the main game after a multiplayer lobby are now greeted with a pre-game movement phase followed by a unique ability selection phase.
 
-	Shots fired by the player now occur on the server and replicate to clients properly. I think I'm getting the hang of this!
+Shots fired by the player now occur on the server and replicate to clients properly. I think I'm getting the hang of this!
+
+	https://docs.unrealengine.com/en-us/Resources/ContentExamples/Networking
 
 Also did some work on commenting functions and making things a little prettier.
 
