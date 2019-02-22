@@ -1,0 +1,343 @@
+﻿Log file open, 02/19/19 19:07:01
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Illuminate
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1524491935) SRandInit(-1524491935).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3794801, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogInit: Warning: Passing commandline switches using / instead of - has been deprecated and will be removed in future versions of Unreal Engine.
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.342733
+LogPluginManager: Warning: Plugin 'AdvancedSessions' exists at '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Plugins/AdvancedSessions/AdvancedSessions/AdvancedSessions.uplugin' and '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Plugins/AdvancedSessions/AdvancedSessions.uplugin' - second location will be ignored
+LogD3D11RHI: Aftermath initialized
+LogInit: Warning: Passing commandline switches using / instead of - has been deprecated and will be removed in future versions of Unreal Engine.
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemSteam/Binaries/Win64/UE4Editor-OnlineSubsystemSteam.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Plugins/AdvancedSessions/AdvancedSessions/Binaries/Win64/UE4Editor-AdvancedSessions.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Plugins/AdvancedSessions/AdvancedSteamSessions/Binaries/Win64/UE4Editor-AdvancedSteamSessions.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemSteam
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin AdvancedSessions
+LogPluginManager: Mounting plugin AdvancedSteamSessions
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogOnline: Display: STEAM: Loading Steam SDK 1.39
+LogWindows: Failed to load '../../../Engine/Binaries/ThirdParty/Steamworks/Steamv139/Win64/steamclient64.dll' (GetLastError=126)
+LogWindows: File '../../../Engine/Binaries/ThirdParty/Steamworks/Steamv139/Win64/steamclient64.dll' does not exist
+LogOnline: Warning: STEAM: Steam API disabled!
+LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.18-CL-3794801
+LogInit: Engine Version: 4.18.2-3794801+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Dec  8 2017 02:04:53
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  /Game/Creations/Maps/TestMap -game -PIEVIACONSOLE -ResX=640 -ResY=480  -Multiprocess -messaging -SessionName="Play in Standalone Game" -port=17777 -windowed GameUserSettingsINI="C:/Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Saved/Config/Windows/PIEGameUserSettings0.ini" -MultiprocessSaveConfig  -MultiprocessOSS -server -log 
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.02.20-03.07.12:302][  0]LogInit: Selected Device Profile: [Windows]
+[2019.02.20-03.07.12:303][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.02.20-03.07.12:329][  0]LogInit: Computer: MSI
+[2019.02.20-03.07.12:331][  0]LogInit: User: Alex
+[2019.02.20-03.07.12:335][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.02.20-03.07.12:335][  0]LogInit: High frequency timer resolution =2.533214 MHz
+[2019.02.20-03.07.12:338][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.02.20-03.07.12:339][  0]LogMemory: Platform Memory Stats for Windows
+[2019.02.20-03.07.12:340][  0]LogMemory: Process Physical Memory: 274.94 MB used, 274.94 MB peak
+[2019.02.20-03.07.12:341][  0]LogMemory: Process Virtual Memory: 274.09 MB used, 274.09 MB peak
+[2019.02.20-03.07.12:345][  0]LogMemory: Physical Memory: 11319.98 MB used,  4953.35 MB free, 16273.34 MB total
+[2019.02.20-03.07.12:348][  0]LogMemory: Virtual Memory: 4787.88 MB used,  4953.35 MB free, 134217728.00 MB total
+[2019.02.20-03.07.16:439][  0]LogInit: Using OS detected language (en-US).
+[2019.02.20-03.07.16:439][  0]LogInit: Using OS detected locale (en-US).
+[2019.02.20-03.07.16:453][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.02.20-03.07.18:090][  0]LogShaderCompilers: Guid format shader working directory is -30 characters bigger than the processId version (../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Intermediate/Shaders/WorkingDirectory/18224/).
+[2019.02.20-03.07.18:091][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/lockw/AppData/Local/Temp/UnrealShaderWorkingDir/D0A2E69A4560FE3978E615B90A95355E/'.
+[2019.02.20-03.07.18:095][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.02.20-03.07.20:560][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.02.20-03.07.20:831][  0]LogDerivedDataCache: Loaded boot cache 0.26s 78MB C:/Users/lockw/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2019.02.20-03.07.20:831][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/lockw/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2019.02.20-03.07.20:873][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.02.20-03.07.20:873][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.02.20-03.07.20:876][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.02.20-03.07.20:878][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.02.20-03.07.20:915][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.02.20-03.07.21:073][  0]LogDerivedDataCache: Using Local data cache path C:/Users/lockw/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.02.20-03.07.24:147][  0]LogAssetRegistry: FAssetRegistry took 0.0546 seconds to start up
+[2019.02.20-03.07.24:189][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.040933 seconds
+[2019.02.20-03.07.26:015][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.02.20-03.07.26:345][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.02.20-03.07.26:669][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.02.20-03.07.26:938][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.02.20-03.07.26:938][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.02.20-03.07.30:721][  0]LogInit: Selected Device Profile: [Windows]
+[2019.02.20-03.07.32:531][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.02.20-03.07.33:100][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.02.20-03.07.33:100][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.02.20-03.07.33:101][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.02.20-03.07.33:102][  0]LogMeshReduction: No automatic mesh merging module available
+[2019.02.20-03.07.33:102][  0]LogMeshMerging: No automatic mesh merging module available
+[2019.02.20-03.07.33:176][  0]LogNetVersion: Illuminate , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1556659199)
+[2019.02.20-03.07.33:784][  0]LogInit: Warning: Passing commandline switches using / instead of - has been deprecated and will be removed in future versions of Unreal Engine.
+[2019.02.20-03.07.33:787][  0]LogInit: Warning: Passing commandline switches using / instead of - has been deprecated and will be removed in future versions of Unreal Engine.
+[2019.02.20-03.07.33:789][  0]LogInit: Warning: Passing commandline switches using / instead of - has been deprecated and will be removed in future versions of Unreal Engine.
+[2019.02.20-03.07.42:595][  0]LogCollectionManager: Loaded 0 collections in 0.006808 seconds
+[2019.02.20-03.07.42:706][  0]LogFileCache: Scanning file cache for directory 'C:/Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Saved/Collections/' took 0.01s
+[2019.02.20-03.07.42:706][  0]LogFileCache: Scanning file cache for directory 'C:/Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Developers/Alex/Collections/' took 0.01s
+[2019.02.20-03.07.42:708][  0]LogFileCache: Scanning file cache for directory 'C:/Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Collections/' took 0.01s
+[2019.02.20-03.07.42:709][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.02.20-03.07.42:709][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.003916 seconds (updated 0 objects)
+[2019.02.20-03.07.45:107][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.02.20-03.07.45:292][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.02.20-03.07.49:562][  0]LogInit: Warning: Passing commandline switches using / instead of - has been deprecated and will be removed in future versions of Unreal Engine.
+[2019.02.20-03.07.49:566][  0]SourceControl: Source control is disabled
+[2019.02.20-03.07.49:570][  0]SourceControl: Source control is disabled
+[2019.02.20-03.07.49:933][  0]SourceControl: Source control is disabled
+[2019.02.20-03.07.51:956][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.02.20-03.07.53:750][  0]LogOcInput: OculusInput pre-init called
+[2019.02.20-03.07.54:512][  0]LogUObjectArray: 38553 objects as part of root set at end of initial load.
+[2019.02.20-03.07.54:513][  0]LogUObjectAllocator: 8280256 out of 0 bytes used by permanent object pool.
+[2019.02.20-03.07.54:514][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.02.20-03.07.54:894][  0]LogEngine: Initializing Engine...
+[2019.02.20-03.07.54:996][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.02.20-03.07.54:996][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.02.20-03.07.55:028][  0]LogInit: Texture streaming: Disabled
+[2019.02.20-03.07.55:054][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2019.02.20-03.07.57:813][  0]LogInit: Display: Game Engine Initialized.
+[2019.02.20-03.07.57:813][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.02.20-03.07.59:141][  0]LogInit: Display: Starting Game.
+[2019.02.20-03.07.59:142][  0]LogNet: Browse: /Game/Creations/Maps/TestMap?Name=Player
+[2019.02.20-03.07.59:145][  0]LogLoad: LoadMap: /Game/Creations/Maps/TestMap?Name=Player
+[2019.02.20-03.08.01:398][  0]LogAIModule: Creating AISystem for world TestMap
+[2019.02.20-03.08.01:399][  0]LogLoad: Game class is 'MainGm_C'
+[2019.02.20-03.08.01:402][  0]LogOnline: Warning: STEAM: Steam API disabled!
+[2019.02.20-03.08.01:403][  0]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2019.02.20-03.08.01:403][  0]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.02.20-03.08.01:404][  0]LogTemp: Display: ParseSettings for IpNetDriver_0
+[2019.02.20-03.08.01:404][  0]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.02.20-03.08.01:405][  0]LogInit: WinSock: Socket queue 131072 / 131072
+[2019.02.20-03.08.01:409][  0]LogInit: WinSock: I am MSI (158.104.227.197:0)
+[2019.02.20-03.08.01:412][  0]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.02.20-03.08.01:412][  0]LogNet: GameNetDriver IpNetDriver_0 IpNetDriver listening on port 17777
+[2019.02.20-03.08.01:426][  0]LogWorld: Bringing World /Game/Creations/Maps/TestMap.TestMap up for play (max tick rate 30) at 2019.02.19-19.08.01
+[2019.02.20-03.08.01:850][  0]LogOnline: Warning: OSS: AutoLogin missing AUTH_LOGIN=<login id>.
+[2019.02.20-03.08.01:853][  0]LogWorld: Bringing up level for play took: 0.440649
+[2019.02.20-03.08.01:855][  0]LogScript: Warning: Accessed None trying to read property MainMenuWidget
+	TestMap_C /Game/Creations/Maps/TestMap.TestMap:PersistentLevel.TestMap_C_1
+	Function /Game/Creations/Maps/TestMap.TestMap_C:ExecuteUbergraph_TestMap:0A94
+[2019.02.20-03.08.01:855][  0]LogScript: Warning: Script call stack:
+	Function /Game/Creations/Maps/TestMap.TestMap_C:ReceiveBeginPlay
+	Function /Game/Creations/Maps/TestMap.TestMap_C:ExecuteUbergraph_TestMap
+
+[2019.02.20-03.08.01:856][  0]LogBlueprintUserMessages: [MainGm_C_0] call to start main game
+[2019.02.20-03.08.01:856][  0]LogLoad: Took 2.711586 seconds to LoadMap(/Game/Creations/Maps/TestMap)
+[2019.02.20-03.08.02:769][  0]LogLoad: (Engine Initialization) Total time: 65.96 seconds
+[2019.02.20-03.08.02:769][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.02.20-03.08.02:772][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2019.02.20-03.08.02:772][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2019.02.20-03.08.05:173][ 38]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:59725
+[2019.02.20-03.08.05:173][ 38]LogHandshake: SendConnectChallenge. Timestamp: 2.398893, Cookie: 099122155084122178030144228068154022149107165073255171242072
+[2019.02.20-03.08.05:184][ 38]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:59726
+[2019.02.20-03.08.05:190][ 38]LogHandshake: SendConnectChallenge. Timestamp: 2.398893, Cookie: 125202224232115023010048087064236106051003251219027250082242
+[2019.02.20-03.08.06:107][ 66]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:59725
+[2019.02.20-03.08.06:107][ 66]LogHandshake: SendChallengeAck. InCookie: 099122155084122178030144228068154022149107165073255171242072
+[2019.02.20-03.08.06:109][ 66]LogNet: Server accepting post-challenge connection from: 127.0.0.1:59725
+[2019.02.20-03.08.06:110][ 66]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.02.20-03.08.06:110][ 66]LogNet: NotifyAcceptedConnection: Name: TestMap, TimeStamp: 02/19/19 19:08:06, [UNetConnection] RemoteAddr: 127.0.0.1:59725, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL
+[2019.02.20-03.08.06:111][ 66]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:59725, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL
+[2019.02.20-03.08.06:140][ 67]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:59726
+[2019.02.20-03.08.06:140][ 67]LogHandshake: SendChallengeAck. InCookie: 125202224232115023010048087064236106051003251219027250082242
+[2019.02.20-03.08.06:142][ 67]LogNet: Server accepting post-challenge connection from: 127.0.0.1:59726
+[2019.02.20-03.08.06:143][ 67]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.02.20-03.08.06:143][ 67]LogNet: NotifyAcceptedConnection: Name: TestMap, TimeStamp: 02/19/19 19:08:06, [UNetConnection] RemoteAddr: 127.0.0.1:59726, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL
+[2019.02.20-03.08.06:144][ 67]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:59726, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL
+[2019.02.20-03.08.06:339][ 73]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Creations/Maps/TestMap.TestMap: Accepted
+[2019.02.20-03.08.06:340][ 73]LogNet: Remote platform little endian=1
+[2019.02.20-03.08.06:342][ 73]LogNet: This platform little endian=1
+[2019.02.20-03.08.06:343][ 73]LogNetVersion: Illuminate 1.0.0.0, NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1067519852)
+[2019.02.20-03.08.06:345][ 73]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Creations/Maps/TestMap.TestMap: Accepted
+[2019.02.20-03.08.06:346][ 73]LogNet: Remote platform little endian=1
+[2019.02.20-03.08.06:351][ 73]LogNet: This platform little endian=1
+[2019.02.20-03.08.06:439][ 76]LogNet: Login request: /Game/Creations/Maps/MainMenu?Name=MSI-A779DC4941BA1CE810C17B8F1FB195B9 userId: MSI-A779DC4941BA1CE810C17B8F1FB195B9
+[2019.02.20-03.08.06:439][ 76]LogNet: Login request: /Game/Creations/Maps/MainMenu?Name=MSI-19DD959F4E2209B5EDC4ED8C70B8AE76 userId: MSI-19DD959F4E2209B5EDC4ED8C70B8AE76
+[2019.02.20-03.08.06:473][ 77]LogNet: Client netspeed is 10000
+[2019.02.20-03.08.06:473][ 77]LogNet: Client netspeed is 10000
+[2019.02.20-03.08.11:170][213]LogNet: Join request: /Game/Creations/Maps/MainMenu?Name=MSI-19DD959F4E2209B5EDC4ED8C70B8AE76?SplitscreenCount=1
+[2019.02.20-03.08.11:173][213]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2019.02.20-03.08.11:194][213]LogNet: Join succeeded: MSI-19DD959F4E2209B5
+[2019.02.20-03.08.11:204][213]LogNet: Join request: /Game/Creations/Maps/MainMenu?Name=MSI-A779DC4941BA1CE810C17B8F1FB195B9?SplitscreenCount=1
+[2019.02.20-03.08.11:207][213]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2019.02.20-03.08.11:223][213]LogNet: Join succeeded: MSI-A779DC4941BA1CE8

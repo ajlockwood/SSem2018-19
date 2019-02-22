@@ -1,3 +1,9 @@
+## 2/21/19
+
+Converted the damage numbers widget to show up properly on the screen of the player who dealt damage. Huzzah!
+
+Also cleaned up the function that was used to generate those widgets. It was really ugly before and now its only a little ugly.
+
 ## 2/20/19 
 
 Began work on converting the menu and gameplay work I had done in a single player context to multiplayer. 
