@@ -1,8 +1,18 @@
+## 2/22/19
+
+Added respawning for dead players and fixed some more ability-related bugs.
+
+Temporarily disabled Blink, Teleport, and Swap pending a fix.
+
 ## 2/21/19
 
 Converted the damage numbers widget to show up properly on the screen of the player who dealt damage. Huzzah!
 
 Also cleaned up the function that was used to generate those widgets. It was really ugly before and now its only a little ugly.
+
+Additionally, players all have their HUD's updated correctly when they take damage now.
+
+Fixed some replication-related bugs for projectiles that spawn other projectiles.
 
 ## 2/20/19 
 
