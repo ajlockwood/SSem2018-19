@@ -1,3 +1,9 @@
+## 2/26/19
+
+Spent the past few days getting assets ready for packaging. Packaging is a time-consuming process that gets all the code in the project ready for distribution.
+
+This will be used to further testing by putting the project on another system and seeing what bugs this generates.
+
 ## 2/22/19
 
 Added respawning for dead players and fixed some more ability-related bugs.

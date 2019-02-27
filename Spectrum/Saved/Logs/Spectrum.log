@@ -1,20 +1,18 @@
-﻿Log file open, 04/18/18 09:51:15
+﻿Log file open, 02/26/19 18:28:00
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
-LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
-LogWindows: File 'VSPerf140.dll' does not exist
 LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
 LogWindows: File 'VtuneApi.dll' does not exist
 LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
 LogWindows: File 'VtuneApi32e.dll' does not exist
 LogInit: Display: Running engine for game: Spectrum
 LogPlatformFile: Not using cached read wrapper
-LogInit: Display: RandInit(-1174131960) SRandInit(-1174131960).
+LogInit: Display: RandInit(-60311580) SRandInit(-60311580).
 LogInit: Read version file with build ID '3709383'
 LogInit: Overriding engine version to CL 3794801, compatible CL 3709383
 LogInit: Registered custom module enumerator with build ID '3709383'
 LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
-LogStats: Stats thread started at 1.928654
+LogStats: Stats thread started at 0.271561
 LogD3D11RHI: Aftermath initialized
 LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
 LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
@@ -166,6 +164,9 @@ LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
 LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
 LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
 LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogModuleManager: Warning: No filename provided for module OnlineSubsystemSteam
+LogModuleManager: Warning: ModuleManager: Unable to load module 'OnlineSubsystemSteam' because the file 'C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/' was not found.
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
 LogInit: Build: ++UE4+Release-4.18-CL-3794801
 LogInit: Engine Version: 4.18.2-3794801+++UE4+Release-4.18
 LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
@@ -196,318 +197,492 @@ LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win
 LogInit: Installed Engine Build: 1
 LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
 LogInit: Object subsystem initialized
-[2018.04.18-16.51.32:552][  0]LogInit: Selected Device Profile: [Windows]
-[2018.04.18-16.51.32:552][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
-[2018.04.18-16.51.33:152][  0]LogInit: Computer: MSI
-[2018.04.18-16.51.33:152][  0]LogInit: User: Alex
-[2018.04.18-16.51.33:152][  0]LogInit: CPU Page size=4096, Cores=4
-[2018.04.18-16.51.33:152][  0]LogInit: High frequency timer resolution =2.533198 MHz
-[2018.04.18-16.51.33:200][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
-[2018.04.18-16.51.33:200][  0]LogMemory: Platform Memory Stats for Windows
-[2018.04.18-16.51.33:200][  0]LogMemory: Process Physical Memory: 274.75 MB used, 274.75 MB peak
-[2018.04.18-16.51.33:200][  0]LogMemory: Process Virtual Memory: 271.87 MB used, 271.87 MB peak
-[2018.04.18-16.51.33:200][  0]LogMemory: Physical Memory: 15811.64 MB used,  461.70 MB free, 16273.34 MB total
-[2018.04.18-16.51.33:200][  0]LogMemory: Virtual Memory: 684.78 MB used,  461.70 MB free, 134217728.00 MB total
-[2018.04.18-16.51.41:485][  0]LogInit: Using OS detected language (en-US).
-[2018.04.18-16.51.41:485][  0]LogInit: Using OS detected locale (en-US).
-[2018.04.18-16.51.43:088][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
-[2018.04.18-16.51.46:065][  0]LogInit: Setting process to per monitor DPI aware
-[2018.04.18-16.52.20:314][  0]LogD3D11RHI: D3D11 adapters:
-[2018.04.18-16.52.22:194][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 965M' (Feature Level 11_0)
-[2018.04.18-16.52.22:195][  0]LogD3D11RHI:       2010/0/8136 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
-[2018.04.18-16.52.22:821][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
-[2018.04.18-16.52.22:821][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
-[2018.04.18-16.52.22:982][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
-[2018.04.18-16.52.22:982][  0]LogD3D11RHI:       0/0/8136 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
-[2018.04.18-16.52.22:982][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
-[2018.04.18-16.52.23:070][  0]LogD3D11RHI: Creating new Direct3DDevice
-[2018.04.18-16.52.23:078][  0]LogD3D11RHI:     GPU DeviceId: 0x13d9 (for the marketing name, search the web for "GPU Device Id")
-[2018.04.18-16.52.23:078][  0]LogWindows: EnumDisplayDevices:
-[2018.04.18-16.52.23:078][  0]LogWindows:    0. 'Intel(R) HD Graphics 4600' (P:1 D:1)
-[2018.04.18-16.52.23:104][  0]LogWindows:    1. 'Intel(R) HD Graphics 4600' (P:0 D:0)
-[2018.04.18-16.52.23:104][  0]LogWindows:    2. 'Intel(R) HD Graphics 4600' (P:0 D:0)
-[2018.04.18-16.52.23:104][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
-[2018.04.18-16.52.23:104][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 965M
-[2018.04.18-16.52.23:104][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
-[2018.04.18-16.52.23:104][  0]LogD3D11RHI:      Driver Date: Unknown
-[2018.04.18-16.52.23:104][  0]LogRHI: Texture pool is 1407 MB (70% of 2010 MB)
-[2018.04.18-16.52.23:314][  0]LogD3D11RHI: Async texture creation enabled
-[2018.04.18-16.52.25:352][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
-[2018.04.18-16.52.26:225][  0]LogShaderCompilers: Guid format shader working directory is -28 characters bigger than the processId version (../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Spectrum/Intermediate/Shaders/WorkingDirectory/89808/).
-[2018.04.18-16.52.26:225][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/lockw/AppData/Local/Temp/UnrealShaderWorkingDir/83DA1C524D0856235E7F848113011986/'.
-[2018.04.18-16.52.26:274][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
-[2018.04.18-17.29.50:127][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
-[2018.04.18-17.29.51:162][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
-[2018.04.18-17.29.51:684][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
-[2018.04.18-17.29.52:689][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
-[2018.04.18-17.29.54:761][  0]LogTemp: Display: Loaded TP MacTargetPlatform
-[2018.04.18-17.29.55:028][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
-[2018.04.18-17.29.55:317][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
-[2018.04.18-17.29.55:560][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
-[2018.04.18-17.29.55:859][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
-[2018.04.18-17.29.56:430][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
-[2018.04.18-17.29.56:683][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
-[2018.04.18-17.29.57:031][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
-[2018.04.18-17.29.57:270][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
-[2018.04.18-17.29.57:594][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
-[2018.04.18-17.29.58:491][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
-[2018.04.18-17.29.58:491][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
-[2018.04.18-17.29.58:952][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.04.18-17.29.59:274][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
-[2018.04.18-17.30.00:921][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
-[2018.04.18-17.30.01:496][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
-[2018.04.18-17.30.01:754][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
-[2018.04.18-17.30.01:957][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
-[2018.04.18-17.30.02:129][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
-[2018.04.18-17.30.02:758][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
-[2018.04.18-17.30.02:783][  0]LogTargetPlatformManager: Display: Building Assets For Windows
-[2018.04.18-17.30.38:576][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
-[2018.04.18-17.31.04:125][  0]LogDerivedDataCache: Loaded boot cache 25.33s 78MB C:/Users/lockw/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
-[2018.04.18-17.31.04:125][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/lockw/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
-[2018.04.18-17.31.04:125][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Spectrum/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
-[2018.04.18-17.31.04:125][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
-[2018.04.18-17.31.04:161][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Spectrum/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2018.04.18-17.31.04:161][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
-[2018.04.18-17.31.04:867][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
-[2018.04.18-17.31.05:244][  0]LogDerivedDataCache: Using Local data cache path C:/Users/lockw/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
-[2018.04.18-17.31.07:307][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
-[2018.04.18-17.31.09:800][  0]LogSlate: Using Freetype 2.6.0
-[2018.04.18-17.31.11:495][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2018.04.18-17.31.11:656][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2018.04.18-17.33.05:383][  0]LogInit: Selected Device Profile: [Windows]
-[2018.04.18-17.33.22:496][  0]LogSimplygon: Simplygon DLL not present - disabling.
-[2018.04.18-17.33.22:805][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
-[2018.04.18-17.33.22:805][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
-[2018.04.18-17.33.22:805][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
-[2018.04.18-17.33.22:805][  0]LogMeshReduction: No automatic mesh merging module available
-[2018.04.18-17.33.22:805][  0]LogMeshMerging: No automatic mesh merging module available
-[2018.04.18-17.33.26:719][  0]LogNetVersion: Spectrum , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 4014071454)
-[2018.04.18-17.33.32:953][  0]LogAssetRegistry: FAssetRegistry took 0.1257 seconds to start up
-[2018.04.18-17.33.58:269][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.816080 seconds
-[2018.04.18-17.33.58:477][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
-[2018.04.18-17.33.58:480][  0]LogUObjectAllocator: 7372016 out of 0 bytes used by permanent object pool.
-[2018.04.18-17.33.58:480][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
-[2018.04.18-17.33.58:951][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
-[2018.04.18-17.35.01:974][  0]LogTcpMessaging: Initializing TcpMessaging bridge
-[2018.04.18-17.35.02:173][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
-[2018.04.18-17.35.08:126][  0]LogMaterial: Uniform references updated for custom material expression Custom.
-[2018.04.18-17.35.14:301][  0]SourceControl: Source control is disabled
-[2018.04.18-17.35.14:337][  0]SourceControl: Source control is disabled
-[2018.04.18-17.35.14:996][  0]SourceControl: Source control is disabled
-[2018.04.18-17.35.15:511][  0]SourceControl: Source control is disabled
-[2018.04.18-17.35.28:481][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
-[2018.04.18-17.35.31:087][  0]LogOcInput: OculusInput pre-init called
-[2018.04.18-17.35.38:831][  0]LogAutomationTest: Warning: Smoke tests took > 2s to run: 2.45s
-[2018.04.18-17.35.40:116][  0]LogEngine: Initializing Engine...
-[2018.04.18-17.35.40:702][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2018.04.18-17.35.45:576][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
-[2018.04.18-17.35.45:600][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.003 s
-[2018.04.18-17.35.50:674][  0]LogAIModule: Creating AISystem for world Untitled
-[2018.04.18-17.35.52:916][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
-[2018.04.18-17.36.00:076][  0]LogInit: FAudioDevice initialized.
-[2018.04.18-17.36.04:310][  0]LogDerivedDataCache: Saved boot cache 4.11s 78MB C:/Users/lockw/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
-[2018.04.18-17.36.05:042][  0]LogInit: Texture streaming: Enabled
-[2018.04.18-17.36.06:609][  0]LogEngineSessionManager: EngineSessionManager initialized
-[2018.04.18-17.36.08:091][  0]LogInit: Transaction tracking system initialized
-[2018.04.18-17.36.10:749][  0]BlueprintLog: New page: Editor Load
-[2018.04.18-17.36.18:613][  0]LocalizationService: Localization service is disabled
-[2018.04.18-17.36.22:833][  0]LogLinker: Warning: Can't find file '/Game/TwinStickBP/TwinStickOverview'
-[2018.04.18-17.36.22:865][  0]LogLinker: Warning: Can't find file '/Game/TwinStickBP/TwinStickOverview'
-[2018.04.18-17.36.22:891][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/TwinStickBP/TwinStickOverview.TwinStickOverview_C'
-[2018.04.18-17.36.26:796][  0]LogConsoleResponse: Display: 
-[2018.04.18-17.36.28:202][  0]LogMaterial: Missing cached shader map for material Cross_Mat, compiling. 
-[2018.04.18-17.36.31:299][  0]LogMaterial: Missing cached shader map for material PhAT_ElemSelectedMaterial, compiling. 
-[2018.04.18-17.36.31:442][  0]LogMaterial: Missing cached shader map for material PhAT_NoCollisionMaterial, compiling. 
-[2018.04.18-17.36.31:632][  0]LogMaterial: Missing cached shader map for material PhAT_UnselectedMaterial, compiling. 
-[2018.04.18-17.36.31:824][  0]LogMaterial: Missing cached shader map for material Tick_Mat, compiling. 
-[2018.04.18-17.36.32:218][  0]LogMaterial: Missing cached shader map for material WidgetMaterial, compiling. 
-[2018.04.18-17.36.32:264][  0]LogMaterial: Missing cached shader map for material WidgetMaterial_Current, compiling. 
-[2018.04.18-17.36.32:502][  0]LogMaterial: Missing cached shader map for material WidgetMaterial_X, compiling. 
-[2018.04.18-17.36.32:786][  0]LogMaterial: Missing cached shader map for material WidgetMaterial_Y, compiling. 
-[2018.04.18-17.36.32:846][  0]LogMaterial: Missing cached shader map for material WidgetMaterial_Z, compiling. 
-[2018.04.18-17.36.38:729][  0]LogMaterial: Missing cached shader map for material M_StreamingPause, compiling. 
-[2018.04.18-17.36.52:287][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
-[2018.04.18-17.36.52:561][  0]LogCook: Display: Mobile HDR setting 1
-[2018.04.18-17.36.52:863][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
-[2018.04.18-17.36.53:898][  0]LogFileCache: Scanning file cache for directory 'C:/Users/lockw/OneDrive/Documents/Unreal Projects/Spectrum/Content/' took 3.09s
-[2018.04.18-17.37.33:097][  0]SourceControl: Source control is disabled
-[2018.04.18-17.37.33:690][  0]Cmd: MAP LOAD FILE="../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Spectrum/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2018.04.18-17.37.35:536][  0]LogSlate: Took 0.015797 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
-[2018.04.18-18.02.24:073][  0]LightingResults: New page: Lighting Build
-[2018.04.18-18.02.29:424][  0]MapCheck: New page: Map Check
-[2018.04.18-18.02.29:424][  0]LightingResults: New page: Lighting Build
-[2018.04.18-18.02.34:234][  0]LogAIModule: Creating AISystem for world Untitled
-[2018.04.18-18.02.34:996][  0]LoadErrors: New page: New Map
-[2018.04.18-18.02.47:123][  0]LogCollectionManager: Loaded 0 collections in 0.024759 seconds
-[2018.04.18-18.02.47:922][  0]LogFileCache: Scanning file cache for directory 'C:/Users/lockw/OneDrive/Documents/Unreal Projects/Spectrum/Saved/Collections/' took 0.03s
-[2018.04.18-18.02.47:922][  0]LogFileCache: Scanning file cache for directory 'C:/Users/lockw/OneDrive/Documents/Unreal Projects/Spectrum/Content/Developers/Alex/Collections/' took 0.01s
-[2018.04.18-18.02.47:922][  0]LogFileCache: Scanning file cache for directory 'C:/Users/lockw/OneDrive/Documents/Unreal Projects/Spectrum/Content/Collections/' took 0.01s
-[2018.04.18-18.02.47:922][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
-[2018.04.18-18.02.48:188][  0]LogContentBrowser: Native class hierarchy populated in 0.2519 seconds. Added 2363 classes and 519 folders.
-[2018.04.18-18.02.48:705][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
-[2018.04.18-18.02.55:424][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0007 seconds. Added 0 classes and 0 folders.
-[2018.04.18-18.02.55:828][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
-[2018.04.18-18.02.57:493][  0]LogSlate: Took 0.021021 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
-[2018.04.18-18.02.57:827][  0]LogSlate: Took 0.068652 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
-[2018.04.18-18.02.59:495][  0]LogMaterial: Missing cached shader map for material LevelGridMaterial2, compiling. 
-[2018.04.18-18.03.00:404][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
-[2018.04.18-18.03.13:288][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
-[2018.04.18-18.03.13:288][  0]LogLoad: (Engine Initialization) Total time: 4354.67 seconds
-[2018.04.18-18.03.13:288][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
-[2018.04.18-18.03.13:360][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
-[2018.04.18-18.03.14:953][  0]LogContentStreaming: Texture pool size now 1000 MB
-[2018.04.18-18.03.28:237][ 34]LogAssetRegistry: Asset discovery search completed in 1795.3961 seconds
-[2018.04.18-18.03.28:273][ 34]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
-[2018.04.18-18.03.28:273][ 34]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000224 seconds (updated 0 objects)
-[2018.04.18-18.03.29:046][ 34]LogSlate: Took 0.094989 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
-[2018.04.18-18.03.57:614][680]LogAudioDerivedData: Display: Building compressed audio format OGG wave Wall_Jump_16bit...
-[2018.04.18-18.04.02:478][915]LogSlate: Took 0.015597 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
-[2018.04.18-18.04.03:542][915]LogSlate: Took 0.014790 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
-[2018.04.18-18.04.13:989][915]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 256X256)
-[2018.04.18-18.04.13:989][915]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 256X256)
-[2018.04.18-18.04.14:190][915]LogAudioDerivedData: Display: Building compressed audio format OGG wave Step_hard_a_3_16...
-[2018.04.18-18.04.14:520][915]LogMaterial: Missing cached shader map for material BlueMaterial, compiling. 
-[2018.04.18-18.04.15:946][915]LogMaterial: Missing cached shader map for material JumpWallParticleMaterial, compiling. 
-[2018.04.18-18.04.16:839][915]LogStaticMesh: Building static mesh Cube1...
-[2018.04.18-18.04.17:000][915]LogStaticMesh: Built static mesh [0.21s] /Game/Experimentals/Imported/Cube1.Cube1
-[2018.04.18-18.04.19:696][915]LogMaterial: Missing cached shader map for material CubeMaterial, compiling. 
-[2018.04.18-18.04.19:806][915]LogAudioDerivedData: Display: Building compressed audio format OGG wave Step_hard_a_4_16...
-[2018.04.18-18.04.20:816][915]LogMaterial: Missing cached shader map for material BasicShapeMaterial, compiling. 
-[2018.04.18-18.04.23:344][915]LogMaterial: Missing cached shader map for material M_Ground_Gravel, compiling. 
-[2018.04.18-18.04.23:641][915]LogMaterial: Missing cached shader map for material YellowMaterial, compiling. 
-[2018.04.18-18.04.24:024][915]LogMaterial: Missing cached shader map for material RedMaterial, compiling. 
-[2018.04.18-18.04.24:150][915]LogMaterial: Missing cached shader map for material GreenMaterial, compiling. 
-[2018.04.18-18.04.24:277][915]LogMaterial: Missing cached shader map for material BlackMaterial, compiling. 
-[2018.04.18-18.04.24:425][915]LogMaterial: Missing cached shader map for material M_Brick_Cut_Stone, compiling. 
-[2018.04.18-18.04.24:536][915]LogMaterial: Missing cached shader map for material Material, compiling. 
-[2018.04.18-18.04.24:714][915]LogMaterial: Missing cached shader map for material M_UE4Man_Body, compiling. 
-[2018.04.18-18.04.25:307][915]LogMaterial: Missing cached shader map for material M_UE4Man_Body, compiling. 
-[2018.04.18-18.04.26:017][915]LogMaterial: Missing cached shader map for material M_Brick_Clay_Beveled, compiling. 
-[2018.04.18-18.04.27:131][915]LogMaterial: Missing cached shader map for material M_Bush, compiling. 
-[2018.04.18-18.04.27:342][915]LogAudioDerivedData: Display: Building compressed audio format OGG wave Loop_Main...
-[2018.04.18-18.04.37:404][915]LogAIModule: Creating AISystem for world SpectrumFactoryMap
-[2018.04.18-18.04.43:182][915]Cmd: MAP LOAD FILE="../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Spectrum/Content/Experimentals/Map/SpectrumFactoryMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2018.04.18-18.04.43:223][915]LightingResults: New page: Lighting Build
-[2018.04.18-18.04.43:271][915]LoadErrors: New page: Loading map: SpectrumFactoryMap.umap
-[2018.04.18-18.04.43:347][915]MapCheck: New page: Map Check
-[2018.04.18-18.04.43:347][915]LightingResults: New page: Lighting Build
-[2018.04.18-18.04.47:442][915]LogEditorServer: Finished looking for orphan Actors (0.002 secs)
-[2018.04.18-18.04.48:138][915]Cmd: MAP CHECKDEP NOCLEARLOG
-[2018.04.18-18.05.25:469][915]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 37,232.564ms to complete.
-[2018.04.18-18.05.25:882][915]LogFileHelpers: Loading map 'SpectrumFactoryMap' took 43.167
-[2018.04.18-18.05.32:620][919]LogHttp: Warning: 00000236E9827400: request failed, libcurl error: 6 (Couldn't resolve host name)
-[2018.04.18-18.05.32:620][919]LogHttp: Warning: 00000236E9827400: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
-[2018.04.18-18.05.32:620][919]LogHttp: Warning: 00000236E9827400: libcurl info message cache 1 (Closing connection 0)
-[2018.04.18-18.26.26:995][217]LogTemp: Repeating last play command: Selected Viewport
-[2018.04.18-18.26.31:835][217]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Experimentals/Map/SpectrumFactoryMap.SpectrumFactoryMap:PersistentLevel' has LevelScriptBlueprint '/Game/Experimentals/Map/SpectrumFactoryMap.SpectrumFactoryMap:PersistentLevel.SpectrumFactoryMap' with GeneratedClass '/Game/Experimentals/Map/SpectrumFactoryMap.SpectrumFactoryMap_C' with ClassGeneratedBy '/Game/Experimentals/Map/SpectrumFactoryMap.SpectrumFactoryMap:PersistentLevel.SpectrumFactoryMap'
-[2018.04.18-18.26.32:051][217]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2018.04.18-18.26.32:859][217]PIE: New page: PIE session: SpectrumFactoryMap (Apr 18, 2018, 4:26:32 AM)
-[2018.04.18-18.26.33:190][217]LogPlayLevel: Creating play world package: /Game/Experimentals/Map/UEDPIE_0_SpectrumFactoryMap
-[2018.04.18-18.26.37:149][217]LogPlayLevel: PIE: StaticDuplicateObject took: (3.889420s)
-[2018.04.18-18.26.38:129][217]LogAIModule: Creating AISystem for world SpectrumFactoryMap
-[2018.04.18-18.26.38:509][217]LogPlayLevel: PIE: World Init took: (1.360255s)
-[2018.04.18-18.26.39:503][217]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Experimentals/Map/SpectrumFactoryMap.SpectrumFactoryMap to /Game/Experimentals/Map/UEDPIE_0_SpectrumFactoryMap.SpectrumFactoryMap (6.433961s)
-[2018.04.18-18.26.44:283][217]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
-[2018.04.18-18.26.44:738][217]LogInit: FAudioDevice initialized.
-[2018.04.18-18.26.50:477][217]LogLoad: Game class is 'SideScrollerGameMode_C'
-[2018.04.18-18.26.52:069][217]LogWorld: Bringing World /Game/Experimentals/Map/UEDPIE_0_SpectrumFactoryMap.SpectrumFactoryMap up for play (max tick rate 0) at 2018.04.18-11.26.52
-[2018.04.18-18.26.52:770][217]LogWorld: Bringing up level for play took: 1.327629
-[2018.04.18-18.27.02:134][217]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0443 seconds. Added 11 classes and 0 folders.
-[2018.04.18-18.27.02:738][217]PIE: Play in editor start time for /Game/Experimentals/Map/UEDPIE_0_SpectrumFactoryMap 31.273
-[2018.04.18-18.27.02:811][217]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Experimentals/Map/SpectrumFactoryMap.SpectrumFactoryMap:PersistentLevel' has LevelScriptBlueprint '/Game/Experimentals/Map/SpectrumFactoryMap.SpectrumFactoryMap:PersistentLevel.SpectrumFactoryMap' with GeneratedClass '/Game/Experimentals/Map/SpectrumFactoryMap.SpectrumFactoryMap_C' with ClassGeneratedBy '/Game/Experimentals/Map/SpectrumFactoryMap.SpectrumFactoryMap:PersistentLevel.SpectrumFactoryMap'
-[2018.04.18-18.31.02:662][113]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Experimentals/Map/SpectrumFactoryMap.SpectrumFactoryMap:PersistentLevel' has LevelScriptBlueprint '/Game/Experimentals/Map/SpectrumFactoryMap.SpectrumFactoryMap:PersistentLevel.SpectrumFactoryMap' with GeneratedClass '/Game/Experimentals/Map/SpectrumFactoryMap.SpectrumFactoryMap_C' with ClassGeneratedBy '/Game/Experimentals/Map/SpectrumFactoryMap.SpectrumFactoryMap:PersistentLevel.SpectrumFactoryMap'
-[2018.04.18-18.31.04:254][113]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Experimentals/Map/SpectrumFactoryMap.SpectrumFactoryMap:PersistentLevel' has LevelScriptBlueprint '/Game/Experimentals/Map/SpectrumFactoryMap.SpectrumFactoryMap:PersistentLevel.SpectrumFactoryMap' with GeneratedClass '/Game/Experimentals/Map/SpectrumFactoryMap.SpectrumFactoryMap_C' with ClassGeneratedBy '/Game/Experimentals/Map/SpectrumFactoryMap.SpectrumFactoryMap:PersistentLevel.SpectrumFactoryMap'
-[2018.04.18-18.32.25:625][324]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0258 seconds. Added 116 classes and 0 folders.
-[2018.04.18-18.32.47:763][324]LogMaterial: Missing cached shader map for material GridMaterial, compiling. 
-[2018.04.18-18.32.49:471][324]LogMaterial: Missing cached shader map for material PersonaFloorMat, compiling. 
-[2018.04.18-18.32.53:499][324]LogSlate: Took 0.284019 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
-[2018.04.18-18.33.08:956][531]LogSlate: Took 0.102496 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
-[2018.04.18-18.36.49:207][590]LogTemp: Repeating last play command: Selected Viewport
-[2018.04.18-18.36.49:303][590]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Experimentals/Map/SpectrumFactoryMap.SpectrumFactoryMap:PersistentLevel' has LevelScriptBlueprint '/Game/Experimentals/Map/SpectrumFactoryMap.SpectrumFactoryMap:PersistentLevel.SpectrumFactoryMap' with GeneratedClass '/Game/Experimentals/Map/SpectrumFactoryMap.SpectrumFactoryMap_C' with ClassGeneratedBy '/Game/Experimentals/Map/SpectrumFactoryMap.SpectrumFactoryMap:PersistentLevel.SpectrumFactoryMap'
-[2018.04.18-18.36.49:303][590]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2018.04.18-18.36.49:304][590]PIE: New page: PIE session: SpectrumFactoryMap (Apr 18, 2018, 4:36:49 AM)
-[2018.04.18-18.36.49:304][590]LogPlayLevel: Creating play world package: /Game/Experimentals/Map/UEDPIE_0_SpectrumFactoryMap
-[2018.04.18-18.36.49:748][590]LogPlayLevel: PIE: StaticDuplicateObject took: (0.444051s)
-[2018.04.18-18.36.49:768][590]LogAIModule: Creating AISystem for world SpectrumFactoryMap
-[2018.04.18-18.36.49:768][590]LogPlayLevel: PIE: World Init took: (0.020074s)
-[2018.04.18-18.36.49:769][590]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Experimentals/Map/SpectrumFactoryMap.SpectrumFactoryMap to /Game/Experimentals/Map/UEDPIE_0_SpectrumFactoryMap.SpectrumFactoryMap (0.464902s)
-[2018.04.18-18.36.49:949][590]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
-[2018.04.18-18.36.50:171][590]LogInit: FAudioDevice initialized.
-[2018.04.18-18.36.50:235][590]LogLoad: Game class is 'SideScrollerGameMode_C'
-[2018.04.18-18.36.50:261][590]LogWorld: Bringing World /Game/Experimentals/Map/UEDPIE_0_SpectrumFactoryMap.SpectrumFactoryMap up for play (max tick rate 0) at 2018.04.18-11.36.50
-[2018.04.18-18.36.50:264][590]LogWorld: Bringing up level for play took: 0.028161
-[2018.04.18-18.36.50:270][590]PIE: Play in editor start time for /Game/Experimentals/Map/UEDPIE_0_SpectrumFactoryMap 0.837
-[2018.04.18-18.36.50:271][590]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Experimentals/Map/SpectrumFactoryMap.SpectrumFactoryMap:PersistentLevel' has LevelScriptBlueprint '/Game/Experimentals/Map/SpectrumFactoryMap.SpectrumFactoryMap:PersistentLevel.SpectrumFactoryMap' with GeneratedClass '/Game/Experimentals/Map/SpectrumFactoryMap.SpectrumFactoryMap_C' with ClassGeneratedBy '/Game/Experimentals/Map/SpectrumFactoryMap.SpectrumFactoryMap:PersistentLevel.SpectrumFactoryMap'
-[2018.04.18-18.36.59:043][861]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Experimentals/Map/SpectrumFactoryMap.SpectrumFactoryMap:PersistentLevel' has LevelScriptBlueprint '/Game/Experimentals/Map/SpectrumFactoryMap.SpectrumFactoryMap:PersistentLevel.SpectrumFactoryMap' with GeneratedClass '/Game/Experimentals/Map/SpectrumFactoryMap.SpectrumFactoryMap_C' with ClassGeneratedBy '/Game/Experimentals/Map/SpectrumFactoryMap.SpectrumFactoryMap:PersistentLevel.SpectrumFactoryMap'
-[2018.04.18-18.36.59:172][861]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Experimentals/Map/SpectrumFactoryMap.SpectrumFactoryMap:PersistentLevel' has LevelScriptBlueprint '/Game/Experimentals/Map/SpectrumFactoryMap.SpectrumFactoryMap:PersistentLevel.SpectrumFactoryMap' with GeneratedClass '/Game/Experimentals/Map/SpectrumFactoryMap.SpectrumFactoryMap_C' with ClassGeneratedBy '/Game/Experimentals/Map/SpectrumFactoryMap.SpectrumFactoryMap:PersistentLevel.SpectrumFactoryMap'
-[2018.04.18-18.37.04:777][997]LogTemp: Repeating last play command: Selected Viewport
-[2018.04.18-18.37.04:811][997]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Experimentals/Map/SpectrumFactoryMap.SpectrumFactoryMap:PersistentLevel' has LevelScriptBlueprint '/Game/Experimentals/Map/SpectrumFactoryMap.SpectrumFactoryMap:PersistentLevel.SpectrumFactoryMap' with GeneratedClass '/Game/Experimentals/Map/SpectrumFactoryMap.SpectrumFactoryMap_C' with ClassGeneratedBy '/Game/Experimentals/Map/SpectrumFactoryMap.SpectrumFactoryMap:PersistentLevel.SpectrumFactoryMap'
-[2018.04.18-18.37.04:811][997]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2018.04.18-18.37.04:811][997]PIE: New page: PIE session: SpectrumFactoryMap (Apr 18, 2018, 4:37:04 AM)
-[2018.04.18-18.37.04:811][997]LogPlayLevel: Creating play world package: /Game/Experimentals/Map/UEDPIE_0_SpectrumFactoryMap
-[2018.04.18-18.37.04:870][997]LogPlayLevel: PIE: StaticDuplicateObject took: (0.059130s)
-[2018.04.18-18.37.04:871][997]LogAIModule: Creating AISystem for world SpectrumFactoryMap
-[2018.04.18-18.37.04:872][997]LogPlayLevel: PIE: World Init took: (0.001183s)
-[2018.04.18-18.37.04:872][997]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Experimentals/Map/SpectrumFactoryMap.SpectrumFactoryMap to /Game/Experimentals/Map/UEDPIE_0_SpectrumFactoryMap.SpectrumFactoryMap (0.061010s)
-[2018.04.18-18.37.04:929][997]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
-[2018.04.18-18.37.04:982][997]LogInit: FAudioDevice initialized.
-[2018.04.18-18.37.05:016][997]LogLoad: Game class is 'SideScrollerGameMode_C'
-[2018.04.18-18.37.05:034][997]LogWorld: Bringing World /Game/Experimentals/Map/UEDPIE_0_SpectrumFactoryMap.SpectrumFactoryMap up for play (max tick rate 0) at 2018.04.18-11.37.05
-[2018.04.18-18.37.05:036][997]LogWorld: Bringing up level for play took: 0.019040
-[2018.04.18-18.37.05:038][997]PIE: Play in editor start time for /Game/Experimentals/Map/UEDPIE_0_SpectrumFactoryMap -0.392
-[2018.04.18-18.37.05:038][997]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Experimentals/Map/SpectrumFactoryMap.SpectrumFactoryMap:PersistentLevel' has LevelScriptBlueprint '/Game/Experimentals/Map/SpectrumFactoryMap.SpectrumFactoryMap:PersistentLevel.SpectrumFactoryMap' with GeneratedClass '/Game/Experimentals/Map/SpectrumFactoryMap.SpectrumFactoryMap_C' with ClassGeneratedBy '/Game/Experimentals/Map/SpectrumFactoryMap.SpectrumFactoryMap:PersistentLevel.SpectrumFactoryMap'
-[2018.04.18-18.45.50:765][214]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Experimentals/Map/SpectrumFactoryMap.SpectrumFactoryMap:PersistentLevel' has LevelScriptBlueprint '/Game/Experimentals/Map/SpectrumFactoryMap.SpectrumFactoryMap:PersistentLevel.SpectrumFactoryMap' with GeneratedClass '/Game/Experimentals/Map/SpectrumFactoryMap.SpectrumFactoryMap_C' with ClassGeneratedBy '/Game/Experimentals/Map/SpectrumFactoryMap.SpectrumFactoryMap:PersistentLevel.SpectrumFactoryMap'
-[2018.04.18-18.45.50:896][214]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Experimentals/Map/SpectrumFactoryMap.SpectrumFactoryMap:PersistentLevel' has LevelScriptBlueprint '/Game/Experimentals/Map/SpectrumFactoryMap.SpectrumFactoryMap:PersistentLevel.SpectrumFactoryMap' with GeneratedClass '/Game/Experimentals/Map/SpectrumFactoryMap.SpectrumFactoryMap_C' with ClassGeneratedBy '/Game/Experimentals/Map/SpectrumFactoryMap.SpectrumFactoryMap:PersistentLevel.SpectrumFactoryMap'
-[2018.04.18-18.49.06:703][826]LogTemp: Repeating last play command: Selected Viewport
-[2018.04.18-18.49.06:735][826]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Experimentals/Map/SpectrumFactoryMap.SpectrumFactoryMap:PersistentLevel' has LevelScriptBlueprint '/Game/Experimentals/Map/SpectrumFactoryMap.SpectrumFactoryMap:PersistentLevel.SpectrumFactoryMap' with GeneratedClass '/Game/Experimentals/Map/SpectrumFactoryMap.SpectrumFactoryMap_C' with ClassGeneratedBy '/Game/Experimentals/Map/SpectrumFactoryMap.SpectrumFactoryMap:PersistentLevel.SpectrumFactoryMap'
-[2018.04.18-18.49.06:735][826]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2018.04.18-18.49.06:735][826]PIE: New page: PIE session: SpectrumFactoryMap (Apr 18, 2018, 4:49:06 AM)
-[2018.04.18-18.49.06:736][826]LogPlayLevel: Creating play world package: /Game/Experimentals/Map/UEDPIE_0_SpectrumFactoryMap
-[2018.04.18-18.49.06:801][826]LogPlayLevel: PIE: StaticDuplicateObject took: (0.064788s)
-[2018.04.18-18.49.06:803][826]LogAIModule: Creating AISystem for world SpectrumFactoryMap
-[2018.04.18-18.49.06:803][826]LogPlayLevel: PIE: World Init took: (0.002504s)
-[2018.04.18-18.49.06:804][826]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Experimentals/Map/SpectrumFactoryMap.SpectrumFactoryMap to /Game/Experimentals/Map/UEDPIE_0_SpectrumFactoryMap.SpectrumFactoryMap (0.067968s)
-[2018.04.18-18.49.06:840][826]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
-[2018.04.18-18.49.06:926][826]LogInit: FAudioDevice initialized.
-[2018.04.18-18.49.06:958][826]LogLoad: Game class is 'SideScrollerGameMode_C'
-[2018.04.18-18.49.06:977][826]LogWorld: Bringing World /Game/Experimentals/Map/UEDPIE_0_SpectrumFactoryMap.SpectrumFactoryMap up for play (max tick rate 0) at 2018.04.18-11.49.06
-[2018.04.18-18.49.06:979][826]LogWorld: Bringing up level for play took: 0.020258
-[2018.04.18-18.49.06:981][826]PIE: Play in editor start time for /Game/Experimentals/Map/UEDPIE_0_SpectrumFactoryMap -0.449
-[2018.04.18-18.49.06:981][826]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Experimentals/Map/SpectrumFactoryMap.SpectrumFactoryMap:PersistentLevel' has LevelScriptBlueprint '/Game/Experimentals/Map/SpectrumFactoryMap.SpectrumFactoryMap:PersistentLevel.SpectrumFactoryMap' with GeneratedClass '/Game/Experimentals/Map/SpectrumFactoryMap.SpectrumFactoryMap_C' with ClassGeneratedBy '/Game/Experimentals/Map/SpectrumFactoryMap.SpectrumFactoryMap:PersistentLevel.SpectrumFactoryMap'
-[2018.04.18-18.50.40:611][986]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Experimentals/Map/SpectrumFactoryMap.SpectrumFactoryMap:PersistentLevel' has LevelScriptBlueprint '/Game/Experimentals/Map/SpectrumFactoryMap.SpectrumFactoryMap:PersistentLevel.SpectrumFactoryMap' with GeneratedClass '/Game/Experimentals/Map/SpectrumFactoryMap.SpectrumFactoryMap_C' with ClassGeneratedBy '/Game/Experimentals/Map/SpectrumFactoryMap.SpectrumFactoryMap:PersistentLevel.SpectrumFactoryMap'
-[2018.04.18-18.50.40:710][986]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Experimentals/Map/SpectrumFactoryMap.SpectrumFactoryMap:PersistentLevel' has LevelScriptBlueprint '/Game/Experimentals/Map/SpectrumFactoryMap.SpectrumFactoryMap:PersistentLevel.SpectrumFactoryMap' with GeneratedClass '/Game/Experimentals/Map/SpectrumFactoryMap.SpectrumFactoryMap_C' with ClassGeneratedBy '/Game/Experimentals/Map/SpectrumFactoryMap.SpectrumFactoryMap:PersistentLevel.SpectrumFactoryMap'
-[2018.04.18-19.03.56:671][541]LogSlate: Took 0.043624 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
-[2018.04.18-19.04.06:214][662]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Experimentals/Map/SpectrumFactoryMap' took 0.176
-[2018.04.18-19.04.06:284][662]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SideScrollerBP/Blueprints/SideScrollerCharacter] ([1] browsable assets)...
-[2018.04.18-19.04.06:329][662]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter]
-[2018.04.18-19.04.06:330][662]OBJ SavePackage: Finished generating thumbnails for package [/Game/SideScrollerBP/Blueprints/SideScrollerCharacter]
-[2018.04.18-19.04.07:721][662]LogSavePackage: Save=908.16ms
-[2018.04.18-19.04.07:721][662]LogSavePackage: Moving '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Spectrum/Saved/SideScrollerCharacter_Auto141C7B8424E0D842576AEBA9352E661B3.tmp' to '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Spectrum/Saved/Autosaves/Game/SideScrollerBP/Blueprints/SideScrollerCharacter_Auto1.uasset'
-[2018.04.18-19.04.07:798][662]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Spectrum/Saved/Autosaves/Game/SideScrollerBP/Blueprints/SideScrollerCharacter_Auto1.uasset
-[2018.04.18-19.04.07:798][662]LogFileHelpers: Auto-saving content packages took 1.583
-[2018.04.18-19.38.35:689][381]LogHttp: Warning: 000002372B5C6680: request failed, libcurl error: 6 (Couldn't resolve host name)
-[2018.04.18-19.38.35:721][381]LogHttp: Warning: 000002372B5C6680: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x236fc0fbfe8 [can pipeline])
-[2018.04.18-19.38.35:727][381]LogHttp: Warning: 000002372B5C6680: libcurl info message cache 1 (Re-using existing connection! (#31) with host datarouter.ol.epicgames.com)
-[2018.04.18-19.38.35:727][381]LogHttp: Warning: 000002372B5C6680: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (35.172.167.219) port 443 (#31))
-[2018.04.18-19.38.35:727][381]LogHttp: Warning: 000002372B5C6680: libcurl info message cache 3 (upload completely sent off: 732 out of 732 bytes)
-[2018.04.18-19.38.35:727][381]LogHttp: Warning: 000002372B5C6680: libcurl info message cache 4 (SSL read: error:00000000:lib(0):func(0):reason(0), errno 10054)
-[2018.04.18-19.38.35:727][381]LogHttp: Warning: 000002372B5C6680: libcurl info message cache 5 (Connection died, retrying a fresh connect)
-[2018.04.18-19.38.35:727][381]LogHttp: Warning: 000002372B5C6680: libcurl info message cache 6 (Closing connection 31)
-[2018.04.18-19.38.35:727][381]LogHttp: Warning: 000002372B5C6680: libcurl info message cache 7 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0FB67CAF-42F2-7FAB-47F9-218A497B3452%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.2-3794801%2B%2B%2BUE4%2BRelease-4.18&UserID=e1c132fb4e517ca4b23e62b676153c42%7Cca1cf3a7f87946a6ac6be9dc4f608c5f%7C500511ff-5481-4efe-8d48-20748a11a0d6&AppEnvironment=datacollector-binary&UploadType=eteventstream')
-[2018.04.18-19.38.35:727][381]LogHttp: Warning: 000002372B5C6680: libcurl info message cache 8 (Could not resolve host: datarouter.ol.epicgames.com)
-[2018.04.18-19.38.35:727][381]LogHttp: Warning: 000002372B5C6680: libcurl info message cache 9 (Closing connection 32)
-[2018.04.18-19.40.35:833][372]LogHttp: Warning: 000002372B5C6680: request failed, libcurl error: 6 (Couldn't resolve host name)
-[2018.04.18-19.40.35:833][372]LogHttp: Warning: 000002372B5C6680: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
-[2018.04.18-19.40.35:833][372]LogHttp: Warning: 000002372B5C6680: libcurl info message cache 1 (Closing connection 33)
-[2018.04.18-19.42.35:915][605]LogHttp: Warning: 000002372B5C6200: request failed, libcurl error: 6 (Couldn't resolve host name)
-[2018.04.18-19.42.35:915][605]LogHttp: Warning: 000002372B5C6200: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
-[2018.04.18-19.42.35:915][605]LogHttp: Warning: 000002372B5C6200: libcurl info message cache 1 (Closing connection 34)
-[2018.04.18-19.44.35:955][413]LogHttp: Warning: 000002372B5C7100: request failed, libcurl error: 6 (Couldn't resolve host name)
-[2018.04.18-19.44.35:955][413]LogHttp: Warning: 000002372B5C7100: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
-[2018.04.18-19.44.35:955][413]LogHttp: Warning: 000002372B5C7100: libcurl info message cache 1 (Closing connection 35)
-[2018.04.18-19.46.36:032][ 52]LogHttp: Warning: 000002372B5C7280: request failed, libcurl error: 6 (Couldn't resolve host name)
-[2018.04.18-19.46.36:033][ 52]LogHttp: Warning: 000002372B5C7280: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
-[2018.04.18-19.46.36:033][ 52]LogHttp: Warning: 000002372B5C7280: libcurl info message cache 1 (Closing connection 36)
-[2018.04.18-19.48.36:076][277]LogHttp: Warning: 000002372B5C6080: request failed, libcurl error: 6 (Couldn't resolve host name)
-[2018.04.18-19.48.36:076][277]LogHttp: Warning: 000002372B5C6080: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
-[2018.04.18-19.48.36:076][277]LogHttp: Warning: 000002372B5C6080: libcurl info message cache 1 (Closing connection 37)
+[2019.02.27-02.28.05:515][  0]LogInit: Selected Device Profile: [Windows]
+[2019.02.27-02.28.05:515][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.02.27-02.28.05:558][  0]LogInit: Computer: MSI
+[2019.02.27-02.28.05:558][  0]LogInit: User: Alex
+[2019.02.27-02.28.05:559][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.02.27-02.28.05:559][  0]LogInit: High frequency timer resolution =2.533214 MHz
+[2019.02.27-02.28.05:559][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.02.27-02.28.05:559][  0]LogMemory: Platform Memory Stats for Windows
+[2019.02.27-02.28.05:559][  0]LogMemory: Process Physical Memory: 274.13 MB used, 274.13 MB peak
+[2019.02.27-02.28.05:559][  0]LogMemory: Process Virtual Memory: 272.39 MB used, 272.39 MB peak
+[2019.02.27-02.28.05:559][  0]LogMemory: Physical Memory: 9551.28 MB used,  6722.05 MB free, 16273.34 MB total
+[2019.02.27-02.28.05:559][  0]LogMemory: Virtual Memory: 4785.55 MB used,  6722.05 MB free, 134217728.00 MB total
+[2019.02.27-02.28.07:060][  0]LogInit: Using OS detected language (en-US).
+[2019.02.27-02.28.07:060][  0]LogInit: Using OS detected locale (en-US).
+[2019.02.27-02.28.07:065][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.02.27-02.28.07:621][  0]LogInit: Setting process to per monitor DPI aware
+[2019.02.27-02.28.08:190][  0]LogD3D11RHI: D3D11 adapters:
+[2019.02.27-02.28.08:282][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 965M' (Feature Level 11_0)
+[2019.02.27-02.28.08:282][  0]LogD3D11RHI:       2010/0/8136 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.02.27-02.28.08:291][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
+[2019.02.27-02.28.08:291][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.02.27-02.28.08:294][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.02.27-02.28.08:294][  0]LogD3D11RHI:       0/0/8136 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.02.27-02.28.08:294][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.02.27-02.28.08:329][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.02.27-02.28.08:329][  0]LogD3D11RHI:     GPU DeviceId: 0x13d9 (for the marketing name, search the web for "GPU Device Id")
+[2019.02.27-02.28.08:329][  0]LogWindows: EnumDisplayDevices:
+[2019.02.27-02.28.08:329][  0]LogWindows:    0. 'Intel(R) HD Graphics 4600' (P:1 D:1)
+[2019.02.27-02.28.08:330][  0]LogWindows:    1. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2019.02.27-02.28.08:330][  0]LogWindows:    2. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2019.02.27-02.28.08:330][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.02.27-02.28.08:330][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 965M
+[2019.02.27-02.28.08:330][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.02.27-02.28.08:330][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.02.27-02.28.08:330][  0]LogRHI: Texture pool is 1407 MB (70% of 2010 MB)
+[2019.02.27-02.28.08:384][  0]LogD3D11RHI: Async texture creation enabled
+[2019.02.27-02.28.08:404][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.02.27-02.28.08:405][  0]LogShaderCompilers: Guid format shader working directory is -28 characters bigger than the processId version (../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Spectrum/Intermediate/Shaders/WorkingDirectory/20608/).
+[2019.02.27-02.28.08:405][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/lockw/AppData/Local/Temp/UnrealShaderWorkingDir/88D2F8CB45FC6DFF2489E594DBA9C4FC/'.
+[2019.02.27-02.28.08:405][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.02.27-02.28.10:330][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.02.27-02.28.10:475][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.02.27-02.28.10:637][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.02.27-02.28.10:803][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.02.27-02.28.10:949][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.02.27-02.28.11:092][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.02.27-02.28.11:255][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.02.27-02.28.11:413][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.02.27-02.28.11:554][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.02.27-02.28.11:716][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2019.02.27-02.28.11:867][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2019.02.27-02.28.12:034][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2019.02.27-02.28.12:179][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2019.02.27-02.28.12:313][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2019.02.27-02.28.12:611][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2019.02.27-02.28.12:611][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2019.02.27-02.28.12:762][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.27-02.28.12:892][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.02.27-02.28.13:109][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.02.27-02.28.13:178][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.02.27-02.28.13:362][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.02.27-02.28.13:520][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.02.27-02.28.13:682][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.02.27-02.28.13:851][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.02.27-02.28.13:851][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.02.27-02.28.15:427][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.02.27-02.28.15:559][  0]LogDerivedDataCache: Loaded boot cache 0.13s 78MB C:/Users/lockw/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2019.02.27-02.28.15:559][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/lockw/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2019.02.27-02.28.15:559][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Spectrum/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.02.27-02.28.15:559][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.02.27-02.28.15:560][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Spectrum/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.02.27-02.28.15:560][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.02.27-02.28.15:589][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.02.27-02.28.15:602][  0]LogDerivedDataCache: Using Local data cache path C:/Users/lockw/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.02.27-02.28.15:618][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.02.27-02.28.15:619][  0]LogSlate: Using Freetype 2.6.0
+[2019.02.27-02.28.15:620][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.02.27-02.28.15:620][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.02.27-02.28.16:239][  0]LogInit: Selected Device Profile: [Windows]
+[2019.02.27-02.28.17:129][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.02.27-02.28.17:271][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.02.27-02.28.17:271][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.02.27-02.28.17:271][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.02.27-02.28.17:271][  0]LogMeshReduction: No automatic mesh merging module available
+[2019.02.27-02.28.17:271][  0]LogMeshMerging: No automatic mesh merging module available
+[2019.02.27-02.28.17:332][  0]LogNetVersion: Spectrum , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 4014071454)
+[2019.02.27-02.28.17:676][  0]LogAssetRegistry: FAssetRegistry took 0.0301 seconds to start up
+[2019.02.27-02.28.18:799][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.171954 seconds
+[2019.02.27-02.28.18:809][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
+[2019.02.27-02.28.18:809][  0]LogUObjectAllocator: 7372016 out of 0 bytes used by permanent object pool.
+[2019.02.27-02.28.18:809][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.02.27-02.28.25:704][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.02.27-02.28.25:809][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.02.27-02.28.27:903][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2019.02.27-02.28.29:277][  0]SourceControl: Source control is disabled
+[2019.02.27-02.28.29:277][  0]SourceControl: Source control is disabled
+[2019.02.27-02.28.29:448][  0]SourceControl: Source control is disabled
+[2019.02.27-02.28.29:614][  0]SourceControl: Source control is disabled
+[2019.02.27-02.28.32:091][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.02.27-02.28.32:987][  0]LogOcInput: OculusInput pre-init called
+[2019.02.27-02.28.33:887][  0]LogEngine: Initializing Engine...
+[2019.02.27-02.28.33:892][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.02.27-02.28.34:246][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.02.27-02.28.34:247][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.02.27-02.28.34:677][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.02.27-02.28.34:722][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.02.27-02.28.34:850][  0]LogInit: FAudioDevice initialized.
+[2019.02.27-02.28.35:010][  0]LogDerivedDataCache: Saved boot cache 0.16s 78MB C:/Users/lockw/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2019.02.27-02.28.35:020][  0]LogInit: Texture streaming: Enabled
+[2019.02.27-02.28.35:376][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.02.27-02.28.35:787][  0]LogInit: Transaction tracking system initialized
+[2019.02.27-02.28.36:890][  0]BlueprintLog: New page: Editor Load
+[2019.02.27-02.28.40:003][  0]LocalizationService: Localization service is disabled
+[2019.02.27-02.28.41:757][  0]LogLinker: Warning: Can't find file '/Game/TwinStickBP/TwinStickOverview'
+[2019.02.27-02.28.41:757][  0]LogLinker: Warning: Can't find file '/Game/TwinStickBP/TwinStickOverview'
+[2019.02.27-02.28.41:772][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/TwinStickBP/TwinStickOverview.TwinStickOverview_C'
+[2019.02.27-02.28.42:478][  0]LogConsoleResponse: Display: 
+[2019.02.27-02.28.42:974][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.02.27-02.28.42:974][  0]LogCook: Display: Mobile HDR setting 1
+[2019.02.27-02.28.42:974][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.02.27-02.28.44:173][  0]LogFileCache: Scanning file cache for directory 'C:/Users/lockw/OneDrive/Documents/Unreal Projects/Spectrum/Content/' took 0.04s
+[2019.02.27-02.28.47:039][  0]SourceControl: Source control is disabled
+[2019.02.27-02.28.47:205][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.02.27-02.28.47:210][  0]LogSlate: Took 0.000498 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.02.27-02.28.56:520][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.02.27-02.28.56:523][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.02.27-02.28.59:164][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.02.27-02.28.59:167][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.02.27-02.28.59:231][  0]Cmd: MAP LOAD FILE="../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Spectrum/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.02.27-02.28.59:363][  0]LogStats: Warning: MetaData mismatch. Did you assign a stat to two groups? New //STATGROUP_Threads//SplashScreenThread///Thread_523c_0///####STATCAT_Advanced#### old //STATGROUP_Threads//SplashScreenThread///Thread_4fe8_0///####STATCAT_Advanced####
+[2019.02.27-02.29.00:483][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.02.27-02.29.00:488][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.02.27-02.29.00:521][  0]LightingResults: New page: Lighting Build
+[2019.02.27-02.29.00:659][  0]MapCheck: New page: Map Check
+[2019.02.27-02.29.00:659][  0]LightingResults: New page: Lighting Build
+[2019.02.27-02.29.00:674][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.02.27-02.29.00:677][  0]LoadErrors: New page: New Map
+[2019.02.27-02.29.00:870][  0]LogCollectionManager: Loaded 0 collections in 0.005780 seconds
+[2019.02.27-02.29.01:085][  0]LogFileCache: Scanning file cache for directory 'C:/Users/lockw/OneDrive/Documents/Unreal Projects/Spectrum/Saved/Collections/' took 0.01s
+[2019.02.27-02.29.01:085][  0]LogFileCache: Scanning file cache for directory 'C:/Users/lockw/OneDrive/Documents/Unreal Projects/Spectrum/Content/Developers/Alex/Collections/' took 0.01s
+[2019.02.27-02.29.01:085][  0]LogFileCache: Scanning file cache for directory 'C:/Users/lockw/OneDrive/Documents/Unreal Projects/Spectrum/Content/Collections/' took 0.01s
+[2019.02.27-02.29.01:085][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.02.27-02.29.01:098][  0]LogContentBrowser: Native class hierarchy populated in 0.0123 seconds. Added 2363 classes and 519 folders.
+[2019.02.27-02.29.01:333][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.02.27-02.29.01:448][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.02.27-02.29.01:595][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.02.27-02.29.02:611][  0]LogDirectoryWatcher: Warning: Failed to begin reading directory changes for ../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Spectrum/Plugins/. Error: The system cannot find the file specified. (0x00000002)
+[2019.02.27-02.29.02:621][  0]LogSlate: Took 0.000556 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.02.27-02.29.02:632][  0]LogSlate: Took 0.000465 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.02.27-02.29.02:880][  0]LogRenderer: Reallocating scene render targets to support 1208x592 Format 10 NumSamples 1 (Frame:1).
+[2019.02.27-02.29.03:233][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.02.27-02.29.03:233][  0]LogLoad: (Engine Initialization) Total time: 65.30 seconds
+[2019.02.27-02.29.03:233][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.02.27-02.29.03:233][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2019.02.27-02.29.03:233][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2019.02.27-02.29.03:273][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.02.27-02.29.03:331][  0]LogSlate: Took 0.000558 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2019.02.27-02.29.03:492][  1]LogAssetRegistry: Asset discovery search completed in 45.8397 seconds
+[2019.02.27-02.29.03:494][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.02.27-02.29.03:494][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000057 seconds (updated 0 objects)
+[2019.02.27-02.29.04:310][ 41]LogSlate: Took 0.000332 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2019.02.27-02.29.12:346][476]LogAudioDerivedData: Display: Building compressed audio format OGG wave Wall_Jump_16bit...
+[2019.02.27-02.29.41:302][979]LogSlate: Took 0.000313 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2019.02.27-02.29.42:371][979]LogSlate: Took 0.000344 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.02.27-02.29.44:738][979]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 256X256)
+[2019.02.27-02.29.44:738][979]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 256X256)
+[2019.02.27-02.29.45:100][979]LogMaterial: Missing cached shader map for material BlueMaterial, compiling. 
+[2019.02.27-02.29.46:520][979]LogMaterial: Missing cached shader map for material JumpWallParticleMaterial, compiling. 
+[2019.02.27-02.29.46:698][979]LogStaticMesh: Building static mesh Cube1...
+[2019.02.27-02.29.46:806][979]LogStaticMesh: Built static mesh [0.11s] /Game/Experimentals/Imported/Cube1.Cube1
+[2019.02.27-02.29.47:034][979]LogAudioDerivedData: Display: Building compressed audio format OGG wave Step_hard_a_4_16...
+[2019.02.27-02.29.47:110][979]LogAudioDerivedData: Display: Building compressed audio format OGG wave Step_hard_a_3_16...
+[2019.02.27-02.29.47:214][979]LogMaterial: Missing cached shader map for material M_Ground_Gravel, compiling. 
+[2019.02.27-02.29.47:364][979]LogMaterial: Missing cached shader map for material M_Brick_Cut_Stone, compiling. 
+[2019.02.27-02.29.47:470][979]LogMaterial: Missing cached shader map for material Material, compiling. 
+[2019.02.27-02.29.47:567][979]LogMaterial: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2019.02.27-02.29.47:995][979]LogMaterial: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2019.02.27-02.29.48:396][979]LogAudioDerivedData: Display: Building compressed audio format OGG wave Loop_Main...
+[2019.02.27-02.29.58:680][979]LogMaterial: Missing cached shader map for material M_Brick_Clay_Beveled, compiling. 
+[2019.02.27-02.29.58:769][979]LogAIModule: Creating AISystem for world SpectrumFactoryMap
+[2019.02.27-02.29.59:387][979]Cmd: MAP LOAD FILE="../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Spectrum/Content/SideScrollerBP/Maps/SpectrumFactoryMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.02.27-02.29.59:388][979]LightingResults: New page: Lighting Build
+[2019.02.27-02.29.59:392][979]LoadErrors: New page: Loading map: SpectrumFactoryMap.umap
+[2019.02.27-02.29.59:392][979]MapCheck: New page: Map Check
+[2019.02.27-02.29.59:392][979]LightingResults: New page: Lighting Build
+[2019.02.27-02.29.59:940][979]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.02.27-02.30.00:161][979]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.02.27-02.30.00:446][979]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 284.479ms to complete.
+[2019.02.27-02.30.00:447][979]LogFileHelpers: Loading map 'SpectrumFactoryMap' took 1.062
+[2019.02.27-02.32.44:543][ 69]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2019.02.27-02.32.44:808][ 69]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.02.27-02.32.45:144][ 70]Cmd: QUIT_EDITOR
+[2019.02.27-02.32.45:207][ 70]LogExit: Preparing to exit.
+[2019.02.27-02.32.45:999][ 70]LogDirectoryWatcher: A directory notification for 'C:/Users/lockw/OneDrive/Documents/Unreal Projects/Spectrum/Content/' was aborted.
+[2019.02.27-02.32.46:037][ 70]LogExit: Editor shut down
+[2019.02.27-02.32.46:041][ 70]LogExit: Transaction tracking system shut down
+[2019.02.27-02.32.46:242][ 70]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2019.02.27-02.32.46:242][ 70]LogDirectoryWatcher: A directory notification for '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Spectrum/Content/' was aborted.
+[2019.02.27-02.32.46:242][ 70]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2019.02.27-02.32.46:242][ 70]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2019.02.27-02.32.46:242][ 70]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2019.02.27-02.32.46:242][ 70]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2019.02.27-02.32.46:242][ 70]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2019.02.27-02.32.46:331][ 70]LogExit: Object subsystem successfully closed.
+[2019.02.27-02.32.46:358][ 70]LogD3D11RHI: Shutdown
+[2019.02.27-02.32.46:358][ 70]LogD3D11RHI: CleanupD3DDevice
+[2019.02.27-02.32.46:360][ 70]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.02.27-02.32.46:410][ 70]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (549)
+[2019.02.27-02.32.46:410][ 70]LogModuleManager: Shutting down and abandoning module SceneOutliner (547)
+[2019.02.27-02.32.46:410][ 70]LogModuleManager: Shutting down and abandoning module AddContentDialog (545)
+[2019.02.27-02.32.46:410][ 70]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.18/FeaturePacks/' was aborted.
+[2019.02.27-02.32.46:412][ 70]LogModuleManager: Shutting down and abandoning module WidgetCarousel (544)
+[2019.02.27-02.32.46:412][ 70]LogModuleManager: Shutting down and abandoning module EditorWidgets (541)
+[2019.02.27-02.32.46:412][ 70]LogModuleManager: Shutting down and abandoning module CollectionManager (539)
+[2019.02.27-02.32.46:412][ 70]LogDirectoryWatcher: A directory notification for 'C:/Users/lockw/OneDrive/Documents/Unreal Projects/Spectrum/Content/Collections/' was aborted.
+[2019.02.27-02.32.46:412][ 70]LogDirectoryWatcher: A directory notification for 'C:/Users/lockw/OneDrive/Documents/Unreal Projects/Spectrum/Content/Developers/Alex/Collections/' was aborted.
+[2019.02.27-02.32.46:413][ 70]LogDirectoryWatcher: A directory notification for 'C:/Users/lockw/OneDrive/Documents/Unreal Projects/Spectrum/Saved/Collections/' was aborted.
+[2019.02.27-02.32.46:413][ 70]LogModuleManager: Shutting down and abandoning module StatsViewer (537)
+[2019.02.27-02.32.46:413][ 70]LogModuleManager: Shutting down and abandoning module FoliageEdit (535)
+[2019.02.27-02.32.46:413][ 70]LogModuleManager: Shutting down and abandoning module LandscapeEditor (533)
+[2019.02.27-02.32.46:413][ 70]LogModuleManager: Shutting down and abandoning module MeshPaintMode (531)
+[2019.02.27-02.32.46:413][ 70]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (529)
+[2019.02.27-02.32.46:413][ 70]LogModuleManager: Shutting down and abandoning module ActorPickerMode (527)
+[2019.02.27-02.32.46:413][ 70]LogModuleManager: Shutting down and abandoning module GeometryMode (525)
+[2019.02.27-02.32.46:413][ 70]LogModuleManager: Shutting down and abandoning module TextureAlignMode (523)
+[2019.02.27-02.32.46:413][ 70]LogModuleManager: Shutting down and abandoning module BspMode (521)
+[2019.02.27-02.32.46:413][ 70]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (519)
+[2019.02.27-02.32.46:413][ 70]LogModuleManager: Shutting down and abandoning module HardwareSurvey (517)
+[2019.02.27-02.32.46:413][ 70]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (515)
+[2019.02.27-02.32.46:413][ 70]LogModuleManager: Shutting down and abandoning module AutomationWorker (513)
+[2019.02.27-02.32.46:413][ 70]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (511)
+[2019.02.27-02.32.46:413][ 70]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (509)
+[2019.02.27-02.32.46:414][ 70]LogModuleManager: Shutting down and abandoning module PlacementMode (508)
+[2019.02.27-02.32.46:414][ 70]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (505)
+[2019.02.27-02.32.46:414][ 70]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (503)
+[2019.02.27-02.32.46:414][ 70]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (501)
+[2019.02.27-02.32.46:414][ 70]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (499)
+[2019.02.27-02.32.46:414][ 70]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (497)
+[2019.02.27-02.32.46:414][ 70]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (495)
+[2019.02.27-02.32.46:414][ 70]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (493)
+[2019.02.27-02.32.46:414][ 70]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (491)
+[2019.02.27-02.32.46:414][ 70]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (489)
+[2019.02.27-02.32.46:414][ 70]LogModuleManager: Shutting down and abandoning module CharacterAI (487)
+[2019.02.27-02.32.46:414][ 70]LogModuleManager: Shutting down and abandoning module AudioCapture (485)
+[2019.02.27-02.32.46:414][ 70]LogModuleManager: Shutting down and abandoning module SequenceRecorder (484)
+[2019.02.27-02.32.46:414][ 70]LogModuleManager: Shutting down and abandoning module SmartSnapping (481)
+[2019.02.27-02.32.46:414][ 70]LogModuleManager: Shutting down and abandoning module SessionServices (479)
+[2019.02.27-02.32.46:414][ 70]LogModuleManager: Shutting down and abandoning module ViewportSnapping (477)
+[2019.02.27-02.32.46:414][ 70]LogModuleManager: Shutting down and abandoning module ViewportInteraction (475)
+[2019.02.27-02.32.46:414][ 70]LogModuleManager: Shutting down and abandoning module ClothPainter (473)
+[2019.02.27-02.32.46:414][ 70]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (472)
+[2019.02.27-02.32.46:414][ 70]LogModuleManager: Shutting down and abandoning module LogVisualizer (469)
+[2019.02.27-02.32.46:414][ 70]LogModuleManager: Shutting down and abandoning module IntroTutorials (467)
+[2019.02.27-02.32.46:414][ 70]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (466)
+[2019.02.27-02.32.46:414][ 70]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (463)
+[2019.02.27-02.32.46:414][ 70]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (461)
+[2019.02.27-02.32.46:414][ 70]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (459)
+[2019.02.27-02.32.46:415][ 70]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (458)
+[2019.02.27-02.32.46:799][ 70]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (455)
+[2019.02.27-02.32.46:799][ 70]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (453)
+[2019.02.27-02.32.46:799][ 70]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (451)
+[2019.02.27-02.32.46:799][ 70]LogModuleManager: Shutting down and abandoning module InputBindingEditor (449)
+[2019.02.27-02.32.46:799][ 70]LogModuleManager: Shutting down and abandoning module MergeActors (447)
+[2019.02.27-02.32.46:799][ 70]LogModuleManager: Shutting down and abandoning module SizeMap (445)
+[2019.02.27-02.32.46:800][ 70]LogModuleManager: Shutting down and abandoning module TreeMap (443)
+[2019.02.27-02.32.46:800][ 70]LogModuleManager: Shutting down and abandoning module ReferenceViewer (441)
+[2019.02.27-02.32.46:800][ 70]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (439)
+[2019.02.27-02.32.46:800][ 70]LogModuleManager: Shutting down and abandoning module LocalizationService (438)
+[2019.02.27-02.32.46:800][ 70]LogModuleManager: Shutting down and abandoning module HardwareTargeting (435)
+[2019.02.27-02.32.46:800][ 70]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (433)
+[2019.02.27-02.32.46:800][ 70]LogModuleManager: Shutting down and abandoning module UndoHistory (431)
+[2019.02.27-02.32.46:800][ 70]LogModuleManager: Shutting down and abandoning module XmlParser (429)
+[2019.02.27-02.32.46:800][ 70]LogModuleManager: Shutting down and abandoning module Blutility (427)
+[2019.02.27-02.32.46:800][ 70]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (425)
+[2019.02.27-02.32.46:801][ 70]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (424)
+[2019.02.27-02.32.46:801][ 70]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (421)
+[2019.02.27-02.32.46:801][ 70]LogModuleManager: Shutting down and abandoning module SettingsEditor (419)
+[2019.02.27-02.32.46:801][ 70]LogModuleManager: Shutting down and abandoning module ProjectLauncher (417)
+[2019.02.27-02.32.46:801][ 70]LogModuleManager: Shutting down and abandoning module SessionFrontend (415)
+[2019.02.27-02.32.46:801][ 70]LogModuleManager: Shutting down and abandoning module ProfilerClient (413)
+[2019.02.27-02.32.46:802][ 70]LogModuleManager: Shutting down and abandoning module DeviceManager (411)
+[2019.02.27-02.32.46:802][ 70]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (410)
+[2019.02.27-02.32.46:857][ 70]LogModuleManager: Shutting down and abandoning module AutomationController (407)
+[2019.02.27-02.32.46:857][ 70]LogModuleManager: Shutting down and abandoning module AutomationWindow (405)
+[2019.02.27-02.32.46:857][ 70]LogModuleManager: Shutting down and abandoning module Layers (403)
+[2019.02.27-02.32.46:857][ 70]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (401)
+[2019.02.27-02.32.46:857][ 70]LogModuleManager: Shutting down and abandoning module DetailCustomizations (399)
+[2019.02.27-02.32.46:857][ 70]LogModuleManager: Shutting down and abandoning module PackagesDialog (397)
+[2019.02.27-02.32.46:857][ 70]LogModuleManager: Shutting down and abandoning module Persona (395)
+[2019.02.27-02.32.46:857][ 70]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (394)
+[2019.02.27-02.32.46:857][ 70]LogModuleManager: Shutting down and abandoning module AnimGraph (392)
+[2019.02.27-02.32.46:857][ 70]LogModuleManager: Shutting down and abandoning module Kismet (389)
+[2019.02.27-02.32.46:858][ 70]LogModuleManager: Shutting down and abandoning module ClassViewer (387)
+[2019.02.27-02.32.46:858][ 70]LogModuleManager: Shutting down and abandoning module Toolbox (385)
+[2019.02.27-02.32.46:859][ 70]LogModuleManager: Shutting down and abandoning module ModuleUI (383)
+[2019.02.27-02.32.46:859][ 70]LogModuleManager: Shutting down and abandoning module MovieSceneTools (381)
+[2019.02.27-02.32.46:859][ 70]LogModuleManager: Shutting down and abandoning module OutputLog (379)
+[2019.02.27-02.32.46:859][ 70]LogModuleManager: Shutting down and abandoning module GammaUI (377)
+[2019.02.27-02.32.46:859][ 70]LogModuleManager: Shutting down and abandoning module Documentation (375)
+[2019.02.27-02.32.46:859][ 70]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (373)
+[2019.02.27-02.32.46:859][ 70]LogModuleManager: Shutting down and abandoning module MovieScene (371)
+[2019.02.27-02.32.46:859][ 70]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (369)
+[2019.02.27-02.32.46:859][ 70]LogModuleManager: Shutting down and abandoning module LauncherPlatform (367)
+[2019.02.27-02.32.46:859][ 70]LogModuleManager: Shutting down and abandoning module AnalyticsET (365)
+[2019.02.27-02.32.46:859][ 70]LogModuleManager: Shutting down and abandoning module PortalServices (363)
+[2019.02.27-02.32.46:859][ 70]LogModuleManager: Shutting down and abandoning module PortalRpc (361)
+[2019.02.27-02.32.46:859][ 70]LogModuleManager: Shutting down and abandoning module MessagingRpc (359)
+[2019.02.27-02.32.46:859][ 70]LogModuleManager: Shutting down and abandoning module AIModule (357)
+[2019.02.27-02.32.46:859][ 70]LogModuleManager: Shutting down and abandoning module GameplayDebugger (356)
+[2019.02.27-02.32.46:860][ 70]LogModuleManager: Shutting down and abandoning module AITestSuite (354)
+[2019.02.27-02.32.46:860][ 70]LogModuleManager: Shutting down and abandoning module DesktopPlatform (351)
+[2019.02.27-02.32.46:860][ 70]LogModuleManager: Shutting down and abandoning module ProfilerService (349)
+[2019.02.27-02.32.46:866][ 70]LogModuleManager: Shutting down and abandoning module TaskGraph (347)
+[2019.02.27-02.32.46:866][ 70]LogModuleManager: Shutting down and abandoning module SteamVRController (345)
+[2019.02.27-02.32.46:866][ 70]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (343)
+[2019.02.27-02.32.46:866][ 70]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (341)
+[2019.02.27-02.32.46:866][ 70]LogModuleManager: Shutting down and abandoning module OculusInput (339)
+[2019.02.27-02.32.46:866][ 70]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (337)
+[2019.02.27-02.32.46:866][ 70]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (335)
+[2019.02.27-02.32.46:866][ 70]LogModuleManager: Shutting down and abandoning module CableComponent (333)
+[2019.02.27-02.32.46:866][ 70]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (331)
+[2019.02.27-02.32.46:866][ 70]LogModuleManager: Shutting down and abandoning module AndroidPermission (329)
+[2019.02.27-02.32.46:866][ 70]LogModuleManager: Shutting down and abandoning module ActorSequence (327)
+[2019.02.27-02.32.46:866][ 70]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (325)
+[2019.02.27-02.32.46:867][ 70]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (323)
+[2019.02.27-02.32.46:867][ 70]LogModuleManager: Shutting down and abandoning module MediaCompositing (321)
+[2019.02.27-02.32.46:867][ 70]LogModuleManager: Shutting down and abandoning module HTML5Networking (319)
+[2019.02.27-02.32.46:867][ 70]LogModuleManager: Shutting down and abandoning module AlembicImporter (317)
+[2019.02.27-02.32.46:867][ 70]LogModuleManager: Shutting down and abandoning module AlembicLibrary (316)
+[2019.02.27-02.32.46:867][ 70]LogModuleManager: Shutting down and abandoning module GeometryCache (315)
+[2019.02.27-02.32.46:867][ 70]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (314)
+[2019.02.27-02.32.46:867][ 70]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (309)
+[2019.02.27-02.32.46:867][ 70]LogModuleManager: Shutting down and abandoning module PluginBrowser (307)
+[2019.02.27-02.32.46:867][ 70]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (305)
+[2019.02.27-02.32.46:867][ 70]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (303)
+[2019.02.27-02.32.46:868][ 70]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (301)
+[2019.02.27-02.32.46:868][ 70]LogModuleManager: Shutting down and abandoning module UObjectPlugin (299)
+[2019.02.27-02.32.46:868][ 70]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (297)
+[2019.02.27-02.32.46:868][ 70]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (295)
+[2019.02.27-02.32.46:868][ 70]LogModuleManager: Shutting down and abandoning module GitSourceControl (293)
+[2019.02.27-02.32.46:868][ 70]LogModuleManager: Shutting down and abandoning module SourceControl (292)
+[2019.02.27-02.32.46:868][ 70]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (289)
+[2019.02.27-02.32.46:868][ 70]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (287)
+[2019.02.27-02.32.46:868][ 70]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (285)
+[2019.02.27-02.32.46:868][ 70]LogModuleManager: Shutting down and abandoning module Paper2DEditor (283)
+[2019.02.27-02.32.46:868][ 70]LogModuleManager: Shutting down and abandoning module MeshPaint (282)
+[2019.02.27-02.32.46:868][ 70]LogModuleManager: Shutting down and abandoning module LevelEditor (280)
+[2019.02.27-02.32.46:872][ 70]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (279)
+[2019.02.27-02.32.46:872][ 70]LogModuleManager: Shutting down and abandoning module MainFrame (277)
+[2019.02.27-02.32.46:872][ 70]LogModuleManager: Shutting down and abandoning module HotReload (276)
+[2019.02.27-02.32.46:873][ 70]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (271)
+[2019.02.27-02.32.46:873][ 70]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (269)
+[2019.02.27-02.32.46:873][ 70]LogModuleManager: Shutting down and abandoning module PhysXVehicles (267)
+[2019.02.27-02.32.46:873][ 70]LogModuleManager: Shutting down and abandoning module OculusEditor (265)
+[2019.02.27-02.32.46:873][ 70]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (263)
+[2019.02.27-02.32.46:873][ 70]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (261)
+[2019.02.27-02.32.46:873][ 70]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (259)
+[2019.02.27-02.32.46:873][ 70]LogModuleManager: Shutting down and abandoning module UdpMessaging (257)
+[2019.02.27-02.32.46:974][ 70]LogModuleManager: Shutting down and abandoning module TcpMessaging (255)
+[2019.02.27-02.32.47:074][ 70]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (253)
+[2019.02.27-02.32.47:074][ 70]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (251)
+[2019.02.27-02.32.47:074][ 70]LogModuleManager: Shutting down and abandoning module FacialAnimation (249)
+[2019.02.27-02.32.47:074][ 70]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (247)
+[2019.02.27-02.32.47:074][ 70]LogModuleManager: Shutting down and abandoning module GraphEditor (246)
+[2019.02.27-02.32.47:074][ 70]LogModuleManager: Shutting down and abandoning module ContentBrowser (244)
+[2019.02.27-02.32.47:075][ 70]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (241)
+[2019.02.27-02.32.47:075][ 70]LogModuleManager: Shutting down and abandoning module Paper2D (239)
+[2019.02.27-02.32.47:075][ 70]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (237)
+[2019.02.27-02.32.47:075][ 70]LogModuleManager: Shutting down and abandoning module WmfMedia (235)
+[2019.02.27-02.32.47:080][ 70]LogModuleManager: Shutting down and abandoning module ImgMedia (233)
+[2019.02.27-02.32.47:080][ 70]LogModuleManager: Shutting down and abandoning module PacketHandler (231)
+[2019.02.27-02.32.47:080][ 70]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (229)
+[2019.02.27-02.32.47:080][ 70]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (227)
+[2019.02.27-02.32.47:080][ 70]LogModuleManager: Shutting down and abandoning module MediaAssets (225)
+[2019.02.27-02.32.47:080][ 70]LogModuleManager: Shutting down and abandoning module Media (224)
+[2019.02.27-02.32.47:086][ 70]LogModuleManager: Shutting down and abandoning module Overlay (221)
+[2019.02.27-02.32.47:086][ 70]LogModuleManager: Shutting down and abandoning module OverlayEditor (220)
+[2019.02.27-02.32.47:086][ 70]LogModuleManager: Shutting down and abandoning module VREditor (217)
+[2019.02.27-02.32.47:086][ 70]LogModuleManager: Shutting down and abandoning module StringTableEditor (215)
+[2019.02.27-02.32.47:086][ 70]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (213)
+[2019.02.27-02.32.47:087][ 70]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (211)
+[2019.02.27-02.32.47:087][ 70]LogModuleManager: Shutting down and abandoning module FunctionalTesting (209)
+[2019.02.27-02.32.47:087][ 70]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (207)
+[2019.02.27-02.32.47:087][ 70]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (206)
+[2019.02.27-02.32.47:087][ 70]LogModuleManager: Shutting down and abandoning module UMG (203)
+[2019.02.27-02.32.47:087][ 70]LogModuleManager: Shutting down and abandoning module UMGEditor (202)
+[2019.02.27-02.32.47:087][ 70]LogModuleManager: Shutting down and abandoning module Sequencer (201)
+[2019.02.27-02.32.47:087][ 70]LogModuleManager: Shutting down and abandoning module MessageLog (198)
+[2019.02.27-02.32.47:087][ 70]LogModuleManager: Shutting down and abandoning module SlateReflector (193)
+[2019.02.27-02.32.47:087][ 70]LogModuleManager: Shutting down and abandoning module Slate (191)
+[2019.02.27-02.32.47:087][ 70]LogModuleManager: Shutting down and abandoning module EditorStyle (189)
+[2019.02.27-02.32.47:091][ 70]LogModuleManager: Shutting down and abandoning module MRMesh (187)
+[2019.02.27-02.32.47:091][ 70]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (185)
+[2019.02.27-02.32.47:091][ 70]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (183)
+[2019.02.27-02.32.47:091][ 70]LogModuleManager: Shutting down and abandoning module XAudio2 (181)
+[2019.02.27-02.32.47:091][ 70]LogModuleManager: Shutting down and abandoning module Networking (179)
+[2019.02.27-02.32.47:091][ 70]LogModuleManager: Shutting down and abandoning module Core (177)
+[2019.02.27-02.32.47:091][ 70]LogModuleManager: Shutting down and abandoning module LevelSequence (173)
+[2019.02.27-02.32.47:091][ 70]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (171)
+[2019.02.27-02.32.47:095][ 70]LogModuleManager: Shutting down and abandoning module KismetCompiler (169)
+[2019.02.27-02.32.47:095][ 70]LogModuleManager: Shutting down and abandoning module MeshUtilities (167)
+[2019.02.27-02.32.47:095][ 70]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (166)
+[2019.02.27-02.32.47:095][ 70]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (165)
+[2019.02.27-02.32.47:095][ 70]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (164)
+[2019.02.27-02.32.47:095][ 70]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (162)
+[2019.02.27-02.32.47:095][ 70]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (160)
+[2019.02.27-02.32.47:095][ 70]LogModuleManager: Shutting down and abandoning module MaterialBaking (156)
+[2019.02.27-02.32.47:096][ 70]LogModuleManager: Shutting down and abandoning module DerivedDataCache (153)
+[2019.02.27-02.32.47:167][ 70]LogDerivedDataCache: Shutdown
+[2019.02.27-02.32.47:167][ 70]LogModuleManager: Shutting down and abandoning module TargetPlatform (151)
+[2019.02.27-02.32.47:167][ 70]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (150)
+[2019.02.27-02.32.47:167][ 70]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (148)
+[2019.02.27-02.32.47:168][ 70]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (146)
+[2019.02.27-02.32.47:168][ 70]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (144)
+[2019.02.27-02.32.47:168][ 70]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (142)
+[2019.02.27-02.32.47:168][ 70]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (140)
+[2019.02.27-02.32.47:168][ 70]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (138)
+[2019.02.27-02.32.47:168][ 70]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (136)
+[2019.02.27-02.32.47:168][ 70]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (134)
+[2019.02.27-02.32.47:168][ 70]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (132)
+[2019.02.27-02.32.47:168][ 70]LogModuleManager: Shutting down and abandoning module ImageWrapper (131)
+[2019.02.27-02.32.47:168][ 70]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (128)
+[2019.02.27-02.32.47:168][ 70]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (126)
+[2019.02.27-02.32.47:168][ 70]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (124)
+[2019.02.27-02.32.47:168][ 70]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (122)
+[2019.02.27-02.32.47:168][ 70]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (120)
+[2019.02.27-02.32.47:168][ 70]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (118)
+[2019.02.27-02.32.47:168][ 70]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (116)
+[2019.02.27-02.32.47:168][ 70]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (114)
+[2019.02.27-02.32.47:168][ 70]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (112)
+[2019.02.27-02.32.47:168][ 70]LogModuleManager: Shutting down and abandoning module Messaging (110)
+[2019.02.27-02.32.47:168][ 70]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (108)
+[2019.02.27-02.32.47:168][ 70]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (106)
+[2019.02.27-02.32.47:168][ 70]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (104)
+[2019.02.27-02.32.47:168][ 70]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (102)
+[2019.02.27-02.32.47:168][ 70]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (100)
+[2019.02.27-02.32.47:168][ 70]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (98)
+[2019.02.27-02.32.47:168][ 70]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (96)
+[2019.02.27-02.32.47:168][ 70]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (94)
+[2019.02.27-02.32.47:168][ 70]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (92)
+[2019.02.27-02.32.47:168][ 70]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (90)
+[2019.02.27-02.32.47:168][ 70]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (88)
+[2019.02.27-02.32.47:168][ 70]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (86)
+[2019.02.27-02.32.47:168][ 70]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (84)
+[2019.02.27-02.32.47:168][ 70]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (82)
+[2019.02.27-02.32.47:168][ 70]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (80)
+[2019.02.27-02.32.47:168][ 70]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (78)
+[2019.02.27-02.32.47:168][ 70]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (76)
+[2019.02.27-02.32.47:168][ 70]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (74)
+[2019.02.27-02.32.47:168][ 70]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (72)
+[2019.02.27-02.32.47:169][ 70]LogModuleManager: Shutting down and abandoning module InputCore (69)
+[2019.02.27-02.32.47:169][ 70]LogModuleManager: Shutting down and abandoning module Settings (67)
+[2019.02.27-02.32.47:169][ 70]LogModuleManager: Shutting down and abandoning module PhysXCooking (65)
+[2019.02.27-02.32.47:169][ 70]LogModuleManager: Shutting down and abandoning module SteamVR (63)
+[2019.02.27-02.32.47:169][ 70]LogModuleManager: Shutting down and abandoning module OculusHMD (61)
+[2019.02.27-02.32.47:169][ 70]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (59)
+[2019.02.27-02.32.47:169][ 70]LogModuleManager: Shutting down and abandoning module AppleARKit (57)
+[2019.02.27-02.32.47:169][ 70]LogModuleManager: Shutting down and abandoning module AugmentedReality (56)
+[2019.02.27-02.32.47:169][ 70]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (53)
+[2019.02.27-02.32.47:169][ 70]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (49)
+[2019.02.27-02.32.47:169][ 70]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2019.02.27-02.32.47:169][ 70]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2019.02.27-02.32.47:169][ 70]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2019.02.27-02.32.47:170][ 70]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2019.02.27-02.32.47:170][ 70]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2019.02.27-02.32.47:170][ 70]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2019.02.27-02.32.47:170][ 70]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.02.27-02.32.47:170][ 70]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BBF23AE63-4DFC-AEA6-305B-9FB120E110A8%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.2-3794801%2B%2B%2BUE4%2BRelease-4.18&UserID=e1c132fb4e517ca4b23e62b676153c42%7Cca1cf3a7f87946a6ac6be9dc4f608c5f%7C500511ff-5481-4efe-8d48-20748a11a0d6&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.02.27-02.32.47:198][ 70]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2019.02.27-02.32.47:201][ 70]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.02.27-02.32.47:201][ 70]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.02.27-02.32.47:201][ 70]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.02.27-02.32.47:201][ 70]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.02.27-02.32.47:201][ 70]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.02.27-02.32.47:201][ 70]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.02.27-02.32.47:201][ 70]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.02.27-02.32.47:202][ 70]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.02.27-02.32.47:202][ 70]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.02.27-02.32.47:202][ 70]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.02.27-02.32.47:202][ 70]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.02.27-02.32.47:202][ 70]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.02.27-02.32.47:202][ 70]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.02.27-02.32.47:202][ 70]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.02.27-02.32.47:202][ 70]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.02.27-02.32.47:203][ 70]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.02.27-02.32.47:203][ 70]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.02.27-02.32.47:203][ 70]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.02.27-02.32.47:207][ 70]LogExit: Exiting.
+[2019.02.27-02.32.47:242][ 70]Log file closed, 02/26/19 18:32:47
