@@ -1,3 +1,9 @@
+## 3/4/19
+
+Progress has been slow this week due to a family emergency.
+
+Packaged the project and tested it on another system. Lo and behold it doesn't work as intended. Big surprise.
+
 ## 2/26/19
 
 Spent the past few days getting assets ready for packaging. Packaging is a time-consuming process that gets all the code in the project ready for distribution.

@@ -154,6 +154,7 @@ Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:
 Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:98=/Engine/EngineResources/M_StreamingPause
 Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:99=/Engine/EngineResources/WhiteSquareTexture
 Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:100=/Engine/EngineResources/GradientTexture0
+Windows.Engine:FProjectLauncher:AdvancedMode:0=True
 Windows.Engine:URL:Protocol:0=unreal
 Windows.Engine:URL:Name:0=Player
 Windows.Engine:URL:SaveExt:0=usa
@@ -1546,8 +1547,8 @@ Windows.Input:/Script/EngineSettings.ConsoleSettings:AutoCompleteCVarColor:0=(B=
 Windows.Input:/Script/EngineSettings.ConsoleSettings:AutoCompleteFadedColor:0=(R=100,G=100,B=100,A=255)
 Windows.Game:StartupActions:bAddPacks:0=False
 Windows.Game:StartupActions:InsertPack:0=(PackSource="StarterContent.upack,PackName="StarterContent")
+Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:BuildConfiguration:0=PPBC_Shipping
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:StagingDirectory:0=(Path="C/Users/lockw/Desktop/testingAGamelol")
-Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:BuildConfiguration:0=PPBC_Development
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:FullRebuild:0=False
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:UsePakFile:0=True
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:bGenerateChunks:0=False
