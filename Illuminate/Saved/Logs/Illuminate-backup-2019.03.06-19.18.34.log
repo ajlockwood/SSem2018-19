@@ -1,0 +1,1214 @@
+﻿Log file open, 03/06/19 19:01:29
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Illuminate
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(860949758) SRandInit(860949758).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3794801, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.306620
+LogPluginManager: Warning: Plugin 'AdvancedSessions' exists at '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Plugins/AdvancedSessions/AdvancedSessions/AdvancedSessions.uplugin' and '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Plugins/AdvancedSessions/AdvancedSessions.uplugin' - second location will be ignored
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemSteam/Binaries/Win64/UE4Editor-OnlineSubsystemSteam.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineFramework/Binaries/Win64/UE4Editor-Qos.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineFramework/Binaries/Win64/UE4Editor-Party.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineFramework/Binaries/Win64/UE4Editor-Lobby.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineFramework/Binaries/Win64/UE4Editor-Hotfix.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineFramework/Binaries/Win64/UE4Editor-Rejoin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineFramework/Binaries/Win64/UE4Editor-LoginFlow.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Plugins/AdvancedSessions/AdvancedSessions/Binaries/Win64/UE4Editor-AdvancedSessions.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Plugins/AdvancedSessions/AdvancedSteamSessions/Binaries/Win64/UE4Editor-AdvancedSteamSessions.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineFramework
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemSteam
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin AdvancedSessions
+LogPluginManager: Mounting plugin AdvancedSteamSessions
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogOnline: Display: STEAM: Loading Steam SDK 1.39
+LogOnline: Warning: STEAM: Steam API disabled!
+LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.18-CL-3794801
+LogInit: Engine Version: 4.18.2-3794801+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Dec  8 2017 02:04:53
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.03.07-03.01.37:139][  0]LogInit: Selected Device Profile: [Windows]
+[2019.03.07-03.01.37:139][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.03.07-03.01.37:161][  0]LogInit: Computer: MSI
+[2019.03.07-03.01.37:161][  0]LogInit: User: Alex
+[2019.03.07-03.01.37:161][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.03.07-03.01.37:161][  0]LogInit: High frequency timer resolution =2.533206 MHz
+[2019.03.07-03.01.37:161][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.03.07-03.01.37:162][  0]LogMemory: Platform Memory Stats for Windows
+[2019.03.07-03.01.37:162][  0]LogMemory: Process Physical Memory: 275.94 MB used, 275.94 MB peak
+[2019.03.07-03.01.37:162][  0]LogMemory: Process Virtual Memory: 281.23 MB used, 281.23 MB peak
+[2019.03.07-03.01.37:162][  0]LogMemory: Physical Memory: 8941.52 MB used,  7331.82 MB free, 16273.34 MB total
+[2019.03.07-03.01.37:162][  0]LogMemory: Virtual Memory: 4795.79 MB used,  7331.82 MB free, 134217728.00 MB total
+[2019.03.07-03.01.39:185][  0]LogInit: Using OS detected language (en-US).
+[2019.03.07-03.01.39:185][  0]LogInit: Using OS detected locale (en-US).
+[2019.03.07-03.01.39:191][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.03.07-03.01.39:909][  0]LogInit: Setting process to per monitor DPI aware
+[2019.03.07-03.01.40:588][  0]LogD3D11RHI: D3D11 adapters:
+[2019.03.07-03.01.40:712][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 965M' (Feature Level 11_0)
+[2019.03.07-03.01.40:712][  0]LogD3D11RHI:       2010/0/8136 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.03.07-03.01.40:730][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
+[2019.03.07-03.01.40:730][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.03.07-03.01.40:736][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.03.07-03.01.40:736][  0]LogD3D11RHI:       0/0/8136 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.03.07-03.01.40:736][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.03.07-03.01.40:785][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.03.07-03.01.40:785][  0]LogD3D11RHI:     GPU DeviceId: 0x13d9 (for the marketing name, search the web for "GPU Device Id")
+[2019.03.07-03.01.40:785][  0]LogWindows: EnumDisplayDevices:
+[2019.03.07-03.01.40:785][  0]LogWindows:    0. 'Intel(R) HD Graphics 4600' (P:1 D:1)
+[2019.03.07-03.01.40:786][  0]LogWindows:    1. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2019.03.07-03.01.40:787][  0]LogWindows:    2. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2019.03.07-03.01.40:788][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.03.07-03.01.40:788][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 965M
+[2019.03.07-03.01.40:788][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.03.07-03.01.40:788][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.03.07-03.01.40:788][  0]LogRHI: Texture pool is 1407 MB (70% of 2010 MB)
+[2019.03.07-03.01.40:873][  0]LogD3D11RHI: Async texture creation enabled
+[2019.03.07-03.01.40:896][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.03.07-03.01.40:898][  0]LogShaderCompilers: Guid format shader working directory is -30 characters bigger than the processId version (../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Intermediate/Shaders/WorkingDirectory/14856/).
+[2019.03.07-03.01.40:899][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/lockw/AppData/Local/Temp/UnrealShaderWorkingDir/8D1FC59F4E22647CA82BB5AF0E1082EA/'.
+[2019.03.07-03.01.40:899][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.03.07-03.01.43:802][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.03.07-03.01.44:041][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.03.07-03.01.44:271][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.03.07-03.01.44:582][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.03.07-03.01.44:867][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.03.07-03.01.45:108][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.03.07-03.01.45:366][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.03.07-03.01.45:655][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.03.07-03.01.45:927][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.03.07-03.01.46:216][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2019.03.07-03.01.46:502][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2019.03.07-03.01.46:704][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2019.03.07-03.01.46:882][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2019.03.07-03.01.47:121][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2019.03.07-03.01.47:555][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2019.03.07-03.01.47:555][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2019.03.07-03.01.47:783][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.07-03.01.47:971][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.03.07-03.01.48:307][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.03.07-03.01.48:417][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.03.07-03.01.48:625][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.03.07-03.01.48:869][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.03.07-03.01.49:121][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.03.07-03.01.49:395][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.03.07-03.01.49:395][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.03.07-03.01.52:020][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.03.07-03.01.52:209][  0]LogDerivedDataCache: Loaded boot cache 0.19s 78MB C:/Users/lockw/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2019.03.07-03.01.52:209][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/lockw/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2019.03.07-03.01.52:209][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.03.07-03.01.52:209][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.03.07-03.01.52:209][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.03.07-03.01.52:209][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.03.07-03.01.52:248][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.03.07-03.01.52:265][  0]LogDerivedDataCache: Using Local data cache path C:/Users/lockw/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.03.07-03.01.52:284][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.03.07-03.01.52:284][  0]LogSlate: Using Freetype 2.6.0
+[2019.03.07-03.01.52:286][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.03.07-03.01.52:286][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.03.07-03.01.53:151][  0]LogInit: Selected Device Profile: [Windows]
+[2019.03.07-03.01.54:493][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.03.07-03.01.54:698][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.03.07-03.01.54:698][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.03.07-03.01.54:698][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.03.07-03.01.54:698][  0]LogMeshReduction: No automatic mesh merging module available
+[2019.03.07-03.01.54:698][  0]LogMeshMerging: No automatic mesh merging module available
+[2019.03.07-03.01.54:788][  0]LogNetVersion: Illuminate , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1556659199)
+[2019.03.07-03.01.55:260][  0]LogAssetRegistry: FAssetRegistry took 0.0290 seconds to start up
+[2019.03.07-03.01.56:831][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.188838 seconds
+[2019.03.07-03.01.56:838][  0]LogUObjectArray: 35907 objects as part of root set at end of initial load.
+[2019.03.07-03.01.56:838][  0]LogUObjectAllocator: 7585960 out of 0 bytes used by permanent object pool.
+[2019.03.07-03.01.56:838][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.03.07-03.02.06:800][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.03.07-03.02.06:965][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.03.07-03.02.10:676][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2019.03.07-03.02.12:465][  0]SourceControl: Source control is disabled
+[2019.03.07-03.02.20:858][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.03.07-03.02.22:143][  0]LogOcInput: OculusInput pre-init called
+[2019.03.07-03.02.23:532][  0]LogEngine: Initializing Engine...
+[2019.03.07-03.02.23:538][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.03.07-03.02.23:989][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.03.07-03.02.23:990][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.03.07-03.02.24:674][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.03.07-03.02.24:818][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.03.07-03.02.25:331][  0]LogInit: FAudioDevice initialized.
+[2019.03.07-03.02.25:535][  0]LogDerivedDataCache: Saved boot cache 0.20s 78MB C:/Users/lockw/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2019.03.07-03.02.25:542][  0]LogInit: Texture streaming: Enabled
+[2019.03.07-03.02.26:211][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.03.07-03.02.26:923][  0]LogInit: Transaction tracking system initialized
+[2019.03.07-03.02.28:658][  0]BlueprintLog: New page: Editor Load
+[2019.03.07-03.02.33:730][  0]LocalizationService: Localization service is disabled
+[2019.03.07-03.02.38:692][  0]LogConsoleResponse: Display: 
+[2019.03.07-03.02.39:291][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.03.07-03.02.39:291][  0]LogCook: Display: Mobile HDR setting 1
+[2019.03.07-03.02.39:291][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.03.07-03.02.40:815][  0]LogFileCache: Scanning file cache for directory 'C:/Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/' took 0.75s
+[2019.03.07-03.02.45:367][  0]Cmd: MAP LOAD FILE="../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Creations/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.03.07-03.02.45:368][  0]LightingResults: New page: Lighting Build
+[2019.03.07-03.02.45:598][  0]MapCheck: New page: Map Check
+[2019.03.07-03.02.45:598][  0]LightingResults: New page: Lighting Build
+[2019.03.07-03.02.51:611][  0]LogAIModule: Creating AISystem for world MainMenu
+[2019.03.07-03.02.51:613][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.03.07-03.02.51:643][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.03.07-03.02.51:990][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 346.695ms to complete.
+[2019.03.07-03.02.51:991][  0]LogFileHelpers: Loading map 'MainMenu' took 6.623
+[2019.03.07-03.02.52:331][  0]LogCollectionManager: Loaded 0 collections in 0.011358 seconds
+[2019.03.07-03.02.52:647][  0]LogFileCache: Scanning file cache for directory 'C:/Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Saved/Collections/' took 0.01s
+[2019.03.07-03.02.52:647][  0]LogFileCache: Scanning file cache for directory 'C:/Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Developers/Alex/Collections/' took 0.01s
+[2019.03.07-03.02.52:647][  0]LogFileCache: Scanning file cache for directory 'C:/Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Collections/' took 0.01s
+[2019.03.07-03.02.52:647][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.03.07-03.02.52:664][  0]LogContentBrowser: Native class hierarchy populated in 0.0169 seconds. Added 2403 classes and 540 folders.
+[2019.03.07-03.02.53:231][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2019.03.07-03.02.53:462][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.03.07-03.02.53:770][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2019.03.07-03.02.54:047][  0]LogSlate: Took 0.000580 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.03.07-03.02.54:052][  0]LogSlate: Took 0.000518 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.03.07-03.02.54:068][  0]LogSlate: Took 0.000554 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.03.07-03.02.54:078][  0]LogSlate: Took 0.000433 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2019.03.07-03.02.54:470][  0]LogRenderer: Reallocating scene render targets to support 1208x592 Format 10 NumSamples 1 (Frame:1).
+[2019.03.07-03.02.55:281][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2019.03.07-03.02.55:282][  0]LogLoad: (Engine Initialization) Total time: 89.86 seconds
+[2019.03.07-03.02.55:282][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.03.07-03.02.55:283][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2019.03.07-03.02.55:283][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2019.03.07-03.02.55:661][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.03.07-03.02.55:719][  0]LogSlate: Took 0.000643 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2019.03.07-03.02.56:654][  3]LogSlate: Took 0.000915 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2019.03.07-03.02.56:985][  4]SourceControl: On branch master
+[2019.03.07-03.02.56:986][  4]SourceControl: Changes to be committed:
+[2019.03.07-03.02.56:986][  4]SourceControl:   (use "git reset HEAD <file>..." to unstage)
+[2019.03.07-03.02.56:986][  4]SourceControl: 	deleted:    Illuminate/Content/Creations/shots/TriShot.uasset
+[2019.03.07-03.02.56:986][  4]SourceControl: Changes not staged for commit:
+[2019.03.07-03.02.56:986][  4]SourceControl:   (use "git add/rm <file>..." to update what will be committed)
+[2019.03.07-03.02.56:987][  4]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
+[2019.03.07-03.02.56:988][  4]SourceControl: 	modified:   Illuminate/Build/WindowsNoEditor/FileOpenOrder/CookerOpenOrder.log
+[2019.03.07-03.02.56:988][  4]SourceControl: 	modified:   Illuminate/Build/WindowsNoEditor/FileOpenOrder/EditorOpenOrder.log
+[2019.03.07-03.02.56:988][  4]SourceControl: 	modified:   Illuminate/Config/DefaultEngine.ini
+[2019.03.07-03.02.56:988][  4]SourceControl: 	modified:   Illuminate/Content/Creations/GInstances/MainInstance.uasset
+[2019.03.07-03.02.56:988][  4]SourceControl: 	modified:   Illuminate/Content/Creations/Maps/MainMenu.umap
+[2019.03.07-03.02.56:989][  4]SourceControl: 	modified:   Illuminate/Content/Creations/Maps/MainMenu_BuiltData.uasset
+[2019.03.07-03.02.56:989][  4]SourceControl: 	modified:   Illuminate/Content/Creations/Widgets/HostGameMenu.uasset
+[2019.03.07-03.02.56:989][  4]SourceControl: 	modified:   Illuminate/Content/Creations/Widgets/MainMenuUI.uasset
+[2019.03.07-03.02.56:990][  4]SourceControl: 	modified:   Illuminate/Content/Creations/Widgets/MultiplayerLobbyWidget.uasset
+[2019.03.07-03.02.56:990][  4]SourceControl: 	modified:   Illuminate/Content/Creations/Widgets/SearchGames.uasset
+[2019.03.07-03.02.56:990][  4]SourceControl: 	modified:   Illuminate/Intermediate/AssetRegistryCache/c90e3f55.bin
+[2019.03.07-03.02.56:990][  4]SourceControl: 	modified:   Illuminate/Intermediate/Build/BuildRules/IlluminateModuleRules.dll
+[2019.03.07-03.02.56:991][  4]SourceControl: 	modified:   Illuminate/Intermediate/Build/BuildRules/IlluminateModuleRules.pdb
+[2019.03.07-03.02.56:991][  4]SourceControl: 	modified:   Illuminate/Intermediate/Build/Win64/Illuminate/DependencyCache.bin
+[2019.03.07-03.02.56:991][  4]SourceControl: 	modified:   Illuminate/Intermediate/CachedAssetRegistry.bin
+[2019.03.07-03.02.56:991][  4]SourceControl: 	modified:   Illuminate/Intermediate/Config/CoalescedSourceConfigs/Engine.ini
+[2019.03.07-03.02.56:991][  4]SourceControl: 	modified:   Illuminate/Intermediate/Staging/Illuminate.exe
+[2019.03.07-03.02.56:991][  4]SourceControl: 	modified:   Illuminate/Saved/Autosaves/Game/Creations/Widgets/MainMenuUI_Auto1.uasset
+[2019.03.07-03.02.56:992][  4]SourceControl: 	modified:   Illuminate/Saved/Autosaves/Game/Creations/Widgets/MultiplayerLobbyWidget_Auto1.uasset
+[2019.03.07-03.02.56:992][  4]SourceControl: 	deleted:    Illuminate/Saved/Backup/MainGm_2019-02-14-20-48-57.uasset
+[2019.03.07-03.02.56:992][  4]SourceControl: 	deleted:    Illuminate/Saved/Backup/MainGm_2019-02-14-20-56-34.uasset
+[2019.03.07-03.02.56:992][  4]SourceControl: 	deleted:    Illuminate/Saved/Config/CrashReportClient/UE4CC-Windows-1082F61A40905E7BB099708E195DE09B/CrashReportClient.ini
+[2019.03.07-03.02.56:992][  4]SourceControl: 	deleted:    Illuminate/Saved/Config/CrashReportClient/UE4CC-Windows-11AB8F594082155F50AE49926E13B266/CrashReportClient.ini
+[2019.03.07-03.02.56:992][  4]SourceControl: 	deleted:    Illuminate/Saved/Config/CrashReportClient/UE4CC-Windows-17155A4848010EA1B0699CB8C3D825CA/CrashReportClient.ini
+[2019.03.07-03.02.56:993][  4]SourceControl: 	deleted:    Illuminate/Saved/Config/CrashReportClient/UE4CC-Windows-176D3EC846D3327322734DACE84A56C3/CrashReportClient.ini
+[2019.03.07-03.02.56:993][  4]SourceControl: 	deleted:    Illuminate/Saved/Config/CrashReportClient/UE4CC-Windows-20B424C7407AFCB55590E892E6C3DE62/CrashReportClient.ini
+[2019.03.07-03.02.56:993][  4]SourceControl: 	deleted:    Illuminate/Saved/Config/CrashReportClient/UE4CC-Windows-4B49101041A2BC599D3077A63D1B6572/CrashReportClient.ini
+[2019.03.07-03.02.56:993][  4]SourceControl: 	deleted:    Illuminate/Saved/Config/CrashReportClient/UE4CC-Windows-52B1C6C04C4E477688785E8C2BDE16B2/CrashReportClient.ini
+[2019.03.07-03.02.56:994][  4]SourceControl: 	deleted:    Illuminate/Saved/Config/CrashReportClient/UE4CC-Windows-560049DD442B42B6ECEF5D9F38C6BF64/CrashReportClient.ini
+[2019.03.07-03.02.56:994][  4]SourceControl: 	deleted:    Illuminate/Saved/Config/CrashReportClient/UE4CC-Windows-66C3659C41758C0F12EE308CCDAB847E/CrashReportClient.ini
+[2019.03.07-03.02.56:994][  4]SourceControl: 	deleted:    Illuminate/Saved/Config/CrashReportClient/UE4CC-Windows-6AA80DD647E69330B0B91EABE89F7C77/CrashReportClient.ini
+[2019.03.07-03.02.56:994][  4]SourceControl: 	deleted:    Illuminate/Saved/Config/CrashReportClient/UE4CC-Windows-6BD3E708467D1EE8BDCBD4B9A234D640/CrashReportClient.ini
+[2019.03.07-03.02.56:994][  4]SourceControl: 	deleted:    Illuminate/Saved/Config/CrashReportClient/UE4CC-Windows-7DD3F0634FCAF3770C72C793EF212279/CrashReportClient.ini
+[2019.03.07-03.02.56:995][  4]SourceControl: 	deleted:    Illuminate/Saved/Config/CrashReportClient/UE4CC-Windows-822944234A8FA442CC192ABF1EF330B1/CrashReportClient.ini
+[2019.03.07-03.02.56:995][  4]SourceControl: 	deleted:    Illuminate/Saved/Config/CrashReportClient/UE4CC-Windows-83EAD8264E5F1EAAFE9629A862121273/CrashReportClient.ini
+[2019.03.07-03.02.56:995][  4]SourceControl: 	deleted:    Illuminate/Saved/Config/CrashReportClient/UE4CC-Windows-9A3EAEE446BAD973EFB1D3B35FA958F4/CrashReportClient.ini
+[2019.03.07-03.02.56:995][  4]SourceControl: 	deleted:    Illuminate/Saved/Config/CrashReportClient/UE4CC-Windows-9A4318FD4B38BF0EE67BB28EB68758E6/CrashReportClient.ini
+[2019.03.07-03.02.56:996][  4]SourceControl: 	deleted:    Illuminate/Saved/Config/CrashReportClient/UE4CC-Windows-9F109DF84C040F87E30783BCF87BB95E/CrashReportClient.ini
+[2019.03.07-03.02.56:996][  4]SourceControl: 	deleted:    Illuminate/Saved/Config/CrashReportClient/UE4CC-Windows-AE3B753541F8429D074D6CAF4487944A/CrashReportClient.ini
+[2019.03.07-03.02.56:996][  4]SourceControl: 	deleted:    Illuminate/Saved/Config/CrashReportClient/UE4CC-Windows-B13C7A964CFF3073718FF7B2E9B4D5B9/CrashReportClient.ini
+[2019.03.07-03.02.56:996][  4]SourceControl: 	deleted:    Illuminate/Saved/Config/CrashReportClient/UE4CC-Windows-B69DEA834D8B2DEFCC69B2B142363CAC/CrashReportClient.ini
+[2019.03.07-03.02.56:996][  4]SourceControl: 	deleted:    Illuminate/Saved/Config/CrashReportClient/UE4CC-Windows-B6C9DCF04DF6A9BAB123C5B9907BAF7F/CrashReportClient.ini
+[2019.03.07-03.02.56:997][  4]SourceControl: 	deleted:    Illuminate/Saved/Config/CrashReportClient/UE4CC-Windows-B9C4BD9A40EF3AD7F26524B5DE6719E3/CrashReportClient.ini
+[2019.03.07-03.02.56:997][  4]SourceControl: 	deleted:    Illuminate/Saved/Config/CrashReportClient/UE4CC-Windows-BB94C9A74559E2CF81035E91FBA4BB31/CrashReportClient.ini
+[2019.03.07-03.02.56:997][  4]SourceControl: 	deleted:    Illuminate/Saved/Config/CrashReportClient/UE4CC-Windows-C468E8E14C08A2C2BB5AA1B5A57ED88F/CrashReportClient.ini
+[2019.03.07-03.02.56:997][  4]SourceControl: 	deleted:    Illuminate/Saved/Config/CrashReportClient/UE4CC-Windows-CF09440E4741317B83DAF5A718F9B347/CrashReportClient.ini
+[2019.03.07-03.02.56:997][  4]SourceControl: 	deleted:    Illuminate/Saved/Config/CrashReportClient/UE4CC-Windows-D73F094B4368FDC4169107A6C41FDB7F/CrashReportClient.ini
+[2019.03.07-03.02.56:998][  4]SourceControl: 	deleted:    Illuminate/Saved/Config/CrashReportClient/UE4CC-Windows-DCF8EE994646E77E3B95588D3610EFF0/CrashReportClient.ini
+[2019.03.07-03.02.56:998][  4]SourceControl: 	deleted:    Illuminate/Saved/Config/CrashReportClient/UE4CC-Windows-E048CCA14ECE298168F7869CCB96DD87/CrashReportClient.ini
+[2019.03.07-03.02.56:998][  4]SourceControl: 	deleted:    Illuminate/Saved/Config/CrashReportClient/UE4CC-Windows-E5F1128843A19E682BA3ED9484425F62/CrashReportClient.ini
+[2019.03.07-03.02.56:998][  4]SourceControl: 	deleted:    Illuminate/Saved/Config/CrashReportClient/UE4CC-Windows-E8E030594E989BF420291A8A0CC69FBC/CrashReportClient.ini
+[2019.03.07-03.02.56:999][  4]SourceControl: 	modified:   Illuminate/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+[2019.03.07-03.02.56:999][  4]SourceControl: 	modified:   Illuminate/Saved/Config/Windows/Engine.ini
+[2019.03.07-03.02.56:999][  4]SourceControl: 	modified:   Illuminate/Saved/Config/Windows/PIEGameUserSettings0.ini
+[2019.03.07-03.02.56:999][  4]SourceControl: 	modified:   Illuminate/Saved/Cooked/WindowsNoEditor/Illuminate/Content/AdvancedMagicFX13/DemoRoomData/Blueprints/BP_DemoDisplay_Enum.uexp
+[2019.03.07-03.02.56:999][  4]SourceControl: 	modified:   Illuminate/Saved/Cooked/WindowsNoEditor/Illuminate/Content/AdvancedMagicFX13/DemoRoomData/Blueprints/BP_DemoRoom_Enum.uexp
+[2019.03.07-03.02.56:999][  4]SourceControl: 	modified:   Illuminate/Saved/Cooked/WindowsNoEditor/Illuminate/Content/AdvancedMagicFX13/Maps/Overview.uexp
+[2019.03.07-03.02.57:000][  4]SourceControl: 	modified:   Illuminate/Saved/Cooked/WindowsNoEditor/Illuminate/Content/Creations/GInstances/MainInstance.uasset
+[2019.03.07-03.02.57:000][  4]SourceControl: 	modified:   Illuminate/Saved/Cooked/WindowsNoEditor/Illuminate/Content/Creations/Widgets/HostGameMenu.uasset
+[2019.03.07-03.02.57:000][  4]SourceControl: 	modified:   Illuminate/Saved/Cooked/WindowsNoEditor/Illuminate/Content/Creations/Widgets/HostGameMenu.uexp
+[2019.03.07-03.02.57:000][  4]SourceControl: 	modified:   Illuminate/Saved/Cooked/WindowsNoEditor/Illuminate/Content/Creations/Widgets/MultiplayerLobbyWidget.uasset
+[2019.03.07-03.02.57:000][  4]SourceControl: 	modified:   Illuminate/Saved/Cooked/WindowsNoEditor/Illuminate/Content/Creations/Widgets/SearchGames.uasset
+[2019.03.07-03.02.57:001][  4]SourceControl: 	modified:   Illuminate/Saved/Cooked/WindowsNoEditor/Illuminate/Content/Creations/Widgets/SearchGames.uexp
+[2019.03.07-03.02.57:001][  4]SourceControl: 	modified:   Illuminate/Saved/Cooked/WindowsNoEditor/Illuminate/Content/InfinityBladeEffects/Maps/Overview.uexp
+[2019.03.07-03.02.57:001][  4]SourceControl: 	modified:   Illuminate/Saved/Cooked/WindowsNoEditor/Illuminate/DevelopmentAssetRegistry.bin
+[2019.03.07-03.02.57:001][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/AllDesktop/GeoShot/AssetRegistry.bin
+[2019.03.07-03.02.57:001][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/AllDesktop/GeoShot/CookedIniVersion.txt
+[2019.03.07-03.02.57:001][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/AllDesktop/GeoShot/DevelopmentAssetRegistry.bin
+[2019.03.07-03.02.57:002][  4]SourceControl: 	modified:   Illuminate/Saved/EditorCooked/AllDesktop/Illuminate/AssetRegistry.bin
+[2019.03.07-03.02.57:002][  4]SourceControl: 	modified:   Illuminate/Saved/EditorCooked/AllDesktop/Illuminate/CookedIniVersion.txt
+[2019.03.07-03.02.57:002][  4]SourceControl: 	modified:   Illuminate/Saved/EditorCooked/AllDesktop/Illuminate/DevelopmentAssetRegistry.bin
+[2019.03.07-03.02.57:002][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/Android/GeoShot/AssetRegistry.bin
+[2019.03.07-03.02.57:002][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/Android/GeoShot/CookedIniVersion.txt
+[2019.03.07-03.02.57:002][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/Android/GeoShot/DevelopmentAssetRegistry.bin
+[2019.03.07-03.02.57:002][  4]SourceControl: 	modified:   Illuminate/Saved/EditorCooked/Android/Illuminate/AssetRegistry.bin
+[2019.03.07-03.02.57:003][  4]SourceControl: 	modified:   Illuminate/Saved/EditorCooked/Android/Illuminate/CookedIniVersion.txt
+[2019.03.07-03.02.57:003][  4]SourceControl: 	modified:   Illuminate/Saved/EditorCooked/Android/Illuminate/DevelopmentAssetRegistry.bin
+[2019.03.07-03.02.57:003][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/Android_ASTC/GeoShot/AssetRegistry.bin
+[2019.03.07-03.02.57:003][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/Android_ASTC/GeoShot/CookedIniVersion.txt
+[2019.03.07-03.02.57:003][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/Android_ASTC/GeoShot/DevelopmentAssetRegistry.bin
+[2019.03.07-03.02.57:003][  4]SourceControl: 	modified:   Illuminate/Saved/EditorCooked/Android_ASTC/Illuminate/AssetRegistry.bin
+[2019.03.07-03.02.57:004][  4]SourceControl: 	modified:   Illuminate/Saved/EditorCooked/Android_ASTC/Illuminate/CookedIniVersion.txt
+[2019.03.07-03.02.57:004][  4]SourceControl: 	modified:   Illuminate/Saved/EditorCooked/Android_ASTC/Illuminate/DevelopmentAssetRegistry.bin
+[2019.03.07-03.02.57:004][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/Android_ATC/GeoShot/AssetRegistry.bin
+[2019.03.07-03.02.57:004][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/Android_ATC/GeoShot/CookedIniVersion.txt
+[2019.03.07-03.02.57:004][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/Android_ATC/GeoShot/DevelopmentAssetRegistry.bin
+[2019.03.07-03.02.57:004][  4]SourceControl: 	modified:   Illuminate/Saved/EditorCooked/Android_ATC/Illuminate/AssetRegistry.bin
+[2019.03.07-03.02.57:004][  4]SourceControl: 	modified:   Illuminate/Saved/EditorCooked/Android_ATC/Illuminate/CookedIniVersion.txt
+[2019.03.07-03.02.57:005][  4]SourceControl: 	modified:   Illuminate/Saved/EditorCooked/Android_ATC/Illuminate/DevelopmentAssetRegistry.bin
+[2019.03.07-03.02.57:005][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/Android_DXT/GeoShot/AssetRegistry.bin
+[2019.03.07-03.02.57:005][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/Android_DXT/GeoShot/CookedIniVersion.txt
+[2019.03.07-03.02.57:005][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/Android_DXT/GeoShot/DevelopmentAssetRegistry.bin
+[2019.03.07-03.02.57:005][  4]SourceControl: 	modified:   Illuminate/Saved/EditorCooked/Android_DXT/Illuminate/AssetRegistry.bin
+[2019.03.07-03.02.57:005][  4]SourceControl: 	modified:   Illuminate/Saved/EditorCooked/Android_DXT/Illuminate/CookedIniVersion.txt
+[2019.03.07-03.02.57:006][  4]SourceControl: 	modified:   Illuminate/Saved/EditorCooked/Android_DXT/Illuminate/DevelopmentAssetRegistry.bin
+[2019.03.07-03.02.57:006][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/Android_ETC1/GeoShot/AssetRegistry.bin
+[2019.03.07-03.02.57:006][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/Android_ETC1/GeoShot/CookedIniVersion.txt
+[2019.03.07-03.02.57:006][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/Android_ETC1/GeoShot/DevelopmentAssetRegistry.bin
+[2019.03.07-03.02.57:006][  4]SourceControl: 	modified:   Illuminate/Saved/EditorCooked/Android_ETC1/Illuminate/AssetRegistry.bin
+[2019.03.07-03.02.57:006][  4]SourceControl: 	modified:   Illuminate/Saved/EditorCooked/Android_ETC1/Illuminate/CookedIniVersion.txt
+[2019.03.07-03.02.57:007][  4]SourceControl: 	modified:   Illuminate/Saved/EditorCooked/Android_ETC1/Illuminate/DevelopmentAssetRegistry.bin
+[2019.03.07-03.02.57:007][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/Android_ETC2/GeoShot/AssetRegistry.bin
+[2019.03.07-03.02.57:007][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/Android_ETC2/GeoShot/CookedIniVersion.txt
+[2019.03.07-03.02.57:007][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/Android_ETC2/GeoShot/DevelopmentAssetRegistry.bin
+[2019.03.07-03.02.57:007][  4]SourceControl: 	modified:   Illuminate/Saved/EditorCooked/Android_ETC2/Illuminate/AssetRegistry.bin
+[2019.03.07-03.02.57:007][  4]SourceControl: 	modified:   Illuminate/Saved/EditorCooked/Android_ETC2/Illuminate/CookedIniVersion.txt
+[2019.03.07-03.02.57:008][  4]SourceControl: 	modified:   Illuminate/Saved/EditorCooked/Android_ETC2/Illuminate/DevelopmentAssetRegistry.bin
+[2019.03.07-03.02.57:008][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/Android_Multi/GeoShot/AssetRegistry.bin
+[2019.03.07-03.02.57:008][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/Android_Multi/GeoShot/CookedIniVersion.txt
+[2019.03.07-03.02.57:008][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/Android_Multi/GeoShot/DevelopmentAssetRegistry.bin
+[2019.03.07-03.02.57:008][  4]SourceControl: 	modified:   Illuminate/Saved/EditorCooked/Android_Multi/Illuminate/AssetRegistry.bin
+[2019.03.07-03.02.57:008][  4]SourceControl: 	modified:   Illuminate/Saved/EditorCooked/Android_Multi/Illuminate/CookedIniVersion.txt
+[2019.03.07-03.02.57:009][  4]SourceControl: 	modified:   Illuminate/Saved/EditorCooked/Android_Multi/Illuminate/DevelopmentAssetRegistry.bin
+[2019.03.07-03.02.57:009][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/Android_PVRTC/GeoShot/AssetRegistry.bin
+[2019.03.07-03.02.57:009][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/Android_PVRTC/GeoShot/CookedIniVersion.txt
+[2019.03.07-03.02.57:009][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/Android_PVRTC/GeoShot/DevelopmentAssetRegistry.bin
+[2019.03.07-03.02.57:010][  4]SourceControl: 	modified:   Illuminate/Saved/EditorCooked/Android_PVRTC/Illuminate/AssetRegistry.bin
+[2019.03.07-03.02.57:010][  4]SourceControl: 	modified:   Illuminate/Saved/EditorCooked/Android_PVRTC/Illuminate/CookedIniVersion.txt
+[2019.03.07-03.02.57:011][  4]SourceControl: 	modified:   Illuminate/Saved/EditorCooked/Android_PVRTC/Illuminate/DevelopmentAssetRegistry.bin
+[2019.03.07-03.02.57:012][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/HTML5/GeoShot/AssetRegistry.bin
+[2019.03.07-03.02.57:012][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/HTML5/GeoShot/CookedIniVersion.txt
+[2019.03.07-03.02.57:012][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/HTML5/GeoShot/DevelopmentAssetRegistry.bin
+[2019.03.07-03.02.57:012][  4]SourceControl: 	modified:   Illuminate/Saved/EditorCooked/HTML5/Illuminate/AssetRegistry.bin
+[2019.03.07-03.02.57:013][  4]SourceControl: 	modified:   Illuminate/Saved/EditorCooked/HTML5/Illuminate/CookedIniVersion.txt
+[2019.03.07-03.02.57:013][  4]SourceControl: 	modified:   Illuminate/Saved/EditorCooked/HTML5/Illuminate/DevelopmentAssetRegistry.bin
+[2019.03.07-03.02.57:013][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/IOS/GeoShot/AssetRegistry.bin
+[2019.03.07-03.02.57:013][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/IOS/GeoShot/CookedIniVersion.txt
+[2019.03.07-03.02.57:014][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/IOS/GeoShot/DevelopmentAssetRegistry.bin
+[2019.03.07-03.02.57:014][  4]SourceControl: 	modified:   Illuminate/Saved/EditorCooked/IOS/Illuminate/AssetRegistry.bin
+[2019.03.07-03.02.57:014][  4]SourceControl: 	modified:   Illuminate/Saved/EditorCooked/IOS/Illuminate/CookedIniVersion.txt
+[2019.03.07-03.02.57:014][  4]SourceControl: 	modified:   Illuminate/Saved/EditorCooked/IOS/Illuminate/DevelopmentAssetRegistry.bin
+[2019.03.07-03.02.57:014][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/Linux/GeoShot/AssetRegistry.bin
+[2019.03.07-03.02.57:014][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/Linux/GeoShot/CookedIniVersion.txt
+[2019.03.07-03.02.57:015][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/Linux/GeoShot/DevelopmentAssetRegistry.bin
+[2019.03.07-03.02.57:015][  4]SourceControl: 	modified:   Illuminate/Saved/EditorCooked/Linux/Illuminate/AssetRegistry.bin
+[2019.03.07-03.02.57:015][  4]SourceControl: 	modified:   Illuminate/Saved/EditorCooked/Linux/Illuminate/CookedIniVersion.txt
+[2019.03.07-03.02.57:015][  4]SourceControl: 	modified:   Illuminate/Saved/EditorCooked/Linux/Illuminate/DevelopmentAssetRegistry.bin
+[2019.03.07-03.02.57:015][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/LinuxClient/GeoShot/AssetRegistry.bin
+[2019.03.07-03.02.57:015][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/LinuxClient/GeoShot/CookedIniVersion.txt
+[2019.03.07-03.02.57:016][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/LinuxClient/GeoShot/DevelopmentAssetRegistry.bin
+[2019.03.07-03.02.57:016][  4]SourceControl: 	modified:   Illuminate/Saved/EditorCooked/LinuxClient/Illuminate/AssetRegistry.bin
+[2019.03.07-03.02.57:016][  4]SourceControl: 	modified:   Illuminate/Saved/EditorCooked/LinuxClient/Illuminate/CookedIniVersion.txt
+[2019.03.07-03.02.57:016][  4]SourceControl: 	modified:   Illuminate/Saved/EditorCooked/LinuxClient/Illuminate/DevelopmentAssetRegistry.bin
+[2019.03.07-03.02.57:016][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/LinuxNoEditor/GeoShot/AssetRegistry.bin
+[2019.03.07-03.02.57:016][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/LinuxNoEditor/GeoShot/CookedIniVersion.txt
+[2019.03.07-03.02.57:017][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/LinuxNoEditor/GeoShot/DevelopmentAssetRegistry.bin
+[2019.03.07-03.02.57:017][  4]SourceControl: 	modified:   Illuminate/Saved/EditorCooked/LinuxNoEditor/Illuminate/AssetRegistry.bin
+[2019.03.07-03.02.57:017][  4]SourceControl: 	modified:   Illuminate/Saved/EditorCooked/LinuxNoEditor/Illuminate/CookedIniVersion.txt
+[2019.03.07-03.02.57:017][  4]SourceControl: 	modified:   Illuminate/Saved/EditorCooked/LinuxNoEditor/Illuminate/DevelopmentAssetRegistry.bin
+[2019.03.07-03.02.57:017][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/LinuxServer/GeoShot/AssetRegistry.bin
+[2019.03.07-03.02.57:017][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/LinuxServer/GeoShot/CookedIniVersion.txt
+[2019.03.07-03.02.57:018][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/LinuxServer/GeoShot/DevelopmentAssetRegistry.bin
+[2019.03.07-03.02.57:018][  4]SourceControl: 	modified:   Illuminate/Saved/EditorCooked/LinuxServer/Illuminate/AssetRegistry.bin
+[2019.03.07-03.02.57:018][  4]SourceControl: 	modified:   Illuminate/Saved/EditorCooked/LinuxServer/Illuminate/CookedIniVersion.txt
+[2019.03.07-03.02.57:018][  4]SourceControl: 	modified:   Illuminate/Saved/EditorCooked/LinuxServer/Illuminate/DevelopmentAssetRegistry.bin
+[2019.03.07-03.02.57:018][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/Mac/GeoShot/AssetRegistry.bin
+[2019.03.07-03.02.57:018][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/Mac/GeoShot/CookedIniVersion.txt
+[2019.03.07-03.02.57:019][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/Mac/GeoShot/DevelopmentAssetRegistry.bin
+[2019.03.07-03.02.57:019][  4]SourceControl: 	modified:   Illuminate/Saved/EditorCooked/Mac/Illuminate/AssetRegistry.bin
+[2019.03.07-03.02.57:019][  4]SourceControl: 	modified:   Illuminate/Saved/EditorCooked/Mac/Illuminate/CookedIniVersion.txt
+[2019.03.07-03.02.57:019][  4]SourceControl: 	modified:   Illuminate/Saved/EditorCooked/Mac/Illuminate/DevelopmentAssetRegistry.bin
+[2019.03.07-03.02.57:019][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/MacClient/GeoShot/AssetRegistry.bin
+[2019.03.07-03.02.57:019][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/MacClient/GeoShot/CookedIniVersion.txt
+[2019.03.07-03.02.57:020][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/MacClient/GeoShot/DevelopmentAssetRegistry.bin
+[2019.03.07-03.02.57:020][  4]SourceControl: 	modified:   Illuminate/Saved/EditorCooked/MacClient/Illuminate/AssetRegistry.bin
+[2019.03.07-03.02.57:020][  4]SourceControl: 	modified:   Illuminate/Saved/EditorCooked/MacClient/Illuminate/CookedIniVersion.txt
+[2019.03.07-03.02.57:020][  4]SourceControl: 	modified:   Illuminate/Saved/EditorCooked/MacClient/Illuminate/DevelopmentAssetRegistry.bin
+[2019.03.07-03.02.57:020][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/MacNoEditor/GeoShot/AssetRegistry.bin
+[2019.03.07-03.02.57:020][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/MacNoEditor/GeoShot/CookedIniVersion.txt
+[2019.03.07-03.02.57:021][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/MacNoEditor/GeoShot/DevelopmentAssetRegistry.bin
+[2019.03.07-03.02.57:021][  4]SourceControl: 	modified:   Illuminate/Saved/EditorCooked/MacNoEditor/Illuminate/AssetRegistry.bin
+[2019.03.07-03.02.57:022][  4]SourceControl: 	modified:   Illuminate/Saved/EditorCooked/MacNoEditor/Illuminate/CookedIniVersion.txt
+[2019.03.07-03.02.57:022][  4]SourceControl: 	modified:   Illuminate/Saved/EditorCooked/MacNoEditor/Illuminate/DevelopmentAssetRegistry.bin
+[2019.03.07-03.02.57:022][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/MacServer/GeoShot/AssetRegistry.bin
+[2019.03.07-03.02.57:022][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/MacServer/GeoShot/CookedIniVersion.txt
+[2019.03.07-03.02.57:022][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/MacServer/GeoShot/DevelopmentAssetRegistry.bin
+[2019.03.07-03.02.57:023][  4]SourceControl: 	modified:   Illuminate/Saved/EditorCooked/MacServer/Illuminate/AssetRegistry.bin
+[2019.03.07-03.02.57:023][  4]SourceControl: 	modified:   Illuminate/Saved/EditorCooked/MacServer/Illuminate/CookedIniVersion.txt
+[2019.03.07-03.02.57:023][  4]SourceControl: 	modified:   Illuminate/Saved/EditorCooked/MacServer/Illuminate/DevelopmentAssetRegistry.bin
+[2019.03.07-03.02.57:023][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/TVOS/GeoShot/AssetRegistry.bin
+[2019.03.07-03.02.57:023][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/TVOS/GeoShot/CookedIniVersion.txt
+[2019.03.07-03.02.57:023][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/TVOS/GeoShot/DevelopmentAssetRegistry.bin
+[2019.03.07-03.02.57:024][  4]SourceControl: 	modified:   Illuminate/Saved/EditorCooked/TVOS/Illuminate/AssetRegistry.bin
+[2019.03.07-03.02.57:024][  4]SourceControl: 	modified:   Illuminate/Saved/EditorCooked/TVOS/Illuminate/CookedIniVersion.txt
+[2019.03.07-03.02.57:024][  4]SourceControl: 	modified:   Illuminate/Saved/EditorCooked/TVOS/Illuminate/DevelopmentAssetRegistry.bin
+[2019.03.07-03.02.57:024][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/Windows/GeoShot/AssetRegistry.bin
+[2019.03.07-03.02.57:024][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/Windows/GeoShot/CookedIniVersion.txt
+[2019.03.07-03.02.57:024][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/Windows/GeoShot/DevelopmentAssetRegistry.bin
+[2019.03.07-03.02.57:024][  4]SourceControl: 	modified:   Illuminate/Saved/EditorCooked/Windows/Illuminate/AssetRegistry.bin
+[2019.03.07-03.02.57:025][  4]SourceControl: 	modified:   Illuminate/Saved/EditorCooked/Windows/Illuminate/CookedIniVersion.txt
+[2019.03.07-03.02.57:025][  4]SourceControl: 	modified:   Illuminate/Saved/EditorCooked/Windows/Illuminate/DevelopmentAssetRegistry.bin
+[2019.03.07-03.02.57:025][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/WindowsClient/GeoShot/AssetRegistry.bin
+[2019.03.07-03.02.57:025][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/WindowsClient/GeoShot/CookedIniVersion.txt
+[2019.03.07-03.02.57:025][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/WindowsClient/GeoShot/DevelopmentAssetRegistry.bin
+[2019.03.07-03.02.57:026][  4]SourceControl: 	modified:   Illuminate/Saved/EditorCooked/WindowsClient/Illuminate/AssetRegistry.bin
+[2019.03.07-03.02.57:026][  4]SourceControl: 	modified:   Illuminate/Saved/EditorCooked/WindowsClient/Illuminate/CookedIniVersion.txt
+[2019.03.07-03.02.57:026][  4]SourceControl: 	modified:   Illuminate/Saved/EditorCooked/WindowsClient/Illuminate/DevelopmentAssetRegistry.bin
+[2019.03.07-03.02.57:027][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EditorMaterials/AntialiasedGridFloor.uasset
+[2019.03.07-03.02.57:027][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EditorMaterials/AntialiasedGridFloor.uexp
+[2019.03.07-03.02.57:028][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EditorMaterials/GridMaterial.uasset
+[2019.03.07-03.02.57:028][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EditorMaterials/GridMaterial.uexp
+[2019.03.07-03.02.57:028][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EditorMaterials/PersonaFloorMat.uasset
+[2019.03.07-03.02.57:029][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EditorMaterials/PersonaFloorMat.uexp
+[2019.03.07-03.02.57:029][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EditorMeshes/PhAT_FloorBox.uasset
+[2019.03.07-03.02.57:030][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EditorMeshes/PhAT_FloorBox.uexp
+[2019.03.07-03.02.57:030][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EditorResources/EmptyActor.uasset
+[2019.03.07-03.02.57:030][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EditorResources/EmptyActor.uexp
+[2019.03.07-03.02.57:030][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EditorResources/TilePatine_D.uasset
+[2019.03.07-03.02.57:031][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EditorResources/TilePatine_D.ubulk
+[2019.03.07-03.02.57:031][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EditorResources/TilePatine_D.uexp
+[2019.03.07-03.02.57:031][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EditorResources/TilePatine_N.uasset
+[2019.03.07-03.02.57:031][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EditorResources/TilePatine_N.ubulk
+[2019.03.07-03.02.57:031][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EditorResources/TilePatine_N.uexp
+[2019.03.07-03.02.57:032][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EditorSounds/GamePreview/PossessPlayer.uasset
+[2019.03.07-03.02.57:032][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EditorSounds/GamePreview/PossessPlayer.uexp
+[2019.03.07-03.02.57:032][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EditorSounds/GamePreview/PossessPlayer_Cue.uasset
+[2019.03.07-03.02.57:032][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EditorSounds/GamePreview/PossessPlayer_Cue.uexp
+[2019.03.07-03.02.57:032][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset
+[2019.03.07-03.02.57:033][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uexp
+[2019.03.07-03.02.57:033][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EngineSky/BP_Sky_Sphere.uasset
+[2019.03.07-03.02.57:033][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EngineSky/BP_Sky_Sphere.uexp
+[2019.03.07-03.02.57:033][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset
+[2019.03.07-03.02.57:034][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EngineSky/C_Sky_Cloud_Color.uexp
+[2019.03.07-03.02.57:034][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset
+[2019.03.07-03.02.57:034][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EngineSky/C_Sky_Horizon_Color.uexp
+[2019.03.07-03.02.57:034][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset
+[2019.03.07-03.02.57:035][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EngineSky/C_Sky_Zenith_Color.uexp
+[2019.03.07-03.02.57:035][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset
+[2019.03.07-03.02.57:035][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uexp
+[2019.03.07-03.02.57:035][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EngineSky/SM_SkySphere.uasset
+[2019.03.07-03.02.57:035][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EngineSky/SM_SkySphere.uexp
+[2019.03.07-03.02.57:036][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EngineSky/T_Sky_Blue.uasset
+[2019.03.07-03.02.57:036][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EngineSky/T_Sky_Blue.ubulk
+[2019.03.07-03.02.57:036][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EngineSky/T_Sky_Blue.uexp
+[2019.03.07-03.02.57:036][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EngineSky/T_Sky_Clouds_M.uasset
+[2019.03.07-03.02.57:036][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EngineSky/T_Sky_Clouds_M.ubulk
+[2019.03.07-03.02.57:037][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EngineSky/T_Sky_Clouds_M.uexp
+[2019.03.07-03.02.57:037][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EngineSky/T_Sky_Stars.uasset
+[2019.03.07-03.02.57:038][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EngineSky/T_Sky_Stars.ubulk
+[2019.03.07-03.02.57:038][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EngineSky/T_Sky_Stars.uexp
+[2019.03.07-03.02.57:039][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/WindowsNoEditor/GeoShot/AssetRegistry.bin
+[2019.03.07-03.02.57:039][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/WindowsNoEditor/GeoShot/Content/Creations/WeaponSelect.uasset
+[2019.03.07-03.02.57:039][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/WindowsNoEditor/GeoShot/Content/Creations/WeaponSelect.uexp
+[2019.03.07-03.02.57:039][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/WindowsNoEditor/GeoShot/Content/Geometry/Meshes/1M_Cube.uasset
+[2019.03.07-03.02.57:040][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/WindowsNoEditor/GeoShot/Content/Geometry/Meshes/1M_Cube.uexp
+[2019.03.07-03.02.57:040][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/WindowsNoEditor/GeoShot/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset
+[2019.03.07-03.02.57:040][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/WindowsNoEditor/GeoShot/Content/Geometry/Meshes/1M_Cube_Chamfer.uexp
+[2019.03.07-03.02.57:040][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/WindowsNoEditor/GeoShot/Content/Geometry/Meshes/CubeMaterial.uasset
+[2019.03.07-03.02.57:040][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/WindowsNoEditor/GeoShot/Content/Geometry/Meshes/CubeMaterial.uexp
+[2019.03.07-03.02.57:041][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/WindowsNoEditor/GeoShot/Content/TwinStick/Audio/TwinStickFire.uasset
+[2019.03.07-03.02.57:041][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/WindowsNoEditor/GeoShot/Content/TwinStick/Audio/TwinStickFire.uexp
+[2019.03.07-03.02.57:041][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/WindowsNoEditor/GeoShot/Content/TwinStick/Meshes/BaseMaterial.uasset
+[2019.03.07-03.02.57:041][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/WindowsNoEditor/GeoShot/Content/TwinStick/Meshes/BaseMaterial.uexp
+[2019.03.07-03.02.57:041][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/WindowsNoEditor/GeoShot/Content/TwinStick/Meshes/BlueMaterial.uasset
+[2019.03.07-03.02.57:042][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/WindowsNoEditor/GeoShot/Content/TwinStick/Meshes/BlueMaterial.uexp
+[2019.03.07-03.02.57:042][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/WindowsNoEditor/GeoShot/Content/TwinStick/Meshes/OrangeMaterial.uasset
+[2019.03.07-03.02.57:042][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/WindowsNoEditor/GeoShot/Content/TwinStick/Meshes/OrangeMaterial.uexp
+[2019.03.07-03.02.57:042][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/WindowsNoEditor/GeoShot/Content/TwinStick/Meshes/TwinStickProjectile.uasset
+[2019.03.07-03.02.57:042][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/WindowsNoEditor/GeoShot/Content/TwinStick/Meshes/TwinStickProjectile.uexp
+[2019.03.07-03.02.57:043][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/WindowsNoEditor/GeoShot/Content/TwinStick/Meshes/TwinStickUFO.uasset
+[2019.03.07-03.02.57:043][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/WindowsNoEditor/GeoShot/Content/TwinStick/Meshes/TwinStickUFO.uexp
+[2019.03.07-03.02.57:043][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/WindowsNoEditor/GeoShot/Content/TwinStickBP/Blueprints/TwinStickGameMode.uasset
+[2019.03.07-03.02.57:043][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/WindowsNoEditor/GeoShot/Content/TwinStickBP/Blueprints/TwinStickGameMode.uexp
+[2019.03.07-03.02.57:044][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/WindowsNoEditor/GeoShot/Content/TwinStickBP/Blueprints/TwinStickPawn.uasset
+[2019.03.07-03.02.57:044][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/WindowsNoEditor/GeoShot/Content/TwinStickBP/Blueprints/TwinStickPawn.uexp
+[2019.03.07-03.02.57:044][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/WindowsNoEditor/GeoShot/Content/TwinStickBP/Blueprints/TwinStickProjectile.uasset
+[2019.03.07-03.02.57:044][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/WindowsNoEditor/GeoShot/Content/TwinStickBP/Blueprints/TwinStickProjectile.uexp
+[2019.03.07-03.02.57:045][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/WindowsNoEditor/GeoShot/Content/TwinStickBP/Maps/TwinStickExampleMap.uexp
+[2019.03.07-03.02.57:045][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/WindowsNoEditor/GeoShot/Content/TwinStickBP/Maps/TwinStickExampleMap.umap
+[2019.03.07-03.02.57:045][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/WindowsNoEditor/GeoShot/Content/TwinStickBP/Maps/TwinStickExampleMap_BuiltData.uasset
+[2019.03.07-03.02.57:046][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/WindowsNoEditor/GeoShot/Content/TwinStickBP/Maps/TwinStickExampleMap_BuiltData.ubulk
+[2019.03.07-03.02.57:046][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/WindowsNoEditor/GeoShot/Content/TwinStickBP/Maps/TwinStickExampleMap_BuiltData.uexp
+[2019.03.07-03.02.57:046][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/WindowsNoEditor/GeoShot/CookedIniVersion.txt
+[2019.03.07-03.02.57:047][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/WindowsNoEditor/GeoShot/DevelopmentAssetRegistry.bin
+[2019.03.07-03.02.57:047][  4]SourceControl: 	modified:   Illuminate/Saved/EditorCooked/WindowsNoEditor/Illuminate/AssetRegistry.bin
+[2019.03.07-03.02.57:047][  4]SourceControl: 	modified:   Illuminate/Saved/EditorCooked/WindowsNoEditor/Illuminate/Content/AdvancedMagicFX13/DemoRoomData/Blueprints/BP_DemoDisplay_Enum.uexp
+[2019.03.07-03.02.57:048][  4]SourceControl: 	modified:   Illuminate/Saved/EditorCooked/WindowsNoEditor/Illuminate/Content/AdvancedMagicFX13/DemoRoomData/Blueprints/BP_DemoRoom_Enum.uexp
+[2019.03.07-03.02.57:048][  4]SourceControl: 	modified:   Illuminate/Saved/EditorCooked/WindowsNoEditor/Illuminate/Content/Creations/GInstances/MainInstance.uasset
+[2019.03.07-03.02.57:048][  4]SourceControl: 	modified:   Illuminate/Saved/EditorCooked/WindowsNoEditor/Illuminate/Content/Creations/Maps/MainMenu.umap
+[2019.03.07-03.02.57:049][  4]SourceControl: 	modified:   Illuminate/Saved/EditorCooked/WindowsNoEditor/Illuminate/Content/Creations/Maps/MainMenu_BuiltData.uasset
+[2019.03.07-03.02.57:049][  4]SourceControl: 	modified:   Illuminate/Saved/EditorCooked/WindowsNoEditor/Illuminate/Content/Creations/Widgets/HostGameMenu.uasset
+[2019.03.07-03.02.57:049][  4]SourceControl: 	modified:   Illuminate/Saved/EditorCooked/WindowsNoEditor/Illuminate/Content/Creations/Widgets/HostGameMenu.uexp
+[2019.03.07-03.02.57:050][  4]SourceControl: 	modified:   Illuminate/Saved/EditorCooked/WindowsNoEditor/Illuminate/Content/Creations/Widgets/MainMenuUI.uasset
+[2019.03.07-03.02.57:050][  4]SourceControl: 	modified:   Illuminate/Saved/EditorCooked/WindowsNoEditor/Illuminate/Content/Creations/Widgets/MainMenuUI.uexp
+[2019.03.07-03.02.57:050][  4]SourceControl: 	modified:   Illuminate/Saved/EditorCooked/WindowsNoEditor/Illuminate/Content/Creations/Widgets/MultiplayerLobbyWidget.uasset
+[2019.03.07-03.02.57:051][  4]SourceControl: 	modified:   Illuminate/Saved/EditorCooked/WindowsNoEditor/Illuminate/Content/Creations/Widgets/SearchGames.uasset
+[2019.03.07-03.02.57:051][  4]SourceControl: 	modified:   Illuminate/Saved/EditorCooked/WindowsNoEditor/Illuminate/Content/Creations/Widgets/SearchGames.uexp
+[2019.03.07-03.02.57:051][  4]SourceControl: 	modified:   Illuminate/Saved/EditorCooked/WindowsNoEditor/Illuminate/CookedIniVersion.txt
+[2019.03.07-03.02.57:051][  4]SourceControl: 	modified:   Illuminate/Saved/EditorCooked/WindowsNoEditor/Illuminate/DevelopmentAssetRegistry.bin
+[2019.03.07-03.02.57:052][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/WindowsServer/GeoShot/AssetRegistry.bin
+[2019.03.07-03.02.57:052][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/WindowsServer/GeoShot/CookedIniVersion.txt
+[2019.03.07-03.02.57:052][  4]SourceControl: 	deleted:    Illuminate/Saved/EditorCooked/WindowsServer/GeoShot/DevelopmentAssetRegistry.bin
+[2019.03.07-03.02.57:052][  4]SourceControl: 	modified:   Illuminate/Saved/EditorCooked/WindowsServer/Illuminate/AssetRegistry.bin
+[2019.03.07-03.02.57:052][  4]SourceControl: 	modified:   Illuminate/Saved/EditorCooked/WindowsServer/Illuminate/CookedIniVersion.txt
+[2019.03.07-03.02.57:053][  4]SourceControl: 	modified:   Illuminate/Saved/EditorCooked/WindowsServer/Illuminate/DevelopmentAssetRegistry.bin
+[2019.03.07-03.02.57:053][  4]SourceControl: 	deleted:    Illuminate/Saved/Logs/Illuminate-backup-2019.02.25-13.04.05.log
+[2019.03.07-03.02.57:053][  4]SourceControl: 	deleted:    Illuminate/Saved/Logs/Illuminate-backup-2019.02.25-18.17.54.log
+[2019.03.07-03.02.57:053][  4]SourceControl: 	deleted:    Illuminate/Saved/Logs/Illuminate-backup-2019.02.26-15.47.58.log
+[2019.03.07-03.02.57:054][  4]SourceControl: 	deleted:    Illuminate/Saved/Logs/Illuminate-backup-2019.02.26-17.28.13.log
+[2019.03.07-03.02.57:054][  4]SourceControl: 	deleted:    Illuminate/Saved/Logs/Illuminate-backup-2019.02.26-17.58.40.log
+[2019.03.07-03.02.57:054][  4]SourceControl: 	deleted:    Illuminate/Saved/Logs/Illuminate-backup-2019.02.26-18.16.06.log
+[2019.03.07-03.02.57:054][  4]SourceControl: 	deleted:    Illuminate/Saved/Logs/Illuminate-backup-2019.02.26-18.22.14.log
+[2019.03.07-03.02.57:054][  4]SourceControl: 	deleted:    Illuminate/Saved/Logs/Illuminate-backup-2019.02.26-18.32.51.log
+[2019.03.07-03.02.57:055][  4]SourceControl: 	deleted:    Illuminate/Saved/Logs/Illuminate-backup-2019.02.27-15.16.01.log
+[2019.03.07-03.02.57:055][  4]SourceControl: 	deleted:    Illuminate/Saved/Logs/Illuminate-backup-2019.02.27-16.14.50.log
+[2019.03.07-03.02.57:055][  4]SourceControl: 	modified:   Illuminate/Saved/Logs/Illuminate.log
+[2019.03.07-03.02.57:055][  4]SourceControl: 	deleted:    Illuminate/Saved/Logs/Illuminate_2-backup-2019.02.23-16.17.13.log
+[2019.03.07-03.02.57:055][  4]SourceControl: 	deleted:    Illuminate/Saved/Logs/Illuminate_2-backup-2019.02.23-16.17.26.log
+[2019.03.07-03.02.57:055][  4]SourceControl: 	deleted:    Illuminate/Saved/Logs/Illuminate_2-backup-2019.02.25-12.49.17.log
+[2019.03.07-03.02.57:056][  4]SourceControl: 	deleted:    Illuminate/Saved/Logs/Illuminate_2-backup-2019.02.26-17.37.43.log
+[2019.03.07-03.02.57:056][  4]SourceControl: 	deleted:    Illuminate/Saved/Logs/Illuminate_2-backup-2019.02.26-18.01.28.log
+[2019.03.07-03.02.57:056][  4]SourceControl: 	deleted:    Illuminate/Saved/Logs/Illuminate_2-backup-2019.02.26-18.19.30.log
+[2019.03.07-03.02.57:056][  4]SourceControl: 	deleted:    Illuminate/Saved/Logs/Illuminate_2-backup-2019.02.26-18.23.49.log
+[2019.03.07-03.02.57:056][  4]SourceControl: 	deleted:    Illuminate/Saved/Logs/Illuminate_2-backup-2019.02.27-15.46.34.log
+[2019.03.07-03.02.57:057][  4]SourceControl: 	deleted:    Illuminate/Saved/Logs/Illuminate_2-backup-2019.02.27-15.48.17.log
+[2019.03.07-03.02.57:057][  4]SourceControl: 	deleted:    Illuminate/Saved/Logs/Illuminate_2-backup-2019.02.27-15.49.36.log
+[2019.03.07-03.02.57:057][  4]SourceControl: 	modified:   Illuminate/Saved/Logs/Illuminate_2.log
+[2019.03.07-03.02.57:057][  4]SourceControl: 	deleted:    Illuminate/Saved/Logs/Illuminate_3-backup-2019.02.23-09.22.58.log
+[2019.03.07-03.02.57:057][  4]SourceControl: 	deleted:    Illuminate/Saved/Logs/Illuminate_3-backup-2019.02.23-09.39.40.log
+[2019.03.07-03.02.57:057][  4]SourceControl: 	deleted:    Illuminate/Saved/Logs/Illuminate_3-backup-2019.02.23-09.44.11.log
+[2019.03.07-03.02.57:057][  4]SourceControl: 	deleted:    Illuminate/Saved/Logs/Illuminate_3-backup-2019.02.23-09.47.25.log
+[2019.03.07-03.02.57:058][  4]SourceControl: 	deleted:    Illuminate/Saved/Logs/Illuminate_3-backup-2019.02.25-12.49.17.log
+[2019.03.07-03.02.57:058][  4]SourceControl: 	deleted:    Illuminate/Saved/Logs/Illuminate_3-backup-2019.02.26-18.01.28.log
+[2019.03.07-03.02.57:058][  4]SourceControl: 	deleted:    Illuminate/Saved/Logs/Illuminate_4-backup-2019.02.25-12.49.17.log
+[2019.03.07-03.02.57:058][  4]SourceControl: 	deleted:    Illuminate/Saved/Logs/Illuminate_4-backup-2019.02.26-18.01.28.log
+[2019.03.07-03.02.57:058][  4]SourceControl: 	deleted:    Illuminate/Saved/Logs/Illuminate_5-backup-2019.02.26-18.01.28.log
+[2019.03.07-03.02.57:058][  4]SourceControl: 	deleted:    Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Binaries/Win64/UE4Game.exe
+[2019.03.07-03.02.57:059][  4]SourceControl: 	modified:   Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Content/EditorBlueprintResources/StandardMacros.uasset
+[2019.03.07-03.02.57:059][  4]SourceControl: 	deleted:    Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Content/EditorMaterials/AntialiasedGridFloor.uasset
+[2019.03.07-03.02.57:059][  4]SourceControl: 	deleted:    Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Content/EditorMaterials/AntialiasedGridFloor.uexp
+[2019.03.07-03.02.57:059][  4]SourceControl: 	deleted:    Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Content/EditorMaterials/GridMaterial.uasset
+[2019.03.07-03.02.57:060][  4]SourceControl: 	deleted:    Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Content/EditorMaterials/GridMaterial.uexp
+[2019.03.07-03.02.57:060][  4]SourceControl: 	deleted:    Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Content/EditorMaterials/PersonaFloorMat.uasset
+[2019.03.07-03.02.57:060][  4]SourceControl: 	deleted:    Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Content/EditorMaterials/PersonaFloorMat.uexp
+[2019.03.07-03.02.57:060][  4]SourceControl: 	deleted:    Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Content/EditorMeshes/PhAT_FloorBox.uasset
+[2019.03.07-03.02.57:060][  4]SourceControl: 	deleted:    Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Content/EditorMeshes/PhAT_FloorBox.uexp
+[2019.03.07-03.02.57:060][  4]SourceControl: 	deleted:    Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Content/EditorResources/TilePatine_D.uasset
+[2019.03.07-03.02.57:061][  4]SourceControl: 	deleted:    Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Content/EditorResources/TilePatine_D.ubulk
+[2019.03.07-03.02.57:061][  4]SourceControl: 	deleted:    Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Content/EditorResources/TilePatine_D.uexp
+[2019.03.07-03.02.57:061][  4]SourceControl: 	deleted:    Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Content/EditorResources/TilePatine_N.uasset
+[2019.03.07-03.02.57:061][  4]SourceControl: 	deleted:    Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Content/EditorResources/TilePatine_N.ubulk
+[2019.03.07-03.02.57:062][  4]SourceControl: 	deleted:    Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Content/EditorResources/TilePatine_N.uexp
+[2019.03.07-03.02.57:062][  4]SourceControl: 	deleted:    Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Content/EditorSounds/GamePreview/PossessPlayer.uasset
+[2019.03.07-03.02.57:062][  4]SourceControl: 	deleted:    Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Content/EditorSounds/GamePreview/PossessPlayer.uexp
+[2019.03.07-03.02.57:062][  4]SourceControl: 	deleted:    Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Content/EditorSounds/GamePreview/PossessPlayer_Cue.uasset
+[2019.03.07-03.02.57:063][  4]SourceControl: 	deleted:    Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Content/EditorSounds/GamePreview/PossessPlayer_Cue.uexp
+[2019.03.07-03.02.57:063][  4]SourceControl: 	deleted:    Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset
+[2019.03.07-03.02.57:063][  4]SourceControl: 	deleted:    Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uexp
+[2019.03.07-03.02.57:064][  4]SourceControl: 	modified:   Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Content/Localization/Engine/en/Engine.locres
+[2019.03.07-03.02.57:064][  4]SourceControl: 	deleted:    Illuminate/Saved/StagedBuilds/WindowsNoEditor/GeoShot.exe
+[2019.03.07-03.02.57:064][  4]SourceControl: 	deleted:    Illuminate/Saved/StagedBuilds/WindowsNoEditor/GeoShot/Config/DefaultEditor.ini
+[2019.03.07-03.02.57:064][  4]SourceControl: 	deleted:    Illuminate/Saved/StagedBuilds/WindowsNoEditor/GeoShot/Config/DefaultEngine.ini
+[2019.03.07-03.02.57:065][  4]SourceControl: 	deleted:    Illuminate/Saved/StagedBuilds/WindowsNoEditor/GeoShot/Config/DefaultGame.ini
+[2019.03.07-03.02.57:065][  4]SourceControl: 	deleted:    Illuminate/Saved/StagedBuilds/WindowsNoEditor/GeoShot/Config/DefaultInput.ini
+[2019.03.07-03.02.57:065][  4]SourceControl: 	deleted:    Illuminate/Saved/StagedBuilds/WindowsNoEditor/GeoShot/GeoShot.uproject
+[2019.03.07-03.02.57:065][  4]SourceControl: 	modified:   Illuminate/Saved/StagedBuilds/WindowsNoEditor/Illuminate.exe
+[2019.03.07-03.02.57:065][  4]SourceControl: 	modified:   Illuminate/Saved/StagedBuilds/WindowsNoEditor/Manifest_NonUFSFiles_Win64.txt
+[2019.03.07-03.02.57:066][  4]SourceControl: Untracked files:
+[2019.03.07-03.02.57:066][  4]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2019.03.07-03.02.57:066][  4]SourceControl: 	Illuminate/Saved/Autosaves/Game/Creations/Widgets/HostGameMenu_Auto1.uasset
+[2019.03.07-03.02.57:066][  4]SourceControl: 	Illuminate/Saved/Backup/HostGameMenu_2019-03-05-18-25-14.uasset
+[2019.03.07-03.02.57:066][  4]SourceControl: 	Illuminate/Saved/Backup/HostGameMenu_2019-03-05-19-19-02.uasset
+[2019.03.07-03.02.57:066][  4]SourceControl: 	Illuminate/Saved/Backup/MainInstance_2019-03-04-13-45-23.uasset
+[2019.03.07-03.02.57:066][  4]SourceControl: 	Illuminate/Saved/Backup/MainMenuUI_2019-03-06-15-28-34.uasset
+[2019.03.07-03.02.57:067][  4]SourceControl: 	Illuminate/Saved/Backup/MainMenuUI_2019-03-06-15-43-54.uasset
+[2019.03.07-03.02.57:067][  4]SourceControl: 	Illuminate/Saved/Backup/MainMenuUI_2019-03-06-15-52-25.uasset
+[2019.03.07-03.02.57:067][  4]SourceControl: 	Illuminate/Saved/Backup/MainMenuUI_2019-03-06-16-01-56.uasset
+[2019.03.07-03.02.57:067][  4]SourceControl: 	Illuminate/Saved/Backup/MainMenuUI_2019-03-06-18-46-46.uasset
+[2019.03.07-03.02.57:068][  4]SourceControl: 	Illuminate/Saved/Backup/MainMenuUI_2019-03-06-19-00-24.uasset
+[2019.03.07-03.02.57:068][  4]SourceControl: 	Illuminate/Saved/Backup/MainMenu_2019-03-06-17-08-52.umap
+[2019.03.07-03.02.57:068][  4]SourceControl: 	Illuminate/Saved/Backup/MainMenu_BuiltData_2019-03-06-17-08-54.uasset
+[2019.03.07-03.02.57:068][  4]SourceControl: 	Illuminate/Saved/Backup/MultiplayerLobbyWidget_2019-03-05-18-25-14.uasset
+[2019.03.07-03.02.57:068][  4]SourceControl: 	Illuminate/Saved/Backup/MultiplayerLobbyWidget_2019-03-05-19-19-02.uasset
+[2019.03.07-03.02.57:069][  4]SourceControl: 	Illuminate/Saved/Backup/SearchGames_2019-03-05-18-20-10.uasset
+[2019.03.07-03.02.57:069][  4]SourceControl: 	Illuminate/Saved/Backup/SearchGames_2019-03-05-19-18-41.uasset
+[2019.03.07-03.02.57:070][  4]SourceControl: 	Illuminate/Saved/Config/CrashReportClient/UE4CC-Windows-0CA998104BA1502A13F8DBB1F6CDC1E0/
+[2019.03.07-03.02.57:071][  4]SourceControl: 	Illuminate/Saved/Config/CrashReportClient/UE4CC-Windows-22FA712E475C3233F1DF28BF36BDD947/
+[2019.03.07-03.02.57:071][  4]SourceControl: 	Illuminate/Saved/Config/CrashReportClient/UE4CC-Windows-2BADBDE8495DDF827EA447B722C48F06/
+[2019.03.07-03.02.57:071][  4]SourceControl: 	Illuminate/Saved/Config/CrashReportClient/UE4CC-Windows-558A33C8424A9D1A85EA46852033CA55/
+[2019.03.07-03.02.57:071][  4]SourceControl: 	Illuminate/Saved/Config/CrashReportClient/UE4CC-Windows-5CF6A49D4C1EAC45DE43CFB394F025AD/
+[2019.03.07-03.02.57:072][  4]SourceControl: 	Illuminate/Saved/Config/CrashReportClient/UE4CC-Windows-62D16A2F44C4A9DEE076FFA0B8E6AD06/
+[2019.03.07-03.02.57:072][  4]SourceControl: 	Illuminate/Saved/Config/CrashReportClient/UE4CC-Windows-7106B7D34C14FE96BE346C8BA8CEBC02/
+[2019.03.07-03.02.57:072][  4]SourceControl: 	Illuminate/Saved/Config/CrashReportClient/UE4CC-Windows-77AAE4714818E6762716ECA5669C2677/
+[2019.03.07-03.02.57:072][  4]SourceControl: 	Illuminate/Saved/Config/CrashReportClient/UE4CC-Windows-83D9D3D94EA30CCACC31708672457020/
+[2019.03.07-03.02.57:072][  4]SourceControl: 	Illuminate/Saved/Config/CrashReportClient/UE4CC-Windows-8A2C308149093C60FA3E63A5F5FC24B6/
+[2019.03.07-03.02.57:072][  4]SourceControl: 	Illuminate/Saved/Config/CrashReportClient/UE4CC-Windows-9355D8BE425158CFBD292EB865394059/
+[2019.03.07-03.02.57:073][  4]SourceControl: 	Illuminate/Saved/Config/CrashReportClient/UE4CC-Windows-AA6C33F74C2857CDF35019AB3156F659/
+[2019.03.07-03.02.57:073][  4]SourceControl: 	Illuminate/Saved/Config/CrashReportClient/UE4CC-Windows-BCBA15AA462F8ECD2AA2599D4EF8FDA8/
+[2019.03.07-03.02.57:073][  4]SourceControl: 	Illuminate/Saved/Config/CrashReportClient/UE4CC-Windows-D4C895B349B9D605F169048DC6AC2C96/
+[2019.03.07-03.02.57:073][  4]SourceControl: 	Illuminate/Saved/Config/CrashReportClient/UE4CC-Windows-D86CFD1E46460CAFEBF41A9F8B4F6354/
+[2019.03.07-03.02.57:074][  4]SourceControl: 	Illuminate/Saved/Config/CrashReportClient/UE4CC-Windows-DBD719D0455D0266CD83599EF8142FDC/
+[2019.03.07-03.02.57:074][  4]SourceControl: 	Illuminate/Saved/Config/CrashReportClient/UE4CC-Windows-FB1022AB40176AA116075C848031AC16/
+[2019.03.07-03.02.57:074][  4]SourceControl: 	Illuminate/Saved/Config/CrashReportClient/UE4CC-Windows-FB817EFF49285B27891F81AD7866439C/
+[2019.03.07-03.02.57:074][  4]SourceControl: 	Illuminate/Saved/Config/CrashReportClient/UE4CC-Windows-FD1F010B47F376491C07228591C9B9CA/
+[2019.03.07-03.02.57:074][  4]SourceControl: 	Illuminate/Saved/HardwareSurvey/
+[2019.03.07-03.02.57:074][  4]SourceControl: 	Illuminate/Saved/Logs/Illuminate-backup-2019.03.04-13.36.52.log
+[2019.03.07-03.02.57:075][  4]SourceControl: 	Illuminate/Saved/Logs/Illuminate-backup-2019.03.05-18.11.58.log
+[2019.03.07-03.02.57:075][  4]SourceControl: 	Illuminate/Saved/Logs/Illuminate-backup-2019.03.06-15.15.50.log
+[2019.03.07-03.02.57:076][  4]SourceControl: 	Illuminate/Saved/Logs/Illuminate-backup-2019.03.06-16.05.05.log
+[2019.03.07-03.02.57:076][  4]SourceControl: 	Illuminate/Saved/Logs/Illuminate-backup-2019.03.06-16.08.36.log
+[2019.03.07-03.02.57:076][  4]SourceControl: 	Illuminate/Saved/Logs/Illuminate-backup-2019.03.06-17.40.31.log
+[2019.03.07-03.02.57:076][  4]SourceControl: 	Illuminate/Saved/Logs/Illuminate-backup-2019.03.06-18.54.55.log
+[2019.03.07-03.02.57:077][  4]SourceControl: 	Illuminate/Saved/Logs/Illuminate-backup-2019.03.06-19.01.28.log
+[2019.03.07-03.02.57:077][  4]SourceControl: 	Illuminate/Saved/Logs/Illuminate_2-backup-2019.03.06-15.44.00.log
+[2019.03.07-03.02.57:077][  4]SourceControl: 	Illuminate/Saved/Logs/Illuminate_2-backup-2019.03.06-15.48.42.log
+[2019.03.07-03.02.57:077][  4]SourceControl: 	Illuminate/Saved/Logs/Illuminate_2-backup-2019.03.06-15.52.30.log
+[2019.03.07-03.02.57:077][  4]SourceControl: 	Illuminate/Saved/Logs/Illuminate_2-backup-2019.03.06-15.55.50.log
+[2019.03.07-03.02.57:077][  4]SourceControl: 	Illuminate/Saved/Logs/Illuminate_2-backup-2019.03.06-16.01.59.log
+[2019.03.07-03.02.57:078][  4]SourceControl: 	Illuminate/Saved/Logs/Illuminate_2-backup-2019.03.06-16.07.18.log
+[2019.03.07-03.02.57:078][  4]SourceControl: 	Illuminate/Saved/Logs/Illuminate_2-backup-2019.03.06-16.10.25.log
+[2019.03.07-03.02.57:078][  4]SourceControl: 	Illuminate/Saved/Logs/Illuminate_2-backup-2019.03.06-18.47.02.log
+[2019.03.07-03.02.57:078][  4]SourceControl: 	Illuminate/Saved/Logs/Illuminate_2-backup-2019.03.06-18.47.37.log
+[2019.03.07-03.02.57:078][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Config/Base.ini
+[2019.03.07-03.02.57:078][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Config/BaseCompat.ini
+[2019.03.07-03.02.57:079][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Config/BaseDeviceProfiles.ini
+[2019.03.07-03.02.57:079][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Config/BaseEditor.ini
+[2019.03.07-03.02.57:079][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Config/BaseEditorKeyBindings.ini
+[2019.03.07-03.02.57:079][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Config/BaseEditorLayout.ini
+[2019.03.07-03.02.57:079][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Config/BaseEditorPerProjectUserSettings.ini
+[2019.03.07-03.02.57:080][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Config/BaseEditorSettings.ini
+[2019.03.07-03.02.57:080][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Config/BaseEngine.ini
+[2019.03.07-03.02.57:080][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Config/BaseGame.ini
+[2019.03.07-03.02.57:080][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Config/BaseHardware.ini
+[2019.03.07-03.02.57:080][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Config/BaseInput.ini
+[2019.03.07-03.02.57:080][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Config/BaseLightmass.ini
+[2019.03.07-03.02.57:081][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Config/BaseScalability.ini
+[2019.03.07-03.02.57:081][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Config/ConsoleVariables.ini
+[2019.03.07-03.02.57:081][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Config/Localization/
+[2019.03.07-03.02.57:081][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Config/Windows/
+[2019.03.07-03.02.57:081][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset
+[2019.03.07-03.02.57:081][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uexp
+[2019.03.07-03.02.57:082][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset
+[2019.03.07-03.02.57:082][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uexp
+[2019.03.07-03.02.57:082][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset
+[2019.03.07-03.02.57:082][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Content/EngineMaterials/DefaultWhiteGrid.ubulk
+[2019.03.07-03.02.57:083][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Content/EngineMaterials/DefaultWhiteGrid.uexp
+[2019.03.07-03.02.57:083][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Content/EngineMaterials/EditorBrushMaterial.uasset
+[2019.03.07-03.02.57:083][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Content/EngineMaterials/EditorBrushMaterial.uexp
+[2019.03.07-03.02.57:083][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Content/EngineMaterials/FlatNormal.uasset
+[2019.03.07-03.02.57:083][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Content/EngineMaterials/FlatNormal.uexp
+[2019.03.07-03.02.57:084][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset
+[2019.03.07-03.02.57:084][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uexp
+[2019.03.07-03.02.57:084][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Content/EngineMaterials/Grid.uasset
+[2019.03.07-03.02.57:084][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Content/EngineMaterials/Grid.ubulk
+[2019.03.07-03.02.57:084][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Content/EngineMaterials/Grid.uexp
+[2019.03.07-03.02.57:085][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Content/EngineMaterials/Grid_N.uasset
+[2019.03.07-03.02.57:085][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Content/EngineMaterials/Grid_N.ubulk
+[2019.03.07-03.02.57:085][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Content/EngineMaterials/Grid_N.uexp
+[2019.03.07-03.02.57:085][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Content/EngineMaterials/HighResScreenshot.uasset
+[2019.03.07-03.02.57:085][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Content/EngineMaterials/HighResScreenshot.uexp
+[2019.03.07-03.02.57:086][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Content/EngineMaterials/HighResScreenshotCaptureRegion.uasset
+[2019.03.07-03.02.57:086][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Content/EngineMaterials/HighResScreenshotCaptureRegion.uexp
+[2019.03.07-03.02.57:086][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Content/EngineMaterials/HighResScreenshotMask.uasset
+[2019.03.07-03.02.57:086][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Content/EngineMaterials/HighResScreenshotMask.uexp
+[2019.03.07-03.02.57:086][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Content/EngineMaterials/HighResolutionScreenshotMaskFunction.uasset
+[2019.03.07-03.02.57:087][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Content/EngineMaterials/HighResolutionScreenshotMaskFunction.uexp
+[2019.03.07-03.02.57:087][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset
+[2019.03.07-03.02.57:088][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Content/EngineMaterials/InvalidLightmapSettings.ubulk
+[2019.03.07-03.02.57:088][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Content/EngineMaterials/InvalidLightmapSettings.uexp
+[2019.03.07-03.02.57:088][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Content/EngineMaterials/LandscapeHolePhysicalMaterial.uasset
+[2019.03.07-03.02.57:089][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Content/EngineMaterials/LandscapeHolePhysicalMaterial.uexp
+[2019.03.07-03.02.57:089][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset
+[2019.03.07-03.02.57:089][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uexp
+[2019.03.07-03.02.57:089][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Content/EngineMaterials/MiniFont.uasset
+[2019.03.07-03.02.57:090][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Content/EngineMaterials/MiniFont.uexp
+[2019.03.07-03.02.57:090][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Content/EngineMaterials/PaperDiffuse.uasset
+[2019.03.07-03.02.57:090][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Content/EngineMaterials/PaperDiffuse.uexp
+[2019.03.07-03.02.57:090][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Content/EngineMaterials/PaperNormal.uasset
+[2019.03.07-03.02.57:091][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Content/EngineMaterials/PaperNormal.uexp
+[2019.03.07-03.02.57:091][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset
+[2019.03.07-03.02.57:091][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uexp
+[2019.03.07-03.02.57:091][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Content/EngineMaterials/PhysMat_Rubber.uasset
+[2019.03.07-03.02.57:091][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Content/EngineMaterials/PhysMat_Rubber.uexp
+[2019.03.07-03.02.57:092][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset
+[2019.03.07-03.02.57:092][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uexp
+[2019.03.07-03.02.57:092][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset
+[2019.03.07-03.02.57:092][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uexp
+[2019.03.07-03.02.57:093][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset
+[2019.03.07-03.02.57:093][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Content/EngineMaterials/T_Default_Material_Grid_M.ubulk
+[2019.03.07-03.02.57:093][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uexp
+[2019.03.07-03.02.57:094][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset
+[2019.03.07-03.02.57:094][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Content/EngineMaterials/T_Default_Material_Grid_N.ubulk
+[2019.03.07-03.02.57:094][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uexp
+[2019.03.07-03.02.57:094][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset
+[2019.03.07-03.02.57:095][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uexp
+[2019.03.07-03.02.57:095][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Content/EngineMaterials/Widget3DPassThrough.uasset
+[2019.03.07-03.02.57:095][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Content/EngineMaterials/Widget3DPassThrough.uexp
+[2019.03.07-03.02.57:095][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset
+[2019.03.07-03.02.57:096][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uexp
+[2019.03.07-03.02.57:097][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset
+[2019.03.07-03.02.57:097][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uexp
+[2019.03.07-03.02.57:098][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset
+[2019.03.07-03.02.57:099][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uexp
+[2019.03.07-03.02.57:099][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset
+[2019.03.07-03.02.57:100][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uexp
+[2019.03.07-03.02.57:101][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset
+[2019.03.07-03.02.57:101][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uexp
+[2019.03.07-03.02.57:102][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset
+[2019.03.07-03.02.57:103][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uexp
+[2019.03.07-03.02.57:104][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Content/EngineMaterials/WorldGridMaterial.uasset
+[2019.03.07-03.02.57:104][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Content/EngineMaterials/WorldGridMaterial.uexp
+[2019.03.07-03.02.57:105][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Content/EngineMeshes/
+[2019.03.07-03.02.57:106][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Content/EngineResources/
+[2019.03.07-03.02.57:106][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Content/EngineSounds/
+[2019.03.07-03.02.57:107][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Content/Functions/
+[2019.03.07-03.02.57:107][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Content/MapTemplates/
+[2019.03.07-03.02.57:107][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Content/Maps/
+[2019.03.07-03.02.57:107][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Content/MaterialTemplates/
+[2019.03.07-03.02.57:107][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Content/MobileResources/
+[2019.03.07-03.02.57:108][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Content/Tutorial/
+[2019.03.07-03.02.57:108][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Content/VREditor/
+[2019.03.07-03.02.57:108][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Plugins/2D/Paper2D/Content/
+[2019.03.07-03.02.57:108][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Plugins/Media/MediaCompositing/Content/
+[2019.03.07-03.02.57:108][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Plugins/Online/OnlineFramework/
+[2019.03.07-03.02.57:108][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Plugins/Online/OnlineSubsystemSteam/
+[2019.03.07-03.02.57:109][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Plugins/Runtime/AppleARKit/Content/
+[2019.03.07-03.02.57:109][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Plugins/Runtime/Oculus/OculusVR/Content/
+[2019.03.07-03.02.57:109][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Engine/Saved/
+[2019.03.07-03.02.57:109][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Illuminate/AssetRegistry.bin
+[2019.03.07-03.02.57:109][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Illuminate/Binaries/Win64/Illuminate.exe
+[2019.03.07-03.02.57:110][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Illuminate/Binaries/Win64/Illuminate.pdb
+[2019.03.07-03.02.57:110][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Illuminate/Config/
+[2019.03.07-03.02.57:110][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Illuminate/Content/
+[2019.03.07-03.02.57:110][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Illuminate/CookedIniVersion.txt
+[2019.03.07-03.02.57:110][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Illuminate/DevelopmentAssetRegistry.bin
+[2019.03.07-03.02.57:111][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Illuminate/Illuminate.uproject
+[2019.03.07-03.02.57:111][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Illuminate/Plugins/
+[2019.03.07-03.02.57:111][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Illuminate/Saved/
+[2019.03.07-03.02.57:111][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Manifest_DebugFiles_Win64.txt
+[2019.03.07-03.02.57:111][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Manifest_DeltaNonUFSFiles.txt
+[2019.03.07-03.02.57:112][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Manifest_DeltaUFSFiles.txt
+[2019.03.07-03.02.57:112][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Manifest_ObsoleteNonUFSFiles.txt
+[2019.03.07-03.02.57:112][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Manifest_ObsoleteUFSFiles.txt
+[2019.03.07-03.02.57:112][  4]SourceControl: 	Illuminate/Saved/StagedBuilds/WindowsNoEditor/Manifest_UFSFiles_Win64.txt
+[2019.03.07-03.02.57:312][  5]LogAssetRegistry: Asset discovery search completed in 62.0747 seconds
+[2019.03.07-03.02.57:320][  5]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.03.07-03.02.57:320][  5]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000434 seconds (updated 0 objects)
+[2019.03.07-03.10.40:807][547]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.03.07-03.10.41:096][548]Cmd: QUIT_EDITOR
+[2019.03.07-03.10.41:174][548]LogExit: Preparing to exit.
+[2019.03.07-03.10.42:233][548]LogDirectoryWatcher: A directory notification for 'C:/Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/' was aborted.
+[2019.03.07-03.10.42:278][548]LogExit: Editor shut down
+[2019.03.07-03.10.42:283][548]LogExit: Transaction tracking system shut down
+[2019.03.07-03.10.42:527][548]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2019.03.07-03.10.42:527][548]LogDirectoryWatcher: A directory notification for '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/' was aborted.
+[2019.03.07-03.10.42:527][548]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2019.03.07-03.10.42:527][548]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2019.03.07-03.10.42:527][548]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2019.03.07-03.10.42:527][548]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2019.03.07-03.10.42:527][548]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2019.03.07-03.10.42:601][548]LogExit: Object subsystem successfully closed.
+[2019.03.07-03.10.42:621][548]LogD3D11RHI: Shutdown
+[2019.03.07-03.10.42:621][548]LogD3D11RHI: CleanupD3DDevice
+[2019.03.07-03.10.42:623][548]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.03.07-03.10.42:694][548]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (566)
+[2019.03.07-03.10.42:694][548]LogModuleManager: Shutting down and abandoning module SceneOutliner (564)
+[2019.03.07-03.10.42:694][548]LogModuleManager: Shutting down and abandoning module AddContentDialog (562)
+[2019.03.07-03.10.42:695][548]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.18/FeaturePacks/' was aborted.
+[2019.03.07-03.10.42:696][548]LogModuleManager: Shutting down and abandoning module WidgetCarousel (561)
+[2019.03.07-03.10.42:696][548]LogModuleManager: Shutting down and abandoning module EditorWidgets (558)
+[2019.03.07-03.10.42:696][548]LogModuleManager: Shutting down and abandoning module CollectionManager (556)
+[2019.03.07-03.10.42:696][548]LogDirectoryWatcher: A directory notification for 'C:/Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Collections/' was aborted.
+[2019.03.07-03.10.42:696][548]LogDirectoryWatcher: A directory notification for 'C:/Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Developers/Alex/Collections/' was aborted.
+[2019.03.07-03.10.42:696][548]LogDirectoryWatcher: A directory notification for 'C:/Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Saved/Collections/' was aborted.
+[2019.03.07-03.10.42:697][548]LogModuleManager: Shutting down and abandoning module StatsViewer (554)
+[2019.03.07-03.10.42:697][548]LogModuleManager: Shutting down and abandoning module FoliageEdit (552)
+[2019.03.07-03.10.42:697][548]LogModuleManager: Shutting down and abandoning module LandscapeEditor (550)
+[2019.03.07-03.10.42:697][548]LogModuleManager: Shutting down and abandoning module MeshPaintMode (548)
+[2019.03.07-03.10.42:697][548]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (546)
+[2019.03.07-03.10.42:697][548]LogModuleManager: Shutting down and abandoning module ActorPickerMode (544)
+[2019.03.07-03.10.42:697][548]LogModuleManager: Shutting down and abandoning module GeometryMode (542)
+[2019.03.07-03.10.42:697][548]LogModuleManager: Shutting down and abandoning module TextureAlignMode (540)
+[2019.03.07-03.10.42:697][548]LogModuleManager: Shutting down and abandoning module BspMode (538)
+[2019.03.07-03.10.42:697][548]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (536)
+[2019.03.07-03.10.42:697][548]LogModuleManager: Shutting down and abandoning module HardwareSurvey (534)
+[2019.03.07-03.10.42:697][548]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (532)
+[2019.03.07-03.10.42:697][548]LogModuleManager: Shutting down and abandoning module AutomationWorker (530)
+[2019.03.07-03.10.42:697][548]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (528)
+[2019.03.07-03.10.42:697][548]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (526)
+[2019.03.07-03.10.42:698][548]LogModuleManager: Shutting down and abandoning module PlacementMode (525)
+[2019.03.07-03.10.42:698][548]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (522)
+[2019.03.07-03.10.42:698][548]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (520)
+[2019.03.07-03.10.42:698][548]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (518)
+[2019.03.07-03.10.42:698][548]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (516)
+[2019.03.07-03.10.42:698][548]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (514)
+[2019.03.07-03.10.42:698][548]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (512)
+[2019.03.07-03.10.42:698][548]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (510)
+[2019.03.07-03.10.42:698][548]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (508)
+[2019.03.07-03.10.42:698][548]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (506)
+[2019.03.07-03.10.42:698][548]LogModuleManager: Shutting down and abandoning module CharacterAI (504)
+[2019.03.07-03.10.42:698][548]LogModuleManager: Shutting down and abandoning module AudioCapture (502)
+[2019.03.07-03.10.42:698][548]LogModuleManager: Shutting down and abandoning module SequenceRecorder (501)
+[2019.03.07-03.10.42:698][548]LogModuleManager: Shutting down and abandoning module SmartSnapping (498)
+[2019.03.07-03.10.42:698][548]LogModuleManager: Shutting down and abandoning module SessionServices (496)
+[2019.03.07-03.10.42:698][548]LogModuleManager: Shutting down and abandoning module ViewportSnapping (494)
+[2019.03.07-03.10.42:698][548]LogModuleManager: Shutting down and abandoning module ViewportInteraction (492)
+[2019.03.07-03.10.42:698][548]LogModuleManager: Shutting down and abandoning module ClothPainter (490)
+[2019.03.07-03.10.42:698][548]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (489)
+[2019.03.07-03.10.42:699][548]LogModuleManager: Shutting down and abandoning module LogVisualizer (486)
+[2019.03.07-03.10.42:699][548]LogModuleManager: Shutting down and abandoning module IntroTutorials (484)
+[2019.03.07-03.10.42:699][548]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (483)
+[2019.03.07-03.10.42:699][548]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (480)
+[2019.03.07-03.10.42:699][548]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (478)
+[2019.03.07-03.10.42:699][548]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (476)
+[2019.03.07-03.10.42:699][548]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (475)
+[2019.03.07-03.10.43:664][548]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (472)
+[2019.03.07-03.10.43:664][548]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (470)
+[2019.03.07-03.10.43:665][548]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (468)
+[2019.03.07-03.10.43:665][548]LogModuleManager: Shutting down and abandoning module InputBindingEditor (466)
+[2019.03.07-03.10.43:665][548]LogModuleManager: Shutting down and abandoning module MergeActors (464)
+[2019.03.07-03.10.43:665][548]LogModuleManager: Shutting down and abandoning module SizeMap (462)
+[2019.03.07-03.10.43:665][548]LogModuleManager: Shutting down and abandoning module TreeMap (460)
+[2019.03.07-03.10.43:665][548]LogModuleManager: Shutting down and abandoning module ReferenceViewer (458)
+[2019.03.07-03.10.43:665][548]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (456)
+[2019.03.07-03.10.43:665][548]LogModuleManager: Shutting down and abandoning module LocalizationService (455)
+[2019.03.07-03.10.43:665][548]LogModuleManager: Shutting down and abandoning module HardwareTargeting (452)
+[2019.03.07-03.10.43:665][548]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (450)
+[2019.03.07-03.10.43:665][548]LogModuleManager: Shutting down and abandoning module UndoHistory (448)
+[2019.03.07-03.10.43:665][548]LogModuleManager: Shutting down and abandoning module XmlParser (446)
+[2019.03.07-03.10.43:665][548]LogModuleManager: Shutting down and abandoning module Blutility (444)
+[2019.03.07-03.10.43:665][548]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (442)
+[2019.03.07-03.10.43:665][548]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (441)
+[2019.03.07-03.10.43:665][548]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (438)
+[2019.03.07-03.10.43:665][548]LogModuleManager: Shutting down and abandoning module SettingsEditor (436)
+[2019.03.07-03.10.43:665][548]LogModuleManager: Shutting down and abandoning module ProjectLauncher (434)
+[2019.03.07-03.10.43:665][548]LogModuleManager: Shutting down and abandoning module SessionFrontend (432)
+[2019.03.07-03.10.43:665][548]LogModuleManager: Shutting down and abandoning module ProfilerClient (430)
+[2019.03.07-03.10.43:665][548]LogModuleManager: Shutting down and abandoning module DeviceManager (428)
+[2019.03.07-03.10.43:665][548]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (427)
+[2019.03.07-03.10.43:721][548]LogModuleManager: Shutting down and abandoning module AutomationController (424)
+[2019.03.07-03.10.43:721][548]LogModuleManager: Shutting down and abandoning module AutomationWindow (422)
+[2019.03.07-03.10.43:721][548]LogModuleManager: Shutting down and abandoning module Layers (420)
+[2019.03.07-03.10.43:721][548]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (418)
+[2019.03.07-03.10.43:721][548]LogModuleManager: Shutting down and abandoning module DetailCustomizations (416)
+[2019.03.07-03.10.43:721][548]LogModuleManager: Shutting down and abandoning module PackagesDialog (414)
+[2019.03.07-03.10.43:721][548]LogModuleManager: Shutting down and abandoning module Persona (412)
+[2019.03.07-03.10.43:721][548]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (411)
+[2019.03.07-03.10.43:721][548]LogModuleManager: Shutting down and abandoning module AnimGraph (409)
+[2019.03.07-03.10.43:721][548]LogModuleManager: Shutting down and abandoning module Kismet (406)
+[2019.03.07-03.10.43:725][548]LogModuleManager: Shutting down and abandoning module ClassViewer (404)
+[2019.03.07-03.10.43:725][548]LogModuleManager: Shutting down and abandoning module Toolbox (402)
+[2019.03.07-03.10.43:725][548]LogModuleManager: Shutting down and abandoning module ModuleUI (400)
+[2019.03.07-03.10.43:725][548]LogModuleManager: Shutting down and abandoning module MovieSceneTools (398)
+[2019.03.07-03.10.43:725][548]LogModuleManager: Shutting down and abandoning module OutputLog (396)
+[2019.03.07-03.10.43:725][548]LogModuleManager: Shutting down and abandoning module GammaUI (394)
+[2019.03.07-03.10.43:725][548]LogModuleManager: Shutting down and abandoning module Documentation (392)
+[2019.03.07-03.10.43:725][548]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (390)
+[2019.03.07-03.10.43:725][548]LogModuleManager: Shutting down and abandoning module MovieScene (388)
+[2019.03.07-03.10.43:725][548]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (386)
+[2019.03.07-03.10.43:725][548]LogModuleManager: Shutting down and abandoning module LauncherPlatform (384)
+[2019.03.07-03.10.43:725][548]LogModuleManager: Shutting down and abandoning module AnalyticsET (382)
+[2019.03.07-03.10.43:725][548]LogModuleManager: Shutting down and abandoning module PortalServices (380)
+[2019.03.07-03.10.43:725][548]LogModuleManager: Shutting down and abandoning module PortalRpc (378)
+[2019.03.07-03.10.43:725][548]LogModuleManager: Shutting down and abandoning module MessagingRpc (376)
+[2019.03.07-03.10.43:725][548]LogModuleManager: Shutting down and abandoning module AIModule (374)
+[2019.03.07-03.10.43:725][548]LogModuleManager: Shutting down and abandoning module GameplayDebugger (373)
+[2019.03.07-03.10.43:725][548]LogModuleManager: Shutting down and abandoning module AITestSuite (371)
+[2019.03.07-03.10.43:725][548]LogModuleManager: Shutting down and abandoning module DesktopPlatform (368)
+[2019.03.07-03.10.43:725][548]LogModuleManager: Shutting down and abandoning module ProfilerService (366)
+[2019.03.07-03.10.43:949][548]LogModuleManager: Shutting down and abandoning module TaskGraph (364)
+[2019.03.07-03.10.43:950][548]LogModuleManager: Shutting down and abandoning module SteamVRController (362)
+[2019.03.07-03.10.43:950][548]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (360)
+[2019.03.07-03.10.43:950][548]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (358)
+[2019.03.07-03.10.43:950][548]LogModuleManager: Shutting down and abandoning module OculusInput (356)
+[2019.03.07-03.10.43:950][548]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (354)
+[2019.03.07-03.10.43:950][548]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (352)
+[2019.03.07-03.10.43:950][548]LogModuleManager: Shutting down and abandoning module CableComponent (350)
+[2019.03.07-03.10.43:950][548]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (348)
+[2019.03.07-03.10.43:950][548]LogModuleManager: Shutting down and abandoning module AndroidPermission (346)
+[2019.03.07-03.10.43:950][548]LogModuleManager: Shutting down and abandoning module LoginFlow (344)
+[2019.03.07-03.10.43:950][548]LogModuleManager: Shutting down and abandoning module Rejoin (342)
+[2019.03.07-03.10.43:950][548]LogModuleManager: Shutting down and abandoning module Hotfix (340)
+[2019.03.07-03.10.43:950][548]LogModuleManager: Shutting down and abandoning module Lobby (338)
+[2019.03.07-03.10.43:950][548]LogModuleManager: Shutting down and abandoning module Party (336)
+[2019.03.07-03.10.43:950][548]LogModuleManager: Shutting down and abandoning module Qos (334)
+[2019.03.07-03.10.43:950][548]LogModuleManager: Shutting down and abandoning module ActorSequence (332)
+[2019.03.07-03.10.43:950][548]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (330)
+[2019.03.07-03.10.43:950][548]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (328)
+[2019.03.07-03.10.43:950][548]LogModuleManager: Shutting down and abandoning module MediaCompositing (326)
+[2019.03.07-03.10.43:950][548]LogModuleManager: Shutting down and abandoning module HTML5Networking (324)
+[2019.03.07-03.10.43:950][548]LogModuleManager: Shutting down and abandoning module AlembicImporter (322)
+[2019.03.07-03.10.43:950][548]LogModuleManager: Shutting down and abandoning module AlembicLibrary (321)
+[2019.03.07-03.10.43:950][548]LogModuleManager: Shutting down and abandoning module GeometryCache (320)
+[2019.03.07-03.10.43:950][548]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (319)
+[2019.03.07-03.10.43:950][548]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (314)
+[2019.03.07-03.10.43:950][548]LogModuleManager: Shutting down and abandoning module PluginBrowser (312)
+[2019.03.07-03.10.43:951][548]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (310)
+[2019.03.07-03.10.43:951][548]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (308)
+[2019.03.07-03.10.43:951][548]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (306)
+[2019.03.07-03.10.43:951][548]LogModuleManager: Shutting down and abandoning module UObjectPlugin (304)
+[2019.03.07-03.10.43:951][548]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (302)
+[2019.03.07-03.10.43:951][548]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (300)
+[2019.03.07-03.10.43:951][548]LogModuleManager: Shutting down and abandoning module GitSourceControl (298)
+[2019.03.07-03.10.43:951][548]LogModuleManager: Shutting down and abandoning module SourceControl (297)
+[2019.03.07-03.10.43:951][548]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (294)
+[2019.03.07-03.10.43:951][548]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (292)
+[2019.03.07-03.10.43:951][548]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (290)
+[2019.03.07-03.10.43:951][548]LogModuleManager: Shutting down and abandoning module Paper2DEditor (288)
+[2019.03.07-03.10.43:951][548]LogModuleManager: Shutting down and abandoning module MeshPaint (287)
+[2019.03.07-03.10.43:951][548]LogModuleManager: Shutting down and abandoning module LevelEditor (285)
+[2019.03.07-03.10.43:952][548]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (284)
+[2019.03.07-03.10.43:953][548]LogModuleManager: Shutting down and abandoning module MainFrame (282)
+[2019.03.07-03.10.43:953][548]LogModuleManager: Shutting down and abandoning module HotReload (281)
+[2019.03.07-03.10.43:953][548]LogDirectoryWatcher: A directory notification for 'C:/Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Binaries/Win64' was aborted.
+[2019.03.07-03.10.43:953][548]LogDirectoryWatcher: A directory notification for 'C:/Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Plugins/AdvancedSessions/AdvancedSessions/Binaries/Win64' was aborted.
+[2019.03.07-03.10.43:953][548]LogDirectoryWatcher: A directory notification for 'C:/Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Plugins/AdvancedSessions/AdvancedSteamSessions/Binaries/Win64' was aborted.
+[2019.03.07-03.10.43:954][548]LogModuleManager: Shutting down and abandoning module AdvancedSteamSessions (276)
+[2019.03.07-03.10.43:954][548]LogModuleManager: Shutting down and abandoning module AdvancedSessions (274)
+[2019.03.07-03.10.43:954][548]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (272)
+[2019.03.07-03.10.43:954][548]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (270)
+[2019.03.07-03.10.43:954][548]LogModuleManager: Shutting down and abandoning module PhysXVehicles (268)
+[2019.03.07-03.10.43:954][548]LogModuleManager: Shutting down and abandoning module OculusEditor (266)
+[2019.03.07-03.10.43:955][548]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (264)
+[2019.03.07-03.10.43:955][548]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (262)
+[2019.03.07-03.10.43:955][548]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (260)
+[2019.03.07-03.10.43:955][548]LogModuleManager: Shutting down and abandoning module UdpMessaging (258)
+[2019.03.07-03.10.44:056][548]LogModuleManager: Shutting down and abandoning module TcpMessaging (256)
+[2019.03.07-03.10.44:157][548]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (254)
+[2019.03.07-03.10.44:157][548]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (252)
+[2019.03.07-03.10.44:157][548]LogModuleManager: Shutting down and abandoning module FacialAnimation (250)
+[2019.03.07-03.10.44:157][548]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (248)
+[2019.03.07-03.10.44:157][548]LogModuleManager: Shutting down and abandoning module GraphEditor (247)
+[2019.03.07-03.10.44:157][548]LogModuleManager: Shutting down and abandoning module ContentBrowser (245)
+[2019.03.07-03.10.44:158][548]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (242)
+[2019.03.07-03.10.44:159][548]LogModuleManager: Shutting down and abandoning module Paper2D (240)
+[2019.03.07-03.10.44:159][548]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (238)
+[2019.03.07-03.10.44:159][548]LogModuleManager: Shutting down and abandoning module WmfMedia (236)
+[2019.03.07-03.10.44:162][548]LogModuleManager: Shutting down and abandoning module ImgMedia (234)
+[2019.03.07-03.10.44:162][548]LogModuleManager: Shutting down and abandoning module PacketHandler (232)
+[2019.03.07-03.10.44:162][548]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (230)
+[2019.03.07-03.10.44:162][548]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (228)
+[2019.03.07-03.10.44:162][548]LogModuleManager: Shutting down and abandoning module MediaAssets (226)
+[2019.03.07-03.10.44:162][548]LogModuleManager: Shutting down and abandoning module Media (225)
+[2019.03.07-03.10.44:168][548]LogModuleManager: Shutting down and abandoning module Overlay (222)
+[2019.03.07-03.10.44:168][548]LogModuleManager: Shutting down and abandoning module OverlayEditor (221)
+[2019.03.07-03.10.44:169][548]LogModuleManager: Shutting down and abandoning module VREditor (218)
+[2019.03.07-03.10.44:169][548]LogModuleManager: Shutting down and abandoning module StringTableEditor (216)
+[2019.03.07-03.10.44:169][548]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (214)
+[2019.03.07-03.10.44:169][548]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (212)
+[2019.03.07-03.10.44:169][548]LogModuleManager: Shutting down and abandoning module FunctionalTesting (210)
+[2019.03.07-03.10.44:169][548]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (208)
+[2019.03.07-03.10.44:169][548]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (207)
+[2019.03.07-03.10.44:169][548]LogModuleManager: Shutting down and abandoning module UMG (204)
+[2019.03.07-03.10.44:169][548]LogModuleManager: Shutting down and abandoning module UMGEditor (203)
+[2019.03.07-03.10.44:169][548]LogModuleManager: Shutting down and abandoning module Sequencer (202)
+[2019.03.07-03.10.44:169][548]LogModuleManager: Shutting down and abandoning module MessageLog (199)
+[2019.03.07-03.10.44:169][548]LogModuleManager: Shutting down and abandoning module SlateReflector (194)
+[2019.03.07-03.10.44:169][548]LogModuleManager: Shutting down and abandoning module Slate (192)
+[2019.03.07-03.10.44:169][548]LogModuleManager: Shutting down and abandoning module EditorStyle (190)
+[2019.03.07-03.10.44:177][548]LogModuleManager: Shutting down and abandoning module MRMesh (188)
+[2019.03.07-03.10.44:177][548]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (186)
+[2019.03.07-03.10.44:177][548]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (184)
+[2019.03.07-03.10.44:177][548]LogModuleManager: Shutting down and abandoning module XAudio2 (182)
+[2019.03.07-03.10.44:177][548]LogModuleManager: Shutting down and abandoning module Networking (180)
+[2019.03.07-03.10.44:177][548]LogModuleManager: Shutting down and abandoning module Core (178)
+[2019.03.07-03.10.44:177][548]LogModuleManager: Shutting down and abandoning module LevelSequence (174)
+[2019.03.07-03.10.44:177][548]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (172)
+[2019.03.07-03.10.44:179][548]LogModuleManager: Shutting down and abandoning module KismetCompiler (170)
+[2019.03.07-03.10.44:179][548]LogModuleManager: Shutting down and abandoning module MeshUtilities (168)
+[2019.03.07-03.10.44:179][548]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (167)
+[2019.03.07-03.10.44:179][548]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (166)
+[2019.03.07-03.10.44:179][548]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (165)
+[2019.03.07-03.10.44:179][548]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (163)
+[2019.03.07-03.10.44:179][548]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (161)
+[2019.03.07-03.10.44:179][548]LogModuleManager: Shutting down and abandoning module MaterialBaking (157)
+[2019.03.07-03.10.44:179][548]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2019.03.07-03.10.44:215][548]LogDerivedDataCache: Shutdown
+[2019.03.07-03.10.44:215][548]LogModuleManager: Shutting down and abandoning module TargetPlatform (152)
+[2019.03.07-03.10.44:215][548]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (151)
+[2019.03.07-03.10.44:215][548]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (149)
+[2019.03.07-03.10.44:215][548]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (147)
+[2019.03.07-03.10.44:215][548]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (145)
+[2019.03.07-03.10.44:215][548]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (143)
+[2019.03.07-03.10.44:215][548]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (141)
+[2019.03.07-03.10.44:215][548]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (139)
+[2019.03.07-03.10.44:215][548]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (137)
+[2019.03.07-03.10.44:215][548]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (135)
+[2019.03.07-03.10.44:215][548]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (133)
+[2019.03.07-03.10.44:215][548]LogModuleManager: Shutting down and abandoning module ImageWrapper (132)
+[2019.03.07-03.10.44:215][548]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (129)
+[2019.03.07-03.10.44:215][548]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (127)
+[2019.03.07-03.10.44:215][548]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (125)
+[2019.03.07-03.10.44:215][548]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (123)
+[2019.03.07-03.10.44:216][548]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (121)
+[2019.03.07-03.10.44:216][548]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (119)
+[2019.03.07-03.10.44:216][548]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (117)
+[2019.03.07-03.10.44:216][548]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (115)
+[2019.03.07-03.10.44:216][548]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (113)
+[2019.03.07-03.10.44:216][548]LogModuleManager: Shutting down and abandoning module Messaging (111)
+[2019.03.07-03.10.44:216][548]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (109)
+[2019.03.07-03.10.44:216][548]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (107)
+[2019.03.07-03.10.44:216][548]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (105)
+[2019.03.07-03.10.44:216][548]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (103)
+[2019.03.07-03.10.44:216][548]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (101)
+[2019.03.07-03.10.44:216][548]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (99)
+[2019.03.07-03.10.44:216][548]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (97)
+[2019.03.07-03.10.44:216][548]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (95)
+[2019.03.07-03.10.44:216][548]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (93)
+[2019.03.07-03.10.44:216][548]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (91)
+[2019.03.07-03.10.44:216][548]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (89)
+[2019.03.07-03.10.44:216][548]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (87)
+[2019.03.07-03.10.44:216][548]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (85)
+[2019.03.07-03.10.44:216][548]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (83)
+[2019.03.07-03.10.44:216][548]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (81)
+[2019.03.07-03.10.44:216][548]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (79)
+[2019.03.07-03.10.44:216][548]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (77)
+[2019.03.07-03.10.44:217][548]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (75)
+[2019.03.07-03.10.44:217][548]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (73)
+[2019.03.07-03.10.44:217][548]LogModuleManager: Shutting down and abandoning module InputCore (70)
+[2019.03.07-03.10.44:217][548]LogModuleManager: Shutting down and abandoning module Settings (68)
+[2019.03.07-03.10.44:217][548]LogModuleManager: Shutting down and abandoning module PhysXCooking (66)
+[2019.03.07-03.10.44:217][548]LogModuleManager: Shutting down and abandoning module SteamVR (64)
+[2019.03.07-03.10.44:217][548]LogModuleManager: Shutting down and abandoning module OculusHMD (62)
+[2019.03.07-03.10.44:217][548]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (60)
+[2019.03.07-03.10.44:217][548]LogModuleManager: Shutting down and abandoning module AppleARKit (58)
+[2019.03.07-03.10.44:217][548]LogModuleManager: Shutting down and abandoning module AugmentedReality (57)
+[2019.03.07-03.10.44:217][548]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (54)
+[2019.03.07-03.10.44:217][548]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (50)
+[2019.03.07-03.10.44:217][548]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2019.03.07-03.10.44:217][548]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2019.03.07-03.10.44:218][548]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2019.03.07-03.10.44:218][548]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2019.03.07-03.10.44:218][548]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2019.03.07-03.10.44:218][548]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2019.03.07-03.10.44:218][548]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.03.07-03.10.44:218][548]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B811D6CFD-4167-56D1-3DBB-EEA47A855132%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.2-3794801%2B%2B%2BUE4%2BRelease-4.18&UserID=e1c132fb4e517ca4b23e62b676153c42%7Cca1cf3a7f87946a6ac6be9dc4f608c5f%7C500511ff-5481-4efe-8d48-20748a11a0d6&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.03.07-03.10.44:238][548]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2019.03.07-03.10.44:242][548]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.03.07-03.10.44:242][548]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.03.07-03.10.44:242][548]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.03.07-03.10.44:242][548]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.03.07-03.10.44:242][548]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.03.07-03.10.44:242][548]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.03.07-03.10.44:243][548]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.03.07-03.10.44:243][548]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.03.07-03.10.44:244][548]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.03.07-03.10.44:244][548]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.03.07-03.10.44:244][548]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.03.07-03.10.44:244][548]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.03.07-03.10.44:244][548]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.03.07-03.10.44:244][548]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.03.07-03.10.44:244][548]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.03.07-03.10.44:244][548]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.03.07-03.10.44:244][548]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.03.07-03.10.44:244][548]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.03.07-03.10.44:248][548]LogExit: Exiting.
+[2019.03.07-03.10.44:275][548]Log file closed, 03/06/19 19:10:44

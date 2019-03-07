@@ -1,0 +1,8 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+"C:\Users\lockw\OneDrive\Documents\Unreal Projects\Illuminate\Plugins\AdvancedSessions\Intermediate\Build\Win64\UE4\Development\AdvancedSessions\Module.AdvancedSessions.cpp.obj"
+"C:\Users\lockw\OneDrive\Documents\Unreal Projects\Illuminate\Plugins\AdvancedSessions\Intermediate\Build\Win64\UE4\Development\AdvancedSessions\Module.AdvancedSessions.gen.cpp.obj"
+"C:\Users\lockw\OneDrive\Documents\Unreal Projects\Illuminate\Intermediate\Build\Win64\UE4\Development\AdvancedSessions\PCLaunch.rc.res"
+/OUT:"C:\Users\lockw\OneDrive\Documents\Unreal Projects\Illuminate\Plugins\AdvancedSessions\Binaries\Win64\UE4-AdvancedSessions.lib"

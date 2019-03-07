@@ -1,3 +1,9 @@
+## 3/6/19
+
+Fixed a particularly frustrating bug that prevented users' steam profiles from being connected to the game and showing up in the main menu.
+
+While there is no current functional use for this information, players should now be able to see their steam profile name and portrait in the main menu.
+
 ## 3/4/19
 
 Progress has been slow this week due to a family emergency.

@@ -69,6 +69,14 @@
 			"IsPrecompiled": true
 		},
 		{
+			"Path": "$(ProjectDir)/Plugins/AdvancedSessions/Binaries/Win64/UE4-AdvancedSessions.lib",
+			"Type": "StaticLibrary"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/AdvancedSteamSessions/Binaries/Win64/UE4-AdvancedSteamSessions.lib",
+			"Type": "StaticLibrary"
+		},
+		{
 			"Path": "$(EngineDir)/Plugins/2D/Paper2D/Binaries/Win64/UE4-Paper2D.lib",
 			"Type": "StaticLibrary",
 			"IsPrecompiled": true
@@ -802,6 +810,10 @@
 		},
 		{
 			"Path": "$(ProjectDir)/Plugins/AdvancedSessions/AdvancedSessions.uplugin",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/AdvancedSteamSessions/AdvancedSteamSessions.uplugin",
 			"Type": "UFS"
 		},
 		{
