@@ -1,3 +1,11 @@
+## 3/7/19
+
+Successfully hosted a game and connected a user from a different system using the Steam Online Subsystem. There were bugs, but nothing game-breaking. 
+
+We played for a few minutes of testing before noting some bugs and closing the program. This marks the first successful test of a multiplayer hosted game!
+
+This push contains no content, only the change that fixed a bug which previously didn't allow players to connect to hosted games properly after a map transition.
+
 ## 3/6/19
 
 Fixed a particularly frustrating bug that prevented users' steam profiles from being connected to the game and showing up in the main menu.

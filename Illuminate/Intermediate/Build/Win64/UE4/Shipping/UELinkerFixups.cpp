@@ -239,8 +239,11 @@
 #ifndef IMAGEWRAPPER_API
 	#define IMAGEWRAPPER_API 
 #endif
-#ifndef PAPER2D_API
-	#define PAPER2D_API 
+#ifndef WITH_ADVANCED_SESSIONS
+	#define WITH_ADVANCED_SESSIONS 1
+#endif
+#ifndef ADVANCEDSESSIONS_API
+	#define ADVANCEDSESSIONS_API 
 #endif
 #ifndef WITH_PHYSX
 	#define WITH_PHYSX 1
@@ -331,6 +334,30 @@
 #endif
 #ifndef AUDIOMIXER_API
 	#define AUDIOMIXER_API 
+#endif
+#ifndef NETWORKING_API
+	#define NETWORKING_API 
+#endif
+#ifndef SOCKETS_PACKAGE
+	#define SOCKETS_PACKAGE 1
+#endif
+#ifndef SOCKETS_API
+	#define SOCKETS_API 
+#endif
+#ifndef WITH_ADVANCED_STEAM_SESSIONS
+	#define WITH_ADVANCED_STEAM_SESSIONS 1
+#endif
+#ifndef ADVANCEDSTEAMSESSIONS_API
+	#define ADVANCEDSTEAMSESSIONS_API 
+#endif
+#ifndef STEAM_SDK_VER
+	#define STEAM_SDK_VER TEXT("1.39")
+#endif
+#ifndef STEAM_SDK_VER_PATH
+	#define STEAM_SDK_VER_PATH TEXT("Steamv139")
+#endif
+#ifndef PAPER2D_API
+	#define PAPER2D_API 
 #endif
 #ifndef LIGHTPROPAGATIONVOLUMERUNTIME_API
 	#define LIGHTPROPAGATIONVOLUMERUNTIME_API 
@@ -505,15 +532,6 @@
 #endif
 #ifndef SANDBOXFILE_API
 	#define SANDBOXFILE_API 
-#endif
-#ifndef SOCKETS_PACKAGE
-	#define SOCKETS_PACKAGE 1
-#endif
-#ifndef SOCKETS_API
-	#define SOCKETS_API 
-#endif
-#ifndef NETWORKING_API
-	#define NETWORKING_API 
 #endif
 #ifndef NULLDRV_API
 	#define NULLDRV_API 
@@ -3553,6 +3571,58 @@ void UELinkerFixups()
     EmptyLinkFunctionForGeneratedCodeWebBrowser_init();
     extern void EmptyLinkFunctionForGeneratedCodeWebJSFunction();
     EmptyLinkFunctionForGeneratedCodeWebJSFunction();
+    extern void EmptyLinkFunctionForGeneratedCodeAdvancedExternalUILibrary();
+    EmptyLinkFunctionForGeneratedCodeAdvancedExternalUILibrary();
+    extern void EmptyLinkFunctionForGeneratedCodeAdvancedFriendsGameInstance();
+    EmptyLinkFunctionForGeneratedCodeAdvancedFriendsGameInstance();
+    extern void EmptyLinkFunctionForGeneratedCodeAdvancedFriendsInterface();
+    EmptyLinkFunctionForGeneratedCodeAdvancedFriendsInterface();
+    extern void EmptyLinkFunctionForGeneratedCodeAdvancedFriendsLibrary();
+    EmptyLinkFunctionForGeneratedCodeAdvancedFriendsLibrary();
+    extern void EmptyLinkFunctionForGeneratedCodeAdvancedIdentityLibrary();
+    EmptyLinkFunctionForGeneratedCodeAdvancedIdentityLibrary();
+    extern void EmptyLinkFunctionForGeneratedCodeAdvancedSessions_init();
+    EmptyLinkFunctionForGeneratedCodeAdvancedSessions_init();
+    extern void EmptyLinkFunctionForGeneratedCodeAdvancedSessionsLibrary();
+    EmptyLinkFunctionForGeneratedCodeAdvancedSessionsLibrary();
+    extern void EmptyLinkFunctionForGeneratedCodeAdvancedVoiceLibrary();
+    EmptyLinkFunctionForGeneratedCodeAdvancedVoiceLibrary();
+    extern void EmptyLinkFunctionForGeneratedCodeBlueprintDataDefinitions();
+    EmptyLinkFunctionForGeneratedCodeBlueprintDataDefinitions();
+    extern void EmptyLinkFunctionForGeneratedCodeCancelFindSessionsCallbackProxy();
+    EmptyLinkFunctionForGeneratedCodeCancelFindSessionsCallbackProxy();
+    extern void EmptyLinkFunctionForGeneratedCodeCreateSessionCallbackProxyAdvanced();
+    EmptyLinkFunctionForGeneratedCodeCreateSessionCallbackProxyAdvanced();
+    extern void EmptyLinkFunctionForGeneratedCodeEndSessionCallbackProxy();
+    EmptyLinkFunctionForGeneratedCodeEndSessionCallbackProxy();
+    extern void EmptyLinkFunctionForGeneratedCodeFindFriendSessionCallbackProxy();
+    EmptyLinkFunctionForGeneratedCodeFindFriendSessionCallbackProxy();
+    extern void EmptyLinkFunctionForGeneratedCodeFindSessionsCallbackProxyAdvanced();
+    EmptyLinkFunctionForGeneratedCodeFindSessionsCallbackProxyAdvanced();
+    extern void EmptyLinkFunctionForGeneratedCodeGetFriendsCallbackProxy();
+    EmptyLinkFunctionForGeneratedCodeGetFriendsCallbackProxy();
+    extern void EmptyLinkFunctionForGeneratedCodeGetRecentPlayersCallbackProxy();
+    EmptyLinkFunctionForGeneratedCodeGetRecentPlayersCallbackProxy();
+    extern void EmptyLinkFunctionForGeneratedCodeGetUserPrivilegeCallbackProxy();
+    EmptyLinkFunctionForGeneratedCodeGetUserPrivilegeCallbackProxy();
+    extern void EmptyLinkFunctionForGeneratedCodeLoginUserCallbackProxy();
+    EmptyLinkFunctionForGeneratedCodeLoginUserCallbackProxy();
+    extern void EmptyLinkFunctionForGeneratedCodeLogoutUserCallbackProxy();
+    EmptyLinkFunctionForGeneratedCodeLogoutUserCallbackProxy();
+    extern void EmptyLinkFunctionForGeneratedCodeSendFriendInviteCallbackProxy();
+    EmptyLinkFunctionForGeneratedCodeSendFriendInviteCallbackProxy();
+    extern void EmptyLinkFunctionForGeneratedCodeUpdateSessionCallbackProxyAdvanced();
+    EmptyLinkFunctionForGeneratedCodeUpdateSessionCallbackProxyAdvanced();
+    extern void EmptyLinkFunctionForGeneratedCodeAdvancedSteamFriendsLibrary();
+    EmptyLinkFunctionForGeneratedCodeAdvancedSteamFriendsLibrary();
+    extern void EmptyLinkFunctionForGeneratedCodeAdvancedSteamSessions_init();
+    EmptyLinkFunctionForGeneratedCodeAdvancedSteamSessions_init();
+    extern void EmptyLinkFunctionForGeneratedCodeAdvancedSteamWorkshopLibrary();
+    EmptyLinkFunctionForGeneratedCodeAdvancedSteamWorkshopLibrary();
+    extern void EmptyLinkFunctionForGeneratedCodeSteamRequestGroupOfficersCallbackProxy();
+    EmptyLinkFunctionForGeneratedCodeSteamRequestGroupOfficersCallbackProxy();
+    extern void EmptyLinkFunctionForGeneratedCodeSteamWSRequestUGCDetailsCallbackProxy();
+    EmptyLinkFunctionForGeneratedCodeSteamWSRequestUGCDetailsCallbackProxy();
     extern void EmptyLinkFunctionForGeneratedCodeIntMargin();
     EmptyLinkFunctionForGeneratedCodeIntMargin();
     extern void EmptyLinkFunctionForGeneratedCodeMaterialExpressionSpriteTextureSampler();
@@ -4371,6 +4441,10 @@ void UELinkerFixups()
     EmptyLinkFunctionForStaticInitializationRejoin();
     extern void EmptyLinkFunctionForStaticInitializationLoginFlow();
     EmptyLinkFunctionForStaticInitializationLoginFlow();
+    extern void EmptyLinkFunctionForStaticInitializationAdvancedSessions();
+    EmptyLinkFunctionForStaticInitializationAdvancedSessions();
+    extern void EmptyLinkFunctionForStaticInitializationAdvancedSteamSessions();
+    EmptyLinkFunctionForStaticInitializationAdvancedSteamSessions();
     extern void EmptyLinkFunctionForStaticInitializationPaper2D();
     EmptyLinkFunctionForStaticInitializationPaper2D();
     extern void EmptyLinkFunctionForStaticInitializationLightPropagationVolumeRuntime();

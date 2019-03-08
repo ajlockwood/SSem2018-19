@@ -452,7 +452,7 @@ Windows.Engine:/Script/Engine.GarbageCollectionSettings:gc.NumRetriesBeforeForci
 Windows.Engine:/Script/Engine.GarbageCollectionSettings:gc.AllowParallelGC:0=True
 Windows.Engine:/Script/Engine.GarbageCollectionSettings:gc.TimeBetweenPurgingPendingKillObjects:0=60
 Windows.Engine:/Script/Engine.GarbageCollectionSettings:gc.MaxObjectsInEditor:0=8388607
-Windows.Engine:/Script/Engine.GarbageCollectionSettings:gc.CreateGCClusters:0=True
+Windows.Engine:/Script/Engine.GarbageCollectionSettings:gc.CreateGCClusters:0=0
 Windows.Engine:/Script/Engine.GarbageCollectionSettings:gc.MergeGCClusters:0=False
 Windows.Engine:/Script/Engine.GarbageCollectionSettings:gc.ActorClusteringEnabled:0=False
 Windows.Engine:/Script/Engine.GarbageCollectionSettings:gc.BlueprintClusteringEnabled:0=False
@@ -678,12 +678,13 @@ Windows.Engine:OnlineSubsystem:PartyPendingJoinRequestTimeout:0=5.0
 Windows.Engine:OnlineSubsystem:DefaultPlatformService:0=Steam
 Windows.Engine:OnlineSubsystemSteam:bEnabled:0=true
 Windows.Engine:OnlineSubsystemSteam:SteamDevAppId:0=480
-Windows.Engine:OnlineSubsystemSteam:GameServerQueryPort:0=27015
+Windows.Engine:OnlineSubsystemSteam:GameServerQueryPort:0=27016
 Windows.Engine:OnlineSubsystemSteam:bRelaunchInSteam:0=false
-Windows.Engine:OnlineSubsystemSteam:GameVersion:0=1.0.0.0
+Windows.Engine:OnlineSubsystemSteam:GameVersion:0=1.0
 Windows.Engine:OnlineSubsystemSteam:bVACEnabled:0=1
 Windows.Engine:OnlineSubsystemSteam:bAllowP2PPacketRelay:0=true
 Windows.Engine:OnlineSubsystemSteam:P2PConnectionTimeout:0=90
+Windows.Engine:OnlineSubsystemSteam:SteamAppId:0=480
 Windows.Engine:/Script/OnlineSubsystemSteam.SteamNetDriver:NetConnectionClassName:0=OnlineSubsystemSteam.SteamNetConnection
 Windows.Engine:OnlineSubsystemAmazon:bEnabled:0=false
 Windows.Engine:OnlineSubsystemGoogle:bEnabled:0=false
@@ -1547,7 +1548,7 @@ Windows.Input:/Script/EngineSettings.ConsoleSettings:AutoCompleteCVarColor:0=(B=
 Windows.Input:/Script/EngineSettings.ConsoleSettings:AutoCompleteFadedColor:0=(R=100,G=100,B=100,A=255)
 Windows.Game:StartupActions:bAddPacks:0=False
 Windows.Game:StartupActions:InsertPack:0=(PackSource="StarterContent.upack,PackName="StarterContent")
-Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:BuildConfiguration:0=PPBC_Shipping
+Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:BuildConfiguration:0=PPBC_Development
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:StagingDirectory:0=(Path="C/Users/lockw/Desktop/testingAGamelol")
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:FullRebuild:0=False
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:UsePakFile:0=True

@@ -263,6 +263,8 @@
 "C:\Program Files\Epic Games\UE_4.18\Engine\Plugins\Online\OnlineFramework\Binaries\Win64\UE4-LoginFlow-Win64-Shipping.lib"
 "C:\Program Files\Epic Games\UE_4.18\Engine\Binaries\Win64\UE4-WebBrowser-Win64-Shipping.lib"
 "C:\Program Files\Epic Games\UE_4.18\Engine\Binaries\Win64\UE4-CEF3Utils-Win64-Shipping.lib"
+"C:\Users\lockw\OneDrive\Documents\Unreal Projects\Illuminate\Plugins\AdvancedSessions\Binaries\Win64\UE4-AdvancedSessions-Win64-Shipping.lib"
+"C:\Users\lockw\OneDrive\Documents\Unreal Projects\Illuminate\Plugins\AdvancedSteamSessions\Binaries\Win64\UE4-AdvancedSteamSessions-Win64-Shipping.lib"
 "C:\Program Files\Epic Games\UE_4.18\Engine\Plugins\2D\Paper2D\Binaries\Win64\UE4-Paper2D-Win64-Shipping.lib"
 "C:\Program Files\Epic Games\UE_4.18\Engine\Plugins\Blendables\LightPropagationVolume\Binaries\Win64\UE4-LightPropagationVolumeRuntime-Win64-Shipping.lib"
 "C:\Program Files\Epic Games\UE_4.18\Engine\Plugins\Editor\FacialAnimation\Binaries\Win64\UE4-FacialAnimation-Win64-Shipping.lib"

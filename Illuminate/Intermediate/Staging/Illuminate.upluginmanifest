@@ -195,17 +195,77 @@
 			"Descriptor": 
 			{
 				"FileVersion": 3,
-				"Version": 1,
-				"VersionName": "1.0",
-				"FriendlyName": "AdvancedSessions",
-				"Description": "",
-				"Category": "Other",
-				"CreatedBy": "",
-				"CreatedByURL": "",
+				"Version": 0,
+				"VersionName": "4.17",
+				"FriendlyName": "Advanced Sessions",
+				"Description": "Adds new blueprint functions to handle more advanced session operations.",
+				"Category": "Advanced Sessions Plugin",
+				"CreatedBy": "Joshua Statzer",
+				"CreatedByURL": "N/A",
 				"DocsURL": "",
 				"MarketplaceURL": "",
 				"SupportURL": "",
-				"CanContainContent": true
+				"CanContainContent": false,
+				"Modules": [
+					{
+						"Name": "AdvancedSessions",
+						"Type": "Runtime",
+						"LoadingPhase": "PreDefault"
+					}
+				],
+				"Plugins": [
+					{
+						"Name": "OnlineSubsystem",
+						"Enabled": true
+					},
+					{
+						"Name": "OnlineSubsystemUtils",
+						"Enabled": true
+					}
+				]
+			}
+		},
+		{
+			"File": "../../../Illuminate/Plugins/AdvancedSteamSessions/AdvancedSteamSessions.uplugin",
+			"Descriptor": 
+			{
+				"FileVersion": 3,
+				"Version": 0,
+				"VersionName": "4.17",
+				"FriendlyName": "Advanced Steam Sessions",
+				"Description": "Adds new blueprint functions to handle more advanced session operations in Steam. REQUIRES ADVANCED SESSIONS",
+				"Category": "Advanced Sessions Plugin",
+				"CreatedBy": "Joshua Statzer",
+				"CreatedByURL": "N/A",
+				"DocsURL": "",
+				"MarketplaceURL": "",
+				"SupportURL": "",
+				"CanContainContent": false,
+				"Modules": [
+					{
+						"Name": "AdvancedSteamSessions",
+						"Type": "Runtime",
+						"LoadingPhase": "PreDefault"
+					}
+				],
+				"Plugins": [
+					{
+						"Name": "AdvancedSessions",
+						"Enabled": true
+					},
+					{
+						"Name": "OnlineSubsystem",
+						"Enabled": true
+					},
+					{
+						"Name": "OnlineSubsystemUtils",
+						"Enabled": true
+					},
+					{
+						"Name": "OnlineSubsystemSteam",
+						"Enabled": true
+					}
+				]
 			}
 		},
 		{
