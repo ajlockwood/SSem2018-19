@@ -1,4 +1,4 @@
-﻿Log file open, 03/13/19 14:06:22
+﻿Log file open, 03/13/19 21:48:59
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
@@ -7,12 +7,12 @@ LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
 LogWindows: File 'VtuneApi32e.dll' does not exist
 LogInit: Display: Running engine for game: Illuminate
 LogPlatformFile: Not using cached read wrapper
-LogInit: Display: RandInit(764506309) SRandInit(764506309).
+LogInit: Display: RandInit(-1972011690) SRandInit(-1972011690).
 LogInit: Read version file with build ID '3709383'
 LogInit: Overriding engine version to CL 3794801, compatible CL 3709383
 LogInit: Registered custom module enumerator with build ID '3709383'
 LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
-LogStats: Stats thread started at 0.400038
+LogStats: Stats thread started at 0.617180
 LogPluginManager: Warning: Plugin 'AdvancedSessions' exists at '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Plugins/AdvancedSessions/AdvancedSessions.uplugin' and '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Plugins/AdvancedSessions.uplugin' - second location will be ignored
 LogD3D11RHI: Aftermath initialized
 LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemSteam/Binaries/Win64/UE4Editor-OnlineSubsystemSteam.dll (API version 3709383).
@@ -207,75 +207,689 @@ LogInit: Compiled (64-bit): Dec  8 2017 02:04:53
 LogInit: Compiled with Visual C++: 19.00.24215.01
 LogInit: Build Configuration: Development
 LogInit: Branch Name: ++UE4+Release-4.18
-LogInit: Command line:  127.0.0.1:7777 -game -PIEVIACONSOLE -ResX=640 -ResY=480  -Multiprocess -messaging -SessionName="Play in Standalone Game" -windowed GameUserSettingsINI="C:/Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Saved/Config/Windows/PIEGameUserSettings1.ini" -MultiprocessSaveConfig  -MultiprocessOSS WinX=8 WinY=550 SAVEWINPOS=1
+LogInit: Command line:  
 LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
 LogInit: Installed Engine Build: 1
 LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
 LogInit: Object subsystem initialized
-[2019.03.13-21.06.29:758][  0]LogInit: Selected Device Profile: [Windows]
-[2019.03.13-21.06.29:758][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
-[2019.03.13-21.06.29:769][  0]LogInit: Computer: MSI
-[2019.03.13-21.06.29:769][  0]LogInit: User: Alex
-[2019.03.13-21.06.29:769][  0]LogInit: CPU Page size=4096, Cores=4
-[2019.03.13-21.06.29:769][  0]LogInit: High frequency timer resolution =2.533210 MHz
-[2019.03.13-21.06.29:770][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
-[2019.03.13-21.06.29:770][  0]LogMemory: Platform Memory Stats for Windows
-[2019.03.13-21.06.29:770][  0]LogMemory: Process Physical Memory: 275.20 MB used, 275.20 MB peak
-[2019.03.13-21.06.29:770][  0]LogMemory: Process Virtual Memory: 274.19 MB used, 274.19 MB peak
-[2019.03.13-21.06.29:770][  0]LogMemory: Physical Memory: 9092.79 MB used,  7180.55 MB free, 16273.34 MB total
-[2019.03.13-21.06.29:770][  0]LogMemory: Virtual Memory: 4788.71 MB used,  7180.55 MB free, 134217728.00 MB total
-[2019.03.13-21.06.32:065][  0]LogInit: Using OS detected language (en-US).
-[2019.03.13-21.06.32:065][  0]LogInit: Using OS detected locale (en-US).
-[2019.03.13-21.06.32:074][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
-[2019.03.13-21.06.33:308][  0]LogD3D11RHI: D3D11 adapters:
-[2019.03.13-21.06.33:470][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 965M' (Feature Level 11_0)
-[2019.03.13-21.06.33:471][  0]LogD3D11RHI:       2010/0/8136 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
-[2019.03.13-21.06.33:490][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
-[2019.03.13-21.06.33:491][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
-[2019.03.13-21.06.33:499][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
-[2019.03.13-21.06.33:499][  0]LogD3D11RHI:       0/0/8136 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
-[2019.03.13-21.06.33:499][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
-[2019.03.13-21.06.33:564][  0]LogD3D11RHI: Creating new Direct3DDevice
-[2019.03.13-21.06.33:564][  0]LogD3D11RHI:     GPU DeviceId: 0x13d9 (for the marketing name, search the web for "GPU Device Id")
-[2019.03.13-21.06.33:564][  0]LogWindows: EnumDisplayDevices:
-[2019.03.13-21.06.33:565][  0]LogWindows:    0. 'Intel(R) HD Graphics 4600' (P:1 D:1)
-[2019.03.13-21.06.33:567][  0]LogWindows:    1. 'Intel(R) HD Graphics 4600' (P:0 D:0)
-[2019.03.13-21.06.33:568][  0]LogWindows:    2. 'Intel(R) HD Graphics 4600' (P:0 D:0)
-[2019.03.13-21.06.33:569][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
-[2019.03.13-21.06.33:569][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 965M
-[2019.03.13-21.06.33:569][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
-[2019.03.13-21.06.33:569][  0]LogD3D11RHI:      Driver Date: Unknown
-[2019.03.13-21.06.33:569][  0]LogRHI: Texture pool is 1407 MB (70% of 2010 MB)
-[2019.03.13-21.06.33:662][  0]LogD3D11RHI: Async texture creation enabled
-[2019.03.13-21.06.33:691][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
-[2019.03.13-21.06.33:693][  0]LogShaderCompilers: Guid format shader working directory is -30 characters bigger than the processId version (../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Intermediate/Shaders/WorkingDirectory/16160/).
-[2019.03.13-21.06.33:693][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/lockw/AppData/Local/Temp/UnrealShaderWorkingDir/2BD9FB84461406272052F8837A0D643D/'.
-[2019.03.13-21.06.33:693][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
-[2019.03.13-21.06.36:734][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
-[2019.03.13-21.06.36:984][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
-[2019.03.13-21.06.37:240][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
-[2019.03.13-21.06.37:502][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
-[2019.03.13-21.06.37:502][  0]LogTargetPlatformManager: Display: Building Assets For Windows
-[2019.03.13-21.06.40:237][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
-[2019.03.13-21.06.40:445][  0]LogDerivedDataCache: Loaded boot cache 0.21s 78MB C:/Users/lockw/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
-[2019.03.13-21.06.40:445][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/lockw/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
-[2019.03.13-21.06.40:446][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
-[2019.03.13-21.06.40:446][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
-[2019.03.13-21.06.40:446][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2019.03.13-21.06.40:446][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
-[2019.03.13-21.06.40:497][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
-[2019.03.13-21.06.40:516][  0]LogDerivedDataCache: Using Local data cache path C:/Users/lockw/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
-[2019.03.13-21.06.40:542][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
-[2019.03.13-21.06.40:542][  0]LogSlate: Using Freetype 2.6.0
-[2019.03.13-21.06.40:544][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2019.03.13-21.06.40:544][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2019.03.13-21.06.41:520][  0]LogAssetRegistry: FAssetRegistry took 0.0127 seconds to start up
-[2019.03.13-21.06.41:570][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.050208 seconds
-[2019.03.13-21.06.41:988][  0]LogInit: Selected Device Profile: [Windows]
-[2019.03.13-21.06.43:591][  0]LogSimplygon: Simplygon DLL not present - disabling.
-[2019.03.13-21.06.43:826][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
-[2019.03.13-21.06.43:826][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
-[2019.03.13-21.06.43:826][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
-[2019.03.13-21.06.43:826][  0]LogMeshReduction: No automatic mesh merging module available
-[2019.03.13-21.06.43:826][  0]LogMeshMerging: No automatic mesh merging module available
-[2019.03.13-21.06.43:926][  0]LogNetVersion: Illuminate , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1556659199)
+[2019.03.14-04.49.08:872][  0]LogInit: Selected Device Profile: [Windows]
+[2019.03.14-04.49.08:872][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.03.14-04.49.08:988][  0]LogInit: Computer: MSI
+[2019.03.14-04.49.08:988][  0]LogInit: User: Alex
+[2019.03.14-04.49.08:988][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.03.14-04.49.08:988][  0]LogInit: High frequency timer resolution =2.533210 MHz
+[2019.03.14-04.49.08:988][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.03.14-04.49.08:988][  0]LogMemory: Platform Memory Stats for Windows
+[2019.03.14-04.49.08:988][  0]LogMemory: Process Physical Memory: 275.27 MB used, 275.27 MB peak
+[2019.03.14-04.49.08:988][  0]LogMemory: Process Virtual Memory: 277.25 MB used, 277.25 MB peak
+[2019.03.14-04.49.08:988][  0]LogMemory: Physical Memory: 8609.64 MB used,  7663.70 MB free, 16273.34 MB total
+[2019.03.14-04.49.08:988][  0]LogMemory: Virtual Memory: 4791.78 MB used,  7663.70 MB free, 134217728.00 MB total
+[2019.03.14-04.49.11:500][  0]LogInit: Using OS detected language (en-US).
+[2019.03.14-04.49.11:500][  0]LogInit: Using OS detected locale (en-US).
+[2019.03.14-04.49.12:179][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.03.14-04.49.13:473][  0]LogInit: Setting process to per monitor DPI aware
+[2019.03.14-04.49.18:941][  0]LogD3D11RHI: D3D11 adapters:
+[2019.03.14-04.49.19:193][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 965M' (Feature Level 11_0)
+[2019.03.14-04.49.19:193][  0]LogD3D11RHI:       2010/0/8136 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.03.14-04.49.19:442][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
+[2019.03.14-04.49.19:442][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.03.14-04.49.19:446][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.03.14-04.49.19:446][  0]LogD3D11RHI:       0/0/8136 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.03.14-04.49.19:446][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.03.14-04.49.19:487][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.03.14-04.49.19:487][  0]LogD3D11RHI:     GPU DeviceId: 0x13d9 (for the marketing name, search the web for "GPU Device Id")
+[2019.03.14-04.49.19:488][  0]LogWindows: EnumDisplayDevices:
+[2019.03.14-04.49.19:488][  0]LogWindows:    0. 'Intel(R) HD Graphics 4600' (P:1 D:1)
+[2019.03.14-04.49.19:489][  0]LogWindows:    1. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2019.03.14-04.49.19:489][  0]LogWindows:    2. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2019.03.14-04.49.19:490][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.03.14-04.49.19:490][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 965M
+[2019.03.14-04.49.19:490][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.03.14-04.49.19:490][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.03.14-04.49.19:490][  0]LogRHI: Texture pool is 1407 MB (70% of 2010 MB)
+[2019.03.14-04.49.19:566][  0]LogD3D11RHI: Async texture creation enabled
+[2019.03.14-04.49.19:747][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.03.14-04.49.19:804][  0]LogShaderCompilers: Guid format shader working directory is -30 characters bigger than the processId version (../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Intermediate/Shaders/WorkingDirectory/20124/).
+[2019.03.14-04.49.19:805][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/lockw/AppData/Local/Temp/UnrealShaderWorkingDir/306EF0B24146A50CD5782FB985E888DE/'.
+[2019.03.14-04.49.19:807][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.03.14-04.49.26:917][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.03.14-04.49.27:144][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.03.14-04.49.27:390][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.03.14-04.49.27:621][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.03.14-04.49.27:853][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.03.14-04.49.28:083][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.03.14-04.49.28:319][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.03.14-04.49.28:542][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.03.14-04.49.28:766][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.03.14-04.49.29:024][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2019.03.14-04.49.29:264][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2019.03.14-04.49.29:516][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2019.03.14-04.49.29:757][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2019.03.14-04.49.29:979][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2019.03.14-04.49.30:411][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2019.03.14-04.49.30:411][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2019.03.14-04.49.30:621][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.14-04.49.30:820][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.03.14-04.49.31:244][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.03.14-04.49.31:379][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.03.14-04.49.31:586][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.03.14-04.49.31:820][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.03.14-04.49.32:048][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.03.14-04.49.32:291][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.03.14-04.49.32:291][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.03.14-04.49.35:875][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.03.14-04.49.36:830][  0]LogDerivedDataCache: Loaded boot cache 0.94s 79MB C:/Users/lockw/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2019.03.14-04.49.36:830][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/lockw/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2019.03.14-04.49.36:830][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.03.14-04.49.36:830][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.03.14-04.49.36:831][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.03.14-04.49.36:831][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.03.14-04.49.36:881][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.03.14-04.49.36:895][  0]LogDerivedDataCache: Using Local data cache path C:/Users/lockw/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.03.14-04.49.36:999][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.03.14-04.49.37:011][  0]LogSlate: Using Freetype 2.6.0
+[2019.03.14-04.49.37:068][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.03.14-04.49.37:068][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.03.14-04.49.41:833][  0]LogInit: Selected Device Profile: [Windows]
+[2019.03.14-04.49.45:192][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.03.14-04.49.45:543][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.03.14-04.49.45:543][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.03.14-04.49.45:543][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.03.14-04.49.45:543][  0]LogMeshReduction: No automatic mesh merging module available
+[2019.03.14-04.49.45:543][  0]LogMeshMerging: No automatic mesh merging module available
+[2019.03.14-04.49.46:106][  0]LogNetVersion: Illuminate , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1556659199)
+[2019.03.14-04.49.48:085][  0]LogAssetRegistry: FAssetRegistry took 0.0300 seconds to start up
+[2019.03.14-04.49.54:842][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.218136 seconds
+[2019.03.14-04.49.54:871][  0]LogUObjectArray: 35907 objects as part of root set at end of initial load.
+[2019.03.14-04.49.54:871][  0]LogUObjectAllocator: 7585960 out of 0 bytes used by permanent object pool.
+[2019.03.14-04.49.54:871][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.03.14-04.50.27:044][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.03.14-04.50.27:230][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.03.14-04.50.32:247][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2019.03.14-04.50.35:742][  0]SourceControl: Source control is disabled
+[2019.03.14-04.50.46:370][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.03.14-04.50.47:908][  0]LogOcInput: OculusInput pre-init called
+[2019.03.14-04.50.49:648][  0]LogEngine: Initializing Engine...
+[2019.03.14-04.50.49:678][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.03.14-04.50.51:831][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.03.14-04.50.51:831][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.03.14-04.50.52:578][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.03.14-04.50.52:747][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.03.14-04.50.52:994][  0]LogInit: FAudioDevice initialized.
+[2019.03.14-04.50.53:335][  0]LogDerivedDataCache: Saved boot cache 0.30s 79MB C:/Users/lockw/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2019.03.14-04.50.53:409][  0]LogInit: Texture streaming: Enabled
+[2019.03.14-04.50.54:264][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.03.14-04.50.54:882][  0]LogInit: Transaction tracking system initialized
+[2019.03.14-04.50.56:600][  0]BlueprintLog: New page: Editor Load
+[2019.03.14-04.51.02:087][  0]LocalizationService: Localization service is disabled
+[2019.03.14-04.51.06:862][  0]LogConsoleResponse: Display: 
+[2019.03.14-04.51.09:916][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.03.14-04.51.09:917][  0]LogCook: Display: Mobile HDR setting 1
+[2019.03.14-04.51.09:917][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.03.14-04.51.11:380][  0]LogFileCache: Scanning file cache for directory 'C:/Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/' took 0.31s
+[2019.03.14-04.51.17:134][  0]Cmd: MAP LOAD FILE="../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Creations/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.03.14-04.51.17:135][  0]LightingResults: New page: Lighting Build
+[2019.03.14-04.51.17:437][  0]MapCheck: New page: Map Check
+[2019.03.14-04.51.17:437][  0]LightingResults: New page: Lighting Build
+[2019.03.14-04.51.32:301][  0]LogAIModule: Creating AISystem for world MainMenu
+[2019.03.14-04.51.32:337][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.03.14-04.51.32:414][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.03.14-04.51.32:723][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 309.583ms to complete.
+[2019.03.14-04.51.32:724][  0]LogFileHelpers: Loading map 'MainMenu' took 15.590
+[2019.03.14-04.51.33:562][  0]LogCollectionManager: Loaded 0 collections in 0.012583 seconds
+[2019.03.14-04.51.34:060][  0]LogFileCache: Scanning file cache for directory 'C:/Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Saved/Collections/' took 0.01s
+[2019.03.14-04.51.34:060][  0]LogFileCache: Scanning file cache for directory 'C:/Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Developers/Alex/Collections/' took 0.01s
+[2019.03.14-04.51.34:060][  0]LogFileCache: Scanning file cache for directory 'C:/Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Collections/' took 0.06s
+[2019.03.14-04.51.34:060][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2019.03.14-04.51.34:087][  0]LogContentBrowser: Native class hierarchy populated in 0.0256 seconds. Added 2403 classes and 540 folders.
+[2019.03.14-04.51.34:440][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.03.14-04.51.36:650][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.03.14-04.51.36:915][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0009 seconds. Added 1 classes and 2 folders.
+[2019.03.14-04.51.36:999][  0]LogSlate: Took 0.053535 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.03.14-04.51.37:011][  0]LogSlate: Took 0.008669 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.03.14-04.51.37:049][  0]LogSlate: Took 0.011875 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.03.14-04.51.37:542][  0]LogRenderer: Reallocating scene render targets to support 1208x592 Format 10 NumSamples 1 (Frame:1).
+[2019.03.14-04.51.38:272][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2019.03.14-04.51.38:272][  0]LogLoad: (Engine Initialization) Total time: 177.64 seconds
+[2019.03.14-04.51.38:272][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.03.14-04.51.38:273][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2019.03.14-04.51.38:273][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2019.03.14-04.51.38:692][  0]SourceControl: On branch master
+[2019.03.14-04.51.38:692][  0]SourceControl: Changes not staged for commit:
+[2019.03.14-04.51.38:692][  0]SourceControl:   (use "git add/rm <file>..." to update what will be committed)
+[2019.03.14-04.51.38:692][  0]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
+[2019.03.14-04.51.38:692][  0]SourceControl: 	modified:   Illuminate/Intermediate/CachedAssetRegistry.bin
+[2019.03.14-04.51.38:692][  0]SourceControl: 	deleted:    Illuminate/Saved/Config/CrashReportClient/UE4CC-Windows-4144B06C46779FA0F16C10961B05F451/CrashReportClient.ini
+[2019.03.14-04.51.38:692][  0]SourceControl: 	modified:   Illuminate/Saved/Config/Windows/Engine.ini
+[2019.03.14-04.51.38:692][  0]SourceControl: 	deleted:    Illuminate/Saved/Logs/Illuminate-backup-2019.03.13-13.16.26.log
+[2019.03.14-04.51.38:692][  0]SourceControl: 	modified:   Illuminate/Saved/Logs/Illuminate.log
+[2019.03.14-04.51.38:692][  0]SourceControl: Untracked files:
+[2019.03.14-04.51.38:692][  0]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2019.03.14-04.51.38:692][  0]SourceControl: 	Illuminate/Saved/Config/CrashReportClient/UE4CC-Windows-EA13788F49449EA28D0A36B202697ED9/
+[2019.03.14-04.51.38:692][  0]SourceControl: 	Illuminate/Saved/Logs/Illuminate-backup-2019.03.13-21.48.59.log
+[2019.03.14-04.51.38:692][  0]SourceControl: no changes added to commit (use "git add" and/or "git commit -a")
+[2019.03.14-04.51.38:696][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.03.14-04.51.38:863][  0]LogSlate: Took 0.019407 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2019.03.14-04.51.39:672][  3]LogAssetRegistry: Asset discovery search completed in 111.6095 seconds
+[2019.03.14-04.51.39:689][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.03.14-04.51.39:689][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000138 seconds (updated 0 objects)
+[2019.03.14-04.58.21:275][334]LogSlate: Took 0.000325 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2019.03.14-04.58.21:864][334]LogSlate: Took 0.000266 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.03.14-04.58.21:894][334]LogClass: Warning: Enum '/Game/AdvancedMagicFX13/DemoRoomData/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2019.03.14-04.58.22:091][334]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 116 classes and 0 folders.
+[2019.03.14-04.58.23:613][334]LogSlate: Took 0.000247 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2019.03.14-04.58.23:628][334]LogSlate: Took 0.014322 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.03.14-05.01.31:881][147]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Creations/shots/Shot1" FILE="../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Creations/shots/Shot1.uasset" SILENT=true
+[2019.03.14-05.01.32:021][147]LogSavePackage: Save=132.77ms
+[2019.03.14-05.01.32:021][147]LogSavePackage: Moving '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Saved/Shot1B8E6A83849BFC5214DE385A835AD5A52.tmp' to '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Creations/shots/Shot1.uasset'
+[2019.03.14-05.01.32:038][147]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Creations/shots/Shot1.uasset
+[2019.03.14-05.03.05:382][224]LogSlate: Took 0.012150 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.03.14-05.03.23:295][935]BlueprintLog: New page: Compile Sniper
+[2019.03.14-05.04.26:658][424]BlueprintLog: New page: Compile WeaponSelect
+[2019.03.14-05.05.41:274][472]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Creations/Maps/MainMenu' took 0.040
+[2019.03.14-05.05.41:281][472]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Creations/Widgets/WeaponSelect] ([1] browsable assets)...
+[2019.03.14-05.05.41:281][472]OBJ SavePackage: Finished generating thumbnails for package [/Game/Creations/Widgets/WeaponSelect]
+[2019.03.14-05.05.41:953][472]LogSavePackage: Save=416.73ms
+[2019.03.14-05.05.41:953][472]LogSavePackage: Moving '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Saved/WeaponSelect_Auto1993F09834CE3E0D6742CDD8500BDEB3F.tmp' to '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Saved/Autosaves/Game/Creations/Widgets/WeaponSelect_Auto1.uasset'
+[2019.03.14-05.05.41:977][472]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Saved/Autosaves/Game/Creations/Widgets/WeaponSelect_Auto1.uasset
+[2019.03.14-05.05.41:983][472]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Creations/shots/Sniper] ([1] browsable assets)...
+[2019.03.14-05.05.42:022][472]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Creations/shots/Sniper.Sniper]
+[2019.03.14-05.05.42:022][472]OBJ SavePackage: Finished generating thumbnails for package [/Game/Creations/shots/Sniper]
+[2019.03.14-05.05.42:085][472]LogSavePackage: Save=56.14ms
+[2019.03.14-05.05.42:085][472]LogSavePackage: Moving '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Saved/Sniper_Auto1AD562328424ED4C0209157B127BD9ED3.tmp' to '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Saved/Autosaves/Game/Creations/shots/Sniper_Auto1.uasset'
+[2019.03.14-05.05.42:092][472]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Saved/Autosaves/Game/Creations/shots/Sniper_Auto1.uasset
+[2019.03.14-05.05.42:097][472]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Creations/shots/Piercer] ([1] browsable assets)...
+[2019.03.14-05.05.42:117][472]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Creations/shots/Piercer.Piercer]
+[2019.03.14-05.05.42:117][472]OBJ SavePackage: Finished generating thumbnails for package [/Game/Creations/shots/Piercer]
+[2019.03.14-05.05.42:171][472]LogSavePackage: Save=48.55ms
+[2019.03.14-05.05.42:171][472]LogSavePackage: Moving '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Saved/Piercer_Auto15719355F4543534EC4C14897EEE5338B.tmp' to '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Saved/Autosaves/Game/Creations/shots/Piercer_Auto1.uasset'
+[2019.03.14-05.05.42:181][472]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Saved/Autosaves/Game/Creations/shots/Piercer_Auto1.uasset
+[2019.03.14-05.05.42:181][472]LogFileHelpers: Auto-saving content packages took 0.907
+[2019.03.14-05.05.46:368][536]BlueprintLog: New page: Compile Piercer
+[2019.03.14-05.06.23:334][146]BlueprintLog: New page: Compile Piercer
+[2019.03.14-05.07.22:684][638]BlueprintLog: New page: Compile Piercer
+[2019.03.14-05.08.17:514][ 72]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.03.14-05.08.30:118][412]BlueprintLog: New page: Compile WeaponSelect
+[2019.03.14-05.08.31:982][480]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.14-05.08.34:215][480]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Creations/shots/Piercer" FILE="../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Creations/shots/Piercer.uasset" SILENT=true
+[2019.03.14-05.08.34:271][480]LogSavePackage: Save=49.35ms
+[2019.03.14-05.08.34:271][480]LogSavePackage: Moving '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Saved/Piercer441F90144F38CAFF37C3F5BD55D1D4DF.tmp' to '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Creations/shots/Piercer.uasset'
+[2019.03.14-05.08.34:287][480]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Creations/shots/Piercer.uasset
+[2019.03.14-05.08.35:332][480]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Creations/shots/Sniper" FILE="../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Creations/shots/Sniper.uasset" SILENT=true
+[2019.03.14-05.08.35:396][480]LogSavePackage: Save=56.49ms
+[2019.03.14-05.08.35:396][480]LogSavePackage: Moving '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Saved/SniperC06D53684E31675B2F0FC686EBFE9434.tmp' to '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Creations/shots/Sniper.uasset'
+[2019.03.14-05.08.35:415][480]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Creations/shots/Sniper.uasset
+[2019.03.14-05.08.37:347][480]LogSavePackage: Save=521.07ms
+[2019.03.14-05.08.37:347][480]LogSavePackage: Moving '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Saved/WeaponSelectD642CEA446D223CF03CB4FAF4A0F7EB8.tmp' to '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Creations/Widgets/WeaponSelect.uasset'
+[2019.03.14-05.08.37:367][480]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Creations/Widgets/WeaponSelect.uasset
+[2019.03.14-05.08.37:897][480]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Creations/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Creations/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Creations/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Creations/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.03.14-05.08.37:898][480]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.14-05.08.37:898][480]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2019.03.14-05.08.37:898][480]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2019.03.14-05.08.37:900][480]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2019.03.14-05.08.37:900][480]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2019.03.14-05.08.37:900][480]LogOnline: Warning: STEAM: Steam API disabled!
+[2019.03.14-05.08.37:900][480]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2019.03.14-05.08.37:914][480]PIE: New page: PIE session: MainMenu (Mar 13, 2019, 3:08:37 PM)
+[2019.03.14-05.08.40:502][480]LogPlayLevel: Creating play world package: /Game/Creations/Maps/UEDPIE_0_MainMenu
+[2019.03.14-05.08.40:526][480]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023293s)
+[2019.03.14-05.08.40:526][480]LogAIModule: Creating AISystem for world MainMenu
+[2019.03.14-05.08.40:527][480]LogPlayLevel: PIE: World Init took: (0.000871s)
+[2019.03.14-05.08.40:527][480]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Creations/Maps/MainMenu.MainMenu to /Game/Creations/Maps/UEDPIE_0_MainMenu.MainMenu (0.024650s)
+[2019.03.14-05.08.40:642][480]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.03.14-05.08.40:811][480]LogInit: FAudioDevice initialized.
+[2019.03.14-05.08.40:888][480]LogLoad: Game class is 'MainGm_C'
+[2019.03.14-05.08.40:899][480]LogWorld: Bringing World /Game/Creations/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2019.03.13-22.08.40
+[2019.03.14-05.08.40:908][480]LogWorld: Bringing up level for play took: 0.009029
+[2019.03.14-05.08.41:289][480]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0008 seconds. Added 11 classes and 0 folders.
+[2019.03.14-05.08.41:452][480]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.03.14-05.08.41:453][480]LogTemp: Display: ParseSettings for IpNetDriver_0
+[2019.03.14-05.08.41:453][480]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.03.14-05.08.41:454][480]LogInit: WinSock: Socket queue 131072 / 131072
+[2019.03.14-05.08.41:455][480]LogInit: WinSock: I am MSI (158.104.225.238:0)
+[2019.03.14-05.08.41:456][480]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.03.14-05.08.41:456][480]LogNet: GameNetDriver IpNetDriver_0 IpNetDriver listening on port 7777
+[2019.03.14-05.08.41:481][480]PIE: Play in editor start time for /Game/Creations/Maps/UEDPIE_0_MainMenu 3.381
+[2019.03.14-05.08.41:481][480]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Creations/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Creations/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Creations/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Creations/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.03.14-05.08.41:996][481]LogNet: UNetDriver::TickDispatch: Very long time between ticks. DeltaTime: 10.00, Realtime: 0.40. IpNetDriver_0
+[2019.03.14-05.08.43:401][555]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'SelectedAbilities' of length 0 in '/Game/Creations/Other/testTwinstickPawn.testTwinstickPawn_C'!
+[2019.03.14-05.08.43:401][555]LogScript: Warning: Accessed None trying to read Class from property CallFunc_Array_Get_Item
+	testTwinstickPawn_C /Game/Creations/Maps/UEDPIE_0_MainMenu.MainMenu:PersistentLevel.testTwinstickPawn_C_0
+	Function /Game/Creations/Other/testTwinstickPawn.testTwinstickPawn_C:FireShot:015D
+[2019.03.14-05.08.43:401][555]PIE: Error: Blueprint Runtime Error: Accessed None trying to read Class from property CallFunc_Array_Get_Item from function: 'FireShot' from node: Branch in graph: FireShot in object: testTwinstickPawn with description: Accessed None trying to read Class from property CallFunc_Array_Get_Item
+[2019.03.14-05.08.43:420][556]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'SelectedAbilities' of length 0 in '/Game/Creations/Other/testTwinstickPawn.testTwinstickPawn_C'!
+[2019.03.14-05.08.43:421][556]LogScript: Warning: Accessed None trying to read Class from property CallFunc_Array_Get_Item
+	testTwinstickPawn_C /Game/Creations/Maps/UEDPIE_0_MainMenu.MainMenu:PersistentLevel.testTwinstickPawn_C_0
+	Function /Game/Creations/Other/testTwinstickPawn.testTwinstickPawn_C:FireShot:015D
+[2019.03.14-05.08.43:421][556]PIE: Error: Blueprint Runtime Error: Accessed None trying to read Class from property CallFunc_Array_Get_Item from function: 'FireShot' from node: Branch in graph: FireShot in object: testTwinstickPawn with description: Accessed None trying to read Class from property CallFunc_Array_Get_Item
+[2019.03.14-05.08.50:244][930]LogBlueprintUserMessages: [MainInstance_C_0] Server: Starting session
+[2019.03.14-05.08.50:245][930]LogNetVersion: Illuminate 1.0.0.0, NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1067519852)
+[2019.03.14-05.08.50:301][930]LogNet: Browse: /Game/Creations/Maps/MultiplayerLobby?listen
+[2019.03.14-05.08.50:347][930]LogLoad: LoadMap: /Game/Creations/Maps/MultiplayerLobby?listen
+[2019.03.14-05.08.50:347][930]LogNet: World NetDriver shutdown IpNetDriver_0 [GameNetDriver]
+[2019.03.14-05.08.50:347][930]LogNet: DestroyNamedNetDriver IpNetDriver_0 [GameNetDriver]
+[2019.03.14-05.08.50:377][930]LogExit: GameNetDriver IpNetDriver_0 shut down
+[2019.03.14-05.08.50:886][930]LogAIModule: Creating AISystem for world MultiplayerLobby
+[2019.03.14-05.08.50:886][930]LogLoad: Game class is 'MainGm_C'
+[2019.03.14-05.08.50:886][930]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.03.14-05.08.50:886][930]LogTemp: Display: ParseSettings for IpNetDriver_1
+[2019.03.14-05.08.50:887][930]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.03.14-05.08.50:887][930]LogInit: WinSock: Socket queue 131072 / 131072
+[2019.03.14-05.08.50:888][930]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.03.14-05.08.50:889][930]LogNet: GameNetDriver IpNetDriver_1 IpNetDriver listening on port 7777
+[2019.03.14-05.08.50:895][930]LogWorld: Bringing World /Game/Creations/Maps/UEDPIE_0_MultiplayerLobby.MultiplayerLobby up for play (max tick rate 60) at 2019.03.13-22.08.50
+[2019.03.14-05.08.50:896][930]LogWorld: Bringing up level for play took: 0.001370
+[2019.03.14-05.08.50:897][930]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.03.14-05.08.50:907][930]LogLoad: Took 0.559588 seconds to LoadMap(/Game/Creations/Maps/MultiplayerLobby)
+[2019.03.14-05.08.51:977][986]Cmd: servertravel TestMap
+[2019.03.14-05.08.53:048][986]LogPackageName: SearchForPackageOnDisk took   1.042s to resolve TestMap.
+[2019.03.14-05.08.53:048][986]LogGameMode: Warning: CanServerTravel: Seamless travel currently NOT supported in single process PIE.
+[2019.03.14-05.08.54:158][ 47]Cmd: servertravel TestMap
+[2019.03.14-05.08.55:145][ 47]LogPackageName: SearchForPackageOnDisk took   0.986s to resolve TestMap.
+[2019.03.14-05.08.55:145][ 47]LogGameMode: Warning: CanServerTravel: Seamless travel currently NOT supported in single process PIE.
+[2019.03.14-05.08.58:001][209]Cmd: servertravel TestMap
+[2019.03.14-05.08.58:995][209]LogPackageName: SearchForPackageOnDisk took   0.994s to resolve TestMap.
+[2019.03.14-05.08.58:995][209]LogGameMode: Warning: CanServerTravel: Seamless travel currently NOT supported in single process PIE.
+[2019.03.14-05.09.01:605][357]Cmd: servertravel TestMap
+[2019.03.14-05.09.02:549][357]LogPackageName: SearchForPackageOnDisk took   0.944s to resolve TestMap.
+[2019.03.14-05.09.02:549][357]LogGameMode: Warning: CanServerTravel: Seamless travel currently NOT supported in single process PIE.
+[2019.03.14-05.09.02:550][357]Cmd: servertravel TestMap
+[2019.03.14-05.09.03:603][357]LogPackageName: SearchForPackageOnDisk took   1.052s to resolve TestMap.
+[2019.03.14-05.09.03:603][357]LogGameMode: Warning: CanServerTravel: Seamless travel currently NOT supported in single process PIE.
+[2019.03.14-05.09.03:604][357]Cmd: servertravel TestMap
+[2019.03.14-05.09.04:667][357]LogPackageName: SearchForPackageOnDisk took   1.063s to resolve TestMap.
+[2019.03.14-05.09.04:667][357]LogGameMode: Warning: CanServerTravel: Seamless travel currently NOT supported in single process PIE.
+[2019.03.14-05.09.09:084][598]Cmd: servertravel TestMap
+[2019.03.14-05.09.10:142][598]LogPackageName: SearchForPackageOnDisk took   1.058s to resolve TestMap.
+[2019.03.14-05.09.10:142][598]LogGameMode: Warning: CanServerTravel: Seamless travel currently NOT supported in single process PIE.
+[2019.03.14-05.09.10:835][638]Cmd: servertravel TestMap
+[2019.03.14-05.09.11:892][638]LogPackageName: SearchForPackageOnDisk took   1.056s to resolve TestMap.
+[2019.03.14-05.09.11:892][638]LogGameMode: Warning: CanServerTravel: Seamless travel currently NOT supported in single process PIE.
+[2019.03.14-05.09.12:507][673]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'SelectedAbilities' of length 0 in '/Game/Creations/Other/testTwinstickPawn.testTwinstickPawn_C'!
+[2019.03.14-05.09.12:507][673]LogScript: Warning: Accessed None trying to read Class from property CallFunc_Array_Get_Item
+	testTwinstickPawn_C /Game/Creations/Maps/UEDPIE_0_MultiplayerLobby.MultiplayerLobby:PersistentLevel.testTwinstickPawn_C_0
+	Function /Game/Creations/Other/testTwinstickPawn.testTwinstickPawn_C:FireShot:015D
+[2019.03.14-05.09.12:508][673]PIE: Error: Blueprint Runtime Error: Accessed None trying to read Class from property CallFunc_Array_Get_Item from function: 'FireShot' from node: Branch in graph: FireShot in object: testTwinstickPawn with description: Accessed None trying to read Class from property CallFunc_Array_Get_Item
+[2019.03.14-05.09.12:523][674]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'SelectedAbilities' of length 0 in '/Game/Creations/Other/testTwinstickPawn.testTwinstickPawn_C'!
+[2019.03.14-05.09.12:523][674]LogScript: Warning: Accessed None trying to read Class from property CallFunc_Array_Get_Item
+	testTwinstickPawn_C /Game/Creations/Maps/UEDPIE_0_MultiplayerLobby.MultiplayerLobby:PersistentLevel.testTwinstickPawn_C_0
+	Function /Game/Creations/Other/testTwinstickPawn.testTwinstickPawn_C:FireShot:015D
+[2019.03.14-05.09.12:524][674]PIE: Error: Blueprint Runtime Error: Accessed None trying to read Class from property CallFunc_Array_Get_Item from function: 'FireShot' from node: Branch in graph: FireShot in object: testTwinstickPawn with description: Accessed None trying to read Class from property CallFunc_Array_Get_Item
+[2019.03.14-05.09.12:541][675]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'SelectedAbilities' of length 0 in '/Game/Creations/Other/testTwinstickPawn.testTwinstickPawn_C'!
+[2019.03.14-05.09.12:541][675]LogScript: Warning: Accessed None trying to read Class from property CallFunc_Array_Get_Item
+	testTwinstickPawn_C /Game/Creations/Maps/UEDPIE_0_MultiplayerLobby.MultiplayerLobby:PersistentLevel.testTwinstickPawn_C_0
+	Function /Game/Creations/Other/testTwinstickPawn.testTwinstickPawn_C:FireShot:015D
+[2019.03.14-05.09.12:541][675]PIE: Error: Blueprint Runtime Error: Accessed None trying to read Class from property CallFunc_Array_Get_Item from function: 'FireShot' from node: Branch in graph: FireShot in object: testTwinstickPawn with description: Accessed None trying to read Class from property CallFunc_Array_Get_Item
+[2019.03.14-05.09.12:558][676]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'SelectedAbilities' of length 0 in '/Game/Creations/Other/testTwinstickPawn.testTwinstickPawn_C'!
+[2019.03.14-05.09.12:558][676]LogScript: Warning: Accessed None trying to read Class from property CallFunc_Array_Get_Item
+	testTwinstickPawn_C /Game/Creations/Maps/UEDPIE_0_MultiplayerLobby.MultiplayerLobby:PersistentLevel.testTwinstickPawn_C_0
+	Function /Game/Creations/Other/testTwinstickPawn.testTwinstickPawn_C:FireShot:015D
+[2019.03.14-05.09.12:558][676]PIE: Error: Blueprint Runtime Error: Accessed None trying to read Class from property CallFunc_Array_Get_Item from function: 'FireShot' from node: Branch in graph: FireShot in object: testTwinstickPawn with description: Accessed None trying to read Class from property CallFunc_Array_Get_Item
+[2019.03.14-05.09.12:574][677]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'SelectedAbilities' of length 0 in '/Game/Creations/Other/testTwinstickPawn.testTwinstickPawn_C'!
+[2019.03.14-05.09.12:574][677]LogScript: Warning: Accessed None trying to read Class from property CallFunc_Array_Get_Item
+	testTwinstickPawn_C /Game/Creations/Maps/UEDPIE_0_MultiplayerLobby.MultiplayerLobby:PersistentLevel.testTwinstickPawn_C_0
+	Function /Game/Creations/Other/testTwinstickPawn.testTwinstickPawn_C:FireShot:015D
+[2019.03.14-05.09.12:575][677]PIE: Error: Blueprint Runtime Error: Accessed None trying to read Class from property CallFunc_Array_Get_Item from function: 'FireShot' from node: Branch in graph: FireShot in object: testTwinstickPawn with description: Accessed None trying to read Class from property CallFunc_Array_Get_Item
+[2019.03.14-05.09.12:591][678]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'SelectedAbilities' of length 0 in '/Game/Creations/Other/testTwinstickPawn.testTwinstickPawn_C'!
+[2019.03.14-05.09.12:591][678]LogScript: Warning: Accessed None trying to read Class from property CallFunc_Array_Get_Item
+	testTwinstickPawn_C /Game/Creations/Maps/UEDPIE_0_MultiplayerLobby.MultiplayerLobby:PersistentLevel.testTwinstickPawn_C_0
+	Function /Game/Creations/Other/testTwinstickPawn.testTwinstickPawn_C:FireShot:015D
+[2019.03.14-05.09.12:591][678]PIE: Error: Blueprint Runtime Error: Accessed None trying to read Class from property CallFunc_Array_Get_Item from function: 'FireShot' from node: Branch in graph: FireShot in object: testTwinstickPawn with description: Accessed None trying to read Class from property CallFunc_Array_Get_Item
+[2019.03.14-05.09.12:607][679]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'SelectedAbilities' of length 0 in '/Game/Creations/Other/testTwinstickPawn.testTwinstickPawn_C'!
+[2019.03.14-05.09.12:608][679]LogScript: Warning: Accessed None trying to read Class from property CallFunc_Array_Get_Item
+	testTwinstickPawn_C /Game/Creations/Maps/UEDPIE_0_MultiplayerLobby.MultiplayerLobby:PersistentLevel.testTwinstickPawn_C_0
+	Function /Game/Creations/Other/testTwinstickPawn.testTwinstickPawn_C:FireShot:015D
+[2019.03.14-05.09.12:608][679]PIE: Error: Blueprint Runtime Error: Accessed None trying to read Class from property CallFunc_Array_Get_Item from function: 'FireShot' from node: Branch in graph: FireShot in object: testTwinstickPawn with description: Accessed None trying to read Class from property CallFunc_Array_Get_Item
+[2019.03.14-05.09.14:986][805]Cmd: servertravel TestMap
+[2019.03.14-05.09.16:015][805]LogPackageName: SearchForPackageOnDisk took   1.028s to resolve TestMap.
+[2019.03.14-05.09.16:015][805]LogGameMode: Warning: CanServerTravel: Seamless travel currently NOT supported in single process PIE.
+[2019.03.14-05.09.16:016][805]Cmd: servertravel TestMap
+[2019.03.14-05.09.17:101][805]LogPackageName: SearchForPackageOnDisk took   1.086s to resolve TestMap.
+[2019.03.14-05.09.17:101][805]LogGameMode: Warning: CanServerTravel: Seamless travel currently NOT supported in single process PIE.
+[2019.03.14-05.09.17:102][805]Cmd: servertravel TestMap
+[2019.03.14-05.09.18:098][805]LogPackageName: SearchForPackageOnDisk took   0.996s to resolve TestMap.
+[2019.03.14-05.09.18:098][805]LogGameMode: Warning: CanServerTravel: Seamless travel currently NOT supported in single process PIE.
+[2019.03.14-05.09.19:142][860]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'SelectedAbilities' of length 0 in '/Game/Creations/Other/testTwinstickPawn.testTwinstickPawn_C'!
+[2019.03.14-05.09.19:142][860]LogScript: Warning: Accessed None trying to read Class from property CallFunc_Array_Get_Item
+	testTwinstickPawn_C /Game/Creations/Maps/UEDPIE_0_MultiplayerLobby.MultiplayerLobby:PersistentLevel.testTwinstickPawn_C_0
+	Function /Game/Creations/Other/testTwinstickPawn.testTwinstickPawn_C:FireShot:015D
+[2019.03.14-05.09.19:142][860]PIE: Error: Blueprint Runtime Error: Accessed None trying to read Class from property CallFunc_Array_Get_Item from function: 'FireShot' from node: Branch in graph: FireShot in object: testTwinstickPawn with description: Accessed None trying to read Class from property CallFunc_Array_Get_Item
+[2019.03.14-05.09.19:162][861]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'SelectedAbilities' of length 0 in '/Game/Creations/Other/testTwinstickPawn.testTwinstickPawn_C'!
+[2019.03.14-05.09.19:162][861]LogScript: Warning: Accessed None trying to read Class from property CallFunc_Array_Get_Item
+	testTwinstickPawn_C /Game/Creations/Maps/UEDPIE_0_MultiplayerLobby.MultiplayerLobby:PersistentLevel.testTwinstickPawn_C_0
+	Function /Game/Creations/Other/testTwinstickPawn.testTwinstickPawn_C:FireShot:015D
+[2019.03.14-05.09.19:162][861]PIE: Error: Blueprint Runtime Error: Accessed None trying to read Class from property CallFunc_Array_Get_Item from function: 'FireShot' from node: Branch in graph: FireShot in object: testTwinstickPawn with description: Accessed None trying to read Class from property CallFunc_Array_Get_Item
+[2019.03.14-05.09.19:180][862]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'SelectedAbilities' of length 0 in '/Game/Creations/Other/testTwinstickPawn.testTwinstickPawn_C'!
+[2019.03.14-05.09.19:180][862]LogScript: Warning: Accessed None trying to read Class from property CallFunc_Array_Get_Item
+	testTwinstickPawn_C /Game/Creations/Maps/UEDPIE_0_MultiplayerLobby.MultiplayerLobby:PersistentLevel.testTwinstickPawn_C_0
+	Function /Game/Creations/Other/testTwinstickPawn.testTwinstickPawn_C:FireShot:015D
+[2019.03.14-05.09.19:180][862]PIE: Error: Blueprint Runtime Error: Accessed None trying to read Class from property CallFunc_Array_Get_Item from function: 'FireShot' from node: Branch in graph: FireShot in object: testTwinstickPawn with description: Accessed None trying to read Class from property CallFunc_Array_Get_Item
+[2019.03.14-05.09.19:197][863]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'SelectedAbilities' of length 0 in '/Game/Creations/Other/testTwinstickPawn.testTwinstickPawn_C'!
+[2019.03.14-05.09.19:198][863]LogScript: Warning: Accessed None trying to read Class from property CallFunc_Array_Get_Item
+	testTwinstickPawn_C /Game/Creations/Maps/UEDPIE_0_MultiplayerLobby.MultiplayerLobby:PersistentLevel.testTwinstickPawn_C_0
+	Function /Game/Creations/Other/testTwinstickPawn.testTwinstickPawn_C:FireShot:015D
+[2019.03.14-05.09.19:198][863]PIE: Error: Blueprint Runtime Error: Accessed None trying to read Class from property CallFunc_Array_Get_Item from function: 'FireShot' from node: Branch in graph: FireShot in object: testTwinstickPawn with description: Accessed None trying to read Class from property CallFunc_Array_Get_Item
+[2019.03.14-05.09.21:233][902]LogNet: Browse: /Game/Creations/Maps/MainMenu
+[2019.03.14-05.09.21:234][902]LogLoad: LoadMap: /Game/Creations/Maps/MainMenu
+[2019.03.14-05.09.21:234][902]LogNet: World NetDriver shutdown IpNetDriver_1 [GameNetDriver]
+[2019.03.14-05.09.21:234][902]LogNet: DestroyNamedNetDriver IpNetDriver_1 [GameNetDriver]
+[2019.03.14-05.09.21:234][902]LogExit: GameNetDriver IpNetDriver_1 shut down
+[2019.03.14-05.09.21:298][902]LogPlayLevel: Creating play world package: /Game/Creations/Maps/UEDPIE_0_MainMenu
+[2019.03.14-05.09.21:302][902]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003250s)
+[2019.03.14-05.09.21:303][902]LogAIModule: Creating AISystem for world MainMenu
+[2019.03.14-05.09.21:303][902]LogPlayLevel: PIE: World Init took: (0.001203s)
+[2019.03.14-05.09.21:304][902]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Creations/Maps/MainMenu.MainMenu to /Game/Creations/Maps/UEDPIE_0_MainMenu.MainMenu (0.005190s)
+[2019.03.14-05.09.21:304][902]LogLoad: Game class is 'MainGm_C'
+[2019.03.14-05.09.21:306][902]LogWorld: Bringing World /Game/Creations/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2019.03.13-22.09.21
+[2019.03.14-05.09.21:307][902]LogWorld: Bringing up level for play took: 0.001561
+[2019.03.14-05.09.21:308][902]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.03.14-05.09.21:314][902]LogLoad: Took 0.080341 seconds to LoadMap(/Game/Creations/Maps/UEDPIE_0_MainMenu)
+[2019.03.14-05.09.29:843][366]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Creations/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Creations/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Creations/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Creations/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.03.14-05.09.29:917][366]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2019.03.14-05.09.29:917][366]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2019.03.14-05.09.29:919][366]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2019.03.14-05.09.29:919][366]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2019.03.14-05.09.29:919][366]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.14-05.09.29:920][366]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Creations/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Creations/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Creations/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Creations/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.03.14-05.09.30:110][367]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2019.03.14-05.09.30:111][367]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2019.03.14-05.09.36:148][543]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Creations/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Creations/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Creations/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Creations/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.03.14-05.09.36:148][543]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.14-05.09.36:148][543]PIE: New page: PIE session: MainMenu (Mar 13, 2019, 3:09:36 PM)
+[2019.03.14-05.09.38:494][543]LogPlayLevel: Creating play world package: /Game/Creations/Maps/UEDPIE_0_MainMenu
+[2019.03.14-05.09.38:495][543]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001150s)
+[2019.03.14-05.09.38:496][543]LogAIModule: Creating AISystem for world MainMenu
+[2019.03.14-05.09.38:497][543]LogPlayLevel: PIE: World Init took: (0.001167s)
+[2019.03.14-05.09.38:497][543]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Creations/Maps/MainMenu.MainMenu to /Game/Creations/Maps/UEDPIE_0_MainMenu.MainMenu (0.002965s)
+[2019.03.14-05.09.38:586][543]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.03.14-05.09.38:750][543]LogInit: FAudioDevice initialized.
+[2019.03.14-05.09.38:845][543]LogLoad: Game class is 'MainGm_C'
+[2019.03.14-05.09.38:846][543]LogWorld: Bringing World /Game/Creations/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2019.03.13-22.09.38
+[2019.03.14-05.09.38:846][543]LogWorld: Bringing up level for play took: 0.000799
+[2019.03.14-05.09.38:861][543]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.03.14-05.09.38:862][543]LogTemp: Display: ParseSettings for IpNetDriver_2
+[2019.03.14-05.09.38:862][543]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.03.14-05.09.38:862][543]LogInit: WinSock: Socket queue 131072 / 131072
+[2019.03.14-05.09.38:863][543]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.03.14-05.09.38:863][543]LogNet: GameNetDriver IpNetDriver_2 IpNetDriver listening on port 7777
+[2019.03.14-05.09.38:885][543]PIE: Play in editor start time for /Game/Creations/Maps/UEDPIE_0_MainMenu 2.784
+[2019.03.14-05.09.38:886][543]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Creations/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Creations/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Creations/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Creations/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.03.14-05.09.39:074][543]LogRenderer: Reallocating scene render targets to support 1292x756 Format 10 NumSamples 1 (Frame:1).
+[2019.03.14-05.09.44:985][679]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'SelectedAbilities' of length 0 in '/Game/Creations/Other/testTwinstickPawn.testTwinstickPawn_C'!
+[2019.03.14-05.09.44:986][679]LogScript: Warning: Accessed None trying to read Class from property CallFunc_Array_Get_Item
+	testTwinstickPawn_C /Game/Creations/Maps/UEDPIE_0_MainMenu.MainMenu:PersistentLevel.testTwinstickPawn_C_0
+	Function /Game/Creations/Other/testTwinstickPawn.testTwinstickPawn_C:FireShot:015D
+[2019.03.14-05.09.44:986][679]PIE: Error: Blueprint Runtime Error: Accessed None trying to read Class from property CallFunc_Array_Get_Item from function: 'FireShot' from node: Branch in graph: FireShot in object: testTwinstickPawn with description: Accessed None trying to read Class from property CallFunc_Array_Get_Item
+[2019.03.14-05.09.45:015][680]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'SelectedAbilities' of length 0 in '/Game/Creations/Other/testTwinstickPawn.testTwinstickPawn_C'!
+[2019.03.14-05.09.45:015][680]LogScript: Warning: Accessed None trying to read Class from property CallFunc_Array_Get_Item
+	testTwinstickPawn_C /Game/Creations/Maps/UEDPIE_0_MainMenu.MainMenu:PersistentLevel.testTwinstickPawn_C_0
+	Function /Game/Creations/Other/testTwinstickPawn.testTwinstickPawn_C:FireShot:015D
+[2019.03.14-05.09.45:015][680]PIE: Error: Blueprint Runtime Error: Accessed None trying to read Class from property CallFunc_Array_Get_Item from function: 'FireShot' from node: Branch in graph: FireShot in object: testTwinstickPawn with description: Accessed None trying to read Class from property CallFunc_Array_Get_Item
+[2019.03.14-05.09.45:043][681]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'SelectedAbilities' of length 0 in '/Game/Creations/Other/testTwinstickPawn.testTwinstickPawn_C'!
+[2019.03.14-05.09.45:043][681]LogScript: Warning: Accessed None trying to read Class from property CallFunc_Array_Get_Item
+	testTwinstickPawn_C /Game/Creations/Maps/UEDPIE_0_MainMenu.MainMenu:PersistentLevel.testTwinstickPawn_C_0
+	Function /Game/Creations/Other/testTwinstickPawn.testTwinstickPawn_C:FireShot:015D
+[2019.03.14-05.09.45:043][681]PIE: Error: Blueprint Runtime Error: Accessed None trying to read Class from property CallFunc_Array_Get_Item from function: 'FireShot' from node: Branch in graph: FireShot in object: testTwinstickPawn with description: Accessed None trying to read Class from property CallFunc_Array_Get_Item
+[2019.03.14-05.09.45:066][682]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'SelectedAbilities' of length 0 in '/Game/Creations/Other/testTwinstickPawn.testTwinstickPawn_C'!
+[2019.03.14-05.09.45:066][682]LogScript: Warning: Accessed None trying to read Class from property CallFunc_Array_Get_Item
+	testTwinstickPawn_C /Game/Creations/Maps/UEDPIE_0_MainMenu.MainMenu:PersistentLevel.testTwinstickPawn_C_0
+	Function /Game/Creations/Other/testTwinstickPawn.testTwinstickPawn_C:FireShot:015D
+[2019.03.14-05.09.45:066][682]PIE: Error: Blueprint Runtime Error: Accessed None trying to read Class from property CallFunc_Array_Get_Item from function: 'FireShot' from node: Branch in graph: FireShot in object: testTwinstickPawn with description: Accessed None trying to read Class from property CallFunc_Array_Get_Item
+[2019.03.14-05.09.46:117][719]LogBlueprintUserMessages: [MainInstance_C_1] Server: Starting session
+[2019.03.14-05.09.46:125][719]LogNet: Browse: /Game/Creations/Maps/MultiplayerLobby?listen
+[2019.03.14-05.09.46:145][719]LogLoad: LoadMap: /Game/Creations/Maps/MultiplayerLobby?listen
+[2019.03.14-05.09.46:145][719]LogNet: World NetDriver shutdown IpNetDriver_2 [GameNetDriver]
+[2019.03.14-05.09.46:145][719]LogNet: DestroyNamedNetDriver IpNetDriver_2 [GameNetDriver]
+[2019.03.14-05.09.46:145][719]LogExit: GameNetDriver IpNetDriver_2 shut down
+[2019.03.14-05.09.46:410][719]LogAIModule: Creating AISystem for world MultiplayerLobby
+[2019.03.14-05.09.46:411][719]LogLoad: Game class is 'MainGm_C'
+[2019.03.14-05.09.46:411][719]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.03.14-05.09.46:411][719]LogTemp: Display: ParseSettings for IpNetDriver_3
+[2019.03.14-05.09.46:411][719]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.03.14-05.09.46:412][719]LogInit: WinSock: Socket queue 131072 / 131072
+[2019.03.14-05.09.46:413][719]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.03.14-05.09.46:413][719]LogNet: GameNetDriver IpNetDriver_3 IpNetDriver listening on port 7777
+[2019.03.14-05.09.46:415][719]LogWorld: Bringing World /Game/Creations/Maps/UEDPIE_0_MultiplayerLobby.MultiplayerLobby up for play (max tick rate 60) at 2019.03.13-22.09.46
+[2019.03.14-05.09.46:416][719]LogWorld: Bringing up level for play took: 0.001952
+[2019.03.14-05.09.46:417][719]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.03.14-05.09.46:421][719]LogLoad: Took 0.276465 seconds to LoadMap(/Game/Creations/Maps/MultiplayerLobby)
+[2019.03.14-05.09.47:540][757]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'SelectedAbilities' of length 0 in '/Game/Creations/Other/testTwinstickPawn.testTwinstickPawn_C'!
+[2019.03.14-05.09.47:540][757]PIE: Error: Blueprint Runtime Error: Accessed None trying to read Class from property CallFunc_Array_Get_Item from function: 'FireShot' from node: Branch in graph: FireShot in object: testTwinstickPawn with description: Accessed None trying to read Class from property CallFunc_Array_Get_Item
+[2019.03.14-05.09.47:560][758]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'SelectedAbilities' of length 0 in '/Game/Creations/Other/testTwinstickPawn.testTwinstickPawn_C'!
+[2019.03.14-05.09.47:560][758]PIE: Error: Blueprint Runtime Error: Accessed None trying to read Class from property CallFunc_Array_Get_Item from function: 'FireShot' from node: Branch in graph: FireShot in object: testTwinstickPawn with description: Accessed None trying to read Class from property CallFunc_Array_Get_Item
+[2019.03.14-05.09.47:581][759]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'SelectedAbilities' of length 0 in '/Game/Creations/Other/testTwinstickPawn.testTwinstickPawn_C'!
+[2019.03.14-05.09.47:582][759]PIE: Error: Blueprint Runtime Error: Accessed None trying to read Class from property CallFunc_Array_Get_Item from function: 'FireShot' from node: Branch in graph: FireShot in object: testTwinstickPawn with description: Accessed None trying to read Class from property CallFunc_Array_Get_Item
+[2019.03.14-05.09.47:680][763]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'SelectedAbilities' of length 0 in '/Game/Creations/Other/testTwinstickPawn.testTwinstickPawn_C'!
+[2019.03.14-05.09.47:680][763]PIE: Error: Blueprint Runtime Error: Accessed None trying to read Class from property CallFunc_Array_Get_Item from function: 'FireShot' from node: Branch in graph: FireShot in object: testTwinstickPawn with description: Accessed None trying to read Class from property CallFunc_Array_Get_Item
+[2019.03.14-05.09.47:708][764]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'SelectedAbilities' of length 0 in '/Game/Creations/Other/testTwinstickPawn.testTwinstickPawn_C'!
+[2019.03.14-05.09.47:708][764]PIE: Error: Blueprint Runtime Error: Accessed None trying to read Class from property CallFunc_Array_Get_Item from function: 'FireShot' from node: Branch in graph: FireShot in object: testTwinstickPawn with description: Accessed None trying to read Class from property CallFunc_Array_Get_Item
+[2019.03.14-05.09.47:731][765]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'SelectedAbilities' of length 0 in '/Game/Creations/Other/testTwinstickPawn.testTwinstickPawn_C'!
+[2019.03.14-05.09.47:731][765]PIE: Error: Blueprint Runtime Error: Accessed None trying to read Class from property CallFunc_Array_Get_Item from function: 'FireShot' from node: Branch in graph: FireShot in object: testTwinstickPawn with description: Accessed None trying to read Class from property CallFunc_Array_Get_Item
+[2019.03.14-05.09.48:031][777]Cmd: servertravel TestMap
+[2019.03.14-05.09.48:955][777]LogPackageName: SearchForPackageOnDisk took   0.923s to resolve TestMap.
+[2019.03.14-05.09.48:955][777]LogGameMode: Warning: CanServerTravel: Seamless travel currently NOT supported in single process PIE.
+[2019.03.14-05.09.48:956][777]Cmd: servertravel TestMap
+[2019.03.14-05.09.49:876][777]LogPackageName: SearchForPackageOnDisk took   0.920s to resolve TestMap.
+[2019.03.14-05.09.49:876][777]LogGameMode: Warning: CanServerTravel: Seamless travel currently NOT supported in single process PIE.
+[2019.03.14-05.09.54:197][949]Cmd: servertravel TestMap
+[2019.03.14-05.09.55:076][949]LogPackageName: SearchForPackageOnDisk took   0.879s to resolve TestMap.
+[2019.03.14-05.09.55:076][949]LogGameMode: Warning: CanServerTravel: Seamless travel currently NOT supported in single process PIE.
+[2019.03.14-05.09.55:587][971]Cmd: servertravel TestMap
+[2019.03.14-05.09.56:507][971]LogPackageName: SearchForPackageOnDisk took   0.920s to resolve TestMap.
+[2019.03.14-05.09.56:507][971]LogGameMode: Warning: CanServerTravel: Seamless travel currently NOT supported in single process PIE.
+[2019.03.14-05.09.56:508][971]Cmd: servertravel TestMap
+[2019.03.14-05.09.57:400][971]LogPackageName: SearchForPackageOnDisk took   0.892s to resolve TestMap.
+[2019.03.14-05.09.57:400][971]LogGameMode: Warning: CanServerTravel: Seamless travel currently NOT supported in single process PIE.
+[2019.03.14-05.09.57:401][971]Cmd: servertravel TestMap
+[2019.03.14-05.09.58:351][971]LogPackageName: SearchForPackageOnDisk took   0.950s to resolve TestMap.
+[2019.03.14-05.09.58:351][971]LogGameMode: Warning: CanServerTravel: Seamless travel currently NOT supported in single process PIE.
+[2019.03.14-05.09.58:351][971]Cmd: servertravel TestMap
+[2019.03.14-05.09.59:262][971]LogPackageName: SearchForPackageOnDisk took   0.910s to resolve TestMap.
+[2019.03.14-05.09.59:263][971]LogGameMode: Warning: CanServerTravel: Seamless travel currently NOT supported in single process PIE.
+[2019.03.14-05.09.59:264][971]Cmd: servertravel TestMap
+[2019.03.14-05.10.00:176][971]LogPackageName: SearchForPackageOnDisk took   0.913s to resolve TestMap.
+[2019.03.14-05.10.00:176][971]LogGameMode: Warning: CanServerTravel: Seamless travel currently NOT supported in single process PIE.
+[2019.03.14-05.10.00:177][971]Cmd: servertravel TestMap
+[2019.03.14-05.10.01:069][971]LogPackageName: SearchForPackageOnDisk took   0.891s to resolve TestMap.
+[2019.03.14-05.10.01:069][971]LogGameMode: Warning: CanServerTravel: Seamless travel currently NOT supported in single process PIE.
+[2019.03.14-05.10.01:070][971]Cmd: servertravel TestMap
+[2019.03.14-05.10.02:295][971]LogPackageName: SearchForPackageOnDisk took   1.226s to resolve TestMap.
+[2019.03.14-05.10.02:295][971]LogGameMode: Warning: CanServerTravel: Seamless travel currently NOT supported in single process PIE.
+[2019.03.14-05.10.02:296][971]Cmd: servertravel TestMap
+[2019.03.14-05.10.03:198][971]LogPackageName: SearchForPackageOnDisk took   0.901s to resolve TestMap.
+[2019.03.14-05.10.03:198][971]LogGameMode: Warning: CanServerTravel: Seamless travel currently NOT supported in single process PIE.
+[2019.03.14-05.10.03:198][971]Cmd: servertravel TestMap
+[2019.03.14-05.10.04:056][971]LogPackageName: SearchForPackageOnDisk took   0.858s to resolve TestMap.
+[2019.03.14-05.10.04:057][971]LogGameMode: Warning: CanServerTravel: Seamless travel currently NOT supported in single process PIE.
+[2019.03.14-05.10.04:057][971]Cmd: servertravel TestMap
+[2019.03.14-05.10.04:937][971]LogPackageName: SearchForPackageOnDisk took   0.879s to resolve TestMap.
+[2019.03.14-05.10.04:937][971]LogGameMode: Warning: CanServerTravel: Seamless travel currently NOT supported in single process PIE.
+[2019.03.14-05.10.04:938][971]Cmd: servertravel TestMap
+[2019.03.14-05.10.05:908][971]LogPackageName: SearchForPackageOnDisk took   0.970s to resolve TestMap.
+[2019.03.14-05.10.05:908][971]LogGameMode: Warning: CanServerTravel: Seamless travel currently NOT supported in single process PIE.
+[2019.03.14-05.10.05:918][971]LogNet: UNetDriver::TickDispatch: Very long time between ticks. DeltaTime: 0.03, Realtime: 10.36. IpNetDriver_3
+[2019.03.14-05.10.05:939][972]LogNet: UNetDriver::TickDispatch: Very long time between ticks. DeltaTime: 10.35, Realtime: 0.02. IpNetDriver_3
+[2019.03.14-05.10.07:784][980]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Creations/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Creations/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Creations/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Creations/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.03.14-05.10.07:826][980]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2019.03.14-05.10.07:826][980]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2019.03.14-05.10.07:827][980]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2019.03.14-05.10.07:827][980]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2019.03.14-05.10.07:827][980]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.14-05.10.07:828][980]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Creations/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Creations/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Creations/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Creations/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.03.14-05.10.07:886][980]LogExit: GameNetDriver None shut down
+[2019.03.14-05.10.08:027][981]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2019.03.14-05.10.08:027][981]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2019.03.14-05.10.14:158][223]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.03.14-05.10.14:246][223]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Creations/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Creations/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Creations/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Creations/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.03.14-05.10.14:246][223]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.14-05.10.14:247][223]PIE: New page: PIE session: MainMenu (Mar 13, 2019, 3:10:14 PM)
+[2019.03.14-05.10.16:382][223]LogPlayLevel: Creating play world package: /Game/Creations/Maps/UEDPIE_0_MainMenu
+[2019.03.14-05.10.16:384][223]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001099s)
+[2019.03.14-05.10.16:384][223]LogAIModule: Creating AISystem for world MainMenu
+[2019.03.14-05.10.16:384][223]LogPlayLevel: PIE: World Init took: (0.000737s)
+[2019.03.14-05.10.16:385][223]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Creations/Maps/MainMenu.MainMenu to /Game/Creations/Maps/UEDPIE_0_MainMenu.MainMenu (0.002265s)
+[2019.03.14-05.10.16:472][223]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.03.14-05.10.16:631][223]LogInit: FAudioDevice initialized.
+[2019.03.14-05.10.16:709][223]LogLoad: Game class is 'MainGm_C'
+[2019.03.14-05.10.16:711][223]LogWorld: Bringing World /Game/Creations/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2019.03.13-22.10.16
+[2019.03.14-05.10.16:712][223]LogWorld: Bringing up level for play took: 0.001684
+[2019.03.14-05.10.16:728][223]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.03.14-05.10.16:728][223]LogTemp: Display: ParseSettings for IpNetDriver_4
+[2019.03.14-05.10.16:728][223]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.03.14-05.10.16:729][223]LogInit: WinSock: Socket queue 131072 / 131072
+[2019.03.14-05.10.16:730][223]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.03.14-05.10.16:730][223]LogNet: GameNetDriver IpNetDriver_4 IpNetDriver listening on port 7777
+[2019.03.14-05.10.16:752][223]PIE: Play in editor start time for /Game/Creations/Maps/UEDPIE_0_MainMenu 2.652
+[2019.03.14-05.10.16:753][223]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Creations/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Creations/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Creations/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Creations/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.03.14-05.10.19:805][321]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'SelectedAbilities' of length 0 in '/Game/Creations/Other/testTwinstickPawn.testTwinstickPawn_C'!
+[2019.03.14-05.10.19:805][321]PIE: Error: Blueprint Runtime Error: Accessed None trying to read Class from property CallFunc_Array_Get_Item from function: 'FireShot' from node: Branch in graph: FireShot in object: testTwinstickPawn with description: Accessed None trying to read Class from property CallFunc_Array_Get_Item
+[2019.03.14-05.10.19:822][322]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'SelectedAbilities' of length 0 in '/Game/Creations/Other/testTwinstickPawn.testTwinstickPawn_C'!
+[2019.03.14-05.10.19:823][322]PIE: Error: Blueprint Runtime Error: Accessed None trying to read Class from property CallFunc_Array_Get_Item from function: 'FireShot' from node: Branch in graph: FireShot in object: testTwinstickPawn with description: Accessed None trying to read Class from property CallFunc_Array_Get_Item
+[2019.03.14-05.10.19:839][323]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'SelectedAbilities' of length 0 in '/Game/Creations/Other/testTwinstickPawn.testTwinstickPawn_C'!
+[2019.03.14-05.10.19:839][323]PIE: Error: Blueprint Runtime Error: Accessed None trying to read Class from property CallFunc_Array_Get_Item from function: 'FireShot' from node: Branch in graph: FireShot in object: testTwinstickPawn with description: Accessed None trying to read Class from property CallFunc_Array_Get_Item
+[2019.03.14-05.10.19:860][324]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'SelectedAbilities' of length 0 in '/Game/Creations/Other/testTwinstickPawn.testTwinstickPawn_C'!
+[2019.03.14-05.10.19:861][324]PIE: Error: Blueprint Runtime Error: Accessed None trying to read Class from property CallFunc_Array_Get_Item from function: 'FireShot' from node: Branch in graph: FireShot in object: testTwinstickPawn with description: Accessed None trying to read Class from property CallFunc_Array_Get_Item
+[2019.03.14-05.10.19:881][325]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'SelectedAbilities' of length 0 in '/Game/Creations/Other/testTwinstickPawn.testTwinstickPawn_C'!
+[2019.03.14-05.10.19:881][325]PIE: Error: Blueprint Runtime Error: Accessed None trying to read Class from property CallFunc_Array_Get_Item from function: 'FireShot' from node: Branch in graph: FireShot in object: testTwinstickPawn with description: Accessed None trying to read Class from property CallFunc_Array_Get_Item
+[2019.03.14-05.10.20:254][340]LogBlueprintUserMessages: [MainInstance_C_2] Server: Starting session
+[2019.03.14-05.10.20:261][340]LogNet: Browse: /Game/Creations/Maps/MultiplayerLobby?listen
+[2019.03.14-05.10.20:274][340]LogLoad: LoadMap: /Game/Creations/Maps/MultiplayerLobby?listen
+[2019.03.14-05.10.20:274][340]LogNet: World NetDriver shutdown IpNetDriver_4 [GameNetDriver]
+[2019.03.14-05.10.20:274][340]LogNet: DestroyNamedNetDriver IpNetDriver_4 [GameNetDriver]
+[2019.03.14-05.10.20:275][340]LogExit: GameNetDriver IpNetDriver_4 shut down
+[2019.03.14-05.10.20:506][340]LogAIModule: Creating AISystem for world MultiplayerLobby
+[2019.03.14-05.10.20:507][340]LogLoad: Game class is 'MainGm_C'
+[2019.03.14-05.10.20:507][340]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.03.14-05.10.20:507][340]LogTemp: Display: ParseSettings for IpNetDriver_5
+[2019.03.14-05.10.20:507][340]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.03.14-05.10.20:507][340]LogInit: WinSock: Socket queue 131072 / 131072
+[2019.03.14-05.10.20:508][340]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.03.14-05.10.20:508][340]LogNet: GameNetDriver IpNetDriver_5 IpNetDriver listening on port 7777
+[2019.03.14-05.10.20:511][340]LogWorld: Bringing World /Game/Creations/Maps/UEDPIE_0_MultiplayerLobby.MultiplayerLobby up for play (max tick rate 60) at 2019.03.13-22.10.20
+[2019.03.14-05.10.20:511][340]LogWorld: Bringing up level for play took: 0.001967
+[2019.03.14-05.10.20:512][340]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.03.14-05.10.20:519][340]LogLoad: Took 0.245574 seconds to LoadMap(/Game/Creations/Maps/MultiplayerLobby)
+[2019.03.14-05.10.21:616][379]Cmd: servertravel TestMap
+[2019.03.14-05.10.22:628][379]LogPackageName: SearchForPackageOnDisk took   1.012s to resolve TestMap.
+[2019.03.14-05.10.22:628][379]LogGameMode: Warning: CanServerTravel: Seamless travel currently NOT supported in single process PIE.
+[2019.03.14-05.10.30:284][531]LogNet: Browse: /Game/Creations/Maps/MainMenu
+[2019.03.14-05.10.30:300][531]LogLoad: LoadMap: /Game/Creations/Maps/MainMenu
+[2019.03.14-05.10.30:301][531]LogNet: World NetDriver shutdown IpNetDriver_5 [GameNetDriver]
+[2019.03.14-05.10.30:301][531]LogNet: DestroyNamedNetDriver IpNetDriver_5 [GameNetDriver]
+[2019.03.14-05.10.30:301][531]LogExit: GameNetDriver IpNetDriver_5 shut down
+[2019.03.14-05.10.30:353][531]LogPlayLevel: Creating play world package: /Game/Creations/Maps/UEDPIE_0_MainMenu
+[2019.03.14-05.10.30:355][531]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002252s)
+[2019.03.14-05.10.30:356][531]LogAIModule: Creating AISystem for world MainMenu
+[2019.03.14-05.10.30:356][531]LogPlayLevel: PIE: World Init took: (0.001163s)
+[2019.03.14-05.10.30:357][531]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Creations/Maps/MainMenu.MainMenu to /Game/Creations/Maps/UEDPIE_0_MainMenu.MainMenu (0.004127s)
+[2019.03.14-05.10.30:357][531]LogLoad: Game class is 'MainGm_C'
+[2019.03.14-05.10.30:359][531]LogWorld: Bringing World /Game/Creations/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2019.03.13-22.10.30
+[2019.03.14-05.10.30:359][531]LogWorld: Bringing up level for play took: 0.000921
+[2019.03.14-05.10.30:359][531]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.03.14-05.10.30:364][531]LogLoad: Took 0.063894 seconds to LoadMap(/Game/Creations/Maps/UEDPIE_0_MainMenu)
+[2019.03.14-05.10.38:293][808]LogOnline: Warning: OSS: Ignoring game search request while one is pending
+[2019.03.14-05.10.41:626][925]LogBlueprintUserMessages: [MainInstance_C_2] Server: Starting session
+[2019.03.14-05.10.41:630][925]LogNet: Browse: /Game/Creations/Maps/MultiplayerLobby?listen
+[2019.03.14-05.10.41:646][925]LogLoad: LoadMap: /Game/Creations/Maps/MultiplayerLobby?listen
+[2019.03.14-05.10.44:950][925]LogAIModule: Creating AISystem for world MultiplayerLobby
+[2019.03.14-05.10.44:951][925]LogLoad: Game class is 'MainGm_C'
+[2019.03.14-05.10.44:951][925]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.03.14-05.10.44:951][925]LogTemp: Display: ParseSettings for IpNetDriver_6
+[2019.03.14-05.10.44:952][925]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.03.14-05.10.44:952][925]LogInit: WinSock: Socket queue 131072 / 131072
+[2019.03.14-05.10.44:954][925]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.03.14-05.10.44:954][925]LogNet: GameNetDriver IpNetDriver_6 IpNetDriver listening on port 7777
+[2019.03.14-05.10.44:956][925]LogWorld: Bringing World /Game/Creations/Maps/UEDPIE_0_MultiplayerLobby.MultiplayerLobby up for play (max tick rate 60) at 2019.03.13-22.10.44
+[2019.03.14-05.10.44:956][925]LogWorld: Bringing up level for play took: 0.001437
+[2019.03.14-05.10.44:957][925]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.03.14-05.10.44:961][925]LogLoad: Took 3.315284 seconds to LoadMap(/Game/Creations/Maps/MultiplayerLobby)
+[2019.03.14-05.10.45:042][927]LogScriptCore: Warning: Script Msg: FindSessionsCallback - Invalid player state
+[2019.03.14-05.10.45:042][927]LogScriptCore: Warning: Script Msg: FindSessionsCallback - Invalid player state
+[2019.03.14-05.10.45:051][927]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'SelectedAbilities' of length 0 in '/Game/Creations/Other/testTwinstickPawn.testTwinstickPawn_C'!
+[2019.03.14-05.10.45:051][927]PIE: Error: Blueprint Runtime Error: Accessed None trying to read Class from property CallFunc_Array_Get_Item from function: 'FireShot' from node: Branch in graph: FireShot in object: testTwinstickPawn with description: Accessed None trying to read Class from property CallFunc_Array_Get_Item
+[2019.03.14-05.10.45:078][928]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'SelectedAbilities' of length 0 in '/Game/Creations/Other/testTwinstickPawn.testTwinstickPawn_C'!
+[2019.03.14-05.10.45:079][928]PIE: Error: Blueprint Runtime Error: Accessed None trying to read Class from property CallFunc_Array_Get_Item from function: 'FireShot' from node: Branch in graph: FireShot in object: testTwinstickPawn with description: Accessed None trying to read Class from property CallFunc_Array_Get_Item
+[2019.03.14-05.10.45:106][929]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'SelectedAbilities' of length 0 in '/Game/Creations/Other/testTwinstickPawn.testTwinstickPawn_C'!
+[2019.03.14-05.10.45:106][929]PIE: Error: Blueprint Runtime Error: Accessed None trying to read Class from property CallFunc_Array_Get_Item from function: 'FireShot' from node: Branch in graph: FireShot in object: testTwinstickPawn with description: Accessed None trying to read Class from property CallFunc_Array_Get_Item
+[2019.03.14-05.10.45:134][930]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'SelectedAbilities' of length 0 in '/Game/Creations/Other/testTwinstickPawn.testTwinstickPawn_C'!
+[2019.03.14-05.10.45:135][930]PIE: Error: Blueprint Runtime Error: Accessed None trying to read Class from property CallFunc_Array_Get_Item from function: 'FireShot' from node: Branch in graph: FireShot in object: testTwinstickPawn with description: Accessed None trying to read Class from property CallFunc_Array_Get_Item
+[2019.03.14-05.10.45:161][931]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'SelectedAbilities' of length 0 in '/Game/Creations/Other/testTwinstickPawn.testTwinstickPawn_C'!
+[2019.03.14-05.10.45:161][931]PIE: Error: Blueprint Runtime Error: Accessed None trying to read Class from property CallFunc_Array_Get_Item from function: 'FireShot' from node: Branch in graph: FireShot in object: testTwinstickPawn with description: Accessed None trying to read Class from property CallFunc_Array_Get_Item
+[2019.03.14-05.10.45:196][932]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'SelectedAbilities' of length 0 in '/Game/Creations/Other/testTwinstickPawn.testTwinstickPawn_C'!
+[2019.03.14-05.10.45:196][932]PIE: Error: Blueprint Runtime Error: Accessed None trying to read Class from property CallFunc_Array_Get_Item from function: 'FireShot' from node: Branch in graph: FireShot in object: testTwinstickPawn with description: Accessed None trying to read Class from property CallFunc_Array_Get_Item
+[2019.03.14-05.10.45:988][958]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'SelectedAbilities' of length 0 in '/Game/Creations/Other/testTwinstickPawn.testTwinstickPawn_C'!
+[2019.03.14-05.10.45:988][958]PIE: Error: Blueprint Runtime Error: Accessed None trying to read Class from property CallFunc_Array_Get_Item from function: 'FireShot' from node: Branch in graph: FireShot in object: testTwinstickPawn with description: Accessed None trying to read Class from property CallFunc_Array_Get_Item
+[2019.03.14-05.10.46:070][959]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'SelectedAbilities' of length 0 in '/Game/Creations/Other/testTwinstickPawn.testTwinstickPawn_C'!
+[2019.03.14-05.10.46:070][959]PIE: Error: Blueprint Runtime Error: Accessed None trying to read Class from property CallFunc_Array_Get_Item from function: 'FireShot' from node: Branch in graph: FireShot in object: testTwinstickPawn with description: Accessed None trying to read Class from property CallFunc_Array_Get_Item
+[2019.03.14-05.10.46:089][960]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'SelectedAbilities' of length 0 in '/Game/Creations/Other/testTwinstickPawn.testTwinstickPawn_C'!
+[2019.03.14-05.10.46:090][960]PIE: Error: Blueprint Runtime Error: Accessed None trying to read Class from property CallFunc_Array_Get_Item from function: 'FireShot' from node: Branch in graph: FireShot in object: testTwinstickPawn with description: Accessed None trying to read Class from property CallFunc_Array_Get_Item
+[2019.03.14-05.10.46:448][973]Cmd: servertravel TestMap
+[2019.03.14-05.10.47:452][973]LogPackageName: SearchForPackageOnDisk took   1.004s to resolve TestMap.
+[2019.03.14-05.10.47:452][973]LogGameMode: Warning: CanServerTravel: Seamless travel currently NOT supported in single process PIE.
+[2019.03.14-05.10.48:549][ 11]Cmd: servertravel TestMap
+[2019.03.14-05.10.49:557][ 11]LogPackageName: SearchForPackageOnDisk took   1.009s to resolve TestMap.
+[2019.03.14-05.10.49:557][ 11]LogGameMode: Warning: CanServerTravel: Seamless travel currently NOT supported in single process PIE.
+[2019.03.14-05.10.51:181][ 70]Cmd: servertravel TestMap
+[2019.03.14-05.10.52:193][ 70]LogPackageName: SearchForPackageOnDisk took   1.012s to resolve TestMap.
+[2019.03.14-05.10.52:193][ 70]LogGameMode: Warning: CanServerTravel: Seamless travel currently NOT supported in single process PIE.
+[2019.03.14-05.10.53:169][102]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Creations/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Creations/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Creations/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Creations/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.03.14-05.10.53:210][102]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2019.03.14-05.10.53:210][102]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2019.03.14-05.10.53:211][102]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2019.03.14-05.10.53:211][102]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2019.03.14-05.10.53:211][102]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.14-05.10.53:212][102]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Creations/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Creations/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Creations/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Creations/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.03.14-05.10.53:272][102]LogExit: GameNetDriver None shut down
+[2019.03.14-05.10.53:351][103]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2019.03.14-05.10.53:351][103]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2019.03.14-05.19.52:860][533]LogSavePackage: Save=1067.04ms
+[2019.03.14-05.19.52:860][533]LogSavePackage: Moving '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Saved/WeaponSelect56F07144467E364F70C61090504EF258.tmp' to '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Creations/Widgets/WeaponSelect.uasset'
+[2019.03.14-05.19.52:869][533]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Creations/Widgets/WeaponSelect.uasset', retrying in .5s...
+[2019.03.14-05.19.53:370][533]LogFileManager: Error: Error deleting file '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Creations/Widgets/WeaponSelect.uasset'.
+[2019.03.14-05.19.53:370][533]LogSavePackage: Error: Error saving '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Creations/Widgets/WeaponSelect.uasset'
+[2019.03.14-05.19.53:375][533]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Creations/Widgets/WeaponSelect.uasset
+[2019.03.14-05.19.59:893][533]LogSavePackage: Save=986.90ms
+[2019.03.14-05.19.59:894][533]LogSavePackage: Moving '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Saved/WeaponSelectD6F0287A468176D34D6E969EF00DF556.tmp' to '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Creations/Widgets/WeaponSelect.uasset'
+[2019.03.14-05.19.59:904][533]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Creations/Widgets/WeaponSelect.uasset', retrying in .5s...
+[2019.03.14-05.20.00:405][533]LogFileManager: Error: Error deleting file '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Creations/Widgets/WeaponSelect.uasset'.
+[2019.03.14-05.20.00:406][533]LogSavePackage: Error: Error saving '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Creations/Widgets/WeaponSelect.uasset'
+[2019.03.14-05.20.00:409][533]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Creations/Widgets/WeaponSelect.uasset
+[2019.03.14-05.20.04:119][533]EditorErrors: New page: Save Output
+[2019.03.14-05.20.04:119][533]EditorErrors: Warning: Error saving '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Creations/Widgets/WeaponSelect.uasset'
+[2019.03.14-05.20.04:120][533]EditorErrors: Warning: Error saving '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Creations/Widgets/WeaponSelect.uasset'
+[2019.03.14-05.20.20:745][746]LogSavePackage: Save=850.50ms
+[2019.03.14-05.20.20:745][746]LogSavePackage: Moving '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Saved/WeaponSelectF2C10F824DB6AC3BB2AB079CF705404E.tmp' to '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Creations/Widgets/WeaponSelect.uasset'
+[2019.03.14-05.20.20:754][746]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Creations/Widgets/WeaponSelect.uasset', retrying in .5s...
+[2019.03.14-05.20.21:255][746]LogFileManager: Error: Error deleting file '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Creations/Widgets/WeaponSelect.uasset'.
+[2019.03.14-05.20.21:256][746]LogSavePackage: Error: Error saving '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Creations/Widgets/WeaponSelect.uasset'
+[2019.03.14-05.20.21:260][746]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Creations/Widgets/WeaponSelect.uasset
+[2019.03.14-05.20.26:376][746]EditorErrors: New page: Save Output
+[2019.03.14-05.20.26:376][746]EditorErrors: Warning: Error saving '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Creations/Widgets/WeaponSelect.uasset'
+[2019.03.14-05.20.53:213][157]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.03.14-05.20.58:118][217]BlueprintLog: New page: Compile WeaponSelect
+[2019.03.14-05.21.03:020][293]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.03.14-05.21.07:295][320]LogSavePackage: Save=883.34ms
+[2019.03.14-05.21.07:295][320]LogSavePackage: Moving '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Saved/WeaponSelectB62235A24A58C17AE71D5E892699EB7E.tmp' to '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Creations/Widgets/WeaponSelect.uasset'
+[2019.03.14-05.21.07:303][320]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Creations/Widgets/WeaponSelect.uasset', retrying in .5s...
+[2019.03.14-05.21.07:805][320]LogFileManager: Error: Error deleting file '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Creations/Widgets/WeaponSelect.uasset'.
+[2019.03.14-05.21.07:805][320]LogSavePackage: Error: Error saving '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Creations/Widgets/WeaponSelect.uasset'
+[2019.03.14-05.21.07:809][320]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Creations/Widgets/WeaponSelect.uasset
+[2019.03.14-05.21.16:274][320]LogSavePackage: Save=793.91ms
+[2019.03.14-05.21.16:275][320]LogSavePackage: Moving '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Saved/WeaponSelect8057EA9048A4B080DCB06EB06344A099.tmp' to '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Creations/Widgets/WeaponSelect.uasset'
+[2019.03.14-05.21.16:282][320]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Creations/Widgets/WeaponSelect.uasset', retrying in .5s...
+[2019.03.14-05.21.16:783][320]LogFileManager: Error: Error deleting file '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Creations/Widgets/WeaponSelect.uasset'.
+[2019.03.14-05.21.16:783][320]LogSavePackage: Error: Error saving '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Creations/Widgets/WeaponSelect.uasset'
+[2019.03.14-05.21.16:787][320]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Creations/Widgets/WeaponSelect.uasset
+[2019.03.14-05.21.22:462][320]LogSavePackage: Save=838.24ms
+[2019.03.14-05.21.22:462][320]LogSavePackage: Moving '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Saved/WeaponSelect3329615D4A64294EBE790398571EA9B7.tmp' to '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Creations/Widgets/WeaponSelect.uasset'
+[2019.03.14-05.21.22:470][320]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Creations/Widgets/WeaponSelect.uasset', retrying in .5s...
+[2019.03.14-05.21.22:973][320]LogFileManager: Error: Error deleting file '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Creations/Widgets/WeaponSelect.uasset'.
+[2019.03.14-05.21.22:973][320]LogSavePackage: Error: Error saving '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Creations/Widgets/WeaponSelect.uasset'
+[2019.03.14-05.21.22:980][320]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Creations/Widgets/WeaponSelect.uasset
+[2019.03.14-05.21.29:983][320]LogSavePackage: Save=810.14ms
+[2019.03.14-05.21.29:983][320]LogSavePackage: Moving '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Saved/WeaponSelect3C382B234EACD2632E572BA8C74F5779.tmp' to '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Creations/Widgets/WeaponSelect.uasset'
+[2019.03.14-05.21.30:009][320]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Creations/Widgets/WeaponSelect.uasset
+[2019.03.14-05.21.30:016][320]EditorErrors: New page: Save Output
+[2019.03.14-05.21.30:017][320]EditorErrors: Warning: Error saving '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Creations/Widgets/WeaponSelect.uasset'
+[2019.03.14-05.21.30:017][320]EditorErrors: Warning: Error saving '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Creations/Widgets/WeaponSelect.uasset'
+[2019.03.14-05.21.30:017][320]EditorErrors: Warning: Error saving '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Creations/Widgets/WeaponSelect.uasset'

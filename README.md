@@ -12,6 +12,20 @@ Icicle:
 
 	Shard damage increased from 10 to 25.
 
+Added Sniper and Piercer:
+
+Sniper:
+
+	A fast-moving projectile that deals high damage with a very slow fire rate.
+
+	Damage: 90
+
+Piercer:
+
+	Same as sniper but can pierce through walls. Slower fire rate.
+
+	Damage: 80
+
 ## 3/12/19
 
 Added an in-game menu for leaving an in-progress game.
