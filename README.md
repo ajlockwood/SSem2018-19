@@ -1,3 +1,25 @@
+## 3/13/19
+
+Fixed up a few UI elements and incorporated a bit of feedback.
+
+Added a timer UI element so that users can see how long is left in a round.
+
+Increased real-time round duration from 10 seconds to 20 seconds.
+
+Icicle: 
+
+	Damage increased from 35 to 40.
+
+	Shard damage increased from 10 to 25.
+
+## 3/12/19
+
+Added an in-game menu for leaving an in-progress game.
+
+## 3/10/19
+
+Added an additional lobby menu widget that allows the players to tell who is in their lobby.
+
 ## 3/7/19
 
 Successfully hosted a game and connected a user from a different system using the Steam Online Subsystem. There were bugs, but nothing game-breaking. 
