@@ -2,6 +2,8 @@
 
 Fixed a few bugs to do with player character visibility.
 
+Fixed some UI bugs
+
 ## 3/13/19
 
 Fixed up a few UI elements and incorporated a bit of feedback.
