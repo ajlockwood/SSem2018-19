@@ -1,3 +1,30 @@
+## 3/31/19
+
+Added Chicken and Comet.
+
+Comet: 
+
+	Fires a slow-moving comet that spawns slower-moving ice projectiles that move behind it. The result is a cool-looking trail effect that also deals damage. Hits walls hard.
+
+	Damage: 75. Secondary damage: 25
+
+Chicken: 
+	
+	Fires a large, randomly rotating chicken that lays eggs along its path and explodes when it hits something. It's really funny to watch.
+
+	Will add an obnoxious chicken noise on spawn and on death to complete this amazing creation.
+
+	Eggs spawn a new, smaller chicken after 0.5 seconds, which cannot lay its own eggs. These chickens also explode.
+
+	Damage: 90. Chick damage: 30
+
+	No chickens were harmed in the making of this ability.
+
+
+## 3/17/19 - 3/30/19
+
+Took a break. (Finally!)
+
 ## 3/16/19
 
 Fixed a few bugs to do with player character visibility.
