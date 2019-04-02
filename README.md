@@ -1,6 +1,20 @@
+## 4/1/19
+
+Fixed a UI bug.
+
+Fixed a bug that caused the mouse cursor to disappear while the player was firing weapons, effectively not allowing players to rotate their character while firing.
+
+Added ChickenCoop
+
+ChickenCoop:
+
+	Creates a chicken coop that lasts for five seconds, spawning chickens in random directions every 0.3 seconds with a 1 in 7 chance to spawn a large chicken that lays eggs.
+
+	Chickens explode.
+
 ## 3/31/19
 
-Added Chicken and Comet.
+Added Chicken, Comet, and Solar System.
 
 Comet: 
 
@@ -19,6 +33,10 @@ Chicken:
 	Damage: 90. Chick damage: 30
 
 	No chickens were harmed in the making of this ability.
+
+Solar System:
+
+	Creates an area that repeatedly spawns a comet, sun, or four asteroids in random directions every 0.5 seconds.
 
 
 ## 3/17/19 - 3/30/19
