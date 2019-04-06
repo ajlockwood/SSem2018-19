@@ -1,3 +1,7 @@
+## 4/5/19
+
+Fixed a menu bug and, in doing so, created another menu bug. Just a normal day.
+
 ## 4/1/19
 
 Fixed a UI bug.

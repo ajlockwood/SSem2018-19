@@ -1,0 +1,828 @@
+﻿Log file open, 04/05/19 21:53:14
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Illuminate
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-509368421) SRandInit(-509368421).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3794801, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogInit: Warning: Passing commandline switches using / instead of - has been deprecated and will be removed in future versions of Unreal Engine.
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.400342
+LogPluginManager: Warning: Plugin 'AdvancedSessions' exists at '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Plugins/AdvancedSessions/AdvancedSessions.uplugin' and '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Plugins/AdvancedSessions.uplugin' - second location will be ignored
+LogD3D11RHI: Aftermath initialized
+LogInit: Warning: Passing commandline switches using / instead of - has been deprecated and will be removed in future versions of Unreal Engine.
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemSteam/Binaries/Win64/UE4Editor-OnlineSubsystemSteam.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineFramework/Binaries/Win64/UE4Editor-Qos.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineFramework/Binaries/Win64/UE4Editor-Party.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineFramework/Binaries/Win64/UE4Editor-Lobby.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineFramework/Binaries/Win64/UE4Editor-Hotfix.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineFramework/Binaries/Win64/UE4Editor-Rejoin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineFramework/Binaries/Win64/UE4Editor-LoginFlow.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Plugins/AdvancedSessions/Binaries/Win64/UE4Editor-AdvancedSessions.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Plugins/AdvancedSteamSessions/Binaries/Win64/UE4Editor-AdvancedSteamSessions.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineFramework
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemSteam
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin AdvancedSessions
+LogPluginManager: Mounting plugin AdvancedSteamSessions
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogOnline: Display: STEAM: Loading Steam SDK 1.39
+LogOnline: Warning: STEAM: Steam API disabled!
+LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.18-CL-3794801
+LogInit: Engine Version: 4.18.2-3794801+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Dec  8 2017 02:04:53
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  /Game/Creations/Maps/MultiplayerLobby?Listen -game -PIEVIACONSOLE -ResX=1904 -ResY=1041  -Multiprocess -messaging -SessionName="Play in Standalone Game" -port=7777 -windowed GameUserSettingsINI="C:/Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Saved/Config/Windows/PIEGameUserSettings0.ini" -MultiprocessSaveConfig  -MultiprocessOSS WinX=8 WinY=31 SAVEWINPOS=1
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.04.06-04.53.22:090][  0]LogInit: Selected Device Profile: [Windows]
+[2019.04.06-04.53.22:090][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.04.06-04.53.22:098][  0]LogInit: Computer: MSI
+[2019.04.06-04.53.22:098][  0]LogInit: User: Alex
+[2019.04.06-04.53.22:098][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.04.06-04.53.22:098][  0]LogInit: High frequency timer resolution =2.533211 MHz
+[2019.04.06-04.53.22:098][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.04.06-04.53.22:098][  0]LogMemory: Platform Memory Stats for Windows
+[2019.04.06-04.53.22:098][  0]LogMemory: Process Physical Memory: 275.60 MB used, 275.60 MB peak
+[2019.04.06-04.53.22:098][  0]LogMemory: Process Virtual Memory: 277.45 MB used, 277.45 MB peak
+[2019.04.06-04.53.22:098][  0]LogMemory: Physical Memory: 9217.00 MB used,  7056.34 MB free, 16273.34 MB total
+[2019.04.06-04.53.22:098][  0]LogMemory: Virtual Memory: 4791.99 MB used,  7056.34 MB free, 134217728.00 MB total
+[2019.04.06-04.53.24:374][  0]LogInit: Using OS detected language (en-US).
+[2019.04.06-04.53.24:374][  0]LogInit: Using OS detected locale (en-US).
+[2019.04.06-04.53.24:380][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.04.06-04.53.25:536][  0]LogD3D11RHI: D3D11 adapters:
+[2019.04.06-04.53.25:652][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 965M' (Feature Level 11_0)
+[2019.04.06-04.53.25:652][  0]LogD3D11RHI:       2010/0/8136 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.04.06-04.53.25:666][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
+[2019.04.06-04.53.25:666][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.04.06-04.53.25:671][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.04.06-04.53.25:671][  0]LogD3D11RHI:       0/0/8136 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.04.06-04.53.25:671][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.04.06-04.53.25:728][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.04.06-04.53.25:728][  0]LogD3D11RHI:     GPU DeviceId: 0x13d9 (for the marketing name, search the web for "GPU Device Id")
+[2019.04.06-04.53.25:728][  0]LogWindows: EnumDisplayDevices:
+[2019.04.06-04.53.25:728][  0]LogWindows:    0. 'Intel(R) HD Graphics 4600' (P:1 D:1)
+[2019.04.06-04.53.25:729][  0]LogWindows:    1. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2019.04.06-04.53.25:729][  0]LogWindows:    2. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2019.04.06-04.53.25:729][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.04.06-04.53.25:729][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 965M
+[2019.04.06-04.53.25:729][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.04.06-04.53.25:729][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.04.06-04.53.25:729][  0]LogRHI: Texture pool is 1407 MB (70% of 2010 MB)
+[2019.04.06-04.53.25:801][  0]LogD3D11RHI: Async texture creation enabled
+[2019.04.06-04.53.25:829][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.04.06-04.53.25:831][  0]LogShaderCompilers: Guid format shader working directory is -30 characters bigger than the processId version (../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Intermediate/Shaders/WorkingDirectory/14772/).
+[2019.04.06-04.53.25:831][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/lockw/AppData/Local/Temp/UnrealShaderWorkingDir/053DF6A1444E3B9A9F3E9C865CC24E4B/'.
+[2019.04.06-04.53.25:831][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.04.06-04.53.28:334][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.04.06-04.53.28:544][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.04.06-04.53.28:765][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.04.06-04.53.28:996][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.04.06-04.53.28:996][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.04.06-04.53.31:134][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.04.06-04.53.31:329][  0]LogDerivedDataCache: Loaded boot cache 0.19s 78MB C:/Users/lockw/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2019.04.06-04.53.31:329][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/lockw/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2019.04.06-04.53.31:329][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.04.06-04.53.31:329][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.04.06-04.53.31:329][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.04.06-04.53.31:329][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.04.06-04.53.31:365][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.04.06-04.53.31:379][  0]LogDerivedDataCache: Using Local data cache path C:/Users/lockw/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.04.06-04.53.31:407][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.04.06-04.53.31:408][  0]LogSlate: Using Freetype 2.6.0
+[2019.04.06-04.53.31:409][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.04.06-04.53.31:409][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.04.06-04.53.32:128][  0]LogAssetRegistry: FAssetRegistry took 0.0114 seconds to start up
+[2019.04.06-04.53.32:162][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.033923 seconds
+[2019.04.06-04.53.32:421][  0]LogInit: Selected Device Profile: [Windows]
+[2019.04.06-04.53.33:684][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.04.06-04.53.33:875][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.04.06-04.53.33:876][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.04.06-04.53.33:876][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.04.06-04.53.33:876][  0]LogMeshReduction: No automatic mesh merging module available
+[2019.04.06-04.53.33:876][  0]LogMeshMerging: No automatic mesh merging module available
+[2019.04.06-04.53.33:966][  0]LogNetVersion: Illuminate , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1556659199)
+[2019.04.06-04.53.34:526][  0]LogInit: Warning: Passing commandline switches using / instead of - has been deprecated and will be removed in future versions of Unreal Engine.
+[2019.04.06-04.53.34:526][  0]LogInit: Warning: Passing commandline switches using / instead of - has been deprecated and will be removed in future versions of Unreal Engine.
+[2019.04.06-04.53.34:526][  0]LogInit: Warning: Passing commandline switches using / instead of - has been deprecated and will be removed in future versions of Unreal Engine.
+[2019.04.06-04.53.40:771][  0]LogMoviePlayer: Initializing movie player
+[2019.04.06-04.53.42:150][  0]LogCollectionManager: Loaded 0 collections in 0.006684 seconds
+[2019.04.06-04.53.42:273][  0]LogFileCache: Scanning file cache for directory 'C:/Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Saved/Collections/' took 0.01s
+[2019.04.06-04.53.42:273][  0]LogFileCache: Scanning file cache for directory 'C:/Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Developers/Alex/Collections/' took 0.01s
+[2019.04.06-04.53.42:274][  0]LogFileCache: Scanning file cache for directory 'C:/Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Collections/' took 0.01s
+[2019.04.06-04.53.42:274][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.04.06-04.53.42:274][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000321 seconds (updated 0 objects)
+[2019.04.06-04.53.43:097][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.04.06-04.53.43:255][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.04.06-04.53.45:799][  0]LogInit: Warning: Passing commandline switches using / instead of - has been deprecated and will be removed in future versions of Unreal Engine.
+[2019.04.06-04.53.45:801][  0]SourceControl: Source control is disabled
+[2019.04.06-04.53.45:801][  0]SourceControl: Source control is disabled
+[2019.04.06-04.53.46:047][  0]SourceControl: Source control is disabled
+[2019.04.06-04.53.49:134][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.04.06-04.53.50:365][  0]LogOcInput: OculusInput pre-init called
+[2019.04.06-04.53.50:888][  0]LogUObjectArray: 39813 objects as part of root set at end of initial load.
+[2019.04.06-04.53.50:888][  0]LogUObjectAllocator: 8734536 out of 0 bytes used by permanent object pool.
+[2019.04.06-04.53.50:888][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.04.06-04.53.51:248][  0]LogEngine: Initializing Engine...
+[2019.04.06-04.53.51:254][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.04.06-04.53.51:662][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.04.06-04.53.51:662][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.04.06-04.53.51:721][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.04.06-04.53.51:880][  0]LogInit: FAudioDevice initialized.
+[2019.04.06-04.53.51:935][  0]LogInit: Texture streaming: Enabled
+[2019.04.06-04.53.51:976][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2019.04.06-04.53.56:496][  0]LogInit: Warning: Passing commandline switches using / instead of - has been deprecated and will be removed in future versions of Unreal Engine.
+[2019.04.06-04.53.56:697][  0]LogInit: Display: Game Engine Initialized.
+[2019.04.06-04.53.56:697][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.04.06-04.53.57:510][  0]LogInit: Display: Starting Game.
+[2019.04.06-04.53.57:511][  0]LogNet: Browse: /Game/Creations/Maps/MultiplayerLobby?Name=Player?Listen
+[2019.04.06-04.53.57:511][  0]LogLoad: LoadMap: /Game/Creations/Maps/MultiplayerLobby?Name=Player?Listen
+[2019.04.06-04.53.58:178][  0]LogAIModule: Creating AISystem for world MultiplayerLobby
+[2019.04.06-04.53.58:178][  0]LogLoad: Game class is 'MainGm_C'
+[2019.04.06-04.53.58:179][  0]LogOnline: Warning: STEAM: Steam API disabled!
+[2019.04.06-04.53.58:179][  0]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2019.04.06-04.53.58:179][  0]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.04.06-04.53.58:179][  0]LogTemp: Display: ParseSettings for IpNetDriver_0
+[2019.04.06-04.53.58:179][  0]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.04.06-04.53.58:179][  0]LogInit: WinSock: Socket queue 131072 / 131072
+[2019.04.06-04.53.58:183][  0]LogInit: WinSock: I am MSI (158.104.225.238:0)
+[2019.04.06-04.53.58:183][  0]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.04.06-04.53.58:184][  0]LogNet: GameNetDriver IpNetDriver_0 IpNetDriver listening on port 7777
+[2019.04.06-04.53.58:185][  0]LogWorld: Bringing World /Game/Creations/Maps/MultiplayerLobby.MultiplayerLobby up for play (max tick rate 0) at 2019.04.05-21.53.58
+[2019.04.06-04.53.58:185][  0]LogOnline: Warning: OSS: AutoLogin missing AUTH_LOGIN=<login id>.
+[2019.04.06-04.53.58:185][  0]LogWorld: Bringing up level for play took: 0.001161
+[2019.04.06-04.53.58:186][  0]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2019.04.06-04.53.58:186][  0]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.04.06-04.53.58:325][  0]LogBlueprintUserMessages: [MultiplayerLobbyWidget_C_0] One instance of player info loaded
+[2019.04.06-04.53.58:326][  0]LogBlueprintUserMessages: [mainPC_C_0] updated player infos
+[2019.04.06-04.53.58:326][  0]LogLoad: Took 0.814697 seconds to LoadMap(/Game/Creations/Maps/MultiplayerLobby)
+[2019.04.06-04.53.58:328][  0]LogSlate: Took 0.000883 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.04.06-04.53.59:096][  0]LogRenderer: Reallocating scene render targets to support 1904x1044 Format 10 NumSamples 1 (Frame:1).
+[2019.04.06-04.53.59:096][  0]LogLoad: (Engine Initialization) Total time: 47.92 seconds
+[2019.04.06-04.53.59:096][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.04.06-04.53.59:096][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2019.04.06-04.53.59:096][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2019.04.06-04.53.59:116][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.04.06-04.53.59:117][  0]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:52113
+[2019.04.06-04.53.59:117][  0]LogHandshake: SendConnectChallenge. Timestamp: 0.016150, Cookie: 037103148111053237241111203158184212132031145053082048255196
+[2019.04.06-04.53.59:117][  0]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:52112
+[2019.04.06-04.53.59:118][  0]LogHandshake: SendConnectChallenge. Timestamp: 0.016150, Cookie: 165067228005074073142132074209077185190217221235044100067043
+[2019.04.06-04.53.59:234][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.04.06-04.53.59:257][  1]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:52112
+[2019.04.06-04.53.59:257][  1]LogHandshake: SendChallengeAck. InCookie: 165067228005074073142132074209077185190217221235044100067043
+[2019.04.06-04.53.59:257][  1]LogNet: Server accepting post-challenge connection from: 127.0.0.1:52112
+[2019.04.06-04.53.59:258][  1]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.04.06-04.53.59:258][  1]LogNet: NotifyAcceptedConnection: Name: MultiplayerLobby, TimeStamp: 04/05/19 21:53:59, [UNetConnection] RemoteAddr: 127.0.0.1:52112, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL
+[2019.04.06-04.53.59:258][  1]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:52112, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL
+[2019.04.06-04.53.59:258][  1]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:52113
+[2019.04.06-04.53.59:258][  1]LogHandshake: SendChallengeAck. InCookie: 037103148111053237241111203158184212132031145053082048255196
+[2019.04.06-04.53.59:258][  1]LogNet: Server accepting post-challenge connection from: 127.0.0.1:52113
+[2019.04.06-04.53.59:258][  1]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.04.06-04.53.59:259][  1]LogNet: NotifyAcceptedConnection: Name: MultiplayerLobby, TimeStamp: 04/05/19 21:53:59, [UNetConnection] RemoteAddr: 127.0.0.1:52113, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL
+[2019.04.06-04.53.59:259][  1]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:52113, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL
+[2019.04.06-04.53.59:275][  2]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Creations/Maps/MultiplayerLobby.MultiplayerLobby: Accepted
+[2019.04.06-04.53.59:275][  2]LogNet: Remote platform little endian=1
+[2019.04.06-04.53.59:275][  2]LogNet: This platform little endian=1
+[2019.04.06-04.53.59:275][  2]LogNetVersion: Illuminate 1.0.0.0, NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1067519852)
+[2019.04.06-04.53.59:276][  2]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Creations/Maps/MultiplayerLobby.MultiplayerLobby: Accepted
+[2019.04.06-04.53.59:276][  2]LogNet: Remote platform little endian=1
+[2019.04.06-04.53.59:276][  2]LogNet: This platform little endian=1
+[2019.04.06-04.53.59:328][  3]LogNet: Login request: /Game/Creations/Maps/MainMenu?Name=MSI-9100BA864541E33858A3FBAA873C785F userId: MSI-9100BA864541E33858A3FBAA873C785F
+[2019.04.06-04.53.59:330][  3]LogNet: Login request: /Game/Creations/Maps/MainMenu?Name=MSI-28E1CEFF42D1C055002B29B08862D6B0 userId: MSI-28E1CEFF42D1C055002B29B08862D6B0
+[2019.04.06-04.53.59:357][  3]LogBlueprintUserMessages: [MainGm_C_0] Now there are 1 players
+[2019.04.06-04.53.59:357][  3]LogBlueprintUserMessages: [MainGm_C_0] One loop instance
+[2019.04.06-04.53.59:357][  3]LogBlueprintUserMessages: [MainGm_C_0] MSI-FF7D92A64FEA6042
+[2019.04.06-04.53.59:361][  4]LogNet: Client netspeed is 10000
+[2019.04.06-04.53.59:361][  4]LogNet: Client netspeed is 10000
+[2019.04.06-04.54.00:025][ 44]LogNet: Join request: /Game/Creations/Maps/MainMenu?Name=MSI-9100BA864541E33858A3FBAA873C785F?SplitscreenCount=1
+[2019.04.06-04.54.00:027][ 44]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2019.04.06-04.54.00:027][ 44]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.04.06-04.54.00:028][ 44]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=7.297 Y=58.685 Z=0.016] for [testTwinstickPawn_C]
+[2019.04.06-04.54.00:029][ 44]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type testTwinstickPawn_C at Rotation: Pitch 0.000000 Yaw 0.000000 Roll 0.000000
+Translation: 0.000000 0.000000 0.000000
+Scale3D: 1.000000 1.000000 1.000000
+
+[2019.04.06-04.54.00:029][ 44]LogNet: Join succeeded: MSI-9100BA864541E338
+[2019.04.06-04.54.00:029][ 44]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+	mainPC_C /Game/Creations/Maps/MultiplayerLobby.MultiplayerLobby:PersistentLevel.mainPC_C_1
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC:09CB
+[2019.04.06-04.54.00:029][ 44]LogScript: Warning: Script call stack:
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ReceiveTick
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC
+
+[2019.04.06-04.54.00:042][ 45]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+	mainPC_C /Game/Creations/Maps/MultiplayerLobby.MultiplayerLobby:PersistentLevel.mainPC_C_1
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC:09CB
+[2019.04.06-04.54.00:042][ 45]LogScript: Warning: Script call stack:
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ReceiveTick
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC
+
+[2019.04.06-04.54.00:058][ 46]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+	mainPC_C /Game/Creations/Maps/MultiplayerLobby.MultiplayerLobby:PersistentLevel.mainPC_C_1
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC:09CB
+[2019.04.06-04.54.00:058][ 46]LogScript: Warning: Script call stack:
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ReceiveTick
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC
+
+[2019.04.06-04.54.00:074][ 47]LogNet: Join request: /Game/Creations/Maps/MainMenu?Name=MSI-28E1CEFF42D1C055002B29B08862D6B0?SplitscreenCount=1
+[2019.04.06-04.54.00:075][ 47]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2019.04.06-04.54.00:075][ 47]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.04.06-04.54.00:077][ 47]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=7.297 Y=58.685 Z=0.016] for [testTwinstickPawn_C]
+[2019.04.06-04.54.00:077][ 47]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type testTwinstickPawn_C at Rotation: Pitch 0.000000 Yaw 0.000000 Roll 0.000000
+Translation: 0.000000 0.000000 0.000000
+Scale3D: 1.000000 1.000000 1.000000
+
+[2019.04.06-04.54.00:077][ 47]LogNet: Join succeeded: MSI-28E1CEFF42D1C055
+[2019.04.06-04.54.00:077][ 47]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+	mainPC_C /Game/Creations/Maps/MultiplayerLobby.MultiplayerLobby:PersistentLevel.mainPC_C_1
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC:09CB
+[2019.04.06-04.54.00:077][ 47]LogScript: Warning: Script call stack:
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ReceiveTick
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC
+
+[2019.04.06-04.54.00:077][ 47]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+	mainPC_C /Game/Creations/Maps/MultiplayerLobby.MultiplayerLobby:PersistentLevel.mainPC_C_2
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC:09CB
+[2019.04.06-04.54.00:077][ 47]LogScript: Warning: Script call stack:
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ReceiveTick
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC
+
+[2019.04.06-04.54.00:090][ 48]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+	mainPC_C /Game/Creations/Maps/MultiplayerLobby.MultiplayerLobby:PersistentLevel.mainPC_C_1
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC:09CB
+[2019.04.06-04.54.00:090][ 48]LogScript: Warning: Script call stack:
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ReceiveTick
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC
+
+[2019.04.06-04.54.00:091][ 48]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+	mainPC_C /Game/Creations/Maps/MultiplayerLobby.MultiplayerLobby:PersistentLevel.mainPC_C_2
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC:09CB
+[2019.04.06-04.54.00:091][ 48]LogScript: Warning: Script call stack:
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ReceiveTick
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC
+
+[2019.04.06-04.54.00:106][ 49]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+	mainPC_C /Game/Creations/Maps/MultiplayerLobby.MultiplayerLobby:PersistentLevel.mainPC_C_1
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC:09CB
+[2019.04.06-04.54.00:107][ 49]LogScript: Warning: Script call stack:
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ReceiveTick
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC
+
+[2019.04.06-04.54.00:107][ 49]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+	mainPC_C /Game/Creations/Maps/MultiplayerLobby.MultiplayerLobby:PersistentLevel.mainPC_C_2
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC:09CB
+[2019.04.06-04.54.00:107][ 49]LogScript: Warning: Script call stack:
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ReceiveTick
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC
+
+[2019.04.06-04.54.00:123][ 50]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+	mainPC_C /Game/Creations/Maps/MultiplayerLobby.MultiplayerLobby:PersistentLevel.mainPC_C_1
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC:09CB
+[2019.04.06-04.54.00:123][ 50]LogScript: Warning: Script call stack:
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ReceiveTick
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC
+
+[2019.04.06-04.54.00:123][ 50]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+	mainPC_C /Game/Creations/Maps/MultiplayerLobby.MultiplayerLobby:PersistentLevel.mainPC_C_2
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC:09CB
+[2019.04.06-04.54.00:124][ 50]LogScript: Warning: Script call stack:
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ReceiveTick
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC
+
+[2019.04.06-04.54.00:139][ 51]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+	mainPC_C /Game/Creations/Maps/MultiplayerLobby.MultiplayerLobby:PersistentLevel.mainPC_C_1
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC:09CB
+[2019.04.06-04.54.00:139][ 51]LogScript: Warning: Script call stack:
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ReceiveTick
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC
+
+[2019.04.06-04.54.00:140][ 51]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+	mainPC_C /Game/Creations/Maps/MultiplayerLobby.MultiplayerLobby:PersistentLevel.mainPC_C_2
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC:09CB
+[2019.04.06-04.54.00:140][ 51]LogScript: Warning: Script call stack:
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ReceiveTick
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC
+
+[2019.04.06-04.54.00:140][ 51]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: MultiplayerLobbyWidget_C /Engine/Transient.GameEngine_0:MainInstance_C_0.MultiplayerLobbyWidget_C_0 NOT Supported.
+[2019.04.06-04.54.00:156][ 52]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+	mainPC_C /Game/Creations/Maps/MultiplayerLobby.MultiplayerLobby:PersistentLevel.mainPC_C_1
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC:09CB
+[2019.04.06-04.54.00:156][ 52]LogScript: Warning: Script call stack:
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ReceiveTick
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC
+
+[2019.04.06-04.54.00:156][ 52]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+	mainPC_C /Game/Creations/Maps/MultiplayerLobby.MultiplayerLobby:PersistentLevel.mainPC_C_2
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC:09CB
+[2019.04.06-04.54.00:156][ 52]LogScript: Warning: Script call stack:
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ReceiveTick
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC
+
+[2019.04.06-04.54.00:173][ 53]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+	mainPC_C /Game/Creations/Maps/MultiplayerLobby.MultiplayerLobby:PersistentLevel.mainPC_C_1
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC:09CB
+[2019.04.06-04.54.00:173][ 53]LogScript: Warning: Script call stack:
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ReceiveTick
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC
+
+[2019.04.06-04.54.00:173][ 53]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+	mainPC_C /Game/Creations/Maps/MultiplayerLobby.MultiplayerLobby:PersistentLevel.mainPC_C_2
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC:09CB
+[2019.04.06-04.54.00:173][ 53]LogScript: Warning: Script call stack:
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ReceiveTick
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC
+
+[2019.04.06-04.54.00:189][ 54]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+	mainPC_C /Game/Creations/Maps/MultiplayerLobby.MultiplayerLobby:PersistentLevel.mainPC_C_1
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC:09CB
+[2019.04.06-04.54.00:189][ 54]LogScript: Warning: Script call stack:
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ReceiveTick
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC
+
+[2019.04.06-04.54.00:189][ 54]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+	mainPC_C /Game/Creations/Maps/MultiplayerLobby.MultiplayerLobby:PersistentLevel.mainPC_C_2
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC:09CB
+[2019.04.06-04.54.00:189][ 54]LogScript: Warning: Script call stack:
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ReceiveTick
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC
+
+[2019.04.06-04.54.00:190][ 54]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: MultiplayerLobbyWidget_C /Engine/Transient.GameEngine_0:MainInstance_C_0.MultiplayerLobbyWidget_C_0 NOT Supported.
+[2019.04.06-04.54.00:204][ 55]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+	mainPC_C /Game/Creations/Maps/MultiplayerLobby.MultiplayerLobby:PersistentLevel.mainPC_C_1
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC:09CB
+[2019.04.06-04.54.00:205][ 55]LogScript: Warning: Script call stack:
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ReceiveTick
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC
+
+[2019.04.06-04.54.00:205][ 55]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+	mainPC_C /Game/Creations/Maps/MultiplayerLobby.MultiplayerLobby:PersistentLevel.mainPC_C_2
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC:09CB
+[2019.04.06-04.54.00:205][ 55]LogScript: Warning: Script call stack:
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ReceiveTick
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC
+
+[2019.04.06-04.54.00:221][ 56]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+	mainPC_C /Game/Creations/Maps/MultiplayerLobby.MultiplayerLobby:PersistentLevel.mainPC_C_1
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC:09CB
+[2019.04.06-04.54.00:221][ 56]LogScript: Warning: Script call stack:
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ReceiveTick
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC
+
+[2019.04.06-04.54.00:221][ 56]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+	mainPC_C /Game/Creations/Maps/MultiplayerLobby.MultiplayerLobby:PersistentLevel.mainPC_C_2
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC:09CB
+[2019.04.06-04.54.00:221][ 56]LogScript: Warning: Script call stack:
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ReceiveTick
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC
+
+[2019.04.06-04.54.00:237][ 57]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+	mainPC_C /Game/Creations/Maps/MultiplayerLobby.MultiplayerLobby:PersistentLevel.mainPC_C_1
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC:09CB
+[2019.04.06-04.54.00:237][ 57]LogScript: Warning: Script call stack:
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ReceiveTick
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC
+
+[2019.04.06-04.54.00:237][ 57]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+	mainPC_C /Game/Creations/Maps/MultiplayerLobby.MultiplayerLobby:PersistentLevel.mainPC_C_2
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC:09CB
+[2019.04.06-04.54.00:238][ 57]LogScript: Warning: Script call stack:
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ReceiveTick
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC
+
+[2019.04.06-04.54.00:257][ 58]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+	mainPC_C /Game/Creations/Maps/MultiplayerLobby.MultiplayerLobby:PersistentLevel.mainPC_C_1
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC:09CB
+[2019.04.06-04.54.00:257][ 58]LogScript: Warning: Script call stack:
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ReceiveTick
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC
+
+[2019.04.06-04.54.00:257][ 58]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+	mainPC_C /Game/Creations/Maps/MultiplayerLobby.MultiplayerLobby:PersistentLevel.mainPC_C_2
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC:09CB
+[2019.04.06-04.54.00:257][ 58]LogScript: Warning: Script call stack:
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ReceiveTick
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC
+
+[2019.04.06-04.54.00:273][ 59]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+	mainPC_C /Game/Creations/Maps/MultiplayerLobby.MultiplayerLobby:PersistentLevel.mainPC_C_1
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC:09CB
+[2019.04.06-04.54.00:273][ 59]LogScript: Warning: Script call stack:
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ReceiveTick
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC
+
+[2019.04.06-04.54.00:273][ 59]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+	mainPC_C /Game/Creations/Maps/MultiplayerLobby.MultiplayerLobby:PersistentLevel.mainPC_C_2
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC:09CB
+[2019.04.06-04.54.00:273][ 59]LogScript: Warning: Script call stack:
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ReceiveTick
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC
+
+[2019.04.06-04.54.00:290][ 60]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+	mainPC_C /Game/Creations/Maps/MultiplayerLobby.MultiplayerLobby:PersistentLevel.mainPC_C_1
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC:09CB
+[2019.04.06-04.54.00:290][ 60]LogScript: Warning: Script call stack:
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ReceiveTick
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC
+
+[2019.04.06-04.54.00:290][ 60]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+	mainPC_C /Game/Creations/Maps/MultiplayerLobby.MultiplayerLobby:PersistentLevel.mainPC_C_2
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC:09CB
+[2019.04.06-04.54.00:290][ 60]LogScript: Warning: Script call stack:
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ReceiveTick
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC
+
+[2019.04.06-04.54.00:305][ 61]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+	mainPC_C /Game/Creations/Maps/MultiplayerLobby.MultiplayerLobby:PersistentLevel.mainPC_C_2
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC:09CB
+[2019.04.06-04.54.00:305][ 61]LogScript: Warning: Script call stack:
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ReceiveTick
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC
+
+[2019.04.06-04.54.00:333][ 62]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+	mainPC_C /Game/Creations/Maps/MultiplayerLobby.MultiplayerLobby:PersistentLevel.mainPC_C_2
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC:09CB
+[2019.04.06-04.54.00:334][ 62]LogScript: Warning: Script call stack:
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ReceiveTick
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC
+
+[2019.04.06-04.54.00:388][ 63]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+	mainPC_C /Game/Creations/Maps/MultiplayerLobby.MultiplayerLobby:PersistentLevel.mainPC_C_2
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC:09CB
+[2019.04.06-04.54.00:388][ 63]LogScript: Warning: Script call stack:
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ReceiveTick
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC
+
+[2019.04.06-04.55.52:226][412]LogNet: UChannel::ReceivedSequencedBunch: Bunch.bClose == true. ChIndex == 0. Calling ConditionalCleanUp.
+[2019.04.06-04.55.52:226][412]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:52112, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: mainPC_C_1, Owner: mainPC_C_1
+[2019.04.06-04.55.52:226][412]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:52112, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: mainPC_C_1, Owner: mainPC_C_1, Channels: 11, Time: 2019.04.06-04.55.52
+[2019.04.06-04.55.52:226][412]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:52112, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: mainPC_C_1, Owner: mainPC_C_1
+[2019.04.06-04.55.52:227][412]LogOnline: Warning: OSS: No game present to leave for session (GameSession)
+[2019.04.06-04.55.53:184][447]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.04.06-04.55.53:188][447]LogOnline: Warning: OSS: No game present to leave for session (GameSession)
+[2019.04.06-04.55.53:188][447]LogEngine: All Windows Closed
+[2019.04.06-04.55.53:188][447]LogWindows: FPlatformMisc::RequestExit(0)
+[2019.04.06-04.55.53:201][448]LogNet: World NetDriver shutdown IpNetDriver_0 [GameNetDriver]
+[2019.04.06-04.55.53:201][448]LogNet: DestroyNamedNetDriver IpNetDriver_0 [GameNetDriver]
+[2019.04.06-04.55.53:201][448]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:52113, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: mainPC_C_2, Owner: mainPC_C_2
+[2019.04.06-04.55.53:201][448]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:52113, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: mainPC_C_2, Owner: mainPC_C_2, Channels: 10, Time: 2019.04.06-04.55.53
+[2019.04.06-04.55.53:201][448]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:52113, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: mainPC_C_2, Owner: mainPC_C_2
+[2019.04.06-04.55.53:202][448]LogExit: GameNetDriver IpNetDriver_0 shut down
+[2019.04.06-04.55.53:335][448]LogExit: Preparing to exit.
+[2019.04.06-04.55.53:335][448]LogMoviePlayer: Shutting down movie player
+[2019.04.06-04.55.54:420][448]LogExit: Game engine shut down
+[2019.04.06-04.55.54:539][448]LogExit: Object subsystem successfully closed.
+[2019.04.06-04.55.54:565][448]LogD3D11RHI: Shutdown
+[2019.04.06-04.55.54:565][448]LogD3D11RHI: CleanupD3DDevice
+[2019.04.06-04.55.54:568][448]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.04.06-04.55.54:603][448]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (332)
+[2019.04.06-04.55.54:603][448]LogModuleManager: Shutting down and abandoning module SequenceRecorder (330)
+[2019.04.06-04.55.54:603][448]LogModuleManager: Shutting down and abandoning module AutomationController (328)
+[2019.04.06-04.55.54:603][448]LogModuleManager: Shutting down and abandoning module AutomationWorker (326)
+[2019.04.06-04.55.54:603][448]LogModuleManager: Shutting down and abandoning module Voice (324)
+[2019.04.06-04.55.54:603][448]LogModuleManager: Shutting down and abandoning module AIModule (322)
+[2019.04.06-04.55.54:603][448]LogModuleManager: Shutting down and abandoning module GameplayDebugger (321)
+[2019.04.06-04.55.54:604][448]LogModuleManager: Shutting down and abandoning module AITestSuite (319)
+[2019.04.06-04.55.54:604][448]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (316)
+[2019.04.06-04.55.54:604][448]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (314)
+[2019.04.06-04.55.54:604][448]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (312)
+[2019.04.06-04.55.54:604][448]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (310)
+[2019.04.06-04.55.54:604][448]LogModuleManager: Shutting down and abandoning module CharacterAI (308)
+[2019.04.06-04.55.54:604][448]LogModuleManager: Shutting down and abandoning module SessionServices (306)
+[2019.04.06-04.55.54:604][448]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (304)
+[2019.04.06-04.55.54:604][448]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (302)
+[2019.04.06-04.55.54:604][448]LogModuleManager: Shutting down and abandoning module MovieScene (300)
+[2019.04.06-04.55.54:604][448]LogModuleManager: Shutting down and abandoning module GeometryCache (298)
+[2019.04.06-04.55.54:604][448]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (297)
+[2019.04.06-04.55.54:604][448]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (294)
+[2019.04.06-04.55.54:604][448]LogModuleManager: Shutting down and abandoning module PortalServices (292)
+[2019.04.06-04.55.54:604][448]LogModuleManager: Shutting down and abandoning module PortalRpc (290)
+[2019.04.06-04.55.54:604][448]LogModuleManager: Shutting down and abandoning module MessagingRpc (288)
+[2019.04.06-04.55.54:604][448]LogModuleManager: Shutting down and abandoning module ProfilerService (286)
+[2019.04.06-04.55.54:632][448]LogModuleManager: Shutting down and abandoning module TaskGraph (284)
+[2019.04.06-04.55.54:632][448]LogModuleManager: Shutting down and abandoning module SteamVRController (282)
+[2019.04.06-04.55.54:632][448]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (280)
+[2019.04.06-04.55.54:632][448]LogModuleManager: Shutting down and abandoning module OculusInput (278)
+[2019.04.06-04.55.54:632][448]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (276)
+[2019.04.06-04.55.54:632][448]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (274)
+[2019.04.06-04.55.54:632][448]LogModuleManager: Shutting down and abandoning module CableComponent (272)
+[2019.04.06-04.55.54:632][448]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (270)
+[2019.04.06-04.55.54:632][448]LogModuleManager: Shutting down and abandoning module AndroidPermission (268)
+[2019.04.06-04.55.54:632][448]LogModuleManager: Shutting down and abandoning module LoginFlow (266)
+[2019.04.06-04.55.54:632][448]LogModuleManager: Shutting down and abandoning module Rejoin (264)
+[2019.04.06-04.55.54:632][448]LogModuleManager: Shutting down and abandoning module Hotfix (262)
+[2019.04.06-04.55.54:633][448]LogModuleManager: Shutting down and abandoning module Lobby (260)
+[2019.04.06-04.55.54:633][448]LogModuleManager: Shutting down and abandoning module Party (258)
+[2019.04.06-04.55.54:633][448]LogModuleManager: Shutting down and abandoning module Qos (256)
+[2019.04.06-04.55.54:633][448]LogModuleManager: Shutting down and abandoning module ActorSequence (254)
+[2019.04.06-04.55.54:633][448]LogModuleManager: Shutting down and abandoning module MediaCompositing (252)
+[2019.04.06-04.55.54:633][448]LogModuleManager: Shutting down and abandoning module HTML5Networking (250)
+[2019.04.06-04.55.54:633][448]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (248)
+[2019.04.06-04.55.54:633][448]LogModuleManager: Shutting down and abandoning module HotReload (247)
+[2019.04.06-04.55.54:633][448]LogDirectoryWatcher: A directory notification for 'C:/Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Binaries/Win64' was aborted.
+[2019.04.06-04.55.54:633][448]LogDirectoryWatcher: A directory notification for 'C:/Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Plugins/AdvancedSessions/Binaries/Win64' was aborted.
+[2019.04.06-04.55.54:633][448]LogDirectoryWatcher: A directory notification for 'C:/Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Plugins/AdvancedSteamSessions/Binaries/Win64' was aborted.
+[2019.04.06-04.55.54:633][448]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (244)
+[2019.04.06-04.55.54:633][448]LogModuleManager: Shutting down and abandoning module UObjectPlugin (242)
+[2019.04.06-04.55.54:633][448]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (240)
+[2019.04.06-04.55.54:633][448]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (238)
+[2019.04.06-04.55.54:633][448]LogModuleManager: Shutting down and abandoning module SourceControl (237)
+[2019.04.06-04.55.54:633][448]LogModuleManager: Shutting down and abandoning module AdvancedSteamSessions (234)
+[2019.04.06-04.55.54:633][448]LogModuleManager: Shutting down and abandoning module AdvancedSessions (232)
+[2019.04.06-04.55.54:633][448]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (230)
+[2019.04.06-04.55.54:633][448]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (228)
+[2019.04.06-04.55.54:634][448]LogModuleManager: Shutting down and abandoning module PhysXVehicles (226)
+[2019.04.06-04.55.54:634][448]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (224)
+[2019.04.06-04.55.54:634][448]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (222)
+[2019.04.06-04.55.54:634][448]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (220)
+[2019.04.06-04.55.54:634][448]LogModuleManager: Shutting down and abandoning module UdpMessaging (218)
+[2019.04.06-04.55.54:735][448]LogModuleManager: Shutting down and abandoning module TcpMessaging (216)
+[2019.04.06-04.55.55:159][448]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (214)
+[2019.04.06-04.55.55:159][448]LogModuleManager: Shutting down and abandoning module FacialAnimation (212)
+[2019.04.06-04.55.55:159][448]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (210)
+[2019.04.06-04.55.55:160][448]LogModuleManager: Shutting down and abandoning module GraphEditor (209)
+[2019.04.06-04.55.55:160][448]LogModuleManager: Shutting down and abandoning module ContentBrowser (207)
+[2019.04.06-04.55.55:160][448]LogModuleManager: Shutting down and abandoning module CollectionManager (206)
+[2019.04.06-04.55.55:160][448]LogDirectoryWatcher: A directory notification for 'C:/Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Collections/' was aborted.
+[2019.04.06-04.55.55:160][448]LogDirectoryWatcher: A directory notification for 'C:/Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Developers/Alex/Collections/' was aborted.
+[2019.04.06-04.55.55:160][448]LogDirectoryWatcher: A directory notification for 'C:/Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Saved/Collections/' was aborted.
+[2019.04.06-04.55.55:161][448]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (205)
+[2019.04.06-04.55.55:161][448]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (200)
+[2019.04.06-04.55.55:161][448]LogModuleManager: Shutting down and abandoning module Paper2D (198)
+[2019.04.06-04.55.55:161][448]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (196)
+[2019.04.06-04.55.55:161][448]LogModuleManager: Shutting down and abandoning module WmfMedia (194)
+[2019.04.06-04.55.55:164][448]LogModuleManager: Shutting down and abandoning module ImgMedia (192)
+[2019.04.06-04.55.55:164][448]LogModuleManager: Shutting down and abandoning module PacketHandler (190)
+[2019.04.06-04.55.55:164][448]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (188)
+[2019.04.06-04.55.55:164][448]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (186)
+[2019.04.06-04.55.55:164][448]LogModuleManager: Shutting down and abandoning module MediaAssets (184)
+[2019.04.06-04.55.55:164][448]LogModuleManager: Shutting down and abandoning module Media (183)
+[2019.04.06-04.55.55:170][448]LogModuleManager: Shutting down and abandoning module Overlay (180)
+[2019.04.06-04.55.55:170][448]LogModuleManager: Shutting down and abandoning module OverlayEditor (179)
+[2019.04.06-04.55.55:170][448]LogModuleManager: Shutting down and abandoning module VREditor (176)
+[2019.04.06-04.55.55:171][448]LogModuleManager: Shutting down and abandoning module StringTableEditor (174)
+[2019.04.06-04.55.55:171][448]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (172)
+[2019.04.06-04.55.55:171][448]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (170)
+[2019.04.06-04.55.55:171][448]LogModuleManager: Shutting down and abandoning module FunctionalTesting (168)
+[2019.04.06-04.55.55:171][448]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (166)
+[2019.04.06-04.55.55:171][448]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (165)
+[2019.04.06-04.55.55:171][448]LogModuleManager: Shutting down and abandoning module UMG (162)
+[2019.04.06-04.55.55:171][448]LogModuleManager: Shutting down and abandoning module UMGEditor (161)
+[2019.04.06-04.55.55:171][448]LogModuleManager: Shutting down and abandoning module Sequencer (160)
+[2019.04.06-04.55.55:171][448]LogModuleManager: Shutting down and abandoning module MessageLog (157)
+[2019.04.06-04.55.55:171][448]LogModuleManager: Shutting down and abandoning module SlateReflector (152)
+[2019.04.06-04.55.55:171][448]LogModuleManager: Shutting down and abandoning module Slate (150)
+[2019.04.06-04.55.55:171][448]LogModuleManager: Shutting down and abandoning module EditorStyle (148)
+[2019.04.06-04.55.55:175][448]LogModuleManager: Shutting down and abandoning module MRMesh (146)
+[2019.04.06-04.55.55:175][448]LogModuleManager: Shutting down and abandoning module Messaging (144)
+[2019.04.06-04.55.55:175][448]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (142)
+[2019.04.06-04.55.55:175][448]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (140)
+[2019.04.06-04.55.55:175][448]LogModuleManager: Shutting down and abandoning module XAudio2 (138)
+[2019.04.06-04.55.55:176][448]LogModuleManager: Shutting down and abandoning module Networking (136)
+[2019.04.06-04.55.55:176][448]LogModuleManager: Shutting down and abandoning module Core (134)
+[2019.04.06-04.55.55:176][448]LogModuleManager: Shutting down and abandoning module LevelSequence (132)
+[2019.04.06-04.55.55:176][448]LogModuleManager: Shutting down and abandoning module KismetCompiler (130)
+[2019.04.06-04.55.55:176][448]LogModuleManager: Shutting down and abandoning module MeshUtilities (128)
+[2019.04.06-04.55.55:176][448]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (127)
+[2019.04.06-04.55.55:176][448]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (126)
+[2019.04.06-04.55.55:176][448]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (125)
+[2019.04.06-04.55.55:176][448]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (123)
+[2019.04.06-04.55.55:176][448]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (121)
+[2019.04.06-04.55.55:176][448]LogModuleManager: Shutting down and abandoning module MaterialBaking (117)
+[2019.04.06-04.55.55:176][448]LogModuleManager: Shutting down and abandoning module DerivedDataCache (112)
+[2019.04.06-04.55.55:250][448]LogDerivedDataCache: Shutdown
+[2019.04.06-04.55.55:250][448]LogModuleManager: Shutting down and abandoning module TargetPlatform (110)
+[2019.04.06-04.55.55:250][448]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (109)
+[2019.04.06-04.55.55:250][448]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (107)
+[2019.04.06-04.55.55:250][448]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (105)
+[2019.04.06-04.55.55:250][448]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (103)
+[2019.04.06-04.55.55:250][448]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (101)
+[2019.04.06-04.55.55:250][448]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (99)
+[2019.04.06-04.55.55:250][448]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (97)
+[2019.04.06-04.55.55:250][448]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (95)
+[2019.04.06-04.55.55:250][448]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (93)
+[2019.04.06-04.55.55:251][448]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (91)
+[2019.04.06-04.55.55:251][448]LogModuleManager: Shutting down and abandoning module ImageWrapper (90)
+[2019.04.06-04.55.55:251][448]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (87)
+[2019.04.06-04.55.55:251][448]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (85)
+[2019.04.06-04.55.55:251][448]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (83)
+[2019.04.06-04.55.55:251][448]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (81)
+[2019.04.06-04.55.55:251][448]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (79)
+[2019.04.06-04.55.55:251][448]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (77)
+[2019.04.06-04.55.55:251][448]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (75)
+[2019.04.06-04.55.55:251][448]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (73)
+[2019.04.06-04.55.55:251][448]LogModuleManager: Shutting down and abandoning module InputCore (70)
+[2019.04.06-04.55.55:251][448]LogModuleManager: Shutting down and abandoning module Settings (68)
+[2019.04.06-04.55.55:251][448]LogModuleManager: Shutting down and abandoning module PhysXCooking (66)
+[2019.04.06-04.55.55:251][448]LogModuleManager: Shutting down and abandoning module SteamVR (64)
+[2019.04.06-04.55.55:251][448]LogModuleManager: Shutting down and abandoning module OculusHMD (62)
+[2019.04.06-04.55.55:251][448]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (60)
+[2019.04.06-04.55.55:251][448]LogModuleManager: Shutting down and abandoning module AppleARKit (58)
+[2019.04.06-04.55.55:251][448]LogModuleManager: Shutting down and abandoning module AugmentedReality (57)
+[2019.04.06-04.55.55:251][448]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (54)
+[2019.04.06-04.55.55:251][448]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (50)
+[2019.04.06-04.55.55:251][448]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2019.04.06-04.55.55:251][448]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2019.04.06-04.55.55:252][448]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2019.04.06-04.55.55:252][448]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2019.04.06-04.55.55:252][448]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2019.04.06-04.55.55:252][448]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2019.04.06-04.55.55:254][448]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2019.04.06-04.55.55:256][448]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.04.06-04.55.55:256][448]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.04.06-04.55.55:256][448]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.04.06-04.55.55:256][448]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.04.06-04.55.55:257][448]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.04.06-04.55.55:257][448]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.04.06-04.55.55:257][448]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.04.06-04.55.55:257][448]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.04.06-04.55.55:257][448]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.04.06-04.55.55:257][448]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.04.06-04.55.55:257][448]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.04.06-04.55.55:257][448]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.04.06-04.55.55:257][448]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.04.06-04.55.55:257][448]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.04.06-04.55.55:257][448]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.04.06-04.55.55:257][448]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.04.06-04.55.55:257][448]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.04.06-04.55.55:257][448]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.04.06-04.55.55:259][448]LogExit: Exiting.
+[2019.04.06-04.55.55:344][448]Log file closed, 04/05/19 21:55:55
