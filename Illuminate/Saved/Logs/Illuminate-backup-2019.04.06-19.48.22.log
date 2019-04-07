@@ -1,0 +1,1072 @@
+﻿Log file open, 04/06/19 12:42:32
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Illuminate
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1514575225) SRandInit(1514575225).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3794801, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.217228
+LogPluginManager: Warning: Plugin 'AdvancedSessions' exists at '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Plugins/AdvancedSessions/AdvancedSessions.uplugin' and '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Plugins/AdvancedSessions.uplugin' - second location will be ignored
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemSteam/Binaries/Win64/UE4Editor-OnlineSubsystemSteam.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineFramework/Binaries/Win64/UE4Editor-Qos.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineFramework/Binaries/Win64/UE4Editor-Party.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineFramework/Binaries/Win64/UE4Editor-Lobby.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineFramework/Binaries/Win64/UE4Editor-Hotfix.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineFramework/Binaries/Win64/UE4Editor-Rejoin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineFramework/Binaries/Win64/UE4Editor-LoginFlow.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Plugins/AdvancedSessions/Binaries/Win64/UE4Editor-AdvancedSessions.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Plugins/AdvancedSteamSessions/Binaries/Win64/UE4Editor-AdvancedSteamSessions.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineFramework
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemSteam
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin AdvancedSessions
+LogPluginManager: Mounting plugin AdvancedSteamSessions
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogOnline: Display: STEAM: Loading Steam SDK 1.39
+LogOnline: Warning: STEAM: Steam API disabled!
+LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.18-CL-3794801
+LogInit: Engine Version: 4.18.2-3794801+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Dec  8 2017 02:04:53
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.04.06-19.42.36:250][  0]LogInit: Selected Device Profile: [Windows]
+[2019.04.06-19.42.36:250][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.04.06-19.42.36:273][  0]LogInit: Computer: MSI
+[2019.04.06-19.42.36:273][  0]LogInit: User: Alex
+[2019.04.06-19.42.36:273][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.04.06-19.42.36:273][  0]LogInit: High frequency timer resolution =2.533211 MHz
+[2019.04.06-19.42.36:273][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.04.06-19.42.36:273][  0]LogMemory: Platform Memory Stats for Windows
+[2019.04.06-19.42.36:273][  0]LogMemory: Process Physical Memory: 275.95 MB used, 275.95 MB peak
+[2019.04.06-19.42.36:273][  0]LogMemory: Process Virtual Memory: 277.48 MB used, 277.48 MB peak
+[2019.04.06-19.42.36:273][  0]LogMemory: Physical Memory: 7729.32 MB used,  8544.01 MB free, 16273.34 MB total
+[2019.04.06-19.42.36:273][  0]LogMemory: Virtual Memory: 4791.99 MB used,  8544.01 MB free, 134217728.00 MB total
+[2019.04.06-19.42.37:422][  0]LogInit: Using OS detected language (en-US).
+[2019.04.06-19.42.37:422][  0]LogInit: Using OS detected locale (en-US).
+[2019.04.06-19.42.37:426][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.04.06-19.42.37:897][  0]LogInit: Setting process to per monitor DPI aware
+[2019.04.06-19.42.43:904][  0]LogD3D11RHI: D3D11 adapters:
+[2019.04.06-19.42.43:972][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 965M' (Feature Level 11_0)
+[2019.04.06-19.42.43:972][  0]LogD3D11RHI:       2010/0/8136 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.04.06-19.42.43:980][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
+[2019.04.06-19.42.43:980][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.04.06-19.42.43:983][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.04.06-19.42.43:983][  0]LogD3D11RHI:       0/0/8136 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.04.06-19.42.43:983][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.04.06-19.42.44:016][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.04.06-19.42.44:016][  0]LogD3D11RHI:     GPU DeviceId: 0x13d9 (for the marketing name, search the web for "GPU Device Id")
+[2019.04.06-19.42.44:016][  0]LogWindows: EnumDisplayDevices:
+[2019.04.06-19.42.44:016][  0]LogWindows:    0. 'Intel(R) HD Graphics 4600' (P:1 D:1)
+[2019.04.06-19.42.44:016][  0]LogWindows:    1. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2019.04.06-19.42.44:017][  0]LogWindows:    2. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2019.04.06-19.42.44:017][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.04.06-19.42.44:017][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 965M
+[2019.04.06-19.42.44:017][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.04.06-19.42.44:017][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.04.06-19.42.44:017][  0]LogRHI: Texture pool is 1407 MB (70% of 2010 MB)
+[2019.04.06-19.42.44:066][  0]LogD3D11RHI: Async texture creation enabled
+[2019.04.06-19.42.44:088][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.04.06-19.42.44:089][  0]LogShaderCompilers: Guid format shader working directory is -29 characters bigger than the processId version (../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Intermediate/Shaders/WorkingDirectory/2328/).
+[2019.04.06-19.42.44:089][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/lockw/AppData/Local/Temp/UnrealShaderWorkingDir/B59E26DA412EB1F0B46EB9BFD0F6E716/'.
+[2019.04.06-19.42.44:089][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.04.06-19.42.45:626][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.04.06-19.42.45:752][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.04.06-19.42.45:898][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.04.06-19.42.46:032][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.04.06-19.42.46:182][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.04.06-19.42.46:325][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.04.06-19.42.46:454][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.04.06-19.42.46:582][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.04.06-19.42.46:710][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.04.06-19.42.46:837][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2019.04.06-19.42.46:973][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2019.04.06-19.42.47:096][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2019.04.06-19.42.47:223][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2019.04.06-19.42.47:354][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2019.04.06-19.42.47:617][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2019.04.06-19.42.47:617][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2019.04.06-19.42.47:783][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.06-19.42.47:899][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.04.06-19.42.48:188][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.04.06-19.42.48:255][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.04.06-19.42.48:390][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.04.06-19.42.48:522][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.04.06-19.42.48:651][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.04.06-19.42.48:792][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.04.06-19.42.48:792][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.04.06-19.42.50:141][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.04.06-19.42.50:262][  0]LogDerivedDataCache: Loaded boot cache 0.12s 78MB C:/Users/lockw/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2019.04.06-19.42.50:262][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/lockw/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2019.04.06-19.42.50:262][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.04.06-19.42.50:262][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.04.06-19.42.50:263][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.04.06-19.42.50:263][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.04.06-19.42.50:280][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.04.06-19.42.50:292][  0]LogDerivedDataCache: Using Local data cache path C:/Users/lockw/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.04.06-19.42.50:304][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.04.06-19.42.50:304][  0]LogSlate: Using Freetype 2.6.0
+[2019.04.06-19.42.50:305][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.04.06-19.42.50:305][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.04.06-19.42.50:824][  0]LogInit: Selected Device Profile: [Windows]
+[2019.04.06-19.42.51:600][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.04.06-19.42.51:716][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.04.06-19.42.51:716][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.04.06-19.42.51:716][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.04.06-19.42.51:716][  0]LogMeshReduction: No automatic mesh merging module available
+[2019.04.06-19.42.51:716][  0]LogMeshMerging: No automatic mesh merging module available
+[2019.04.06-19.42.51:771][  0]LogNetVersion: Illuminate , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1556659199)
+[2019.04.06-19.42.52:079][  0]LogAssetRegistry: FAssetRegistry took 0.0274 seconds to start up
+[2019.04.06-19.42.52:996][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.096172 seconds
+[2019.04.06-19.42.53:005][  0]LogUObjectArray: 35907 objects as part of root set at end of initial load.
+[2019.04.06-19.42.53:005][  0]LogUObjectAllocator: 7585952 out of 0 bytes used by permanent object pool.
+[2019.04.06-19.42.53:005][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.04.06-19.43.19:249][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.04.06-19.43.19:349][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.04.06-19.43.21:947][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2019.04.06-19.43.23:116][  0]SourceControl: Source control is disabled
+[2019.04.06-19.43.28:822][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.04.06-19.43.29:648][  0]LogOcInput: OculusInput pre-init called
+[2019.04.06-19.43.30:438][  0]LogEngine: Initializing Engine...
+[2019.04.06-19.43.30:441][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.04.06-19.43.30:703][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.04.06-19.43.30:703][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.04.06-19.43.31:082][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.04.06-19.43.31:116][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.04.06-19.43.31:214][  0]LogInit: FAudioDevice initialized.
+[2019.04.06-19.43.31:429][  0]LogDerivedDataCache: Saved boot cache 0.21s 78MB C:/Users/lockw/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2019.04.06-19.43.31:454][  0]LogInit: Texture streaming: Enabled
+[2019.04.06-19.43.31:762][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.04.06-19.43.32:146][  0]LogInit: Transaction tracking system initialized
+[2019.04.06-19.43.33:133][  0]BlueprintLog: New page: Editor Load
+[2019.04.06-19.43.35:839][  0]LocalizationService: Localization service is disabled
+[2019.04.06-19.43.38:110][  0]LogConsoleResponse: Display: 
+[2019.04.06-19.43.38:768][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.04.06-19.43.38:768][  0]LogCook: Display: Mobile HDR setting 1
+[2019.04.06-19.43.38:768][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.04.06-19.43.39:525][  0]LogFileCache: Scanning file cache for directory 'C:/Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/' took 0.12s
+[2019.04.06-19.43.42:835][  0]Cmd: MAP LOAD FILE="../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Creations/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.04.06-19.43.42:835][  0]LightingResults: New page: Lighting Build
+[2019.04.06-19.43.42:961][  0]MapCheck: New page: Map Check
+[2019.04.06-19.43.42:961][  0]LightingResults: New page: Lighting Build
+[2019.04.06-19.43.46:349][  0]LogAIModule: Creating AISystem for world MainMenu
+[2019.04.06-19.43.46:351][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.04.06-19.43.46:377][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.04.06-19.43.46:553][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 175.664ms to complete.
+[2019.04.06-19.43.46:553][  0]LogFileHelpers: Loading map 'MainMenu' took 3.718
+[2019.04.06-19.43.46:871][  0]LogCollectionManager: Loaded 0 collections in 0.005681 seconds
+[2019.04.06-19.43.47:064][  0]LogFileCache: Scanning file cache for directory 'C:/Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Saved/Collections/' took 0.01s
+[2019.04.06-19.43.47:064][  0]LogFileCache: Scanning file cache for directory 'C:/Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Developers/Alex/Collections/' took 0.01s
+[2019.04.06-19.43.47:064][  0]LogFileCache: Scanning file cache for directory 'C:/Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Collections/' took 0.01s
+[2019.04.06-19.43.47:064][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.04.06-19.43.47:078][  0]LogContentBrowser: Native class hierarchy populated in 0.0129 seconds. Added 2403 classes and 540 folders.
+[2019.04.06-19.43.47:429][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2019.04.06-19.43.48:308][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.04.06-19.43.48:368][  0]LogSlate: Took 0.000242 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.04.06-19.43.49:173][  0]LogSlate: Took 0.042222 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.04.06-19.43.49:203][  0]LogSlate: Took 0.025274 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.04.06-19.43.49:347][  0]LogRenderer: Reallocating scene render targets to support 1180x592 Format 10 NumSamples 1 (Frame:1).
+[2019.04.06-19.43.49:710][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.04.06-19.43.49:710][  0]LogLoad: (Engine Initialization) Total time: 80.03 seconds
+[2019.04.06-19.43.49:710][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.04.06-19.43.49:711][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2019.04.06-19.43.49:711][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2019.04.06-19.43.50:072][  0]SourceControl: On branch master
+[2019.04.06-19.43.50:073][  0]SourceControl: Changes not staged for commit:
+[2019.04.06-19.43.50:073][  0]SourceControl:   (use "git add/rm <file>..." to update what will be committed)
+[2019.04.06-19.43.50:073][  0]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
+[2019.04.06-19.43.50:073][  0]SourceControl: 	modified:   Illuminate/Content/Creations/GInstances/MainGm.uasset
+[2019.04.06-19.43.50:073][  0]SourceControl: 	modified:   Illuminate/Content/Creations/GInstances/mainPC.uasset
+[2019.04.06-19.43.50:073][  0]SourceControl: 	modified:   Illuminate/Content/Creations/Maps/MultiplayerLobby.umap
+[2019.04.06-19.43.50:073][  0]SourceControl: 	modified:   Illuminate/Content/Creations/Widgets/MultiplayerLobbyWidget.uasset
+[2019.04.06-19.43.50:073][  0]SourceControl: 	modified:   Illuminate/Intermediate/CachedAssetRegistry.bin
+[2019.04.06-19.43.50:073][  0]SourceControl: 	modified:   Illuminate/Saved/Autosaves/Game/Creations/Widgets/MultiplayerLobbyWidget_Auto1.uasset
+[2019.04.06-19.43.50:073][  0]SourceControl: 	deleted:    Illuminate/Saved/Config/CrashReportClient/UE4CC-Windows-0A9FF4E24EA88CB59030A3BFCED5EC5E/CrashReportClient.ini
+[2019.04.06-19.43.50:073][  0]SourceControl: 	deleted:    Illuminate/Saved/Config/CrashReportClient/UE4CC-Windows-28CEF9C5465D34FAABB3A3B31F17AA1C/CrashReportClient.ini
+[2019.04.06-19.43.50:073][  0]SourceControl: 	deleted:    Illuminate/Saved/Config/CrashReportClient/UE4CC-Windows-2D651AE840D307B79E39EE850C115E74/CrashReportClient.ini
+[2019.04.06-19.43.50:073][  0]SourceControl: 	deleted:    Illuminate/Saved/Config/CrashReportClient/UE4CC-Windows-2E9B71CA413BE4D49399E890F43ABCB1/CrashReportClient.ini
+[2019.04.06-19.43.50:073][  0]SourceControl: 	deleted:    Illuminate/Saved/Config/CrashReportClient/UE4CC-Windows-32505D564164D72EFD365984D08739E0/CrashReportClient.ini
+[2019.04.06-19.43.50:073][  0]SourceControl: 	deleted:    Illuminate/Saved/Config/CrashReportClient/UE4CC-Windows-363174ED4E9631BEC1274CBECD57B145/CrashReportClient.ini
+[2019.04.06-19.43.50:073][  0]SourceControl: 	deleted:    Illuminate/Saved/Config/CrashReportClient/UE4CC-Windows-3849B5D441424B717FEA15B475237FB2/CrashReportClient.ini
+[2019.04.06-19.43.50:073][  0]SourceControl: 	deleted:    Illuminate/Saved/Config/CrashReportClient/UE4CC-Windows-45243CFD4AB31CF8363ED791BE61C704/CrashReportClient.ini
+[2019.04.06-19.43.50:073][  0]SourceControl: 	deleted:    Illuminate/Saved/Config/CrashReportClient/UE4CC-Windows-51682BFA4B30273D484BF3BAA3E07A5D/CrashReportClient.ini
+[2019.04.06-19.43.50:073][  0]SourceControl: 	deleted:    Illuminate/Saved/Config/CrashReportClient/UE4CC-Windows-63A924C04C58F6057C8878AFB07DCAF8/CrashReportClient.ini
+[2019.04.06-19.43.50:073][  0]SourceControl: 	deleted:    Illuminate/Saved/Config/CrashReportClient/UE4CC-Windows-8C9892F848585C6BE0C101ABE2F4663F/CrashReportClient.ini
+[2019.04.06-19.43.50:073][  0]SourceControl: 	deleted:    Illuminate/Saved/Config/CrashReportClient/UE4CC-Windows-9B2EC299414CBECB7F643E88EC2045C1/CrashReportClient.ini
+[2019.04.06-19.43.50:073][  0]SourceControl: 	deleted:    Illuminate/Saved/Config/CrashReportClient/UE4CC-Windows-B6590AA041D7CD7280A8D08ED3B86D41/CrashReportClient.ini
+[2019.04.06-19.43.50:073][  0]SourceControl: 	deleted:    Illuminate/Saved/Config/CrashReportClient/UE4CC-Windows-BE83F1CE4FBB9D0421EC84B2F7B8FFCA/CrashReportClient.ini
+[2019.04.06-19.43.50:073][  0]SourceControl: 	deleted:    Illuminate/Saved/Config/CrashReportClient/UE4CC-Windows-C7E02A944529086F69BF29AB4C3B38A4/CrashReportClient.ini
+[2019.04.06-19.43.50:073][  0]SourceControl: 	deleted:    Illuminate/Saved/Config/CrashReportClient/UE4CC-Windows-D0F141AE43DAD412084A519C2B4E57D0/CrashReportClient.ini
+[2019.04.06-19.43.50:073][  0]SourceControl: 	deleted:    Illuminate/Saved/Config/CrashReportClient/UE4CC-Windows-D50781D84D39795AC9C47A8D7779BB58/CrashReportClient.ini
+[2019.04.06-19.43.50:073][  0]SourceControl: 	deleted:    Illuminate/Saved/Config/CrashReportClient/UE4CC-Windows-D660E3A94312E33AE1B13984AEDE032B/CrashReportClient.ini
+[2019.04.06-19.43.50:073][  0]SourceControl: 	deleted:    Illuminate/Saved/Config/CrashReportClient/UE4CC-Windows-E2070A584B56D510BCE30386FCEB6768/CrashReportClient.ini
+[2019.04.06-19.43.50:073][  0]SourceControl: 	deleted:    Illuminate/Saved/Config/CrashReportClient/UE4CC-Windows-E864A709448351F72E7B07BAA5B5436C/CrashReportClient.ini
+[2019.04.06-19.43.50:073][  0]SourceControl: 	deleted:    Illuminate/Saved/Config/CrashReportClient/UE4CC-Windows-FA0D34A947FAE84355ED3B82237849D7/CrashReportClient.ini
+[2019.04.06-19.43.50:073][  0]SourceControl: 	deleted:    Illuminate/Saved/Config/CrashReportClient/UE4CC-Windows-FCB87BC8423C4EEACD4966B425B9298A/CrashReportClient.ini
+[2019.04.06-19.43.50:073][  0]SourceControl: 	deleted:    Illuminate/Saved/Config/CrashReportClient/UE4CC-Windows-FD9120D64255D6AC2BDDA4B973E81090/CrashReportClient.ini
+[2019.04.06-19.43.50:073][  0]SourceControl: 	modified:   Illuminate/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+[2019.04.06-19.43.50:073][  0]SourceControl: 	modified:   Illuminate/Saved/Config/Windows/Engine.ini
+[2019.04.06-19.43.50:073][  0]SourceControl: 	deleted:    Illuminate/Saved/Logs/Illuminate-backup-2019.04.01-23.48.47.log
+[2019.04.06-19.43.50:073][  0]SourceControl: 	deleted:    Illuminate/Saved/Logs/Illuminate-backup-2019.04.02-22.15.04.log
+[2019.04.06-19.43.50:073][  0]SourceControl: 	modified:   Illuminate/Saved/Logs/Illuminate.log
+[2019.04.06-19.43.50:073][  0]SourceControl: 	deleted:    Illuminate/Saved/Logs/Illuminate_2-backup-2019.04.05-21.56.05.log
+[2019.04.06-19.43.50:073][  0]SourceControl: 	deleted:    Illuminate/Saved/Logs/Illuminate_2-backup-2019.04.05-21.59.20.log
+[2019.04.06-19.43.50:073][  0]SourceControl: 	deleted:    Illuminate/Saved/Logs/Illuminate_2-backup-2019.04.05-21.59.59.log
+[2019.04.06-19.43.50:073][  0]SourceControl: 	deleted:    Illuminate/Saved/Logs/Illuminate_2-backup-2019.04.05-22.03.47.log
+[2019.04.06-19.43.50:073][  0]SourceControl: 	deleted:    Illuminate/Saved/Logs/Illuminate_2-backup-2019.04.05-22.04.14.log
+[2019.04.06-19.43.50:073][  0]SourceControl: 	deleted:    Illuminate/Saved/Logs/Illuminate_2-backup-2019.04.05-22.04.23.log
+[2019.04.06-19.43.50:073][  0]SourceControl: 	modified:   Illuminate/Saved/Logs/Illuminate_2.log
+[2019.04.06-19.43.50:073][  0]SourceControl: 	deleted:    Illuminate/Saved/Logs/Illuminate_3-backup-2019.04.05-21.56.05.log
+[2019.04.06-19.43.50:073][  0]SourceControl: 	deleted:    Illuminate/Saved/Logs/Illuminate_3-backup-2019.04.05-21.59.20.log
+[2019.04.06-19.43.50:073][  0]SourceControl: 	deleted:    Illuminate/Saved/Logs/Illuminate_3-backup-2019.04.05-21.59.59.log
+[2019.04.06-19.43.50:073][  0]SourceControl: 	deleted:    Illuminate/Saved/Logs/Illuminate_3-backup-2019.04.05-22.03.48.log
+[2019.04.06-19.43.50:073][  0]SourceControl: 	deleted:    Illuminate/Saved/Logs/Illuminate_3-backup-2019.04.05-22.04.14.log
+[2019.04.06-19.43.50:073][  0]SourceControl: 	modified:   Illuminate/Saved/Logs/Illuminate_3.log
+[2019.04.06-19.43.50:073][  0]SourceControl: 	deleted:    Illuminate/Saved/Logs/Illuminate_4-backup-2019.04.05-21.56.05.log
+[2019.04.06-19.43.50:073][  0]SourceControl: 	deleted:    Illuminate/Saved/Logs/Illuminate_4-backup-2019.04.05-21.59.20.log
+[2019.04.06-19.43.50:073][  0]SourceControl: 	deleted:    Illuminate/Saved/Logs/Illuminate_4-backup-2019.04.05-21.59.59.log
+[2019.04.06-19.43.50:073][  0]SourceControl: 	deleted:    Illuminate/Saved/Logs/Illuminate_4-backup-2019.04.05-22.03.48.log
+[2019.04.06-19.43.50:073][  0]SourceControl: 	deleted:    Illuminate/Saved/Logs/Illuminate_4-backup-2019.04.05-22.04.14.log
+[2019.04.06-19.43.50:073][  0]SourceControl: 	modified:   Illuminate/Saved/Logs/Illuminate_4.log
+[2019.04.06-19.43.50:074][  0]SourceControl: Untracked files:
+[2019.04.06-19.43.50:074][  0]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2019.04.06-19.43.50:074][  0]SourceControl: 	Illuminate/Saved/Backup/MainGm_2019-04-06-11-46-33.uasset
+[2019.04.06-19.43.50:074][  0]SourceControl: 	Illuminate/Saved/Backup/MultiplayerLobbyWidget_2019-04-06-11-55-30.uasset
+[2019.04.06-19.43.50:074][  0]SourceControl: 	Illuminate/Saved/Backup/MultiplayerLobbyWidget_2019-04-06-12-02-09.uasset
+[2019.04.06-19.43.50:074][  0]SourceControl: 	Illuminate/Saved/Backup/MultiplayerLobby_2019-04-06-11-49-27.umap
+[2019.04.06-19.43.50:074][  0]SourceControl: 	Illuminate/Saved/Backup/MultiplayerLobby_2019-04-06-12-04-31.umap
+[2019.04.06-19.43.50:074][  0]SourceControl: 	Illuminate/Saved/Backup/mainPC_2019-04-06-11-46-34.uasset
+[2019.04.06-19.43.50:074][  0]SourceControl: 	Illuminate/Saved/Config/CrashReportClient/UE4CC-Windows-095E05364FD0AAB87E9172B8297A66A1/
+[2019.04.06-19.43.50:074][  0]SourceControl: 	Illuminate/Saved/Config/CrashReportClient/UE4CC-Windows-14C1908A4300573D3777E49A9B2E16E5/
+[2019.04.06-19.43.50:074][  0]SourceControl: 	Illuminate/Saved/Config/CrashReportClient/UE4CC-Windows-3480A5314B52A9EF7F5BBEA0905A0B06/
+[2019.04.06-19.43.50:074][  0]SourceControl: 	Illuminate/Saved/Config/CrashReportClient/UE4CC-Windows-4AD2F58F43BD7EA55A24E4879356E062/
+[2019.04.06-19.43.50:074][  0]SourceControl: 	Illuminate/Saved/Config/CrashReportClient/UE4CC-Windows-4B1E4FA94B855A607E08F7A055F7A0C8/
+[2019.04.06-19.43.50:074][  0]SourceControl: 	Illuminate/Saved/Config/CrashReportClient/UE4CC-Windows-4ED82B1B41F1EE4B2FF30BBD45B93DAD/
+[2019.04.06-19.43.50:074][  0]SourceControl: 	Illuminate/Saved/Config/CrashReportClient/UE4CC-Windows-5AA56DB74C4CFA07AE52609779290721/
+[2019.04.06-19.43.50:074][  0]SourceControl: 	Illuminate/Saved/Config/CrashReportClient/UE4CC-Windows-65149C1A49F8B8C8298AE28786398899/
+[2019.04.06-19.43.50:074][  0]SourceControl: 	Illuminate/Saved/Config/CrashReportClient/UE4CC-Windows-74A2107643616CFA840E70AAA26470B8/
+[2019.04.06-19.43.50:074][  0]SourceControl: 	Illuminate/Saved/Config/CrashReportClient/UE4CC-Windows-7E0A202942473925D8003EA13FE036B2/
+[2019.04.06-19.43.50:074][  0]SourceControl: 	Illuminate/Saved/Config/CrashReportClient/UE4CC-Windows-82A800C446E8DB54120DAD8B34F555A1/
+[2019.04.06-19.43.50:074][  0]SourceControl: 	Illuminate/Saved/Config/CrashReportClient/UE4CC-Windows-856504D64C10822796B76994E19A0E0D/
+[2019.04.06-19.43.50:074][  0]SourceControl: 	Illuminate/Saved/Config/CrashReportClient/UE4CC-Windows-A18C272A47BAB2E7F06B14A69B34FBAF/
+[2019.04.06-19.43.50:074][  0]SourceControl: 	Illuminate/Saved/Config/CrashReportClient/UE4CC-Windows-A1F519634282734CBCE8AFAC7FA6089E/
+[2019.04.06-19.43.50:074][  0]SourceControl: 	Illuminate/Saved/Config/CrashReportClient/UE4CC-Windows-A6340ED14FCB9C1F4AB9948A59AB5A09/
+[2019.04.06-19.43.50:074][  0]SourceControl: 	Illuminate/Saved/Config/CrashReportClient/UE4CC-Windows-A8E9463348AF684B8F21829EC6CF2221/
+[2019.04.06-19.43.50:074][  0]SourceControl: 	Illuminate/Saved/Config/CrashReportClient/UE4CC-Windows-B2D7636F4672474D5BC30B88B6B7659A/
+[2019.04.06-19.43.50:074][  0]SourceControl: 	Illuminate/Saved/Config/CrashReportClient/UE4CC-Windows-B48E665646AE475028B0D68D13E4BCCC/
+[2019.04.06-19.43.50:074][  0]SourceControl: 	Illuminate/Saved/Config/CrashReportClient/UE4CC-Windows-E35BEEE34CA288DACF6D1F97215044FF/
+[2019.04.06-19.43.50:074][  0]SourceControl: 	Illuminate/Saved/Config/CrashReportClient/UE4CC-Windows-E75924B7475CF8F5AF5578B76944F11D/
+[2019.04.06-19.43.50:074][  0]SourceControl: 	Illuminate/Saved/Logs/Illuminate-backup-2019.04.06-11.30.41.log
+[2019.04.06-19.43.50:074][  0]SourceControl: 	Illuminate/Saved/Logs/Illuminate-backup-2019.04.06-12.42.31.log
+[2019.04.06-19.43.50:074][  0]SourceControl: 	Illuminate/Saved/Logs/Illuminate_2-backup-2019.04.06-11.49.33.log
+[2019.04.06-19.43.50:074][  0]SourceControl: 	Illuminate/Saved/Logs/Illuminate_2-backup-2019.04.06-11.49.37.log
+[2019.04.06-19.43.50:074][  0]SourceControl: 	Illuminate/Saved/Logs/Illuminate_2-backup-2019.04.06-11.55.37.log
+[2019.04.06-19.43.50:074][  0]SourceControl: 	Illuminate/Saved/Logs/Illuminate_2-backup-2019.04.06-11.57.56.log
+[2019.04.06-19.43.50:075][  0]SourceControl: 	Illuminate/Saved/Logs/Illuminate_2-backup-2019.04.06-12.04.37.log
+[2019.04.06-19.43.50:075][  0]SourceControl: 	Illuminate/Saved/Logs/Illuminate_2-backup-2019.04.06-12.05.43.log
+[2019.04.06-19.43.50:075][  0]SourceControl: 	Illuminate/Saved/Logs/Illuminate_3-backup-2019.04.06-11.49.33.log
+[2019.04.06-19.43.50:075][  0]SourceControl: 	Illuminate/Saved/Logs/Illuminate_3-backup-2019.04.06-11.55.37.log
+[2019.04.06-19.43.50:075][  0]SourceControl: 	Illuminate/Saved/Logs/Illuminate_3-backup-2019.04.06-11.57.56.log
+[2019.04.06-19.43.50:075][  0]SourceControl: 	Illuminate/Saved/Logs/Illuminate_3-backup-2019.04.06-12.04.37.log
+[2019.04.06-19.43.50:075][  0]SourceControl: 	Illuminate/Saved/Logs/Illuminate_3-backup-2019.04.06-12.05.43.log
+[2019.04.06-19.43.50:075][  0]SourceControl: 	Illuminate/Saved/Logs/Illuminate_4-backup-2019.04.06-11.49.33.log
+[2019.04.06-19.43.50:075][  0]SourceControl: 	Illuminate/Saved/Logs/Illuminate_4-backup-2019.04.06-11.55.37.log
+[2019.04.06-19.43.50:075][  0]SourceControl: 	Illuminate/Saved/Logs/Illuminate_4-backup-2019.04.06-11.57.56.log
+[2019.04.06-19.43.50:075][  0]SourceControl: 	Illuminate/Saved/Logs/Illuminate_4-backup-2019.04.06-12.04.37.log
+[2019.04.06-19.43.50:075][  0]SourceControl: 	Illuminate/Saved/Logs/Illuminate_4-backup-2019.04.06-12.05.43.log
+[2019.04.06-19.43.50:075][  0]SourceControl: no changes added to commit (use "git add" and/or "git commit -a")
+[2019.04.06-19.43.50:075][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.04.06-19.43.50:144][  0]LogSlate: Took 0.000246 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2019.04.06-19.43.50:730][  2]LogAssetRegistry: Asset discovery search completed in 58.6726 seconds
+[2019.04.06-19.43.50:735][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.04.06-19.43.50:735][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000076 seconds (updated 0 objects)
+[2019.04.06-19.43.51:069][  3]LogSlate: Took 0.000287 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2019.04.06-19.44.22:899][217]LogSlate: Took 0.000308 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2019.04.06-19.44.23:322][217]LogClass: Warning: Enum '/Game/AdvancedMagicFX13/DemoRoomData/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2019.04.06-19.44.23:473][217]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0016 seconds. Added 116 classes and 0 folders.
+[2019.04.06-19.44.29:993][217]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+	mainPC_C /Engine/Transient.World_5:PersistentLevel.mainPC_C_0
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC:0A40
+[2019.04.06-19.44.29:999][217]LogSlate: Took 0.000341 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.04.06-19.44.30:101][218]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+	mainPC_C /Engine/Transient.World_5:PersistentLevel.mainPC_C_0
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC:0A40
+[2019.04.06-19.44.30:142][219]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+	mainPC_C /Engine/Transient.World_5:PersistentLevel.mainPC_C_0
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC:0A40
+[2019.04.06-19.44.30:176][220]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+	mainPC_C /Engine/Transient.World_5:PersistentLevel.mainPC_C_0
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC:0A40
+[2019.04.06-19.44.30:207][221]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+	mainPC_C /Engine/Transient.World_5:PersistentLevel.mainPC_C_0
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC:0A40
+[2019.04.06-19.44.30:244][222]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+	mainPC_C /Engine/Transient.World_5:PersistentLevel.mainPC_C_0
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC:0A40
+[2019.04.06-19.44.30:261][223]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+	mainPC_C /Engine/Transient.World_5:PersistentLevel.mainPC_C_0
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC:0A40
+[2019.04.06-19.44.30:283][224]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+	mainPC_C /Engine/Transient.World_5:PersistentLevel.mainPC_C_0
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC:0A40
+[2019.04.06-19.44.30:303][225]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+	mainPC_C /Engine/Transient.World_5:PersistentLevel.mainPC_C_0
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC:0A40
+[2019.04.06-19.44.30:323][226]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+	mainPC_C /Engine/Transient.World_5:PersistentLevel.mainPC_C_0
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC:0A40
+[2019.04.06-19.44.30:345][227]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+	mainPC_C /Engine/Transient.World_5:PersistentLevel.mainPC_C_0
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC:0A40
+[2019.04.06-19.44.30:367][228]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+	mainPC_C /Engine/Transient.World_5:PersistentLevel.mainPC_C_0
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC:0A40
+[2019.04.06-19.44.30:390][229]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+	mainPC_C /Engine/Transient.World_5:PersistentLevel.mainPC_C_0
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC:0A40
+[2019.04.06-19.44.30:416][230]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+	mainPC_C /Engine/Transient.World_5:PersistentLevel.mainPC_C_0
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC:0A40
+[2019.04.06-19.44.30:444][231]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+	mainPC_C /Engine/Transient.World_5:PersistentLevel.mainPC_C_0
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC:0A40
+[2019.04.06-19.44.30:468][232]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+	mainPC_C /Engine/Transient.World_5:PersistentLevel.mainPC_C_0
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC:0A40
+[2019.04.06-19.44.30:490][233]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+	mainPC_C /Engine/Transient.World_5:PersistentLevel.mainPC_C_0
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC:0A40
+[2019.04.06-19.44.42:558][837]LogConsoleManager: Warning: Performance warning: Console object named 'r.DebugSafeZone.Mode' shows many (500) FindConsoleObject() calls (consider caching e.g. using static)
+[2019.04.06-19.44.57:905][645]LogSlate: Took 0.000390 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.04.06-19.50.44:119][751]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UUserWidget::GetOwningPlayer' [Element not found.]
+[2019.04.06-19.51.28:454][230]BlueprintLog: New page: Compile MultiplayerLobbyWidget
+[2019.04.06-19.51.31:522][372]LogTemp: Repeating last play command: Standalone Game
+[2019.04.06-19.51.33:314][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Creations/GInstances/mainPC" FILE="../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Creations/GInstances/mainPC.uasset" SILENT=true
+[2019.04.06-19.51.33:852][372]LogSavePackage: Save=444.13ms
+[2019.04.06-19.51.33:852][372]LogSavePackage: Moving '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Saved/mainPC67717C8146A62BBCAF320AB79B39E365.tmp' to '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Creations/GInstances/mainPC.uasset'
+[2019.04.06-19.51.33:857][372]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Creations/GInstances/mainPC.uasset
+[2019.04.06-19.51.34:152][372]LogSavePackage: Save=201.36ms
+[2019.04.06-19.51.34:152][372]LogSavePackage: Moving '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Saved/MultiplayerLobbyWidget99629A694EE1732E3D3EFAA36C168ED6.tmp' to '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Creations/Widgets/MultiplayerLobbyWidget.uasset'
+[2019.04.06-19.51.34:157][372]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Creations/Widgets/MultiplayerLobbyWidget.uasset
+[2019.04.06-19.53.28:669][400]BlueprintLog: New page: Compile MultiplayerLobbyWidget
+[2019.04.06-19.53.36:646][632]LogTemp: Repeating last play command: Standalone Game
+[2019.04.06-19.53.38:801][632]LogSavePackage: Save=192.27ms
+[2019.04.06-19.53.38:801][632]LogSavePackage: Moving '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Saved/MultiplayerLobbyWidget70FAB89345C3037C252368A5583797F2.tmp' to '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Creations/Widgets/MultiplayerLobbyWidget.uasset'
+[2019.04.06-19.53.38:807][632]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Creations/Widgets/MultiplayerLobbyWidget.uasset
+[2019.04.06-19.55.25:379][233]BlueprintLog: New page: Compile MultiplayerLobbyWidget
+[2019.04.06-19.55.29:857][241]LogTemp: Repeating last play command: Standalone Game
+[2019.04.06-19.55.32:039][241]LogSavePackage: Save=242.05ms
+[2019.04.06-19.55.32:039][241]LogSavePackage: Moving '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Saved/MultiplayerLobbyWidgetA5FB2BCB47365D27352C989C02C29D0D.tmp' to '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Creations/Widgets/MultiplayerLobbyWidget.uasset'
+[2019.04.06-19.55.32:045][241]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Creations/Widgets/MultiplayerLobbyWidget.uasset
+[2019.04.06-19.55.59:672][ 58]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Creations/Maps/MainMenu' took 0.081
+[2019.04.06-19.55.59:676][ 58]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Creations/Widgets/MultiplayerLobbyWidget] ([1] browsable assets)...
+[2019.04.06-19.55.59:676][ 58]OBJ SavePackage: Finished generating thumbnails for package [/Game/Creations/Widgets/MultiplayerLobbyWidget]
+[2019.04.06-19.56.00:231][ 58]LogSavePackage: Save=405.84ms
+[2019.04.06-19.56.00:232][ 58]LogSavePackage: Moving '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Saved/MultiplayerLobbyWidget_Auto15247761742C0FEFEE916788043C77537.tmp' to '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Saved/Autosaves/Game/Creations/Widgets/MultiplayerLobbyWidget_Auto1.uasset'
+[2019.04.06-19.56.00:247][ 58]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Saved/Autosaves/Game/Creations/Widgets/MultiplayerLobbyWidget_Auto1.uasset
+[2019.04.06-19.56.00:247][ 58]LogFileHelpers: Auto-saving content packages took 0.573
+[2019.04.06-19.58.14:247][105]LogAIModule: Creating AISystem for world MultiplayerLobby
+[2019.04.06-19.58.16:343][105]LogSavePackage: Save=275.07ms
+[2019.04.06-19.58.16:343][105]LogSavePackage: Moving '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Saved/MultiplayerLobbyWidget7EC7DB624C971C00A113E4925F756132.tmp' to '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Creations/Widgets/MultiplayerLobbyWidget.uasset'
+[2019.04.06-19.58.16:350][105]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Creations/Widgets/MultiplayerLobbyWidget.uasset
+[2019.04.06-19.58.16:352][105]Cmd: MAP LOAD FILE="../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Creations/Maps/MultiplayerLobby.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.04.06-19.58.16:352][105]LightingResults: New page: Lighting Build
+[2019.04.06-19.58.16:353][105]LoadErrors: New page: Loading map: MultiplayerLobby.umap
+[2019.04.06-19.58.16:353][105]MapCheck: New page: Map Check
+[2019.04.06-19.58.16:353][105]LightingResults: New page: Lighting Build
+[2019.04.06-19.58.16:401][105]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.04.06-19.58.16:446][105]LogSlate: Took 0.000339 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.04.06-19.58.16:518][105]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.04.06-19.58.16:772][105]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 253.695ms to complete.
+[2019.04.06-19.58.16:774][105]LogFileHelpers: Loading map 'MultiplayerLobby' took 0.423
+[2019.04.06-20.03.23:825][745]BlueprintLog: New page: Compile MultiplayerLobby
+[2019.04.06-20.04.01:607][968]LogEditorTransaction: Undo Delete current selection
+[2019.04.06-20.05.28:175][971]BlueprintLog: New page: Compile MainInstance
+[2019.04.06-20.06.22:169][758]LogBlueprint: Warning: [MainInstance] 'playerLobbyWidget' variable not found. Base class was probably changed. /Game/Creations/GInstances/MainInstance.MainInstance
+[2019.04.06-20.06.22:170][758]LogBlueprint: Warning: [MainInstance] 'infosArr' variable not found. Base class was probably changed. /Game/Creations/GInstances/MainInstance.MainInstance
+[2019.04.06-20.06.22:171][758]LogBlueprint: Warning: [MainInstance] 'InfosArr' variable not found. Base class was probably changed. /Game/Creations/GInstances/MainInstance.MainInstance
+[2019.04.06-20.07.33:975][440]BlueprintLog: New page: Compile MainInstance
+[2019.04.06-20.07.34:237][440]LogBlueprint: Error: [Compiler MainInstance] COMPILER ERROR: failed building connection with 'Main PC Object Reference is not compatible with Self Object Reference.' at  Get (a copy)
+[2019.04.06-20.07.34:250][440]LogBlueprint: Error: [Compiler MainInstance] Could not find a function named "ClientUpdatePlayerList" in 'MainInstance_C'.
+Make sure 'MainInstance_C' has been compiled for  Client Update Player List
+[2019.04.06-20.07.34:422][440]LogBlueprint: Warning: [Compiler MainInstance] [1504.74] Compile of MainInstance failed. 2 Fatal Issue(s) 0 Warning(s) [in 446 ms] (/Game/Creations/GInstances/MainInstance.MainInstance)
+[2019.04.06-20.08.18:869][903]LogSavePackage: Save=324.72ms
+[2019.04.06-20.08.18:870][903]LogSavePackage: Moving '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Saved/MultiplayerLobby_Auto23B88B8B64E4821C5C42EECBA0302BC3B.tmp' to '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Saved/Autosaves/Game/Creations/Maps/MultiplayerLobby_Auto2.umap'
+[2019.04.06-20.08.18:872][903]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Saved/Autosaves/Game/Creations/Maps/MultiplayerLobby_Auto2.umap
+[2019.04.06-20.08.18:876][903]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Creations/Maps/MultiplayerLobby' took 0.493
+[2019.04.06-20.08.18:876][903]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.493
+[2019.04.06-20.08.18:888][903]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Creations/GInstances/MainInstance] ([1] browsable assets)...
+[2019.04.06-20.08.18:888][903]OBJ SavePackage: Finished generating thumbnails for package [/Game/Creations/GInstances/MainInstance]
+[2019.04.06-20.08.19:170][903]LogSavePackage: Save=167.63ms
+[2019.04.06-20.08.19:170][903]LogSavePackage: Moving '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Saved/MainInstance_Auto2C511C4314066E5226E60D284637BF411.tmp' to '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Saved/Autosaves/Game/Creations/GInstances/MainInstance_Auto2.uasset'
+[2019.04.06-20.08.19:174][903]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Saved/Autosaves/Game/Creations/GInstances/MainInstance_Auto2.uasset
+[2019.04.06-20.08.19:174][903]LogFileHelpers: Auto-saving content packages took 0.287
+[2019.04.06-20.20.23:665][761]BlueprintLog: New page: Compile mainPC
+[2019.04.06-20.21.00:633][636]BlueprintLog: New page: Compile MainInstance
+[2019.04.06-20.22.04:450][675]BlueprintLog: New page: Compile mainPC
+[2019.04.06-20.22.07:106][718]LogTemp: Repeating last play command: Standalone Game
+[2019.04.06-20.22.10:532][718]LogSavePackage: Save=224.77ms
+[2019.04.06-20.22.10:532][718]LogSavePackage: Moving '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Saved/MainInstanceE097E98B4D0E1A0DE6ACCE8D3DFFA715.tmp' to '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Creations/GInstances/MainInstance.uasset'
+[2019.04.06-20.22.10:543][718]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Creations/GInstances/MainInstance.uasset
+[2019.04.06-20.22.10:556][718]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Creations/GInstances/mainPC" FILE="../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Creations/GInstances/mainPC.uasset" SILENT=true
+[2019.04.06-20.22.11:292][718]LogSavePackage: Save=620.77ms
+[2019.04.06-20.22.11:292][718]LogSavePackage: Moving '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Saved/mainPCE65D975C4BB0383EACD8CEB387B18BC2.tmp' to '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Creations/GInstances/mainPC.uasset'
+[2019.04.06-20.22.11:299][718]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Creations/GInstances/mainPC.uasset
+[2019.04.06-20.22.12:152][718]LogSavePackage: Save=407.67ms
+[2019.04.06-20.22.12:152][718]LogSavePackage: Moving '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Saved/MultiplayerLobby9F71FD3F440A060AD137CC96728889B8.tmp' to '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Creations/Maps/MultiplayerLobby.umap'
+[2019.04.06-20.22.12:162][718]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Creations/Maps/MultiplayerLobby.umap
+[2019.04.06-20.22.12:297][718]LogFileHelpers: Saving map 'MultiplayerLobby' took 0.992
+[2019.04.06-20.24.21:357][997]BlueprintLog: New page: Compile MainInstance
+[2019.04.06-20.28.08:718][620]BlueprintLog: New page: Compile MultiplayerLobby
+[2019.04.06-20.28.08:785][620]LogBlueprint: Error: [Compiler PersistentLevel.MultiplayerLobby] Could not find an event-dispatcher named "updateWidgetDispatcher" in 'MultiplayerLobby_C'.
+Make sure 'MultiplayerLobby_C' has been compiled for  Call updateWidgetDispatcher
+[2019.04.06-20.28.08:785][620]LogBlueprint: Error: [Compiler PersistentLevel.MultiplayerLobby] Could not find an event-dispatcher named "updateWidgetDispatcher" in 'MultiplayerLobby_C'.
+Make sure 'MultiplayerLobby_C' has been compiled for  Call updateWidgetDispatcher
+[2019.04.06-20.28.08:986][620]LogBlueprint: Warning: [Compiler PersistentLevel.MultiplayerLobby] [2739.31] Compile of PersistentLevel.MultiplayerLobby failed. 2 Fatal Issue(s) 0 Warning(s) [in 266 ms] (/Game/Creations/Maps/MultiplayerLobby.MultiplayerLobby:PersistentLevel.MultiplayerLobby)
+[2019.04.06-20.28.21:428][360]BlueprintLog: New page: Compile MultiplayerLobby
+[2019.04.06-20.29.10:036][189]BlueprintLog: New page: Compile MultiplayerLobby
+[2019.04.06-20.29.12:049][296]LogTemp: Repeating last play command: Standalone Game
+[2019.04.06-20.29.13:899][296]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Creations/GInstances/MainGm" FILE="../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Creations/GInstances/MainGm.uasset" SILENT=true
+[2019.04.06-20.29.14:161][296]LogSavePackage: Save=134.79ms
+[2019.04.06-20.29.14:161][296]LogSavePackage: Moving '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Saved/MainGmE966330043ABE7F982675F92AADBD040.tmp' to '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Creations/GInstances/MainGm.uasset'
+[2019.04.06-20.29.14:166][296]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Creations/GInstances/MainGm.uasset
+[2019.04.06-20.29.14:351][296]LogSavePackage: Save=98.12ms
+[2019.04.06-20.29.14:351][296]LogSavePackage: Moving '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Saved/MainInstance5C11A75C4C4FA1195E0C5C861AB97FB7.tmp' to '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Creations/GInstances/MainInstance.uasset'
+[2019.04.06-20.29.14:356][296]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Creations/GInstances/MainInstance.uasset
+[2019.04.06-20.29.14:360][296]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Creations/GInstances/mainPC" FILE="../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Creations/GInstances/mainPC.uasset" SILENT=true
+[2019.04.06-20.29.14:838][296]LogSavePackage: Save=393.91ms
+[2019.04.06-20.29.14:838][296]LogSavePackage: Moving '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Saved/mainPC5670CD614F43126F684BF495F1467E0F.tmp' to '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Creations/GInstances/mainPC.uasset'
+[2019.04.06-20.29.14:842][296]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Creations/GInstances/mainPC.uasset
+[2019.04.06-20.29.15:376][296]LogSavePackage: Save=240.26ms
+[2019.04.06-20.29.15:376][296]LogSavePackage: Moving '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Saved/MultiplayerLobby56F1BF3947B2BA7D7EA658A461B5CEF0.tmp' to '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Creations/Maps/MultiplayerLobby.umap'
+[2019.04.06-20.29.15:381][296]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Creations/Maps/MultiplayerLobby.umap
+[2019.04.06-20.29.15:433][296]LogFileHelpers: Saving map 'MultiplayerLobby' took 0.588
+[2019.04.06-20.30.42:121][671]BlueprintLog: New page: Compile MultiplayerLobby
+[2019.04.06-20.30.49:456][ 37]BlueprintLog: New page: Compile MultiplayerLobby
+[2019.04.06-20.31.03:736][641]BlueprintLog: New page: Compile mainPC
+[2019.04.06-20.31.10:464][877]LogSavePackage: Save=347.03ms
+[2019.04.06-20.31.10:464][877]LogSavePackage: Moving '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Saved/MultiplayerLobbyE424BEBB4997F914538F64B398EF3A75.tmp' to '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Creations/Maps/MultiplayerLobby.umap'
+[2019.04.06-20.31.10:471][877]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Creations/Maps/MultiplayerLobby.umap
+[2019.04.06-20.31.10:551][877]LogFileHelpers: Saving map 'MultiplayerLobby' took 0.809
+[2019.04.06-20.31.10:555][877]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Creations/GInstances/mainPC" FILE="../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Creations/GInstances/mainPC.uasset" SILENT=true
+[2019.04.06-20.31.11:212][877]LogSavePackage: Save=551.73ms
+[2019.04.06-20.31.11:212][877]LogSavePackage: Moving '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Saved/mainPCBE6A753D456C772707551AA8D9A0C4B8.tmp' to '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Creations/GInstances/mainPC.uasset'
+[2019.04.06-20.31.11:218][877]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Creations/GInstances/mainPC.uasset
+[2019.04.06-20.31.11:861][901]LogAIModule: Creating AISystem for world MainMenu
+[2019.04.06-20.31.11:936][901]Cmd: MAP LOAD FILE="../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Creations/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.04.06-20.31.11:936][901]LightingResults: New page: Lighting Build
+[2019.04.06-20.31.11:938][901]LoadErrors: New page: Loading map: MainMenu.umap
+[2019.04.06-20.31.12:055][901]MapCheck: New page: Map Check
+[2019.04.06-20.31.12:055][901]LightingResults: New page: Lighting Build
+[2019.04.06-20.31.12:109][901]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.04.06-20.31.12:227][901]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.04.06-20.31.12:467][901]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 240.355ms to complete.
+[2019.04.06-20.31.12:469][901]LogFileHelpers: Loading map 'MainMenu' took 0.536
+[2019.04.06-20.31.13:166][940]LogTemp: Repeating last play command: Standalone Game
+[2019.04.06-20.34.49:644][ 81]BlueprintLog: New page: Compile MainGm
+[2019.04.06-20.36.36:779][273]BlueprintLog: New page: Compile mainPC
+[2019.04.06-20.36.37:278][273]LogBlueprint: Error: [Compiler MultiplayerLobbyWidget] In use pin  <Unnamed>  no longer exists on node  Start Update Player Info . Please refresh node or break links to remove pin.
+[2019.04.06-20.36.37:278][273]LogBlueprint: Error: [Compiler MultiplayerLobbyWidget] In use pin  <Unnamed>  no longer exists on node  Start Update Player Info . Please refresh node or break links to remove pin.
+[2019.04.06-20.36.37:278][273]LogBlueprint: Error: [Compiler MultiplayerLobbyWidget] In use pin  Target  no longer exists on node  Start Update Player Info . Please refresh node or break links to remove pin.
+[2019.04.06-20.36.37:278][273]LogBlueprint: Error: [Compiler MultiplayerLobbyWidget] Could not find a function named "StartUpdatePlayerInfo" in 'mainPC_C'.
+Make sure 'mainPC_C' has been compiled for  Start Update Player Info
+[2019.04.06-20.36.37:382][273]LogBlueprint: Warning: [Compiler MultiplayerLobbyWidget] [3247.70] Compile of MultiplayerLobbyWidget failed. 4 Fatal Issue(s) 0 Warning(s) [in 502 ms] (/Game/Creations/Widgets/MultiplayerLobbyWidget.MultiplayerLobbyWidget)
+[2019.04.06-20.37.26:683][547]BlueprintLog: New page: Compile MultiplayerLobbyWidget
+[2019.04.06-20.37.26:980][547]LogBlueprint: Error: [Compiler MultiplayerLobbyWidget] In use pin  <Unnamed>  no longer exists on node  Start Update Player Info . Please refresh node or break links to remove pin.
+[2019.04.06-20.37.26:981][547]LogBlueprint: Error: [Compiler MultiplayerLobbyWidget] In use pin  <Unnamed>  no longer exists on node  Start Update Player Info . Please refresh node or break links to remove pin.
+[2019.04.06-20.37.26:981][547]LogBlueprint: Error: [Compiler MultiplayerLobbyWidget] In use pin  Target  no longer exists on node  Start Update Player Info . Please refresh node or break links to remove pin.
+[2019.04.06-20.37.26:981][547]LogBlueprint: Error: [Compiler MultiplayerLobbyWidget] Could not find a function named "StartUpdatePlayerInfo" in 'mainPC_C'.
+Make sure 'mainPC_C' has been compiled for  Start Update Player Info
+[2019.04.06-20.37.27:414][547]LogBlueprint: Warning: [Compiler MultiplayerLobbyWidget] [3297.73] Compile of MultiplayerLobbyWidget failed. 4 Fatal Issue(s) 0 Warning(s) [in 730 ms] (/Game/Creations/Widgets/MultiplayerLobbyWidget.MultiplayerLobbyWidget)
+[2019.04.06-20.37.42:021][219]BlueprintLog: New page: Compile MultiplayerLobbyWidget
+[2019.04.06-20.38.55:078][888]BlueprintLog: New page: Compile mainPC
+[2019.04.06-20.39.43:289][499]BlueprintLog: New page: Compile MultiplayerLobbyWidget
+[2019.04.06-20.40.02:260][555]BlueprintLog: New page: Compile MultiplayerLobbyWidget
+[2019.04.06-20.40.03:197][573]LogTemp: Repeating last play command: Standalone Game
+[2019.04.06-20.40.06:132][573]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Creations/GInstances/MainGm" FILE="../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Creations/GInstances/MainGm.uasset" SILENT=true
+[2019.04.06-20.40.06:388][573]LogSavePackage: Save=131.25ms
+[2019.04.06-20.40.06:388][573]LogSavePackage: Moving '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Saved/MainGmFB42FBA840952AF3FB5C0FBC5C8F062D.tmp' to '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Creations/GInstances/MainGm.uasset'
+[2019.04.06-20.40.06:393][573]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Creations/GInstances/MainGm.uasset
+[2019.04.06-20.40.06:397][573]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Creations/GInstances/mainPC" FILE="../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Creations/GInstances/mainPC.uasset" SILENT=true
+[2019.04.06-20.40.06:879][573]LogSavePackage: Save=370.87ms
+[2019.04.06-20.40.06:879][573]LogSavePackage: Moving '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Saved/mainPC1945C0154A97C67AED51E188ABA7C5C3.tmp' to '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Creations/GInstances/mainPC.uasset'
+[2019.04.06-20.40.06:884][573]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Creations/GInstances/mainPC.uasset
+[2019.04.06-20.40.07:121][573]LogSavePackage: Save=151.10ms
+[2019.04.06-20.40.07:121][573]LogSavePackage: Moving '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Saved/MultiplayerLobbyWidget53E75E864018AF47C6109FAE10B567A5.tmp' to '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Creations/Widgets/MultiplayerLobbyWidget.uasset'
+[2019.04.06-20.40.07:127][573]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Creations/Widgets/MultiplayerLobbyWidget.uasset
+[2019.04.06-20.40.11:065][742]Cmd: MAP LOAD FILE="../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Creations/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.04.06-20.40.11:065][742]LightingResults: New page: Lighting Build
+[2019.04.06-20.40.11:067][742]LoadErrors: New page: Loading map: MainMenu.umap
+[2019.04.06-20.40.11:067][742]MapCheck: New page: Map Check
+[2019.04.06-20.40.11:067][742]LightingResults: New page: Lighting Build
+[2019.04.06-20.40.11:299][742]LogAIModule: Creating AISystem for world MainMenu
+[2019.04.06-20.40.11:302][742]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.04.06-20.40.11:466][742]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.04.06-20.40.11:771][742]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 304.873ms to complete.
+[2019.04.06-20.40.11:773][742]LogFileHelpers: Loading map 'MainMenu' took 0.710
+[2019.04.06-20.40.31:958][ 12]LogTemp: Repeating last play command: Standalone Game
+[2019.04.06-20.43.25:832][944]BlueprintLog: New page: Compile mainPC
+[2019.04.06-20.43.50:121][ 47]BlueprintLog: New page: Compile mainPC
+[2019.04.06-20.44.01:371][531]LogTemp: Repeating last play command: Standalone Game
+[2019.04.06-20.44.03:142][531]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Creations/GInstances/mainPC" FILE="../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Creations/GInstances/mainPC.uasset" SILENT=true
+[2019.04.06-20.44.03:840][531]LogSavePackage: Save=610.42ms
+[2019.04.06-20.44.03:840][531]LogSavePackage: Moving '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Saved/mainPC149B70634628FC656240C1A889EF055A.tmp' to '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Creations/GInstances/mainPC.uasset'
+[2019.04.06-20.44.03:847][531]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Creations/GInstances/mainPC.uasset
+[2019.04.06-20.45.43:537][960]LogAIModule: Creating AISystem for world TestMap
+[2019.04.06-20.45.43:616][960]Cmd: MAP LOAD FILE="../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Creations/Maps/TestMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.04.06-20.45.43:616][960]LightingResults: New page: Lighting Build
+[2019.04.06-20.45.43:618][960]LoadErrors: New page: Loading map: TestMap.umap
+[2019.04.06-20.45.43:618][960]MapCheck: New page: Map Check
+[2019.04.06-20.45.43:618][960]LightingResults: New page: Lighting Build
+[2019.04.06-20.45.43:703][960]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.04.06-20.45.43:876][960]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.04.06-20.45.44:122][960]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 245.775ms to complete.
+[2019.04.06-20.45.44:123][960]LogFileHelpers: Loading map 'TestMap' took 0.509
+[2019.04.06-20.46.08:635][ 96]BlueprintLog: New page: Compile TestMap
+[2019.04.06-20.46.30:131][981]LogSavePackage: Save=739.94ms
+[2019.04.06-20.46.30:131][981]LogSavePackage: Moving '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Saved/TestMap8C8651E84365ADCE7CB542834F1BFBE8.tmp' to '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Creations/Maps/TestMap.umap'
+[2019.04.06-20.46.30:139][981]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Creations/Maps/TestMap.umap
+[2019.04.06-20.46.30:228][981]LogFileHelpers: Saving map 'TestMap' took 1.322
+[2019.04.06-20.46.57:587][309]BlueprintLog: New page: Compile TestMap
+[2019.04.06-20.46.59:833][414]LogTemp: Repeating last play command: Standalone Game
+[2019.04.06-20.47.02:561][414]LogSavePackage: Save=747.64ms
+[2019.04.06-20.47.02:561][414]LogSavePackage: Moving '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Saved/TestMap8B46E737481B6E6DE8A345964FF0F748.tmp' to '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Creations/Maps/TestMap.umap'
+[2019.04.06-20.47.02:568][414]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Creations/Maps/TestMap.umap
+[2019.04.06-20.47.02:649][414]LogFileHelpers: Saving map 'TestMap' took 1.215
+[2019.04.06-20.47.05:686][517]LogAIModule: Creating AISystem for world MainMenu
+[2019.04.06-20.47.05:763][517]Cmd: MAP LOAD FILE="../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Creations/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.04.06-20.47.05:763][517]LightingResults: New page: Lighting Build
+[2019.04.06-20.47.05:765][517]LoadErrors: New page: Loading map: MainMenu.umap
+[2019.04.06-20.47.05:990][517]MapCheck: New page: Map Check
+[2019.04.06-20.47.05:990][517]LightingResults: New page: Lighting Build
+[2019.04.06-20.47.06:078][517]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.04.06-20.47.06:292][517]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.04.06-20.47.06:585][517]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 292.192ms to complete.
+[2019.04.06-20.47.06:596][517]LogFileHelpers: Loading map 'MainMenu' took 0.835
+[2019.04.06-20.47.08:558][603]LogTemp: Repeating last play command: Standalone Game
+[2019.04.06-20.53.53:579][352]BlueprintLog: New page: Compile MainInstance
+[2019.04.06-20.53.57:174][516]LogTemp: Repeating last play command: Standalone Game
+[2019.04.06-20.53.59:514][516]LogSavePackage: Save=134.09ms
+[2019.04.06-20.53.59:514][516]LogSavePackage: Moving '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Saved/MainInstance081F2B8F4A664DB337F95499AE1250F8.tmp' to '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Creations/GInstances/MainInstance.uasset'
+[2019.04.06-20.53.59:520][516]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Creations/GInstances/MainInstance.uasset
+[2019.04.06-20.54.00:109][516]LogSavePackage: Save=216.75ms
+[2019.04.06-20.54.00:109][516]LogSavePackage: Moving '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Saved/MainMenu8264F5B64D09A5DB562E14AB15DF54AB.tmp' to '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Creations/Maps/MainMenu.umap'
+[2019.04.06-20.54.00:115][516]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Creations/Maps/MainMenu.umap
+[2019.04.06-20.54.00:184][516]LogFileHelpers: Saving map 'MainMenu' took 0.658
+[2019.04.06-20.55.37:553][656]BlueprintLog: New page: Compile MainInstance
+[2019.04.06-20.55.47:289][788]LogTemp: Repeating last play command: Standalone Game
+[2019.04.06-20.55.50:395][788]LogSavePackage: Save=133.68ms
+[2019.04.06-20.55.50:395][788]LogSavePackage: Moving '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Saved/MainInstance4C7C02CA498A8CCDCF4FC081F047DADC.tmp' to '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Creations/GInstances/MainInstance.uasset'
+[2019.04.06-20.55.50:402][788]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Creations/GInstances/MainInstance.uasset
+[2019.04.06-20.55.51:096][788]LogSavePackage: Save=236.88ms
+[2019.04.06-20.55.51:096][788]LogSavePackage: Moving '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Saved/MainMenu7AC907D54031EC17A5F591BECB4B66CD.tmp' to '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Creations/Maps/MainMenu.umap'
+[2019.04.06-20.55.51:106][788]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Creations/Maps/MainMenu.umap
+[2019.04.06-20.55.51:180][788]LogFileHelpers: Saving map 'MainMenu' took 0.773
+[2019.04.06-20.59.19:475][420]BlueprintLog: New page: Compile SearchGames
+[2019.04.06-20.59.23:320][504]LogTemp: Repeating last play command: Standalone Game
+[2019.04.06-20.59.48:279][504]LogSavePackage: Save=195.44ms
+[2019.04.06-20.59.48:279][504]LogSavePackage: Moving '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Saved/SearchGamesE0434E84408E8BC2173C8DBF8C39BC52.tmp' to '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Creations/Widgets/SearchGames.uasset'
+[2019.04.06-20.59.48:306][504]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Creations/Widgets/SearchGames.uasset
+[2019.04.06-21.04.52:775][977]BlueprintLog: New page: Compile SearchGames
+[2019.04.06-21.04.56:523][ 25]LogTemp: Repeating last play command: Standalone Game
+[2019.04.06-21.05.02:515][ 25]LogSavePackage: Save=219.37ms
+[2019.04.06-21.05.02:515][ 25]LogSavePackage: Moving '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Saved/SearchGames1873CEC44406D7B4340773819CFE52A9.tmp' to '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Creations/Widgets/SearchGames.uasset'
+[2019.04.06-21.05.02:526][ 25]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Creations/Widgets/SearchGames.uasset
+[2019.04.06-21.08.21:019][295]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.04.06-21.08.21:205][295]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.04.06-21.08.21:385][295]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.04.06-21.08.22:252][295]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.04.06-21.08.22:795][295]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.04.06-21.08.23:192][296]Cmd: QUIT_EDITOR
+[2019.04.06-21.08.23:325][296]LogExit: Preparing to exit.
+[2019.04.06-21.08.24:115][296]LogDirectoryWatcher: A directory notification for 'C:/Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/' was aborted.
+[2019.04.06-21.08.24:459][296]LogExit: Editor shut down
+[2019.04.06-21.08.24:539][296]LogExit: Transaction tracking system shut down
+[2019.04.06-21.08.25:241][296]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2019.04.06-21.08.25:241][296]LogDirectoryWatcher: A directory notification for '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/' was aborted.
+[2019.04.06-21.08.25:241][296]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2019.04.06-21.08.25:241][296]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2019.04.06-21.08.25:241][296]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2019.04.06-21.08.25:242][296]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2019.04.06-21.08.25:242][296]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2019.04.06-21.08.25:659][296]LogExit: Object subsystem successfully closed.
+[2019.04.06-21.08.25:727][296]LogD3D11RHI: Shutdown
+[2019.04.06-21.08.25:727][296]LogD3D11RHI: CleanupD3DDevice
+[2019.04.06-21.08.25:739][296]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.04.06-21.08.25:804][296]LogModuleManager: Shutting down and abandoning module SequencerWidgets (568)
+[2019.04.06-21.08.25:804][296]LogModuleManager: Shutting down and abandoning module BlueprintGraph (566)
+[2019.04.06-21.08.25:804][296]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (564)
+[2019.04.06-21.08.25:804][296]LogModuleManager: Shutting down and abandoning module AddContentDialog (562)
+[2019.04.06-21.08.25:804][296]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.18/FeaturePacks/' was aborted.
+[2019.04.06-21.08.25:820][296]LogModuleManager: Shutting down and abandoning module WidgetCarousel (561)
+[2019.04.06-21.08.25:820][296]LogModuleManager: Shutting down and abandoning module EditorWidgets (558)
+[2019.04.06-21.08.25:820][296]LogModuleManager: Shutting down and abandoning module CollectionManager (556)
+[2019.04.06-21.08.25:820][296]LogDirectoryWatcher: A directory notification for 'C:/Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Collections/' was aborted.
+[2019.04.06-21.08.25:820][296]LogDirectoryWatcher: A directory notification for 'C:/Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Developers/Alex/Collections/' was aborted.
+[2019.04.06-21.08.25:820][296]LogDirectoryWatcher: A directory notification for 'C:/Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Saved/Collections/' was aborted.
+[2019.04.06-21.08.25:820][296]LogModuleManager: Shutting down and abandoning module StatsViewer (554)
+[2019.04.06-21.08.25:820][296]LogModuleManager: Shutting down and abandoning module FoliageEdit (552)
+[2019.04.06-21.08.25:820][296]LogModuleManager: Shutting down and abandoning module LandscapeEditor (550)
+[2019.04.06-21.08.25:821][296]LogModuleManager: Shutting down and abandoning module MeshPaintMode (548)
+[2019.04.06-21.08.25:821][296]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (546)
+[2019.04.06-21.08.25:821][296]LogModuleManager: Shutting down and abandoning module ActorPickerMode (544)
+[2019.04.06-21.08.25:821][296]LogModuleManager: Shutting down and abandoning module GeometryMode (542)
+[2019.04.06-21.08.25:821][296]LogModuleManager: Shutting down and abandoning module TextureAlignMode (540)
+[2019.04.06-21.08.25:821][296]LogModuleManager: Shutting down and abandoning module BspMode (538)
+[2019.04.06-21.08.25:821][296]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (536)
+[2019.04.06-21.08.25:821][296]LogModuleManager: Shutting down and abandoning module HardwareSurvey (534)
+[2019.04.06-21.08.25:821][296]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (532)
+[2019.04.06-21.08.25:821][296]LogModuleManager: Shutting down and abandoning module AutomationWorker (530)
+[2019.04.06-21.08.25:821][296]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (528)
+[2019.04.06-21.08.25:821][296]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (526)
+[2019.04.06-21.08.25:821][296]LogModuleManager: Shutting down and abandoning module PlacementMode (525)
+[2019.04.06-21.08.25:822][296]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (522)
+[2019.04.06-21.08.25:822][296]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (520)
+[2019.04.06-21.08.25:822][296]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (518)
+[2019.04.06-21.08.25:822][296]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (516)
+[2019.04.06-21.08.25:822][296]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (514)
+[2019.04.06-21.08.25:822][296]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (512)
+[2019.04.06-21.08.25:822][296]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (510)
+[2019.04.06-21.08.25:822][296]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (508)
+[2019.04.06-21.08.25:822][296]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (506)
+[2019.04.06-21.08.25:822][296]LogModuleManager: Shutting down and abandoning module CharacterAI (504)
+[2019.04.06-21.08.25:822][296]LogModuleManager: Shutting down and abandoning module AudioCapture (502)
+[2019.04.06-21.08.25:822][296]LogModuleManager: Shutting down and abandoning module SequenceRecorder (501)
+[2019.04.06-21.08.25:822][296]LogModuleManager: Shutting down and abandoning module SmartSnapping (498)
+[2019.04.06-21.08.25:822][296]LogModuleManager: Shutting down and abandoning module SessionServices (496)
+[2019.04.06-21.08.25:822][296]LogModuleManager: Shutting down and abandoning module ViewportSnapping (494)
+[2019.04.06-21.08.25:822][296]LogModuleManager: Shutting down and abandoning module ViewportInteraction (492)
+[2019.04.06-21.08.25:822][296]LogModuleManager: Shutting down and abandoning module ClothPainter (490)
+[2019.04.06-21.08.25:822][296]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (489)
+[2019.04.06-21.08.25:822][296]LogModuleManager: Shutting down and abandoning module LogVisualizer (486)
+[2019.04.06-21.08.25:823][296]LogModuleManager: Shutting down and abandoning module IntroTutorials (484)
+[2019.04.06-21.08.25:823][296]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (483)
+[2019.04.06-21.08.25:823][296]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (480)
+[2019.04.06-21.08.25:823][296]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (478)
+[2019.04.06-21.08.25:823][296]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (476)
+[2019.04.06-21.08.25:823][296]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (475)
+[2019.04.06-21.08.26:529][296]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (472)
+[2019.04.06-21.08.26:529][296]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (470)
+[2019.04.06-21.08.26:530][296]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (468)
+[2019.04.06-21.08.26:530][296]LogModuleManager: Shutting down and abandoning module InputBindingEditor (466)
+[2019.04.06-21.08.26:530][296]LogModuleManager: Shutting down and abandoning module MergeActors (464)
+[2019.04.06-21.08.26:530][296]LogModuleManager: Shutting down and abandoning module SizeMap (462)
+[2019.04.06-21.08.26:530][296]LogModuleManager: Shutting down and abandoning module TreeMap (460)
+[2019.04.06-21.08.26:530][296]LogModuleManager: Shutting down and abandoning module ReferenceViewer (458)
+[2019.04.06-21.08.26:530][296]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (456)
+[2019.04.06-21.08.26:530][296]LogModuleManager: Shutting down and abandoning module LocalizationService (455)
+[2019.04.06-21.08.26:530][296]LogModuleManager: Shutting down and abandoning module HardwareTargeting (452)
+[2019.04.06-21.08.26:530][296]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (450)
+[2019.04.06-21.08.26:531][296]LogModuleManager: Shutting down and abandoning module UndoHistory (448)
+[2019.04.06-21.08.26:531][296]LogModuleManager: Shutting down and abandoning module XmlParser (446)
+[2019.04.06-21.08.26:531][296]LogModuleManager: Shutting down and abandoning module Blutility (444)
+[2019.04.06-21.08.26:531][296]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (442)
+[2019.04.06-21.08.26:531][296]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (441)
+[2019.04.06-21.08.26:532][296]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (438)
+[2019.04.06-21.08.26:532][296]LogModuleManager: Shutting down and abandoning module SettingsEditor (436)
+[2019.04.06-21.08.26:532][296]LogModuleManager: Shutting down and abandoning module ProjectLauncher (434)
+[2019.04.06-21.08.26:533][296]LogModuleManager: Shutting down and abandoning module SessionFrontend (432)
+[2019.04.06-21.08.26:533][296]LogModuleManager: Shutting down and abandoning module ProfilerClient (430)
+[2019.04.06-21.08.26:533][296]LogModuleManager: Shutting down and abandoning module DeviceManager (428)
+[2019.04.06-21.08.26:533][296]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (427)
+[2019.04.06-21.08.26:589][296]LogModuleManager: Shutting down and abandoning module AutomationController (424)
+[2019.04.06-21.08.26:589][296]LogModuleManager: Shutting down and abandoning module AutomationWindow (422)
+[2019.04.06-21.08.26:589][296]LogModuleManager: Shutting down and abandoning module Layers (420)
+[2019.04.06-21.08.26:589][296]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (418)
+[2019.04.06-21.08.26:589][296]LogModuleManager: Shutting down and abandoning module DetailCustomizations (416)
+[2019.04.06-21.08.26:589][296]LogModuleManager: Shutting down and abandoning module PackagesDialog (414)
+[2019.04.06-21.08.26:590][296]LogModuleManager: Shutting down and abandoning module Persona (412)
+[2019.04.06-21.08.26:590][296]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (411)
+[2019.04.06-21.08.26:590][296]LogModuleManager: Shutting down and abandoning module AnimGraph (409)
+[2019.04.06-21.08.26:590][296]LogModuleManager: Shutting down and abandoning module Kismet (406)
+[2019.04.06-21.08.26:624][296]LogModuleManager: Shutting down and abandoning module ClassViewer (404)
+[2019.04.06-21.08.26:624][296]LogModuleManager: Shutting down and abandoning module Toolbox (402)
+[2019.04.06-21.08.26:624][296]LogModuleManager: Shutting down and abandoning module ModuleUI (400)
+[2019.04.06-21.08.26:624][296]LogModuleManager: Shutting down and abandoning module MovieSceneTools (398)
+[2019.04.06-21.08.26:624][296]LogModuleManager: Shutting down and abandoning module OutputLog (396)
+[2019.04.06-21.08.26:624][296]LogModuleManager: Shutting down and abandoning module GammaUI (394)
+[2019.04.06-21.08.26:624][296]LogModuleManager: Shutting down and abandoning module Documentation (392)
+[2019.04.06-21.08.26:629][296]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (390)
+[2019.04.06-21.08.26:629][296]LogModuleManager: Shutting down and abandoning module MovieScene (388)
+[2019.04.06-21.08.26:629][296]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (386)
+[2019.04.06-21.08.26:629][296]LogModuleManager: Shutting down and abandoning module LauncherPlatform (384)
+[2019.04.06-21.08.26:629][296]LogModuleManager: Shutting down and abandoning module AnalyticsET (382)
+[2019.04.06-21.08.26:629][296]LogModuleManager: Shutting down and abandoning module PortalServices (380)
+[2019.04.06-21.08.26:629][296]LogModuleManager: Shutting down and abandoning module PortalRpc (378)
+[2019.04.06-21.08.26:629][296]LogModuleManager: Shutting down and abandoning module MessagingRpc (376)
+[2019.04.06-21.08.26:629][296]LogModuleManager: Shutting down and abandoning module AIModule (374)
+[2019.04.06-21.08.26:629][296]LogModuleManager: Shutting down and abandoning module GameplayDebugger (373)
+[2019.04.06-21.08.26:629][296]LogModuleManager: Shutting down and abandoning module AITestSuite (371)
+[2019.04.06-21.08.26:629][296]LogModuleManager: Shutting down and abandoning module DesktopPlatform (368)
+[2019.04.06-21.08.26:630][296]LogModuleManager: Shutting down and abandoning module ProfilerService (366)
+[2019.04.06-21.08.26:674][296]LogModuleManager: Shutting down and abandoning module TaskGraph (364)
+[2019.04.06-21.08.26:674][296]LogModuleManager: Shutting down and abandoning module SteamVRController (362)
+[2019.04.06-21.08.26:674][296]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (360)
+[2019.04.06-21.08.26:674][296]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (358)
+[2019.04.06-21.08.26:674][296]LogModuleManager: Shutting down and abandoning module OculusInput (356)
+[2019.04.06-21.08.26:674][296]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (354)
+[2019.04.06-21.08.26:674][296]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (352)
+[2019.04.06-21.08.26:674][296]LogModuleManager: Shutting down and abandoning module CableComponent (350)
+[2019.04.06-21.08.26:674][296]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (348)
+[2019.04.06-21.08.26:674][296]LogModuleManager: Shutting down and abandoning module AndroidPermission (346)
+[2019.04.06-21.08.26:674][296]LogModuleManager: Shutting down and abandoning module LoginFlow (344)
+[2019.04.06-21.08.26:674][296]LogModuleManager: Shutting down and abandoning module Rejoin (342)
+[2019.04.06-21.08.26:674][296]LogModuleManager: Shutting down and abandoning module Hotfix (340)
+[2019.04.06-21.08.26:674][296]LogModuleManager: Shutting down and abandoning module Lobby (338)
+[2019.04.06-21.08.26:674][296]LogModuleManager: Shutting down and abandoning module Party (336)
+[2019.04.06-21.08.26:674][296]LogModuleManager: Shutting down and abandoning module Qos (334)
+[2019.04.06-21.08.26:674][296]LogModuleManager: Shutting down and abandoning module ActorSequence (332)
+[2019.04.06-21.08.26:674][296]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (330)
+[2019.04.06-21.08.26:674][296]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (328)
+[2019.04.06-21.08.26:675][296]LogModuleManager: Shutting down and abandoning module MediaCompositing (326)
+[2019.04.06-21.08.26:675][296]LogModuleManager: Shutting down and abandoning module HTML5Networking (324)
+[2019.04.06-21.08.26:675][296]LogModuleManager: Shutting down and abandoning module AlembicImporter (322)
+[2019.04.06-21.08.26:675][296]LogModuleManager: Shutting down and abandoning module AlembicLibrary (321)
+[2019.04.06-21.08.26:675][296]LogModuleManager: Shutting down and abandoning module GeometryCache (320)
+[2019.04.06-21.08.26:675][296]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (319)
+[2019.04.06-21.08.26:675][296]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (314)
+[2019.04.06-21.08.26:675][296]LogModuleManager: Shutting down and abandoning module PluginBrowser (312)
+[2019.04.06-21.08.26:675][296]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (310)
+[2019.04.06-21.08.26:675][296]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (308)
+[2019.04.06-21.08.26:675][296]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (306)
+[2019.04.06-21.08.26:675][296]LogModuleManager: Shutting down and abandoning module UObjectPlugin (304)
+[2019.04.06-21.08.26:675][296]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (302)
+[2019.04.06-21.08.26:675][296]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (300)
+[2019.04.06-21.08.26:675][296]LogModuleManager: Shutting down and abandoning module GitSourceControl (298)
+[2019.04.06-21.08.26:676][296]LogModuleManager: Shutting down and abandoning module SourceControl (297)
+[2019.04.06-21.08.26:676][296]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (294)
+[2019.04.06-21.08.26:676][296]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (292)
+[2019.04.06-21.08.26:676][296]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (290)
+[2019.04.06-21.08.26:676][296]LogModuleManager: Shutting down and abandoning module Paper2DEditor (288)
+[2019.04.06-21.08.26:676][296]LogModuleManager: Shutting down and abandoning module MeshPaint (287)
+[2019.04.06-21.08.26:676][296]LogModuleManager: Shutting down and abandoning module LevelEditor (285)
+[2019.04.06-21.08.26:681][296]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (284)
+[2019.04.06-21.08.26:682][296]LogModuleManager: Shutting down and abandoning module MainFrame (282)
+[2019.04.06-21.08.26:682][296]LogModuleManager: Shutting down and abandoning module HotReload (281)
+[2019.04.06-21.08.26:682][296]LogDirectoryWatcher: A directory notification for 'C:/Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Binaries/Win64' was aborted.
+[2019.04.06-21.08.26:682][296]LogDirectoryWatcher: A directory notification for 'C:/Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Plugins/AdvancedSessions/Binaries/Win64' was aborted.
+[2019.04.06-21.08.26:683][296]LogDirectoryWatcher: A directory notification for 'C:/Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Plugins/AdvancedSteamSessions/Binaries/Win64' was aborted.
+[2019.04.06-21.08.26:684][296]LogModuleManager: Shutting down and abandoning module AdvancedSteamSessions (276)
+[2019.04.06-21.08.26:684][296]LogModuleManager: Shutting down and abandoning module AdvancedSessions (274)
+[2019.04.06-21.08.26:684][296]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (272)
+[2019.04.06-21.08.26:684][296]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (270)
+[2019.04.06-21.08.26:684][296]LogModuleManager: Shutting down and abandoning module PhysXVehicles (268)
+[2019.04.06-21.08.26:684][296]LogModuleManager: Shutting down and abandoning module OculusEditor (266)
+[2019.04.06-21.08.26:684][296]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (264)
+[2019.04.06-21.08.26:684][296]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (262)
+[2019.04.06-21.08.26:684][296]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (260)
+[2019.04.06-21.08.26:684][296]LogModuleManager: Shutting down and abandoning module UdpMessaging (258)
+[2019.04.06-21.08.26:785][296]LogModuleManager: Shutting down and abandoning module TcpMessaging (256)
+[2019.04.06-21.08.26:886][296]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (254)
+[2019.04.06-21.08.26:886][296]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (252)
+[2019.04.06-21.08.26:886][296]LogModuleManager: Shutting down and abandoning module FacialAnimation (250)
+[2019.04.06-21.08.26:886][296]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (248)
+[2019.04.06-21.08.26:886][296]LogModuleManager: Shutting down and abandoning module GraphEditor (247)
+[2019.04.06-21.08.26:886][296]LogModuleManager: Shutting down and abandoning module ContentBrowser (245)
+[2019.04.06-21.08.26:889][296]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (242)
+[2019.04.06-21.08.26:889][296]LogModuleManager: Shutting down and abandoning module Paper2D (240)
+[2019.04.06-21.08.26:889][296]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (238)
+[2019.04.06-21.08.26:889][296]LogModuleManager: Shutting down and abandoning module WmfMedia (236)
+[2019.04.06-21.08.26:893][296]LogModuleManager: Shutting down and abandoning module ImgMedia (234)
+[2019.04.06-21.08.26:893][296]LogModuleManager: Shutting down and abandoning module PacketHandler (232)
+[2019.04.06-21.08.26:893][296]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (230)
+[2019.04.06-21.08.26:893][296]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (228)
+[2019.04.06-21.08.26:893][296]LogModuleManager: Shutting down and abandoning module MediaAssets (226)
+[2019.04.06-21.08.26:893][296]LogModuleManager: Shutting down and abandoning module Media (225)
+[2019.04.06-21.08.26:900][296]LogModuleManager: Shutting down and abandoning module Overlay (222)
+[2019.04.06-21.08.26:900][296]LogModuleManager: Shutting down and abandoning module OverlayEditor (221)
+[2019.04.06-21.08.26:900][296]LogModuleManager: Shutting down and abandoning module VREditor (218)
+[2019.04.06-21.08.26:900][296]LogModuleManager: Shutting down and abandoning module StringTableEditor (216)
+[2019.04.06-21.08.26:900][296]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (214)
+[2019.04.06-21.08.26:900][296]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (212)
+[2019.04.06-21.08.26:900][296]LogModuleManager: Shutting down and abandoning module FunctionalTesting (210)
+[2019.04.06-21.08.26:900][296]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (208)
+[2019.04.06-21.08.26:900][296]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (207)
+[2019.04.06-21.08.26:900][296]LogModuleManager: Shutting down and abandoning module UMG (204)
+[2019.04.06-21.08.26:900][296]LogModuleManager: Shutting down and abandoning module UMGEditor (203)
+[2019.04.06-21.08.26:900][296]LogModuleManager: Shutting down and abandoning module Sequencer (202)
+[2019.04.06-21.08.26:901][296]LogModuleManager: Shutting down and abandoning module MessageLog (199)
+[2019.04.06-21.08.26:901][296]LogModuleManager: Shutting down and abandoning module SlateReflector (194)
+[2019.04.06-21.08.26:901][296]LogModuleManager: Shutting down and abandoning module Slate (192)
+[2019.04.06-21.08.26:901][296]LogModuleManager: Shutting down and abandoning module EditorStyle (190)
+[2019.04.06-21.08.26:906][296]LogModuleManager: Shutting down and abandoning module MRMesh (188)
+[2019.04.06-21.08.26:906][296]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (186)
+[2019.04.06-21.08.26:906][296]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (184)
+[2019.04.06-21.08.26:906][296]LogModuleManager: Shutting down and abandoning module XAudio2 (182)
+[2019.04.06-21.08.26:906][296]LogModuleManager: Shutting down and abandoning module Networking (180)
+[2019.04.06-21.08.26:906][296]LogModuleManager: Shutting down and abandoning module Core (178)
+[2019.04.06-21.08.26:906][296]LogModuleManager: Shutting down and abandoning module LevelSequence (174)
+[2019.04.06-21.08.26:906][296]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (172)
+[2019.04.06-21.08.26:924][296]LogModuleManager: Shutting down and abandoning module KismetCompiler (170)
+[2019.04.06-21.08.26:924][296]LogModuleManager: Shutting down and abandoning module MeshUtilities (168)
+[2019.04.06-21.08.26:924][296]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (167)
+[2019.04.06-21.08.26:924][296]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (166)
+[2019.04.06-21.08.26:924][296]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (165)
+[2019.04.06-21.08.26:924][296]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (163)
+[2019.04.06-21.08.26:924][296]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (161)
+[2019.04.06-21.08.26:924][296]LogModuleManager: Shutting down and abandoning module MaterialBaking (157)
+[2019.04.06-21.08.26:924][296]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2019.04.06-21.08.26:990][296]LogDerivedDataCache: Shutdown
+[2019.04.06-21.08.26:990][296]LogModuleManager: Shutting down and abandoning module TargetPlatform (152)
+[2019.04.06-21.08.26:990][296]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (151)
+[2019.04.06-21.08.26:990][296]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (149)
+[2019.04.06-21.08.26:990][296]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (147)
+[2019.04.06-21.08.26:991][296]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (145)
+[2019.04.06-21.08.26:991][296]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (143)
+[2019.04.06-21.08.26:991][296]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (141)
+[2019.04.06-21.08.26:991][296]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (139)
+[2019.04.06-21.08.26:991][296]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (137)
+[2019.04.06-21.08.26:991][296]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (135)
+[2019.04.06-21.08.26:991][296]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (133)
+[2019.04.06-21.08.26:991][296]LogModuleManager: Shutting down and abandoning module ImageWrapper (132)
+[2019.04.06-21.08.26:991][296]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (129)
+[2019.04.06-21.08.26:991][296]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (127)
+[2019.04.06-21.08.26:991][296]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (125)
+[2019.04.06-21.08.26:992][296]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (123)
+[2019.04.06-21.08.26:992][296]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (121)
+[2019.04.06-21.08.26:992][296]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (119)
+[2019.04.06-21.08.26:992][296]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (117)
+[2019.04.06-21.08.26:992][296]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (115)
+[2019.04.06-21.08.26:993][296]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (113)
+[2019.04.06-21.08.26:993][296]LogModuleManager: Shutting down and abandoning module Messaging (111)
+[2019.04.06-21.08.26:993][296]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (109)
+[2019.04.06-21.08.26:993][296]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (107)
+[2019.04.06-21.08.26:993][296]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (105)
+[2019.04.06-21.08.26:993][296]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (103)
+[2019.04.06-21.08.26:993][296]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (101)
+[2019.04.06-21.08.26:993][296]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (99)
+[2019.04.06-21.08.26:993][296]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (97)
+[2019.04.06-21.08.26:993][296]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (95)
+[2019.04.06-21.08.26:993][296]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (93)
+[2019.04.06-21.08.26:993][296]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (91)
+[2019.04.06-21.08.26:993][296]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (89)
+[2019.04.06-21.08.26:994][296]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (87)
+[2019.04.06-21.08.26:994][296]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (85)
+[2019.04.06-21.08.26:994][296]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (83)
+[2019.04.06-21.08.26:994][296]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (81)
+[2019.04.06-21.08.26:994][296]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (79)
+[2019.04.06-21.08.26:994][296]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (77)
+[2019.04.06-21.08.26:995][296]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (75)
+[2019.04.06-21.08.26:995][296]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (73)
+[2019.04.06-21.08.26:995][296]LogModuleManager: Shutting down and abandoning module InputCore (70)
+[2019.04.06-21.08.26:995][296]LogModuleManager: Shutting down and abandoning module Settings (68)
+[2019.04.06-21.08.26:995][296]LogModuleManager: Shutting down and abandoning module PhysXCooking (66)
+[2019.04.06-21.08.26:995][296]LogModuleManager: Shutting down and abandoning module SteamVR (64)
+[2019.04.06-21.08.26:995][296]LogModuleManager: Shutting down and abandoning module OculusHMD (62)
+[2019.04.06-21.08.26:995][296]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (60)
+[2019.04.06-21.08.26:995][296]LogModuleManager: Shutting down and abandoning module AppleARKit (58)
+[2019.04.06-21.08.26:996][296]LogModuleManager: Shutting down and abandoning module AugmentedReality (57)
+[2019.04.06-21.08.26:996][296]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (54)
+[2019.04.06-21.08.26:996][296]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (50)
+[2019.04.06-21.08.26:996][296]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2019.04.06-21.08.26:996][296]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2019.04.06-21.08.26:998][296]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2019.04.06-21.08.26:998][296]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2019.04.06-21.08.26:998][296]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2019.04.06-21.08.26:998][296]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2019.04.06-21.08.26:999][296]LogHttp: Display: Http module shutting down, but needs to wait on 2 outstanding Http requests:
+[2019.04.06-21.08.26:999][296]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B29D19E8D-4D6B-9FB1-C1E1-798706856F89%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.2-3794801%2B%2B%2BUE4%2BRelease-4.18&UserID=e1c132fb4e517ca4b23e62b676153c42%7Cca1cf3a7f87946a6ac6be9dc4f608c5f%7C500511ff-5481-4efe-8d48-20748a11a0d6&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.04.06-21.08.26:999][296]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B29D19E8D-4D6B-9FB1-C1E1-798706856F89%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.2-3794801%2B%2B%2BUE4%2BRelease-4.18&UserID=e1c132fb4e517ca4b23e62b676153c42%7Cca1cf3a7f87946a6ac6be9dc4f608c5f%7C500511ff-5481-4efe-8d48-20748a11a0d6&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.04.06-21.08.27:010][296]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2019.04.06-21.08.27:015][296]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.04.06-21.08.27:015][296]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.04.06-21.08.27:015][296]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.04.06-21.08.27:015][296]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.04.06-21.08.27:016][296]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.04.06-21.08.27:016][296]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.04.06-21.08.27:016][296]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.04.06-21.08.27:026][296]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.04.06-21.08.27:026][296]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.04.06-21.08.27:026][296]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.04.06-21.08.27:026][296]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.04.06-21.08.27:026][296]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.04.06-21.08.27:026][296]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.04.06-21.08.27:026][296]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.04.06-21.08.27:026][296]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.04.06-21.08.27:026][296]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.04.06-21.08.27:026][296]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.04.06-21.08.27:026][296]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.04.06-21.08.27:032][296]LogExit: Exiting.
+[2019.04.06-21.08.27:089][296]Log file closed, 04/06/19 14:08:27

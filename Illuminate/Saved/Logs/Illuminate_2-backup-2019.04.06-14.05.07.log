@@ -1,0 +1,654 @@
+﻿Log file open, 04/06/19 13:59:52
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Illuminate
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(381368456) SRandInit(381368456).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3794801, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.418212
+LogPluginManager: Warning: Plugin 'AdvancedSessions' exists at '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Plugins/AdvancedSessions/AdvancedSessions.uplugin' and '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Plugins/AdvancedSessions.uplugin' - second location will be ignored
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemSteam/Binaries/Win64/UE4Editor-OnlineSubsystemSteam.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineFramework/Binaries/Win64/UE4Editor-Qos.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineFramework/Binaries/Win64/UE4Editor-Party.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineFramework/Binaries/Win64/UE4Editor-Lobby.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineFramework/Binaries/Win64/UE4Editor-Hotfix.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineFramework/Binaries/Win64/UE4Editor-Rejoin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineFramework/Binaries/Win64/UE4Editor-LoginFlow.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Plugins/AdvancedSessions/Binaries/Win64/UE4Editor-AdvancedSessions.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Plugins/AdvancedSteamSessions/Binaries/Win64/UE4Editor-AdvancedSteamSessions.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineFramework
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemSteam
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin AdvancedSessions
+LogPluginManager: Mounting plugin AdvancedSteamSessions
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogOnline: Display: STEAM: Loading Steam SDK 1.39
+LogOnline: Warning: STEAM: Steam API disabled!
+LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.18-CL-3794801
+LogInit: Engine Version: 4.18.2-3794801+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Dec  8 2017 02:04:53
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  127.0.0.1:7777 -game -PIEVIACONSOLE -ResX=1904 -ResY=1041  -Multiprocess -messaging -SessionName="Play in Standalone Game" -windowed GameUserSettingsINI="C:/Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Saved/Config/Windows/PIEGameUserSettings1.ini" -MultiprocessSaveConfig  -MultiprocessOSS WinX=5 WinY=5 SAVEWINPOS=1
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.04.06-21.00.00:533][  0]LogInit: Selected Device Profile: [Windows]
+[2019.04.06-21.00.00:533][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.04.06-21.00.00:542][  0]LogInit: Computer: MSI
+[2019.04.06-21.00.00:543][  0]LogInit: User: Alex
+[2019.04.06-21.00.00:543][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.04.06-21.00.00:543][  0]LogInit: High frequency timer resolution =2.533211 MHz
+[2019.04.06-21.00.00:543][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.04.06-21.00.00:543][  0]LogMemory: Platform Memory Stats for Windows
+[2019.04.06-21.00.00:543][  0]LogMemory: Process Physical Memory: 275.58 MB used, 275.58 MB peak
+[2019.04.06-21.00.00:543][  0]LogMemory: Process Virtual Memory: 274.25 MB used, 274.25 MB peak
+[2019.04.06-21.00.00:544][  0]LogMemory: Physical Memory: 9682.14 MB used,  6591.20 MB free, 16273.34 MB total
+[2019.04.06-21.00.00:544][  0]LogMemory: Virtual Memory: 4788.93 MB used,  6591.20 MB free, 134217728.00 MB total
+[2019.04.06-21.00.02:598][  0]LogInit: Using OS detected language (en-US).
+[2019.04.06-21.00.02:598][  0]LogInit: Using OS detected locale (en-US).
+[2019.04.06-21.00.02:606][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.04.06-21.00.03:709][  0]LogD3D11RHI: D3D11 adapters:
+[2019.04.06-21.00.03:847][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 965M' (Feature Level 11_0)
+[2019.04.06-21.00.03:847][  0]LogD3D11RHI:       2010/0/8136 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.04.06-21.00.03:864][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
+[2019.04.06-21.00.03:864][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.04.06-21.00.03:871][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.04.06-21.00.03:871][  0]LogD3D11RHI:       0/0/8136 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.04.06-21.00.03:871][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.04.06-21.00.03:937][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.04.06-21.00.03:937][  0]LogD3D11RHI:     GPU DeviceId: 0x13d9 (for the marketing name, search the web for "GPU Device Id")
+[2019.04.06-21.00.03:937][  0]LogWindows: EnumDisplayDevices:
+[2019.04.06-21.00.03:937][  0]LogWindows:    0. 'Intel(R) HD Graphics 4600' (P:1 D:1)
+[2019.04.06-21.00.03:938][  0]LogWindows:    1. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2019.04.06-21.00.03:938][  0]LogWindows:    2. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2019.04.06-21.00.03:939][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.04.06-21.00.03:939][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 965M
+[2019.04.06-21.00.03:939][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.04.06-21.00.03:939][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.04.06-21.00.03:939][  0]LogRHI: Texture pool is 1407 MB (70% of 2010 MB)
+[2019.04.06-21.00.04:031][  0]LogD3D11RHI: Async texture creation enabled
+[2019.04.06-21.00.04:057][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.04.06-21.00.04:059][  0]LogShaderCompilers: Guid format shader working directory is -30 characters bigger than the processId version (../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Intermediate/Shaders/WorkingDirectory/10984/).
+[2019.04.06-21.00.04:059][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/lockw/AppData/Local/Temp/UnrealShaderWorkingDir/F9E75F354E7B005802FBE79BE98AF190/'.
+[2019.04.06-21.00.04:059][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.04.06-21.00.06:920][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.04.06-21.00.07:146][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.04.06-21.00.07:382][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.04.06-21.00.07:638][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.04.06-21.00.07:638][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.04.06-21.00.10:039][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.04.06-21.00.10:270][  0]LogDerivedDataCache: Loaded boot cache 0.23s 78MB C:/Users/lockw/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2019.04.06-21.00.10:270][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/lockw/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2019.04.06-21.00.10:271][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.04.06-21.00.10:271][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.04.06-21.00.10:271][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.04.06-21.00.10:271][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.04.06-21.00.10:320][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.04.06-21.00.10:335][  0]LogDerivedDataCache: Using Local data cache path C:/Users/lockw/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.04.06-21.00.10:368][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.04.06-21.00.10:369][  0]LogSlate: Using Freetype 2.6.0
+[2019.04.06-21.00.10:371][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.04.06-21.00.10:371][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.04.06-21.00.11:279][  0]LogAssetRegistry: FAssetRegistry took 0.0140 seconds to start up
+[2019.04.06-21.00.11:319][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.038938 seconds
+[2019.04.06-21.00.11:646][  0]LogInit: Selected Device Profile: [Windows]
+[2019.04.06-21.00.13:251][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.04.06-21.00.13:454][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.04.06-21.00.13:454][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.04.06-21.00.13:454][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.04.06-21.00.13:454][  0]LogMeshReduction: No automatic mesh merging module available
+[2019.04.06-21.00.13:454][  0]LogMeshMerging: No automatic mesh merging module available
+[2019.04.06-21.00.13:554][  0]LogNetVersion: Illuminate , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1556659199)
+[2019.04.06-21.00.21:932][  0]LogMoviePlayer: Initializing movie player
+[2019.04.06-21.00.23:538][  0]LogCollectionManager: Loaded 0 collections in 0.010843 seconds
+[2019.04.06-21.00.23:675][  0]LogFileCache: Scanning file cache for directory 'C:/Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Saved/Collections/' took 0.01s
+[2019.04.06-21.00.23:675][  0]LogFileCache: Scanning file cache for directory 'C:/Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Developers/Alex/Collections/' took 0.01s
+[2019.04.06-21.00.23:675][  0]LogFileCache: Scanning file cache for directory 'C:/Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Collections/' took 0.01s
+[2019.04.06-21.00.23:675][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.04.06-21.00.23:675][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000169 seconds (updated 0 objects)
+[2019.04.06-21.00.24:656][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.04.06-21.00.24:848][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.04.06-21.00.27:955][  0]SourceControl: Source control is disabled
+[2019.04.06-21.00.27:955][  0]SourceControl: Source control is disabled
+[2019.04.06-21.00.28:263][  0]SourceControl: Source control is disabled
+[2019.04.06-21.00.31:973][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.04.06-21.00.33:532][  0]LogOcInput: OculusInput pre-init called
+[2019.04.06-21.00.34:176][  0]LogUObjectArray: 39813 objects as part of root set at end of initial load.
+[2019.04.06-21.00.34:177][  0]LogUObjectAllocator: 8734536 out of 0 bytes used by permanent object pool.
+[2019.04.06-21.00.34:177][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.04.06-21.00.34:638][  0]LogEngine: Initializing Engine...
+[2019.04.06-21.00.34:647][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.04.06-21.00.35:148][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.04.06-21.00.35:148][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.04.06-21.00.35:205][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.04.06-21.00.35:407][  0]LogInit: FAudioDevice initialized.
+[2019.04.06-21.00.35:492][  0]LogInit: Texture streaming: Enabled
+[2019.04.06-21.00.35:538][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2019.04.06-21.00.42:533][  0]LogInit: Display: Game Engine Initialized.
+[2019.04.06-21.00.42:534][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.04.06-21.00.43:698][  0]LogInit: Display: Starting Game.
+[2019.04.06-21.00.43:699][  0]LogNet: Browse: 127.0.0.1//Game/Creations/Maps/MainMenu?Name=Player
+[2019.04.06-21.00.43:699][  0]LogOnline: Warning: STEAM: Steam API disabled!
+[2019.04.06-21.00.43:699][  0]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2019.04.06-21.00.43:699][  0]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.04.06-21.00.43:699][  0]LogTemp: Display: ParseSettings for IpNetDriver_0
+[2019.04.06-21.00.43:699][  0]LogTemp: Display: ParseSettings for PendingNetDriver
+[2019.04.06-21.00.43:700][  0]LogInit: WinSock: Socket queue 32768 / 32768
+[2019.04.06-21.00.43:705][  0]LogInit: WinSock: I am MSI (158.104.225.238:0)
+[2019.04.06-21.00.43:705][  0]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.04.06-21.00.43:706][  0]LogNet: Game client on port 7777, rate 10000
+[2019.04.06-21.00.44:734][  0]LogLoad: (Engine Initialization) Total time: 56.20 seconds
+[2019.04.06-21.00.44:734][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.04.06-21.00.44:735][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2019.04.06-21.00.44:735][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2019.04.06-21.00.44:766][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.04.06-21.00.46:549][102]LogHandshake: SendChallengeResponse. Timestamp: 0.040602, Cookie: 115061169095234025017053162170222177152043053176201047197185
+[2019.04.06-21.00.46:761][114]LogNetVersion: Illuminate 1.0.0.0, NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1067519852)
+[2019.04.06-21.00.46:761][114]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_0, Driver: PendingNetDriver IpNetDriver_0, IsServer: NO, PC: NULL, Owner: NULL
+[2019.04.06-21.00.46:837][117]LogNet: Welcomed by server (Level: /Game/Creations/Maps/MainMenu, Game: /Game/Creations/GInstances/MainGm.MainGm_C)
+[2019.04.06-21.00.46:838][117]LogLoad: LoadMap: 127.0.0.1//Game/Creations/Maps/MainMenu?Name=Player?game=/Game/Creations/GInstances/MainGm.MainGm_C
+[2019.04.06-21.00.47:975][117]LogAIModule: Creating AISystem for world MainMenu
+[2019.04.06-21.00.47:976][117]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.04.06-21.00.47:980][117]LogWorld: Bringing World /Game/Creations/Maps/MainMenu.MainMenu up for play (max tick rate 0) at 2019.04.06-14.00.47
+[2019.04.06-21.00.47:980][117]LogWorld: Bringing up level for play took: 0.001129
+[2019.04.06-21.00.47:981][117]LogLoad: Took 1.143924 seconds to LoadMap(/Game/Creations/Maps/MainMenu)
+[2019.04.06-21.00.48:370][118]LogRenderer: Reallocating scene render targets to support 1904x1044 Format 10 NumSamples 1 (Frame:1).
+[2019.04.06-21.00.48:379][118]AdvancedSessionsLog: Warning: GetLocalPlayerNameFromController had a bad player state!
+[2019.04.06-21.00.48:385][118]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2019.04.06-21.00.48:386][118]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2019.04.06-21.00.48:386][118]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2019.04.06-21.00.48:389][118]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue7
+	mainPC_C /Game/Creations/Maps/MainMenu.MainMenu:PersistentLevel.mainPC_C_0
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC:1A0B
+[2019.04.06-21.00.48:389][118]LogScript: Warning: Script call stack:
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ReceiveTick
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC
+
+[2019.04.06-21.00.48:389][118]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.48:425][119]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue7
+	mainPC_C /Game/Creations/Maps/MainMenu.MainMenu:PersistentLevel.mainPC_C_0
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC:1A0B
+[2019.04.06-21.00.48:425][119]LogScript: Warning: Script call stack:
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ReceiveTick
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC
+
+[2019.04.06-21.00.48:425][119]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.48:456][120]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue7
+	mainPC_C /Game/Creations/Maps/MainMenu.MainMenu:PersistentLevel.mainPC_C_0
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC:1A0B
+[2019.04.06-21.00.48:456][120]LogScript: Warning: Script call stack:
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ReceiveTick
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC
+
+[2019.04.06-21.00.48:456][120]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.48:478][121]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue7
+	mainPC_C /Game/Creations/Maps/MainMenu.MainMenu:PersistentLevel.mainPC_C_0
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC:1A0B
+[2019.04.06-21.00.48:478][121]LogScript: Warning: Script call stack:
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ReceiveTick
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC
+
+[2019.04.06-21.00.48:478][121]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.48:508][122]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue7
+	mainPC_C /Game/Creations/Maps/MainMenu.MainMenu:PersistentLevel.mainPC_C_0
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC:1A0B
+[2019.04.06-21.00.48:508][122]LogScript: Warning: Script call stack:
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ReceiveTick
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC
+
+[2019.04.06-21.00.48:509][122]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.48:528][123]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue7
+	mainPC_C /Game/Creations/Maps/MainMenu.MainMenu:PersistentLevel.mainPC_C_0
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC:1A0B
+[2019.04.06-21.00.48:528][123]LogScript: Warning: Script call stack:
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ReceiveTick
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC
+
+[2019.04.06-21.00.48:528][123]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.48:561][124]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue7
+	mainPC_C /Game/Creations/Maps/MainMenu.MainMenu:PersistentLevel.mainPC_C_0
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC:1A0B
+[2019.04.06-21.00.48:561][124]LogScript: Warning: Script call stack:
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ReceiveTick
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC
+
+[2019.04.06-21.00.48:562][124]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.48:592][125]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue7
+	mainPC_C /Game/Creations/Maps/MainMenu.MainMenu:PersistentLevel.mainPC_C_0
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC:1A0B
+[2019.04.06-21.00.48:592][125]LogScript: Warning: Script call stack:
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ReceiveTick
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC
+
+[2019.04.06-21.00.48:592][125]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.48:608][126]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue7
+	mainPC_C /Game/Creations/Maps/MainMenu.MainMenu:PersistentLevel.mainPC_C_0
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC:1A0B
+[2019.04.06-21.00.48:609][126]LogScript: Warning: Script call stack:
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ReceiveTick
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC
+
+[2019.04.06-21.00.48:609][126]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.48:656][127]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue7
+	mainPC_C /Game/Creations/Maps/MainMenu.MainMenu:PersistentLevel.mainPC_C_0
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC:1A0B
+[2019.04.06-21.00.48:656][127]LogScript: Warning: Script call stack:
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ReceiveTick
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC
+
+[2019.04.06-21.00.48:657][127]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.48:691][128]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue7
+	mainPC_C /Game/Creations/Maps/MainMenu.MainMenu:PersistentLevel.mainPC_C_0
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC:1A0B
+[2019.04.06-21.00.48:691][128]LogScript: Warning: Script call stack:
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ReceiveTick
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC
+
+[2019.04.06-21.00.48:691][128]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.48:727][129]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue7
+	mainPC_C /Game/Creations/Maps/MainMenu.MainMenu:PersistentLevel.mainPC_C_0
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC:1A0B
+[2019.04.06-21.00.48:727][129]LogScript: Warning: Script call stack:
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ReceiveTick
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC
+
+[2019.04.06-21.00.48:727][129]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.48:770][130]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue7
+	mainPC_C /Game/Creations/Maps/MainMenu.MainMenu:PersistentLevel.mainPC_C_0
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC:1A0B
+[2019.04.06-21.00.48:770][130]LogScript: Warning: Script call stack:
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ReceiveTick
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC
+
+[2019.04.06-21.00.48:770][130]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.48:805][131]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue7
+	mainPC_C /Game/Creations/Maps/MainMenu.MainMenu:PersistentLevel.mainPC_C_0
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC:1A0B
+[2019.04.06-21.00.48:805][131]LogScript: Warning: Script call stack:
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ReceiveTick
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC
+
+[2019.04.06-21.00.48:805][131]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.48:843][132]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue7
+	mainPC_C /Game/Creations/Maps/MainMenu.MainMenu:PersistentLevel.mainPC_C_0
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC:1A0B
+[2019.04.06-21.00.48:843][132]LogScript: Warning: Script call stack:
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ReceiveTick
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC
+
+[2019.04.06-21.00.48:843][132]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.48:885][133]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue7
+	mainPC_C /Game/Creations/Maps/MainMenu.MainMenu:PersistentLevel.mainPC_C_0
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC:1A0B
+[2019.04.06-21.00.48:885][133]LogScript: Warning: Script call stack:
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ReceiveTick
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC
+
+[2019.04.06-21.00.48:886][133]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.48:925][134]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue7
+	mainPC_C /Game/Creations/Maps/MainMenu.MainMenu:PersistentLevel.mainPC_C_0
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC:1A0B
+[2019.04.06-21.00.48:925][134]LogScript: Warning: Script call stack:
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ReceiveTick
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC
+
+[2019.04.06-21.00.48:925][134]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.48:958][135]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.48:997][136]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.49:023][137]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.49:046][138]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.49:072][139]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.49:095][140]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.49:133][141]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.49:171][142]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.49:213][143]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.49:246][144]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.49:278][145]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.49:318][146]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.49:354][147]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.49:390][148]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.49:441][149]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.49:471][150]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.49:505][151]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.49:542][152]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.49:581][153]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.49:605][154]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.49:628][155]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.49:662][156]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.49:696][157]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.49:730][158]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.49:769][159]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.49:804][160]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.49:829][161]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.49:867][162]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.49:901][163]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.49:926][164]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.49:951][165]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.49:984][166]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.50:002][167]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.50:037][168]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.50:073][169]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.50:112][170]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.50:145][171]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.50:179][172]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.50:221][173]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.50:274][174]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.50:296][175]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.50:321][176]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.50:339][177]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.50:356][178]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.50:372][179]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.50:389][180]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.50:406][181]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.50:422][182]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.50:438][183]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.50:454][184]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.50:471][185]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.50:486][186]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.50:508][187]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.50:526][188]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.50:542][189]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.50:559][190]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.50:576][191]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.50:595][192]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.50:630][193]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.50:656][194]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.50:691][195]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.50:709][196]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.50:725][197]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.50:744][198]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.50:767][199]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.50:787][200]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.50:810][201]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.50:823][202]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.50:840][203]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.50:857][204]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.50:873][205]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.50:890][206]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.50:905][207]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.50:922][208]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.50:938][209]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.50:954][210]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.50:970][211]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.50:987][212]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.51:002][213]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.51:018][214]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.51:034][215]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.51:051][216]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.51:067][217]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.51:083][218]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.51:099][219]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.51:119][220]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.51:136][221]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.51:152][222]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.51:168][223]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.51:184][224]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.51:200][225]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.51:217][226]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.51:240][227]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.51:255][228]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.51:273][229]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.51:290][230]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.51:306][231]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.51:323][232]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.51:341][233]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.51:359][234]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.51:375][235]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.51:391][236]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.51:406][237]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.51:423][238]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.51:440][239]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.51:455][240]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.51:472][241]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.51:488][242]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.51:506][243]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.51:522][244]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.51:539][245]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.51:556][246]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.51:572][247]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.51:589][248]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.51:606][249]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.51:621][250]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.51:638][251]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.51:653][252]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.51:670][253]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.51:686][254]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.51:702][255]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.51:718][256]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.51:734][257]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.51:750][258]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.51:766][259]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.51:783][260]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.51:799][261]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.51:815][262]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.51:831][263]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.51:847][264]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.51:864][265]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.51:880][266]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.51:897][267]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.51:913][268]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.51:929][269]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.51:946][270]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.51:962][271]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.51:978][272]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.51:994][273]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.52:010][274]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.52:026][275]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.52:043][276]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.52:059][277]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.52:075][278]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.52:092][279]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.52:107][280]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.52:123][281]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.52:140][282]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.52:156][283]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.52:172][284]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.52:188][285]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.52:204][286]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.52:220][287]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.52:240][288]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.52:255][289]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.52:272][290]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.52:288][291]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.52:304][292]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.52:320][293]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.52:336][294]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.52:352][295]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor testTwinstickPawn_C_0. Function serverMove will not be processed.
+[2019.04.06-21.00.52:368][296]LogNet: Warning: Network Failure: GameNetDriver[FailureReceived]: Host closed the connection.
+[2019.04.06-21.00.52:368][296]LogNet: NetworkFailure: FailureReceived, Error: 'Host closed the connection.'
+[2019.04.06-21.00.52:368][296]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_0, IsServer: NO, PC: mainPC_C_0, Owner: mainPC_C_0, Channels: 10, Time: 2019.04.06-21.00.52
+[2019.04.06-21.00.52:369][296]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_0, IsServer: NO, PC: mainPC_C_0, Owner: mainPC_C_0
+[2019.04.06-21.00.52:369][296]LogNet: Warning: Network Failure: GameNetDriver[ConnectionLost]: Your connection to the host has been lost.
+[2019.04.06-21.00.52:369][296]LogNet: NetworkFailure: ConnectionLost, Error: 'Your connection to the host has been lost.'
+[2019.04.06-21.00.52:385][297]LogNet: Browse: /Game/Creations/Maps/MainMenu?closed
+[2019.04.06-21.00.52:385][297]LogNet: Failed; returning to Entry
+[2019.04.06-21.00.52:388][297]LogLoad: LoadMap: /Game/Creations/Maps/MainMenu?closed
+[2019.04.06-21.00.52:388][297]LogNet: World NetDriver shutdown IpNetDriver_0 [GameNetDriver]
+[2019.04.06-21.00.52:389][297]LogNet: DestroyNamedNetDriver IpNetDriver_0 [GameNetDriver]
+[2019.04.06-21.00.52:389][297]LogExit: GameNetDriver IpNetDriver_0 shut down
+[2019.04.06-21.00.52:453][297]LogAIModule: Creating AISystem for world MainMenu
+[2019.04.06-21.00.52:453][297]LogLoad: Game class is 'MainGm_C'
+[2019.04.06-21.00.52:456][297]LogWorld: Bringing World /Game/Creations/Maps/MainMenu.MainMenu up for play (max tick rate 0) at 2019.04.06-14.00.52
+[2019.04.06-21.00.52:457][297]LogWorld: Bringing up level for play took: 0.001898
+[2019.04.06-21.00.52:458][297]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.04.06-21.00.52:465][297]LogLoad: Took 0.076931 seconds to LoadMap(/Game/Creations/Maps/MainMenu)

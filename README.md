@@ -1,3 +1,27 @@
+## 4/6/19
+
+Fixed a few more UI bugs, including the ones introduced by other bug fixes... fingers crossed!
+
+Added Detonate, SelfDestruct, and Avenge
+
+Detonate:
+
+	Creates an explosion centered on your location, dealing damage to nearby enemies based on how close they are to you.
+
+	Damage: Up to 85, Minimum 30
+
+SelfDestruct:
+
+	Same as Detonate, with 1.5 times larger affected area and lower minimum damage.
+
+	Damage: Up to 95, Minimum 10
+
+Avenge:
+
+	Same as SelfDestruct but deals damage based on the amount of health you are missing.
+
+	Damage: up to 50 + amount of health you are missing. Minimum 10.
+
 ## 4/5/19
 
 Fixed a menu bug and, in doing so, created another menu bug. Just a normal day.
