@@ -1,12 +1,40 @@
+## 4/8/19
+
+Players can now see a damage number widget when they themselves are damaged.
+
+Detonate:
+
+	Maximum damage reduced from 85 to 70.
+
+	Radius reduced from 500 to 250
+
+	Now deals one third of the damage to yourself when used.
+
+	Uses increased from 3 to 4.
+
+	Cooldown increased from 1 second to 1.5 seconds
+
+Self-Destruct
+
+	Maximum damage reduced from 95 to 85.
+
+	Radius reduced from 750 to 500.
+
+	Now deals one third of the damage to yourself when used.
+
+	Cooldown increased from 1.5 seconds to 2 seconds.
+
+Swap, Blink, and Teleport have been fixed and re-added with increased uses.
+
 ## 4/6/19
 
 Fixed a few more UI bugs, including the ones introduced by other bug fixes... fingers crossed!
 
-Added Detonate, SelfDestruct, and Avenge
+Added Detonate, SelfDestruct, Avenge, and Axes
 
 Detonate:
 
-	Creates an explosion centered on your location, dealing damage to nearby enemies based on how close they are to you.
+	Creates an explosion centered on your location, dealing heavy damage to nearby enemies based on how close they are to you.
 
 	Damage: Up to 85, Minimum 30
 
@@ -21,6 +49,14 @@ Avenge:
 	Same as SelfDestruct but deals damage based on the amount of health you are missing.
 
 	Damage: up to 50 + amount of health you are missing. Minimum 10.
+
+These, like other similar abilities, are meant to be progression-based unlocks in the future. Using detonate enough would unlock SelfDestruct, et cetera.
+
+Axes:
+
+	Creates a whirlwind of axes that surrounds you, dealing damage to enemies close to you for 4 seconds.
+
+	Damage: 6 per hit
 
 ## 4/5/19
 

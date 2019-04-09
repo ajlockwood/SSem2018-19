@@ -1,4 +1,4 @@
-﻿Log file open, 04/06/19 19:52:18
+﻿Log file open, 04/08/19 19:48:48
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
@@ -7,13 +7,13 @@ LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
 LogWindows: File 'VtuneApi32e.dll' does not exist
 LogInit: Display: Running engine for game: Illuminate
 LogPlatformFile: Not using cached read wrapper
-LogInit: Display: RandInit(-1883637125) SRandInit(-1883637124).
+LogInit: Display: RandInit(1529959361) SRandInit(1529959361).
 LogInit: Read version file with build ID '3709383'
 LogInit: Overriding engine version to CL 3794801, compatible CL 3709383
 LogInit: Registered custom module enumerator with build ID '3709383'
 LogInit: Warning: Passing commandline switches using / instead of - has been deprecated and will be removed in future versions of Unreal Engine.
 LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
-LogStats: Stats thread started at 0.326730
+LogStats: Stats thread started at 0.346657
 LogPluginManager: Warning: Plugin 'AdvancedSessions' exists at '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Plugins/AdvancedSessions/AdvancedSessions.uplugin' and '../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Plugins/AdvancedSessions.uplugin' - second location will be ignored
 LogD3D11RHI: Aftermath initialized
 LogInit: Warning: Passing commandline switches using / instead of - has been deprecated and will be removed in future versions of Unreal Engine.
@@ -209,514 +209,715 @@ LogInit: Compiled (64-bit): Dec  8 2017 02:04:53
 LogInit: Compiled with Visual C++: 19.00.24215.01
 LogInit: Build Configuration: Development
 LogInit: Branch Name: ++UE4+Release-4.18
-LogInit: Command line:  /Game/Creations/Maps/TestMap?Listen -game -PIEVIACONSOLE -ResX=1904 -ResY=1041  -Multiprocess -messaging -SessionName="Play in Standalone Game" -port=7777 -windowed GameUserSettingsINI="C:/Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Saved/Config/Windows/PIEGameUserSettings0.ini" -MultiprocessSaveConfig  -MultiprocessOSS WinX=8 WinY=31 SAVEWINPOS=1
+LogInit: Command line:  /Game/Creations/Maps/MainMenu?Listen -game -PIEVIACONSOLE -ResX=1904 -ResY=1041  -Multiprocess -messaging -SessionName="Play in Standalone Game" -port=7777 -windowed GameUserSettingsINI="C:/Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Saved/Config/Windows/PIEGameUserSettings0.ini" -MultiprocessSaveConfig  -MultiprocessOSS WinX=5 WinY=5 SAVEWINPOS=1
 LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
 LogInit: Installed Engine Build: 1
 LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
 LogInit: Object subsystem initialized
-[2019.04.07-02.52.25:243][  0]LogInit: Selected Device Profile: [Windows]
-[2019.04.07-02.52.25:243][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
-[2019.04.07-02.52.25:310][  0]LogInit: Computer: MSI
-[2019.04.07-02.52.25:310][  0]LogInit: User: Alex
-[2019.04.07-02.52.25:310][  0]LogInit: CPU Page size=4096, Cores=4
-[2019.04.07-02.52.25:310][  0]LogInit: High frequency timer resolution =2.533211 MHz
-[2019.04.07-02.52.25:311][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
-[2019.04.07-02.52.25:311][  0]LogMemory: Platform Memory Stats for Windows
-[2019.04.07-02.52.25:311][  0]LogMemory: Process Physical Memory: 275.46 MB used, 275.46 MB peak
-[2019.04.07-02.52.25:311][  0]LogMemory: Process Virtual Memory: 274.41 MB used, 274.41 MB peak
-[2019.04.07-02.52.25:311][  0]LogMemory: Physical Memory: 11020.17 MB used,  5253.16 MB free, 16273.34 MB total
-[2019.04.07-02.52.25:311][  0]LogMemory: Virtual Memory: 4788.93 MB used,  5253.16 MB free, 134217728.00 MB total
-[2019.04.07-02.52.27:163][  0]LogInit: Using OS detected language (en-US).
-[2019.04.07-02.52.27:163][  0]LogInit: Using OS detected locale (en-US).
-[2019.04.07-02.52.27:378][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
-[2019.04.07-02.52.28:624][  0]LogD3D11RHI: D3D11 adapters:
-[2019.04.07-02.52.28:751][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 965M' (Feature Level 11_0)
-[2019.04.07-02.52.28:751][  0]LogD3D11RHI:       2010/0/8136 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
-[2019.04.07-02.52.28:764][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
-[2019.04.07-02.52.28:764][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
-[2019.04.07-02.52.28:769][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
-[2019.04.07-02.52.28:769][  0]LogD3D11RHI:       0/0/8136 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
-[2019.04.07-02.52.28:769][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
-[2019.04.07-02.52.28:820][  0]LogD3D11RHI: Creating new Direct3DDevice
-[2019.04.07-02.52.28:820][  0]LogD3D11RHI:     GPU DeviceId: 0x13d9 (for the marketing name, search the web for "GPU Device Id")
-[2019.04.07-02.52.28:820][  0]LogWindows: EnumDisplayDevices:
-[2019.04.07-02.52.28:820][  0]LogWindows:    0. 'Intel(R) HD Graphics 4600' (P:1 D:1)
-[2019.04.07-02.52.28:821][  0]LogWindows:    1. 'Intel(R) HD Graphics 4600' (P:0 D:0)
-[2019.04.07-02.52.28:821][  0]LogWindows:    2. 'Intel(R) HD Graphics 4600' (P:0 D:0)
-[2019.04.07-02.52.28:822][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
-[2019.04.07-02.52.28:822][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 965M
-[2019.04.07-02.52.28:822][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
-[2019.04.07-02.52.28:822][  0]LogD3D11RHI:      Driver Date: Unknown
-[2019.04.07-02.52.28:822][  0]LogRHI: Texture pool is 1407 MB (70% of 2010 MB)
-[2019.04.07-02.52.28:914][  0]LogD3D11RHI: Async texture creation enabled
-[2019.04.07-02.52.28:936][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
-[2019.04.07-02.52.28:938][  0]LogShaderCompilers: Guid format shader working directory is -29 characters bigger than the processId version (../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Intermediate/Shaders/WorkingDirectory/6808/).
-[2019.04.07-02.52.28:938][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/lockw/AppData/Local/Temp/UnrealShaderWorkingDir/78874A294EC7CE3D62EC808939B235D9/'.
-[2019.04.07-02.52.28:938][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
-[2019.04.07-02.52.36:992][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
-[2019.04.07-02.52.37:223][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
-[2019.04.07-02.52.37:466][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
-[2019.04.07-02.52.37:731][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
-[2019.04.07-02.52.37:731][  0]LogTargetPlatformManager: Display: Building Assets For Windows
-[2019.04.07-02.52.39:893][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
-[2019.04.07-02.52.42:079][  0]LogDerivedDataCache: Loaded boot cache 2.19s 78MB C:/Users/lockw/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
-[2019.04.07-02.52.42:079][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/lockw/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
-[2019.04.07-02.52.42:080][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
-[2019.04.07-02.52.42:080][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
-[2019.04.07-02.52.42:080][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2019.04.07-02.52.42:080][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
-[2019.04.07-02.52.42:119][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
-[2019.04.07-02.52.42:132][  0]LogDerivedDataCache: Using Local data cache path C:/Users/lockw/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
-[2019.04.07-02.52.42:149][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
-[2019.04.07-02.52.42:150][  0]LogSlate: Using Freetype 2.6.0
-[2019.04.07-02.52.42:175][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2019.04.07-02.52.42:175][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2019.04.07-02.52.44:495][  0]LogAssetRegistry: FAssetRegistry took 0.0066 seconds to start up
-[2019.04.07-02.52.44:529][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.033332 seconds
-[2019.04.07-02.52.44:791][  0]LogInit: Selected Device Profile: [Windows]
-[2019.04.07-02.52.46:145][  0]LogSimplygon: Simplygon DLL not present - disabling.
-[2019.04.07-02.52.46:314][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
-[2019.04.07-02.52.46:314][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
-[2019.04.07-02.52.46:314][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
-[2019.04.07-02.52.46:314][  0]LogMeshReduction: No automatic mesh merging module available
-[2019.04.07-02.52.46:314][  0]LogMeshMerging: No automatic mesh merging module available
-[2019.04.07-02.52.46:403][  0]LogNetVersion: Illuminate , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1556659199)
-[2019.04.07-02.52.47:110][  0]LogInit: Warning: Passing commandline switches using / instead of - has been deprecated and will be removed in future versions of Unreal Engine.
-[2019.04.07-02.52.47:110][  0]LogInit: Warning: Passing commandline switches using / instead of - has been deprecated and will be removed in future versions of Unreal Engine.
-[2019.04.07-02.52.47:111][  0]LogInit: Warning: Passing commandline switches using / instead of - has been deprecated and will be removed in future versions of Unreal Engine.
-[2019.04.07-02.52.53:891][  0]LogMoviePlayer: Initializing movie player
-[2019.04.07-02.52.55:260][  0]LogCollectionManager: Loaded 0 collections in 0.006140 seconds
-[2019.04.07-02.52.55:383][  0]LogFileCache: Scanning file cache for directory 'C:/Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Saved/Collections/' took 0.01s
-[2019.04.07-02.52.55:384][  0]LogFileCache: Scanning file cache for directory 'C:/Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Developers/Alex/Collections/' took 0.01s
-[2019.04.07-02.52.55:384][  0]LogFileCache: Scanning file cache for directory 'C:/Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Collections/' took 0.01s
-[2019.04.07-02.52.55:384][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
-[2019.04.07-02.52.55:384][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000203 seconds (updated 0 objects)
-[2019.04.07-02.52.56:187][  0]LogTcpMessaging: Initializing TcpMessaging bridge
-[2019.04.07-02.52.56:344][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
-[2019.04.07-02.52.58:751][  0]LogInit: Warning: Passing commandline switches using / instead of - has been deprecated and will be removed in future versions of Unreal Engine.
-[2019.04.07-02.52.58:753][  0]SourceControl: Source control is disabled
-[2019.04.07-02.52.58:753][  0]SourceControl: Source control is disabled
-[2019.04.07-02.52.58:976][  0]SourceControl: Source control is disabled
-[2019.04.07-02.53.01:896][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
-[2019.04.07-02.53.03:123][  0]LogOcInput: OculusInput pre-init called
-[2019.04.07-02.53.03:715][  0]LogUObjectArray: 39813 objects as part of root set at end of initial load.
-[2019.04.07-02.53.03:715][  0]LogUObjectAllocator: 8734544 out of 0 bytes used by permanent object pool.
-[2019.04.07-02.53.03:715][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
-[2019.04.07-02.53.04:144][  0]LogEngine: Initializing Engine...
-[2019.04.07-02.53.04:149][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2019.04.07-02.53.04:708][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
-[2019.04.07-02.53.04:708][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
-[2019.04.07-02.53.04:779][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
-[2019.04.07-02.53.04:906][  0]LogInit: FAudioDevice initialized.
-[2019.04.07-02.53.04:946][  0]LogInit: Texture streaming: Enabled
-[2019.04.07-02.53.05:066][  0]LogMaterial: Uniform references updated for custom material expression Custom.
-[2019.04.07-02.53.11:369][  0]LogInit: Warning: Passing commandline switches using / instead of - has been deprecated and will be removed in future versions of Unreal Engine.
-[2019.04.07-02.53.11:533][  0]LogInit: Display: Game Engine Initialized.
-[2019.04.07-02.53.11:534][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
-[2019.04.07-02.53.12:451][  0]LogInit: Display: Starting Game.
-[2019.04.07-02.53.12:452][  0]LogNet: Browse: /Game/Creations/Maps/TestMap?Name=Player?Listen
-[2019.04.07-02.53.12:478][  0]LogLoad: LoadMap: /Game/Creations/Maps/TestMap?Name=Player?Listen
-[2019.04.07-02.53.13:227][  0]LogAIModule: Creating AISystem for world TestMap
-[2019.04.07-02.53.13:228][  0]LogLoad: Game class is 'MainGm_C'
-[2019.04.07-02.53.13:229][  0]LogOnline: Warning: STEAM: Steam API disabled!
-[2019.04.07-02.53.13:229][  0]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
-[2019.04.07-02.53.13:229][  0]LogTemp: Display: ParseSettings for GameNetDriver
-[2019.04.07-02.53.13:229][  0]LogTemp: Display: ParseSettings for IpNetDriver_0
-[2019.04.07-02.53.13:229][  0]LogTemp: Display: ParseSettings for GameNetDriver
-[2019.04.07-02.53.13:230][  0]LogInit: WinSock: Socket queue 131072 / 131072
-[2019.04.07-02.53.13:233][  0]LogInit: WinSock: I am MSI (158.104.225.238:0)
-[2019.04.07-02.53.13:233][  0]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
-[2019.04.07-02.53.13:233][  0]LogNet: GameNetDriver IpNetDriver_0 IpNetDriver listening on port 7777
-[2019.04.07-02.53.13:238][  0]LogWorld: Bringing World /Game/Creations/Maps/TestMap.TestMap up for play (max tick rate 0) at 2019.04.06-19.53.13
-[2019.04.07-02.53.13:238][  0]LogOnline: Warning: OSS: AutoLogin missing AUTH_LOGIN=<login id>.
-[2019.04.07-02.53.13:239][  0]LogWorld: Bringing up level for play took: 0.004030
-[2019.04.07-02.53.13:240][  0]LogOnline: Warning: OSS: No game present to join for session (GameSession)
-[2019.04.07-02.53.13:324][  0]LogLoad: Took 0.845685 seconds to LoadMap(/Game/Creations/Maps/TestMap)
-[2019.04.07-02.53.14:342][  0]LogRenderer: Reallocating scene render targets to support 1904x1044 Format 10 NumSamples 1 (Frame:1).
-[2019.04.07-02.53.14:342][  0]LogLoad: (Engine Initialization) Total time: 58.82 seconds
-[2019.04.07-02.53.14:342][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
-[2019.04.07-02.53.14:342][  0]LogExternalProfiler: Found external profiler: VSPerf
-[2019.04.07-02.53.14:343][  0]LogExternalProfiler: Using external profiler: VSPerf
-[2019.04.07-02.53.14:362][  0]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:58696
-[2019.04.07-02.53.14:362][  0]LogHandshake: SendConnectChallenge. Timestamp: 0.016130, Cookie: 251026078086240111045251002136136200030179127119229139227115
-[2019.04.07-02.53.14:363][  0]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:58697
-[2019.04.07-02.53.14:363][  0]LogHandshake: SendConnectChallenge. Timestamp: 0.016130, Cookie: 255054081077252006222033160024071175093061164226194162014133
-[2019.04.07-02.53.14:485][  0]LogContentStreaming: Texture pool size now 1000 MB
-[2019.04.07-02.53.14:508][  1]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:58697
-[2019.04.07-02.53.14:508][  1]LogHandshake: SendChallengeAck. InCookie: 255054081077252006222033160024071175093061164226194162014133
-[2019.04.07-02.53.14:509][  1]LogNet: Server accepting post-challenge connection from: 127.0.0.1:58697
-[2019.04.07-02.53.14:509][  1]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
-[2019.04.07-02.53.14:509][  1]LogNet: NotifyAcceptedConnection: Name: TestMap, TimeStamp: 04/06/19 19:53:14, [UNetConnection] RemoteAddr: 127.0.0.1:58697, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL
-[2019.04.07-02.53.14:509][  1]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:58697, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL
-[2019.04.07-02.53.14:510][  1]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:58696
-[2019.04.07-02.53.14:510][  1]LogHandshake: SendChallengeAck. InCookie: 251026078086240111045251002136136200030179127119229139227115
-[2019.04.07-02.53.14:510][  1]LogNet: Server accepting post-challenge connection from: 127.0.0.1:58696
-[2019.04.07-02.53.14:510][  1]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
-[2019.04.07-02.53.14:510][  1]LogNet: NotifyAcceptedConnection: Name: TestMap, TimeStamp: 04/06/19 19:53:14, [UNetConnection] RemoteAddr: 127.0.0.1:58696, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL
-[2019.04.07-02.53.14:510][  1]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:58696, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL
-[2019.04.07-02.53.14:553][  2]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Creations/Maps/TestMap.TestMap: Accepted
-[2019.04.07-02.53.14:553][  2]LogNet: Remote platform little endian=1
-[2019.04.07-02.53.14:553][  2]LogNet: This platform little endian=1
-[2019.04.07-02.53.14:553][  2]LogNetVersion: Illuminate 1.0.0.0, NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1067519852)
-[2019.04.07-02.53.14:554][  2]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Creations/Maps/TestMap.TestMap: Accepted
-[2019.04.07-02.53.14:554][  2]LogNet: Remote platform little endian=1
-[2019.04.07-02.53.14:554][  2]LogNet: This platform little endian=1
-[2019.04.07-02.53.14:566][  3]LogNet: Login request: /Game/Creations/Maps/MainMenu?Name=MSI-34AFB47748B57469C32ED1935C227B0E userId: MSI-34AFB47748B57469C32ED1935C227B0E
-[2019.04.07-02.53.14:567][  3]LogNet: Login request: /Game/Creations/Maps/MainMenu?Name=MSI-E3F9C9A849ACE85D60CB96935A7E0A86 userId: MSI-E3F9C9A849ACE85D60CB96935A7E0A86
-[2019.04.07-02.53.14:587][  4]LogNet: Client netspeed is 10000
-[2019.04.07-02.53.14:587][  4]LogNet: Client netspeed is 10000
-[2019.04.07-02.53.15:498][ 60]LogNet: Join request: /Game/Creations/Maps/MainMenu?Name=MSI-34AFB47748B57469C32ED1935C227B0E?SplitscreenCount=1
-[2019.04.07-02.53.15:501][ 60]LogOnline: Warning: OSS: No game present to join for session (GameSession)
-[2019.04.07-02.53.15:504][ 60]LogNet: Join succeeded: MSI-34AFB47748B57469
-[2019.04.07-02.53.15:514][ 61]LogNet: Join request: /Game/Creations/Maps/MainMenu?Name=MSI-E3F9C9A849ACE85D60CB96935A7E0A86?SplitscreenCount=1
-[2019.04.07-02.53.15:516][ 61]LogOnline: Warning: OSS: No game present to join for session (GameSession)
-[2019.04.07-02.53.15:518][ 61]LogNet: Join succeeded: MSI-E3F9C9A849ACE85D
-[2019.04.07-02.53.24:383][283]LogSlate: Took 0.000334 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
-[2019.04.07-02.53.34:414][481]LogBlueprintUserMessages: [WeaponSelect_C_0] No ability found!
-[2019.04.07-02.53.34:440][481]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'WeaponsInUI' of length 3 in '/Game/Creations/Widgets/WeaponsandHP.WeaponsandHP_C'!
-[2019.04.07-02.53.34:440][481]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
-	WeaponsandHP_C /Engine/Transient.GameEngine_0:MainInstance_C_0.WeaponsandHP_C_0
-	Function /Game/Creations/Widgets/WeaponsandHP.WeaponsandHP_C:ExecuteUbergraph_WeaponsandHP:021F
-[2019.04.07-02.53.34:441][481]LogScript: Warning: Script call stack:
-	Function /Game/Creations/GInstances/mainPC.mainPC_C:doneSelecting
-	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC
-	Function /Game/Creations/GInstances/mainPC.mainPC_C:serverDoneSelecting
-	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC
-	Function /Game/Creations/GInstances/mainPC.mainPC_C:updateClientDoneSelecting
-	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC
-	Function /Game/Creations/GInstances/mainPC.mainPC_C:updateHUD
-	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC
-	Function /Game/Creations/Widgets/WeaponsandHP.WeaponsandHP_C:updateVals
-	Function /Game/Creations/Widgets/WeaponsandHP.WeaponsandHP_C:ExecuteUbergraph_WeaponsandHP
+[2019.04.09-02.48.54:596][  0]LogInit: Selected Device Profile: [Windows]
+[2019.04.09-02.48.54:596][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.04.09-02.48.54:639][  0]LogInit: Computer: MSI
+[2019.04.09-02.48.54:639][  0]LogInit: User: Alex
+[2019.04.09-02.48.54:639][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.04.09-02.48.54:639][  0]LogInit: High frequency timer resolution =2.533211 MHz
+[2019.04.09-02.48.54:640][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.04.09-02.48.54:640][  0]LogMemory: Platform Memory Stats for Windows
+[2019.04.09-02.48.54:640][  0]LogMemory: Process Physical Memory: 275.92 MB used, 275.92 MB peak
+[2019.04.09-02.48.54:640][  0]LogMemory: Process Virtual Memory: 274.30 MB used, 274.30 MB peak
+[2019.04.09-02.48.54:640][  0]LogMemory: Physical Memory: 11511.96 MB used,  4761.38 MB free, 16273.34 MB total
+[2019.04.09-02.48.54:640][  0]LogMemory: Virtual Memory: 4788.93 MB used,  4761.38 MB free, 134217728.00 MB total
+[2019.04.09-02.48.56:044][  0]LogInit: Using OS detected language (en-US).
+[2019.04.09-02.48.56:044][  0]LogInit: Using OS detected locale (en-US).
+[2019.04.09-02.48.56:225][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.04.09-02.48.57:265][  0]LogD3D11RHI: D3D11 adapters:
+[2019.04.09-02.48.57:351][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 965M' (Feature Level 11_0)
+[2019.04.09-02.48.57:351][  0]LogD3D11RHI:       2010/0/8136 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.04.09-02.48.57:360][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
+[2019.04.09-02.48.57:361][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.04.09-02.48.57:363][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.04.09-02.48.57:363][  0]LogD3D11RHI:       0/0/8136 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.04.09-02.48.57:364][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.04.09-02.48.57:401][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.04.09-02.48.57:401][  0]LogD3D11RHI:     GPU DeviceId: 0x13d9 (for the marketing name, search the web for "GPU Device Id")
+[2019.04.09-02.48.57:401][  0]LogWindows: EnumDisplayDevices:
+[2019.04.09-02.48.57:401][  0]LogWindows:    0. 'Intel(R) HD Graphics 4600' (P:1 D:1)
+[2019.04.09-02.48.57:402][  0]LogWindows:    1. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2019.04.09-02.48.57:402][  0]LogWindows:    2. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2019.04.09-02.48.57:402][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.04.09-02.48.57:402][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 965M
+[2019.04.09-02.48.57:402][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.04.09-02.48.57:402][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.04.09-02.48.57:402][  0]LogRHI: Texture pool is 1407 MB (70% of 2010 MB)
+[2019.04.09-02.48.57:468][  0]LogD3D11RHI: Async texture creation enabled
+[2019.04.09-02.48.57:493][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.04.09-02.48.57:494][  0]LogShaderCompilers: Guid format shader working directory is -29 characters bigger than the processId version (../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Intermediate/Shaders/WorkingDirectory/7768/).
+[2019.04.09-02.48.57:494][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/lockw/AppData/Local/Temp/UnrealShaderWorkingDir/E9FD4D544FB785CCADDC869F04F3B081/'.
+[2019.04.09-02.48.57:494][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.04.09-02.49.07:708][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.04.09-02.49.07:881][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.04.09-02.49.08:068][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.04.09-02.49.08:319][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.04.09-02.49.08:319][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.04.09-02.49.10:370][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.04.09-02.49.13:739][  0]LogDerivedDataCache: Loaded boot cache 3.36s 79MB C:/Users/lockw/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2019.04.09-02.49.13:739][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/lockw/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2019.04.09-02.49.13:739][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.04.09-02.49.13:739][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.04.09-02.49.13:739][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.04.09-02.49.13:739][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.04.09-02.49.13:774][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.04.09-02.49.13:788][  0]LogDerivedDataCache: Using Local data cache path C:/Users/lockw/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.04.09-02.49.13:813][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.04.09-02.49.13:826][  0]LogSlate: Using Freetype 2.6.0
+[2019.04.09-02.49.13:867][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.04.09-02.49.13:867][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.04.09-02.49.16:463][  0]LogAssetRegistry: FAssetRegistry took 0.0097 seconds to start up
+[2019.04.09-02.49.16:501][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.036825 seconds
+[2019.04.09-02.49.16:735][  0]LogInit: Selected Device Profile: [Windows]
+[2019.04.09-02.49.18:342][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.04.09-02.49.18:551][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.04.09-02.49.18:551][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.04.09-02.49.18:551][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.04.09-02.49.18:551][  0]LogMeshReduction: No automatic mesh merging module available
+[2019.04.09-02.49.18:551][  0]LogMeshMerging: No automatic mesh merging module available
+[2019.04.09-02.49.18:704][  0]LogNetVersion: Illuminate , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1556659199)
+[2019.04.09-02.49.19:969][  0]LogInit: Warning: Passing commandline switches using / instead of - has been deprecated and will be removed in future versions of Unreal Engine.
+[2019.04.09-02.49.19:969][  0]LogInit: Warning: Passing commandline switches using / instead of - has been deprecated and will be removed in future versions of Unreal Engine.
+[2019.04.09-02.49.19:969][  0]LogInit: Warning: Passing commandline switches using / instead of - has been deprecated and will be removed in future versions of Unreal Engine.
+[2019.04.09-02.49.27:162][  0]LogMoviePlayer: Initializing movie player
+[2019.04.09-02.49.28:544][  0]LogCollectionManager: Loaded 0 collections in 0.005353 seconds
+[2019.04.09-02.49.28:647][  0]LogFileCache: Scanning file cache for directory 'C:/Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Saved/Collections/' took 0.01s
+[2019.04.09-02.49.28:647][  0]LogFileCache: Scanning file cache for directory 'C:/Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Developers/Alex/Collections/' took 0.01s
+[2019.04.09-02.49.28:647][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.04.09-02.49.28:647][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000094 seconds (updated 0 objects)
+[2019.04.09-02.49.29:386][  0]LogFileCache: Scanning file cache for directory 'C:/Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Collections/' took 0.01s
+[2019.04.09-02.49.29:386][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.04.09-02.49.29:515][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.04.09-02.49.31:819][  0]LogInit: Warning: Passing commandline switches using / instead of - has been deprecated and will be removed in future versions of Unreal Engine.
+[2019.04.09-02.49.31:820][  0]SourceControl: Source control is disabled
+[2019.04.09-02.49.31:820][  0]SourceControl: Source control is disabled
+[2019.04.09-02.49.32:035][  0]SourceControl: Source control is disabled
+[2019.04.09-02.49.34:719][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.04.09-02.49.35:848][  0]LogOcInput: OculusInput pre-init called
+[2019.04.09-02.49.36:308][  0]LogUObjectArray: 39813 objects as part of root set at end of initial load.
+[2019.04.09-02.49.36:308][  0]LogUObjectAllocator: 8734536 out of 0 bytes used by permanent object pool.
+[2019.04.09-02.49.36:308][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.04.09-02.49.36:710][  0]LogEngine: Initializing Engine...
+[2019.04.09-02.49.36:714][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.04.09-02.49.37:567][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.04.09-02.49.37:567][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.04.09-02.49.37:612][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.04.09-02.49.37:802][  0]LogInit: FAudioDevice initialized.
+[2019.04.09-02.49.37:856][  0]LogInit: Texture streaming: Enabled
+[2019.04.09-02.49.38:037][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2019.04.09-02.49.44:552][  0]LogInit: Warning: Passing commandline switches using / instead of - has been deprecated and will be removed in future versions of Unreal Engine.
+[2019.04.09-02.49.44:815][  0]LogInit: Display: Game Engine Initialized.
+[2019.04.09-02.49.44:822][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.04.09-02.49.45:536][  0]LogInit: Display: Starting Game.
+[2019.04.09-02.49.45:552][  0]LogNet: Browse: /Game/Creations/Maps/MainMenu?Name=Player?Listen
+[2019.04.09-02.49.45:619][  0]LogLoad: LoadMap: /Game/Creations/Maps/MainMenu?Name=Player?Listen
+[2019.04.09-02.49.46:245][  0]LogAIModule: Creating AISystem for world MainMenu
+[2019.04.09-02.49.46:270][  0]LogLoad: Game class is 'MainGm_C'
+[2019.04.09-02.49.46:271][  0]LogOnline: Warning: STEAM: Steam API disabled!
+[2019.04.09-02.49.46:271][  0]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2019.04.09-02.49.46:271][  0]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.04.09-02.49.46:271][  0]LogTemp: Display: ParseSettings for IpNetDriver_0
+[2019.04.09-02.49.46:271][  0]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.04.09-02.49.46:272][  0]LogInit: WinSock: Socket queue 131072 / 131072
+[2019.04.09-02.49.46:276][  0]LogInit: WinSock: I am MSI (158.104.225.238:0)
+[2019.04.09-02.49.46:276][  0]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.04.09-02.49.46:303][  0]LogNet: GameNetDriver IpNetDriver_0 IpNetDriver listening on port 7777
+[2019.04.09-02.49.46:327][  0]LogWorld: Bringing World /Game/Creations/Maps/MainMenu.MainMenu up for play (max tick rate 0) at 2019.04.08-19.49.46
+[2019.04.09-02.49.46:379][  0]LogOnline: Warning: OSS: AutoLogin missing AUTH_LOGIN=<login id>.
+[2019.04.09-02.49.46:386][  0]LogWorld: Bringing up level for play took: 0.067170
+[2019.04.09-02.49.46:422][  0]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2019.04.09-02.49.46:443][  0]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.04.09-02.49.47:229][  0]LogLoad: Took 1.610199 seconds to LoadMap(/Game/Creations/Maps/MainMenu)
+[2019.04.09-02.49.47:994][  0]LogRenderer: Reallocating scene render targets to support 1904x1044 Format 10 NumSamples 1 (Frame:1).
+[2019.04.09-02.49.47:994][  0]LogLoad: (Engine Initialization) Total time: 66.20 seconds
+[2019.04.09-02.49.47:994][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.04.09-02.49.47:994][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2019.04.09-02.49.47:994][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2019.04.09-02.49.48:036][  0]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:58841
+[2019.04.09-02.49.48:047][  0]LogHandshake: SendConnectChallenge. Timestamp: 0.016129, Cookie: 161203184033069052021112041244130090196037189145079225026004
+[2019.04.09-02.49.48:047][  0]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:58841
+[2019.04.09-02.49.48:047][  0]LogHandshake: SendConnectChallenge. Timestamp: 0.016129, Cookie: 161203184033069052021112041244130090196037189145079225026004
+[2019.04.09-02.49.48:305][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.04.09-02.49.48:335][  1]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:58841
+[2019.04.09-02.49.48:335][  1]LogHandshake: SendChallengeAck. InCookie: 161203184033069052021112041244130090196037189145079225026004
+[2019.04.09-02.49.48:336][  1]LogNet: Server accepting post-challenge connection from: 127.0.0.1:58841
+[2019.04.09-02.49.48:336][  1]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.04.09-02.49.48:337][  1]LogNet: NotifyAcceptedConnection: Name: MainMenu, TimeStamp: 04/08/19 19:49:48, [UNetConnection] RemoteAddr: 127.0.0.1:58841, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL
+[2019.04.09-02.49.48:337][  1]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:58841, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL
+[2019.04.09-02.49.48:337][  1]LogHandshake: Received unexpected post-connect handshake packet - resending ack.
+[2019.04.09-02.49.48:337][  1]LogHandshake: SendChallengeAck. InCookie: 161203184033069052021112041244130090196037189145079225026004
+[2019.04.09-02.49.48:548][  2]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Creations/Maps/MainMenu.MainMenu: Accepted
+[2019.04.09-02.49.48:549][  2]LogNet: Remote platform little endian=1
+[2019.04.09-02.49.48:549][  2]LogNet: This platform little endian=1
+[2019.04.09-02.49.48:549][  2]LogNetVersion: Illuminate 1.0.0.0, NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1067519852)
+[2019.04.09-02.49.48:562][  2]LogNet: Login request: /Game/Creations/Maps/MainMenu?Name=MSI-285AF0E647EBEB0B22DFB1A7A6CAB247 userId: MSI-285AF0E647EBEB0B22DFB1A7A6CAB247
+[2019.04.09-02.49.48:632][  5]LogNet: Client netspeed is 10000
+[2019.04.09-02.49.49:276][ 45]LogNet: Join request: /Game/Creations/Maps/MainMenu?Name=MSI-285AF0E647EBEB0B22DFB1A7A6CAB247?SplitscreenCount=1
+[2019.04.09-02.49.49:278][ 45]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2019.04.09-02.49.49:278][ 45]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.04.09-02.49.49:543][ 45]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=7.297 Y=58.685 Z=0.016] for [testTwinstickPawn_C]
+[2019.04.09-02.49.49:543][ 45]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type testTwinstickPawn_C at Rotation: Pitch 0.000000 Yaw 0.000000 Roll 0.000000
+Translation: 0.000000 0.000000 0.000000
+Scale3D: 1.000000 1.000000 1.000000
 
-[2019.04.07-02.53.34:441][481]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'Weapon uses' of length 3 in '/Game/Creations/Widgets/WeaponsandHP.WeaponsandHP_C'!
-[2019.04.07-02.53.34:441][481]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
-	WeaponsandHP_C /Engine/Transient.GameEngine_0:MainInstance_C_0.WeaponsandHP_C_0
-	Function /Game/Creations/Widgets/WeaponsandHP.WeaponsandHP_C:ExecuteUbergraph_WeaponsandHP:0330
-[2019.04.07-02.53.34:441][481]LogScript: Warning: Script call stack:
-	Function /Game/Creations/GInstances/mainPC.mainPC_C:doneSelecting
+[2019.04.09-02.49.49:544][ 45]LogNet: Join succeeded: MSI-285AF0E647EBEB0B
+[2019.04.09-02.49.49:544][ 45]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue7
+	mainPC_C /Game/Creations/Maps/MainMenu.MainMenu:PersistentLevel.mainPC_C_1
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC:1C32
+[2019.04.09-02.49.49:544][ 45]LogScript: Warning: Script call stack:
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ReceiveTick
 	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC
-	Function /Game/Creations/GInstances/mainPC.mainPC_C:serverDoneSelecting
-	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC
-	Function /Game/Creations/GInstances/mainPC.mainPC_C:updateClientDoneSelecting
-	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC
-	Function /Game/Creations/GInstances/mainPC.mainPC_C:updateHUD
-	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC
-	Function /Game/Creations/Widgets/WeaponsandHP.WeaponsandHP_C:updateVals
-	Function /Game/Creations/Widgets/WeaponsandHP.WeaponsandHP_C:ExecuteUbergraph_WeaponsandHP
 
-[2019.04.07-02.53.34:443][481]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'WeaponsInUI' of length 3 in '/Game/Creations/Widgets/WeaponsandHP.WeaponsandHP_C'!
-[2019.04.07-02.53.34:443][481]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
-	WeaponsandHP_C /Engine/Transient.GameEngine_0:MainInstance_C_0.WeaponsandHP_C_0
-	Function /Game/Creations/Widgets/WeaponsandHP.WeaponsandHP_C:ExecuteUbergraph_WeaponsandHP:021F
-[2019.04.07-02.53.34:443][481]LogScript: Warning: Script call stack:
-	Function /Game/Creations/GInstances/mainPC.mainPC_C:doneSelecting
+[2019.04.09-02.49.49:610][ 46]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue7
+	mainPC_C /Game/Creations/Maps/MainMenu.MainMenu:PersistentLevel.mainPC_C_1
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC:1C32
+[2019.04.09-02.49.49:611][ 46]LogScript: Warning: Script call stack:
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ReceiveTick
 	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC
-	Function /Game/Creations/GInstances/mainPC.mainPC_C:updateHUD
-	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC
-	Function /Game/Creations/Widgets/WeaponsandHP.WeaponsandHP_C:updateVals
-	Function /Game/Creations/Widgets/WeaponsandHP.WeaponsandHP_C:ExecuteUbergraph_WeaponsandHP
 
-[2019.04.07-02.53.34:443][481]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'Weapon uses' of length 3 in '/Game/Creations/Widgets/WeaponsandHP.WeaponsandHP_C'!
-[2019.04.07-02.53.34:443][481]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
-	WeaponsandHP_C /Engine/Transient.GameEngine_0:MainInstance_C_0.WeaponsandHP_C_0
-	Function /Game/Creations/Widgets/WeaponsandHP.WeaponsandHP_C:ExecuteUbergraph_WeaponsandHP:0330
-[2019.04.07-02.53.34:443][481]LogScript: Warning: Script call stack:
-	Function /Game/Creations/GInstances/mainPC.mainPC_C:doneSelecting
+[2019.04.09-02.49.49:627][ 47]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue7
+	mainPC_C /Game/Creations/Maps/MainMenu.MainMenu:PersistentLevel.mainPC_C_1
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC:1C32
+[2019.04.09-02.49.49:627][ 47]LogScript: Warning: Script call stack:
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ReceiveTick
 	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC
-	Function /Game/Creations/GInstances/mainPC.mainPC_C:updateHUD
-	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC
-	Function /Game/Creations/Widgets/WeaponsandHP.WeaponsandHP_C:updateVals
-	Function /Game/Creations/Widgets/WeaponsandHP.WeaponsandHP_C:ExecuteUbergraph_WeaponsandHP
 
-[2019.04.07-02.53.34:443][481]LogBlueprintUserMessages: [TestMap_C_0] 3
-[2019.04.07-02.53.34:444][481]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'WeaponsInUI' of length 3 in '/Game/Creations/Widgets/WeaponsandHP.WeaponsandHP_C'!
-[2019.04.07-02.53.34:444][481]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
-	WeaponsandHP_C /Engine/Transient.GameEngine_0:MainInstance_C_0.WeaponsandHP_C_0
-	Function /Game/Creations/Widgets/WeaponsandHP.WeaponsandHP_C:ExecuteUbergraph_WeaponsandHP:021F
-[2019.04.07-02.53.34:444][481]LogScript: Warning: Script call stack:
-	Function /Game/Creations/Maps/TestMap.TestMap_C:unPause
-	Function /Game/Creations/Maps/TestMap.TestMap_C:ExecuteUbergraph_TestMap
-	Function /Game/Creations/GInstances/mainPC.mainPC_C:clientHUDUpdate
+[2019.04.09-02.49.49:644][ 48]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue7
+	mainPC_C /Game/Creations/Maps/MainMenu.MainMenu:PersistentLevel.mainPC_C_1
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC:1C32
+[2019.04.09-02.49.49:644][ 48]LogScript: Warning: Script call stack:
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ReceiveTick
 	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC
-	Function /Game/Creations/GInstances/mainPC.mainPC_C:updateHUD
-	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC
-	Function /Game/Creations/Widgets/WeaponsandHP.WeaponsandHP_C:updateVals
-	Function /Game/Creations/Widgets/WeaponsandHP.WeaponsandHP_C:ExecuteUbergraph_WeaponsandHP
 
-[2019.04.07-02.53.34:444][481]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'Weapon uses' of length 3 in '/Game/Creations/Widgets/WeaponsandHP.WeaponsandHP_C'!
-[2019.04.07-02.53.34:444][481]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
-	WeaponsandHP_C /Engine/Transient.GameEngine_0:MainInstance_C_0.WeaponsandHP_C_0
-	Function /Game/Creations/Widgets/WeaponsandHP.WeaponsandHP_C:ExecuteUbergraph_WeaponsandHP:0330
-[2019.04.07-02.53.34:444][481]LogScript: Warning: Script call stack:
-	Function /Game/Creations/Maps/TestMap.TestMap_C:unPause
-	Function /Game/Creations/Maps/TestMap.TestMap_C:ExecuteUbergraph_TestMap
-	Function /Game/Creations/GInstances/mainPC.mainPC_C:clientHUDUpdate
+[2019.04.09-02.49.49:660][ 49]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue7
+	mainPC_C /Game/Creations/Maps/MainMenu.MainMenu:PersistentLevel.mainPC_C_1
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC:1C32
+[2019.04.09-02.49.49:660][ 49]LogScript: Warning: Script call stack:
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ReceiveTick
 	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC
-	Function /Game/Creations/GInstances/mainPC.mainPC_C:updateHUD
-	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC
-	Function /Game/Creations/Widgets/WeaponsandHP.WeaponsandHP_C:updateVals
-	Function /Game/Creations/Widgets/WeaponsandHP.WeaponsandHP_C:ExecuteUbergraph_WeaponsandHP
 
-[2019.04.07-02.53.54:947][749]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'WeaponsInUI' of length 3 in '/Game/Creations/Widgets/WeaponsandHP.WeaponsandHP_C'!
-[2019.04.07-02.53.54:947][749]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
-	WeaponsandHP_C /Engine/Transient.GameEngine_0:MainInstance_C_0.WeaponsandHP_C_0
-	Function /Game/Creations/Widgets/WeaponsandHP.WeaponsandHP_C:ExecuteUbergraph_WeaponsandHP:021F
-[2019.04.07-02.53.54:947][749]LogScript: Warning: Script call stack:
-	Function /Game/Creations/Maps/TestMap.TestMap_C:ExecuteUbergraph_TestMap
-	Function /Game/Creations/GInstances/mainPC.mainPC_C:AddWeaponSelectWidget
+[2019.04.09-02.49.49:676][ 50]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue7
+	mainPC_C /Game/Creations/Maps/MainMenu.MainMenu:PersistentLevel.mainPC_C_1
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC:1C32
+[2019.04.09-02.49.49:676][ 50]LogScript: Warning: Script call stack:
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ReceiveTick
 	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC
-	Function /Game/Creations/GInstances/mainPC.mainPC_C:updateHUD
-	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC
-	Function /Game/Creations/Widgets/WeaponsandHP.WeaponsandHP_C:updateVals
-	Function /Game/Creations/Widgets/WeaponsandHP.WeaponsandHP_C:ExecuteUbergraph_WeaponsandHP
 
-[2019.04.07-02.53.54:947][749]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'Weapon uses' of length 3 in '/Game/Creations/Widgets/WeaponsandHP.WeaponsandHP_C'!
-[2019.04.07-02.53.54:947][749]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
-	WeaponsandHP_C /Engine/Transient.GameEngine_0:MainInstance_C_0.WeaponsandHP_C_0
-	Function /Game/Creations/Widgets/WeaponsandHP.WeaponsandHP_C:ExecuteUbergraph_WeaponsandHP:0330
-[2019.04.07-02.53.54:947][749]LogScript: Warning: Script call stack:
-	Function /Game/Creations/Maps/TestMap.TestMap_C:ExecuteUbergraph_TestMap
-	Function /Game/Creations/GInstances/mainPC.mainPC_C:AddWeaponSelectWidget
+[2019.04.09-02.49.49:693][ 51]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue7
+	mainPC_C /Game/Creations/Maps/MainMenu.MainMenu:PersistentLevel.mainPC_C_1
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC:1C32
+[2019.04.09-02.49.49:693][ 51]LogScript: Warning: Script call stack:
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ReceiveTick
 	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC
-	Function /Game/Creations/GInstances/mainPC.mainPC_C:updateHUD
-	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC
-	Function /Game/Creations/Widgets/WeaponsandHP.WeaponsandHP_C:updateVals
-	Function /Game/Creations/Widgets/WeaponsandHP.WeaponsandHP_C:ExecuteUbergraph_WeaponsandHP
 
-[2019.04.07-02.54.00:878][844]LogPackageName: SearchForPackageOnDisk took   0.775s to resolve MainMenu.umap.
-[2019.04.07-02.54.00:878][844]LogOnline: Warning: OSS: Can't destroy a null online session (GameSession)
-[2019.04.07-02.54.01:633][844]LogPackageName: SearchForPackageOnDisk took   0.755s to resolve MainMenu.umap.
-[2019.04.07-02.54.01:634][844]LogNet: Browse: /Game/Creations/Maps/MainMenu
-[2019.04.07-02.54.01:634][844]LogLoad: LoadMap: /Game/Creations/Maps/MainMenu
-[2019.04.07-02.54.01:634][844]LogNet: World NetDriver shutdown IpNetDriver_0 [GameNetDriver]
-[2019.04.07-02.54.01:634][844]LogNet: DestroyNamedNetDriver IpNetDriver_0 [GameNetDriver]
-[2019.04.07-02.54.01:636][844]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:58696, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: mainPC_C_1, Owner: mainPC_C_1
-[2019.04.07-02.54.01:636][844]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:58696, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: mainPC_C_1, Owner: mainPC_C_1, Channels: 14, Time: 2019.04.07-02.54.01
-[2019.04.07-02.54.01:636][844]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:58696, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: mainPC_C_1, Owner: mainPC_C_1
-[2019.04.07-02.54.01:637][844]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:58697, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: mainPC_C_2, Owner: mainPC_C_2
-[2019.04.07-02.54.01:637][844]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:58697, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: mainPC_C_2, Owner: mainPC_C_2, Channels: 14, Time: 2019.04.07-02.54.01
-[2019.04.07-02.54.01:637][844]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:58697, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: mainPC_C_2, Owner: mainPC_C_2
-[2019.04.07-02.54.01:638][844]LogExit: GameNetDriver IpNetDriver_0 shut down
-[2019.04.07-02.54.01:686][844]LogAIModule: Creating AISystem for world MainMenu
-[2019.04.07-02.54.01:687][844]LogLoad: Game class is 'MainGm_C'
-[2019.04.07-02.54.01:689][844]LogWorld: Bringing World /Game/Creations/Maps/MainMenu.MainMenu up for play (max tick rate 0) at 2019.04.06-19.54.01
-[2019.04.07-02.54.01:689][844]LogWorld: Bringing up level for play took: 0.000873
-[2019.04.07-02.54.01:689][844]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
-[2019.04.07-02.54.01:693][844]LogLoad: Took 0.059331 seconds to LoadMap(/Game/Creations/Maps/MainMenu)
-[2019.04.07-02.54.03:251][879]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'SelectedAbilities' of length 0 in '/Game/Creations/Other/testTwinstickPawn.testTwinstickPawn_C'!
-[2019.04.07-02.54.03:251][879]LogScript: Warning: Accessed None trying to read Class from property CallFunc_Array_Get_Item
+[2019.04.09-02.49.49:709][ 52]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue7
+	mainPC_C /Game/Creations/Maps/MainMenu.MainMenu:PersistentLevel.mainPC_C_1
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC:1C32
+[2019.04.09-02.49.49:709][ 52]LogScript: Warning: Script call stack:
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ReceiveTick
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC
+
+[2019.04.09-02.49.49:726][ 53]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue7
+	mainPC_C /Game/Creations/Maps/MainMenu.MainMenu:PersistentLevel.mainPC_C_1
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC:1C32
+[2019.04.09-02.49.49:726][ 53]LogScript: Warning: Script call stack:
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ReceiveTick
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC
+
+[2019.04.09-02.49.49:741][ 54]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue7
+	mainPC_C /Game/Creations/Maps/MainMenu.MainMenu:PersistentLevel.mainPC_C_1
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC:1C32
+[2019.04.09-02.49.49:741][ 54]LogScript: Warning: Script call stack:
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ReceiveTick
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC
+
+[2019.04.09-02.49.49:758][ 55]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue7
+	mainPC_C /Game/Creations/Maps/MainMenu.MainMenu:PersistentLevel.mainPC_C_1
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC:1C32
+[2019.04.09-02.49.49:758][ 55]LogScript: Warning: Script call stack:
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ReceiveTick
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC
+
+[2019.04.09-02.49.49:774][ 56]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue7
+	mainPC_C /Game/Creations/Maps/MainMenu.MainMenu:PersistentLevel.mainPC_C_1
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC:1C32
+[2019.04.09-02.49.49:775][ 56]LogScript: Warning: Script call stack:
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ReceiveTick
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC
+
+[2019.04.09-02.49.49:791][ 57]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue7
+	mainPC_C /Game/Creations/Maps/MainMenu.MainMenu:PersistentLevel.mainPC_C_1
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC:1C32
+[2019.04.09-02.49.49:791][ 57]LogScript: Warning: Script call stack:
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ReceiveTick
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC
+
+[2019.04.09-02.49.49:807][ 58]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue7
+	mainPC_C /Game/Creations/Maps/MainMenu.MainMenu:PersistentLevel.mainPC_C_1
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC:1C32
+[2019.04.09-02.49.49:807][ 58]LogScript: Warning: Script call stack:
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ReceiveTick
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC
+
+[2019.04.09-02.49.49:823][ 59]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue7
+	mainPC_C /Game/Creations/Maps/MainMenu.MainMenu:PersistentLevel.mainPC_C_1
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC:1C32
+[2019.04.09-02.49.49:824][ 59]LogScript: Warning: Script call stack:
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ReceiveTick
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC
+
+[2019.04.09-02.49.49:840][ 60]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue7
+	mainPC_C /Game/Creations/Maps/MainMenu.MainMenu:PersistentLevel.mainPC_C_1
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC:1C32
+[2019.04.09-02.49.49:840][ 60]LogScript: Warning: Script call stack:
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ReceiveTick
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC
+
+[2019.04.09-02.49.49:859][ 61]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue7
+	mainPC_C /Game/Creations/Maps/MainMenu.MainMenu:PersistentLevel.mainPC_C_1
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC:1C32
+[2019.04.09-02.49.49:859][ 61]LogScript: Warning: Script call stack:
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ReceiveTick
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC
+
+[2019.04.09-02.49.52:565][216]LogSlate: Took 0.000481 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.04.09-02.49.53:072][245]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'SelectedAbilities' of length 0 in '/Game/Creations/Other/testTwinstickPawn.testTwinstickPawn_C'!
+[2019.04.09-02.49.53:072][245]LogScript: Warning: Accessed None trying to read Class from property CallFunc_Array_Get_Item
 	testTwinstickPawn_C /Game/Creations/Maps/MainMenu.MainMenu:PersistentLevel.testTwinstickPawn_C_0
 	Function /Game/Creations/Other/testTwinstickPawn.testTwinstickPawn_C:FireShot:0150
-[2019.04.07-02.54.03:251][879]LogScript: Warning: Script call stack:
+[2019.04.09-02.49.53:072][245]LogScript: Warning: Script call stack:
 	Function /Game/Creations/Other/testTwinstickPawn.testTwinstickPawn_C:ReceiveTick
 	Function /Game/Creations/Other/testTwinstickPawn.testTwinstickPawn_C:ExecuteUbergraph_testTwinstickPawn
 	Function /Game/Creations/Other/testTwinstickPawn.testTwinstickPawn_C:serverFireShot
 	Function /Game/Creations/Other/testTwinstickPawn.testTwinstickPawn_C:ExecuteUbergraph_testTwinstickPawn
 	Function /Game/Creations/Other/testTwinstickPawn.testTwinstickPawn_C:FireShot
 
-[2019.04.07-02.54.03:297][880]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'SelectedAbilities' of length 0 in '/Game/Creations/Other/testTwinstickPawn.testTwinstickPawn_C'!
-[2019.04.07-02.54.03:297][880]LogScript: Warning: Accessed None trying to read Class from property CallFunc_Array_Get_Item
+[2019.04.09-02.49.53:095][246]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'SelectedAbilities' of length 0 in '/Game/Creations/Other/testTwinstickPawn.testTwinstickPawn_C'!
+[2019.04.09-02.49.53:095][246]LogScript: Warning: Accessed None trying to read Class from property CallFunc_Array_Get_Item
 	testTwinstickPawn_C /Game/Creations/Maps/MainMenu.MainMenu:PersistentLevel.testTwinstickPawn_C_0
 	Function /Game/Creations/Other/testTwinstickPawn.testTwinstickPawn_C:FireShot:0150
-[2019.04.07-02.54.03:297][880]LogScript: Warning: Script call stack:
+[2019.04.09-02.49.53:095][246]LogScript: Warning: Script call stack:
 	Function /Game/Creations/Other/testTwinstickPawn.testTwinstickPawn_C:ReceiveTick
 	Function /Game/Creations/Other/testTwinstickPawn.testTwinstickPawn_C:ExecuteUbergraph_testTwinstickPawn
 	Function /Game/Creations/Other/testTwinstickPawn.testTwinstickPawn_C:serverFireShot
 	Function /Game/Creations/Other/testTwinstickPawn.testTwinstickPawn_C:ExecuteUbergraph_testTwinstickPawn
 	Function /Game/Creations/Other/testTwinstickPawn.testTwinstickPawn_C:FireShot
 
-[2019.04.07-02.54.03:342][881]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'SelectedAbilities' of length 0 in '/Game/Creations/Other/testTwinstickPawn.testTwinstickPawn_C'!
-[2019.04.07-02.54.03:342][881]LogScript: Warning: Accessed None trying to read Class from property CallFunc_Array_Get_Item
+[2019.04.09-02.49.53:111][247]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'SelectedAbilities' of length 0 in '/Game/Creations/Other/testTwinstickPawn.testTwinstickPawn_C'!
+[2019.04.09-02.49.53:111][247]LogScript: Warning: Accessed None trying to read Class from property CallFunc_Array_Get_Item
 	testTwinstickPawn_C /Game/Creations/Maps/MainMenu.MainMenu:PersistentLevel.testTwinstickPawn_C_0
 	Function /Game/Creations/Other/testTwinstickPawn.testTwinstickPawn_C:FireShot:0150
-[2019.04.07-02.54.03:342][881]LogScript: Warning: Script call stack:
+[2019.04.09-02.49.53:111][247]LogScript: Warning: Script call stack:
 	Function /Game/Creations/Other/testTwinstickPawn.testTwinstickPawn_C:ReceiveTick
 	Function /Game/Creations/Other/testTwinstickPawn.testTwinstickPawn_C:ExecuteUbergraph_testTwinstickPawn
 	Function /Game/Creations/Other/testTwinstickPawn.testTwinstickPawn_C:serverFireShot
 	Function /Game/Creations/Other/testTwinstickPawn.testTwinstickPawn_C:ExecuteUbergraph_testTwinstickPawn
 	Function /Game/Creations/Other/testTwinstickPawn.testTwinstickPawn_C:FireShot
 
-[2019.04.07-02.54.05:057][919]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
-[2019.04.07-02.54.05:060][919]LogEngine: All Windows Closed
-[2019.04.07-02.54.05:060][919]LogWindows: FPlatformMisc::RequestExit(0)
-[2019.04.07-02.54.05:207][920]LogExit: Preparing to exit.
-[2019.04.07-02.54.05:213][920]LogMoviePlayer: Shutting down movie player
-[2019.04.07-02.54.05:528][920]LogExit: Game engine shut down
-[2019.04.07-02.54.05:687][920]LogExit: Object subsystem successfully closed.
-[2019.04.07-02.54.05:713][920]LogD3D11RHI: Shutdown
-[2019.04.07-02.54.05:713][920]LogD3D11RHI: CleanupD3DDevice
-[2019.04.07-02.54.05:716][920]LogD3D11RHI: ~FD3D11DynamicRHI
-[2019.04.07-02.54.05:755][920]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (332)
-[2019.04.07-02.54.05:755][920]LogModuleManager: Shutting down and abandoning module SequenceRecorder (330)
-[2019.04.07-02.54.05:755][920]LogModuleManager: Shutting down and abandoning module AutomationController (328)
-[2019.04.07-02.54.05:755][920]LogModuleManager: Shutting down and abandoning module AutomationWorker (326)
-[2019.04.07-02.54.05:755][920]LogModuleManager: Shutting down and abandoning module Voice (324)
-[2019.04.07-02.54.05:755][920]LogModuleManager: Shutting down and abandoning module AIModule (322)
-[2019.04.07-02.54.05:755][920]LogModuleManager: Shutting down and abandoning module GameplayDebugger (321)
-[2019.04.07-02.54.05:755][920]LogModuleManager: Shutting down and abandoning module AITestSuite (319)
-[2019.04.07-02.54.05:755][920]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (316)
-[2019.04.07-02.54.05:755][920]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (314)
-[2019.04.07-02.54.05:755][920]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (312)
-[2019.04.07-02.54.05:755][920]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (310)
-[2019.04.07-02.54.05:755][920]LogModuleManager: Shutting down and abandoning module CharacterAI (308)
-[2019.04.07-02.54.05:755][920]LogModuleManager: Shutting down and abandoning module SessionServices (306)
-[2019.04.07-02.54.05:755][920]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (304)
-[2019.04.07-02.54.05:755][920]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (302)
-[2019.04.07-02.54.05:755][920]LogModuleManager: Shutting down and abandoning module MovieScene (300)
-[2019.04.07-02.54.05:755][920]LogModuleManager: Shutting down and abandoning module GeometryCache (298)
-[2019.04.07-02.54.05:755][920]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (297)
-[2019.04.07-02.54.05:755][920]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (294)
-[2019.04.07-02.54.05:755][920]LogModuleManager: Shutting down and abandoning module PortalServices (292)
-[2019.04.07-02.54.05:755][920]LogModuleManager: Shutting down and abandoning module PortalRpc (290)
-[2019.04.07-02.54.05:755][920]LogModuleManager: Shutting down and abandoning module MessagingRpc (288)
-[2019.04.07-02.54.05:755][920]LogModuleManager: Shutting down and abandoning module ProfilerService (286)
-[2019.04.07-02.54.05:781][920]LogModuleManager: Shutting down and abandoning module TaskGraph (284)
-[2019.04.07-02.54.05:781][920]LogModuleManager: Shutting down and abandoning module SteamVRController (282)
-[2019.04.07-02.54.05:781][920]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (280)
-[2019.04.07-02.54.05:781][920]LogModuleManager: Shutting down and abandoning module OculusInput (278)
-[2019.04.07-02.54.05:781][920]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (276)
-[2019.04.07-02.54.05:781][920]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (274)
-[2019.04.07-02.54.05:781][920]LogModuleManager: Shutting down and abandoning module CableComponent (272)
-[2019.04.07-02.54.05:781][920]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (270)
-[2019.04.07-02.54.05:781][920]LogModuleManager: Shutting down and abandoning module AndroidPermission (268)
-[2019.04.07-02.54.05:781][920]LogModuleManager: Shutting down and abandoning module LoginFlow (266)
-[2019.04.07-02.54.05:781][920]LogModuleManager: Shutting down and abandoning module Rejoin (264)
-[2019.04.07-02.54.05:781][920]LogModuleManager: Shutting down and abandoning module Hotfix (262)
-[2019.04.07-02.54.05:781][920]LogModuleManager: Shutting down and abandoning module Lobby (260)
-[2019.04.07-02.54.05:781][920]LogModuleManager: Shutting down and abandoning module Party (258)
-[2019.04.07-02.54.05:781][920]LogModuleManager: Shutting down and abandoning module Qos (256)
-[2019.04.07-02.54.05:781][920]LogModuleManager: Shutting down and abandoning module ActorSequence (254)
-[2019.04.07-02.54.05:781][920]LogModuleManager: Shutting down and abandoning module MediaCompositing (252)
-[2019.04.07-02.54.05:782][920]LogModuleManager: Shutting down and abandoning module HTML5Networking (250)
-[2019.04.07-02.54.05:782][920]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (248)
-[2019.04.07-02.54.05:782][920]LogModuleManager: Shutting down and abandoning module HotReload (247)
-[2019.04.07-02.54.05:782][920]LogDirectoryWatcher: A directory notification for 'C:/Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Binaries/Win64' was aborted.
-[2019.04.07-02.54.05:782][920]LogDirectoryWatcher: A directory notification for 'C:/Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Plugins/AdvancedSessions/Binaries/Win64' was aborted.
-[2019.04.07-02.54.05:782][920]LogDirectoryWatcher: A directory notification for 'C:/Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Plugins/AdvancedSteamSessions/Binaries/Win64' was aborted.
-[2019.04.07-02.54.05:782][920]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (244)
-[2019.04.07-02.54.05:782][920]LogModuleManager: Shutting down and abandoning module UObjectPlugin (242)
-[2019.04.07-02.54.05:782][920]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (240)
-[2019.04.07-02.54.05:782][920]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (238)
-[2019.04.07-02.54.05:782][920]LogModuleManager: Shutting down and abandoning module SourceControl (237)
-[2019.04.07-02.54.05:782][920]LogModuleManager: Shutting down and abandoning module AdvancedSteamSessions (234)
-[2019.04.07-02.54.05:782][920]LogModuleManager: Shutting down and abandoning module AdvancedSessions (232)
-[2019.04.07-02.54.05:782][920]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (230)
-[2019.04.07-02.54.05:782][920]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (228)
-[2019.04.07-02.54.05:782][920]LogModuleManager: Shutting down and abandoning module PhysXVehicles (226)
-[2019.04.07-02.54.05:782][920]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (224)
-[2019.04.07-02.54.05:782][920]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (222)
-[2019.04.07-02.54.05:782][920]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (220)
-[2019.04.07-02.54.05:782][920]LogModuleManager: Shutting down and abandoning module UdpMessaging (218)
-[2019.04.07-02.54.05:883][920]LogModuleManager: Shutting down and abandoning module TcpMessaging (216)
-[2019.04.07-02.54.06:226][920]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (214)
-[2019.04.07-02.54.06:226][920]LogModuleManager: Shutting down and abandoning module FacialAnimation (212)
-[2019.04.07-02.54.06:227][920]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (210)
-[2019.04.07-02.54.06:227][920]LogModuleManager: Shutting down and abandoning module GraphEditor (209)
-[2019.04.07-02.54.06:227][920]LogModuleManager: Shutting down and abandoning module ContentBrowser (207)
-[2019.04.07-02.54.06:227][920]LogModuleManager: Shutting down and abandoning module CollectionManager (206)
-[2019.04.07-02.54.06:227][920]LogDirectoryWatcher: A directory notification for 'C:/Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Collections/' was aborted.
-[2019.04.07-02.54.06:227][920]LogDirectoryWatcher: A directory notification for 'C:/Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Developers/Alex/Collections/' was aborted.
-[2019.04.07-02.54.06:227][920]LogDirectoryWatcher: A directory notification for 'C:/Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Saved/Collections/' was aborted.
-[2019.04.07-02.54.06:228][920]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (205)
-[2019.04.07-02.54.06:228][920]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (200)
-[2019.04.07-02.54.06:228][920]LogModuleManager: Shutting down and abandoning module Paper2D (198)
-[2019.04.07-02.54.06:228][920]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (196)
-[2019.04.07-02.54.06:228][920]LogModuleManager: Shutting down and abandoning module WmfMedia (194)
-[2019.04.07-02.54.06:231][920]LogModuleManager: Shutting down and abandoning module ImgMedia (192)
-[2019.04.07-02.54.06:231][920]LogModuleManager: Shutting down and abandoning module PacketHandler (190)
-[2019.04.07-02.54.06:231][920]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (188)
-[2019.04.07-02.54.06:232][920]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (186)
-[2019.04.07-02.54.06:232][920]LogModuleManager: Shutting down and abandoning module MediaAssets (184)
-[2019.04.07-02.54.06:232][920]LogModuleManager: Shutting down and abandoning module Media (183)
-[2019.04.07-02.54.06:238][920]LogModuleManager: Shutting down and abandoning module Overlay (180)
-[2019.04.07-02.54.06:238][920]LogModuleManager: Shutting down and abandoning module OverlayEditor (179)
-[2019.04.07-02.54.06:238][920]LogModuleManager: Shutting down and abandoning module VREditor (176)
-[2019.04.07-02.54.06:239][920]LogModuleManager: Shutting down and abandoning module StringTableEditor (174)
-[2019.04.07-02.54.06:239][920]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (172)
-[2019.04.07-02.54.06:239][920]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (170)
-[2019.04.07-02.54.06:239][920]LogModuleManager: Shutting down and abandoning module FunctionalTesting (168)
-[2019.04.07-02.54.06:239][920]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (166)
-[2019.04.07-02.54.06:239][920]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (165)
-[2019.04.07-02.54.06:239][920]LogModuleManager: Shutting down and abandoning module UMG (162)
-[2019.04.07-02.54.06:239][920]LogModuleManager: Shutting down and abandoning module UMGEditor (161)
-[2019.04.07-02.54.06:239][920]LogModuleManager: Shutting down and abandoning module Sequencer (160)
-[2019.04.07-02.54.06:239][920]LogModuleManager: Shutting down and abandoning module MessageLog (157)
-[2019.04.07-02.54.06:239][920]LogModuleManager: Shutting down and abandoning module SlateReflector (152)
-[2019.04.07-02.54.06:239][920]LogModuleManager: Shutting down and abandoning module Slate (150)
-[2019.04.07-02.54.06:239][920]LogModuleManager: Shutting down and abandoning module EditorStyle (148)
-[2019.04.07-02.54.06:243][920]LogModuleManager: Shutting down and abandoning module MRMesh (146)
-[2019.04.07-02.54.06:243][920]LogModuleManager: Shutting down and abandoning module Messaging (144)
-[2019.04.07-02.54.06:243][920]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (142)
-[2019.04.07-02.54.06:243][920]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (140)
-[2019.04.07-02.54.06:243][920]LogModuleManager: Shutting down and abandoning module XAudio2 (138)
-[2019.04.07-02.54.06:243][920]LogModuleManager: Shutting down and abandoning module Networking (136)
-[2019.04.07-02.54.06:243][920]LogModuleManager: Shutting down and abandoning module Core (134)
-[2019.04.07-02.54.06:243][920]LogModuleManager: Shutting down and abandoning module LevelSequence (132)
-[2019.04.07-02.54.06:243][920]LogModuleManager: Shutting down and abandoning module KismetCompiler (130)
-[2019.04.07-02.54.06:243][920]LogModuleManager: Shutting down and abandoning module MeshUtilities (128)
-[2019.04.07-02.54.06:243][920]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (127)
-[2019.04.07-02.54.06:243][920]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (126)
-[2019.04.07-02.54.06:243][920]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (125)
-[2019.04.07-02.54.06:244][920]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (123)
-[2019.04.07-02.54.06:244][920]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (121)
-[2019.04.07-02.54.06:244][920]LogModuleManager: Shutting down and abandoning module MaterialBaking (117)
-[2019.04.07-02.54.06:244][920]LogModuleManager: Shutting down and abandoning module DerivedDataCache (112)
-[2019.04.07-02.54.06:280][920]LogDerivedDataCache: Shutdown
-[2019.04.07-02.54.06:280][920]LogModuleManager: Shutting down and abandoning module TargetPlatform (110)
-[2019.04.07-02.54.06:280][920]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (109)
-[2019.04.07-02.54.06:280][920]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (107)
-[2019.04.07-02.54.06:280][920]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (105)
-[2019.04.07-02.54.06:280][920]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (103)
-[2019.04.07-02.54.06:280][920]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (101)
-[2019.04.07-02.54.06:280][920]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (99)
-[2019.04.07-02.54.06:280][920]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (97)
-[2019.04.07-02.54.06:280][920]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (95)
-[2019.04.07-02.54.06:280][920]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (93)
-[2019.04.07-02.54.06:280][920]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (91)
-[2019.04.07-02.54.06:280][920]LogModuleManager: Shutting down and abandoning module ImageWrapper (90)
-[2019.04.07-02.54.06:280][920]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (87)
-[2019.04.07-02.54.06:280][920]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (85)
-[2019.04.07-02.54.06:280][920]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (83)
-[2019.04.07-02.54.06:280][920]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (81)
-[2019.04.07-02.54.06:280][920]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (79)
-[2019.04.07-02.54.06:280][920]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (77)
-[2019.04.07-02.54.06:280][920]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (75)
-[2019.04.07-02.54.06:280][920]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (73)
-[2019.04.07-02.54.06:280][920]LogModuleManager: Shutting down and abandoning module InputCore (70)
-[2019.04.07-02.54.06:281][920]LogModuleManager: Shutting down and abandoning module Settings (68)
-[2019.04.07-02.54.06:281][920]LogModuleManager: Shutting down and abandoning module PhysXCooking (66)
-[2019.04.07-02.54.06:281][920]LogModuleManager: Shutting down and abandoning module SteamVR (64)
-[2019.04.07-02.54.06:281][920]LogModuleManager: Shutting down and abandoning module OculusHMD (62)
-[2019.04.07-02.54.06:281][920]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (60)
-[2019.04.07-02.54.06:281][920]LogModuleManager: Shutting down and abandoning module AppleARKit (58)
-[2019.04.07-02.54.06:281][920]LogModuleManager: Shutting down and abandoning module AugmentedReality (57)
-[2019.04.07-02.54.06:281][920]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (54)
-[2019.04.07-02.54.06:281][920]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (50)
-[2019.04.07-02.54.06:281][920]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
-[2019.04.07-02.54.06:281][920]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
-[2019.04.07-02.54.06:282][920]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
-[2019.04.07-02.54.06:282][920]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
-[2019.04.07-02.54.06:282][920]LogModuleManager: Shutting down and abandoning module XMPP (43)
-[2019.04.07-02.54.06:282][920]LogModuleManager: Shutting down and abandoning module HTTP (41)
-[2019.04.07-02.54.06:284][920]LogModuleManager: Shutting down and abandoning module SSL (40)
-[2019.04.07-02.54.06:289][920]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
-[2019.04.07-02.54.06:289][920]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
-[2019.04.07-02.54.06:289][920]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
-[2019.04.07-02.54.06:289][920]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
-[2019.04.07-02.54.06:307][920]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
-[2019.04.07-02.54.06:307][920]LogModuleManager: Shutting down and abandoning module Landscape (26)
-[2019.04.07-02.54.06:307][920]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
-[2019.04.07-02.54.06:307][920]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
-[2019.04.07-02.54.06:307][920]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
-[2019.04.07-02.54.06:307][920]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
-[2019.04.07-02.54.06:307][920]LogModuleManager: Shutting down and abandoning module Renderer (16)
-[2019.04.07-02.54.06:308][920]LogModuleManager: Shutting down and abandoning module Engine (14)
-[2019.04.07-02.54.06:308][920]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
-[2019.04.07-02.54.06:308][920]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
-[2019.04.07-02.54.06:308][920]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
-[2019.04.07-02.54.06:308][920]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
-[2019.04.07-02.54.06:308][920]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
-[2019.04.07-02.54.06:308][920]LogModuleManager: Shutting down and abandoning module PakFile (2)
-[2019.04.07-02.54.06:321][920]LogExit: Exiting.
-[2019.04.07-02.54.06:456][920]Log file closed, 04/06/19 19:54:06
+[2019.04.09-02.49.53:127][248]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'SelectedAbilities' of length 0 in '/Game/Creations/Other/testTwinstickPawn.testTwinstickPawn_C'!
+[2019.04.09-02.49.53:127][248]LogScript: Warning: Accessed None trying to read Class from property CallFunc_Array_Get_Item
+	testTwinstickPawn_C /Game/Creations/Maps/MainMenu.MainMenu:PersistentLevel.testTwinstickPawn_C_0
+	Function /Game/Creations/Other/testTwinstickPawn.testTwinstickPawn_C:FireShot:0150
+[2019.04.09-02.49.53:127][248]LogScript: Warning: Script call stack:
+	Function /Game/Creations/Other/testTwinstickPawn.testTwinstickPawn_C:ReceiveTick
+	Function /Game/Creations/Other/testTwinstickPawn.testTwinstickPawn_C:ExecuteUbergraph_testTwinstickPawn
+	Function /Game/Creations/Other/testTwinstickPawn.testTwinstickPawn_C:serverFireShot
+	Function /Game/Creations/Other/testTwinstickPawn.testTwinstickPawn_C:ExecuteUbergraph_testTwinstickPawn
+	Function /Game/Creations/Other/testTwinstickPawn.testTwinstickPawn_C:FireShot
+
+[2019.04.09-02.49.54:335][319]LogOnline: Warning: OSS: Can't destroy a null online session (GameSession)
+[2019.04.09-02.49.55:071][319]LogPackageName: SearchForPackageOnDisk took   0.633s to resolve MultiplayerLobby.umap.
+[2019.04.09-02.49.55:823][319]LogPackageName: SearchForPackageOnDisk took   0.743s to resolve MultiplayerLobby.umap.
+[2019.04.09-02.49.55:823][319]LogNet: Browse: /Game/Creations/Maps/MultiplayerLobby?listen
+[2019.04.09-02.49.55:824][319]LogLoad: LoadMap: /Game/Creations/Maps/MultiplayerLobby?listen
+[2019.04.09-02.49.55:825][319]LogNet: World NetDriver shutdown IpNetDriver_0 [GameNetDriver]
+[2019.04.09-02.49.55:825][319]LogNet: DestroyNamedNetDriver IpNetDriver_0 [GameNetDriver]
+[2019.04.09-02.49.55:825][319]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:58841, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: mainPC_C_1, Owner: mainPC_C_1
+[2019.04.09-02.49.55:825][319]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:58841, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: mainPC_C_1, Owner: mainPC_C_1, Channels: 10, Time: 2019.04.09-02.49.55
+[2019.04.09-02.49.55:840][319]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:58841, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: mainPC_C_1, Owner: mainPC_C_1
+[2019.04.09-02.49.55:944][319]LogExit: GameNetDriver IpNetDriver_0 shut down
+[2019.04.09-02.49.56:082][319]LogAIModule: Creating AISystem for world MultiplayerLobby
+[2019.04.09-02.49.56:082][319]LogLoad: Game class is 'MainGm_C'
+[2019.04.09-02.49.56:083][319]LogOnline: Warning: STEAM: Steam API disabled!
+[2019.04.09-02.49.56:083][319]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2019.04.09-02.49.56:083][319]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.04.09-02.49.56:083][319]LogTemp: Display: ParseSettings for IpNetDriver_1
+[2019.04.09-02.49.56:083][319]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.04.09-02.49.56:084][319]LogInit: WinSock: Socket queue 131072 / 131072
+[2019.04.09-02.49.56:088][319]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.04.09-02.49.56:089][319]LogNet: GameNetDriver IpNetDriver_1 IpNetDriver listening on port 7777
+[2019.04.09-02.49.56:093][319]LogWorld: Bringing World /Game/Creations/Maps/MultiplayerLobby.MultiplayerLobby up for play (max tick rate 0) at 2019.04.08-19.49.56
+[2019.04.09-02.49.56:094][319]LogWorld: Bringing up level for play took: 0.001830
+[2019.04.09-02.49.56:095][319]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.04.09-02.49.56:151][319]LogLoad: Took 0.326832 seconds to LoadMap(/Game/Creations/Maps/MultiplayerLobby)
+[2019.04.09-02.50.02:454][643]LogNet: NotifyAcceptingConnection accepted from: 158.104.225.238:59176
+[2019.04.09-02.50.02:456][643]LogHandshake: SendConnectChallenge. Timestamp: 8.144946, Cookie: 020172143167237206051086118080045109054229171130090075144146
+[2019.04.09-02.50.02:487][645]LogNet: NotifyAcceptingConnection accepted from: 158.104.225.238:59176
+[2019.04.09-02.50.02:487][645]LogHandshake: SendChallengeAck. InCookie: 020172143167237206051086118080045109054229171130090075144146
+[2019.04.09-02.50.02:488][645]LogNet: Server accepting post-challenge connection from: 158.104.225.238:59176
+[2019.04.09-02.50.02:488][645]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.04.09-02.50.02:488][645]LogNet: NotifyAcceptedConnection: Name: MultiplayerLobby, TimeStamp: 04/08/19 19:50:02, [UNetConnection] RemoteAddr: 158.104.225.238:59176, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_1, IsServer: YES, PC: NULL, Owner: NULL
+[2019.04.09-02.50.02:488][645]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 158.104.225.238:59176, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_1, IsServer: YES, PC: NULL, Owner: NULL
+[2019.04.09-02.50.02:507][646]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Creations/Maps/MultiplayerLobby.MultiplayerLobby: Accepted
+[2019.04.09-02.50.02:507][646]LogNet: Remote platform little endian=1
+[2019.04.09-02.50.02:508][646]LogNet: This platform little endian=1
+[2019.04.09-02.50.02:527][647]LogNet: Login request: /Game/Creations/Maps/MainMenu?Name=MSI-285AF0E647EBEB0B22DFB1A7A6CAB247 userId: MSI-285AF0E647EBEB0B22DFB1A7A6CAB247
+[2019.04.09-02.50.02:555][648]LogNet: Client netspeed is 10000
+[2019.04.09-02.50.02:603][651]LogNet: Join request: /Game/Creations/Maps/MainMenu?Name=MSI-285AF0E647EBEB0B22DFB1A7A6CAB247?SplitscreenCount=1
+[2019.04.09-02.50.02:604][651]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.04.09-02.50.02:621][651]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=7.297 Y=58.685 Z=0.016] for [testTwinstickPawn_C]
+[2019.04.09-02.50.02:622][651]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type testTwinstickPawn_C at Rotation: Pitch 0.000000 Yaw 0.000000 Roll 0.000000
+Translation: 0.000000 0.000000 0.000000
+Scale3D: 1.000000 1.000000 1.000000
+
+[2019.04.09-02.50.02:622][651]LogNet: Join succeeded: MSI-285AF0E647EBEB0B
+[2019.04.09-02.50.02:715][656]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: MultiplayerLobbyWidget_C /Engine/Transient.GameEngine_0:MainInstance_C_0.MultiplayerLobbyWidget_C_0 NOT Supported.
+[2019.04.09-02.50.06:944][820]LogPackageName: SearchForPackageOnDisk took   0.776s to resolve TestMap.
+[2019.04.09-02.50.07:067][820]LogGameMode: ProcessServerTravel: /Game/Creations/Maps/TestMap
+[2019.04.09-02.50.07:071][820]LogWorld: SeamlessTravel to: /Game/Creations/Maps/TestMap
+[2019.04.09-02.50.07:126][820]LogStats:     SeamlessTravel FlushLevelStreaming  -  0.001 s
+[2019.04.09-02.50.07:126][820]LogAIModule: Creating AISystem for world Untitled
+[2019.04.09-02.50.07:127][820]LogWorld: Bringing World /Temp/Untitled_1.Untitled up for play (max tick rate 0) at 2019.04.08-19.50.07
+[2019.04.09-02.50.07:127][820]LogWorld: Bringing up level for play took: 0.000544
+[2019.04.09-02.50.07:127][820]LogWorld: Sending NotifyLoadedWorld for LP: LocalPlayer_0 PC: mainPC_C_0
+[2019.04.09-02.50.07:127][820]LogNet: Verbose: NotifyLoadedWorld Begin
+[2019.04.09-02.50.07:138][820]LogNet: VeryVerbose: GetFunctionCallspace Server calling Server function: ServerNotifyLoadedWorld Local
+[2019.04.09-02.50.07:138][820]LogNet: Verbose: NotifyLoadedWorld End
+[2019.04.09-02.50.07:138][820]LogWorld: StartLoadingDestination to: /Game/Creations/Maps/TestMap
+[2019.04.09-02.50.07:175][820]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue7
+	mainPC_C /Temp/Untitled_1.Untitled:PersistentLevel.mainPC_C_0
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC:1C32
+[2019.04.09-02.50.07:175][820]LogScript: Warning: Script call stack:
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ReceiveTick
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC
+
+[2019.04.09-02.50.07:208][821]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue7
+	mainPC_C /Temp/Untitled_1.Untitled:PersistentLevel.mainPC_C_0
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC:1C32
+[2019.04.09-02.50.07:209][821]LogScript: Warning: Script call stack:
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ReceiveTick
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC
+
+[2019.04.09-02.50.07:239][822]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue7
+	mainPC_C /Temp/Untitled_1.Untitled:PersistentLevel.mainPC_C_0
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC:1C32
+[2019.04.09-02.50.07:239][822]LogScript: Warning: Script call stack:
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ReceiveTick
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC
+
+[2019.04.09-02.50.07:268][823]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue7
+	mainPC_C /Temp/Untitled_1.Untitled:PersistentLevel.mainPC_C_0
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC:1C32
+[2019.04.09-02.50.07:268][823]LogScript: Warning: Script call stack:
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ReceiveTick
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC
+
+[2019.04.09-02.50.07:305][824]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue7
+	mainPC_C /Temp/Untitled_1.Untitled:PersistentLevel.mainPC_C_0
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC:1C32
+[2019.04.09-02.50.07:305][824]LogScript: Warning: Script call stack:
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ReceiveTick
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC
+
+[2019.04.09-02.50.07:345][825]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue7
+	mainPC_C /Temp/Untitled_1.Untitled:PersistentLevel.mainPC_C_0
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC:1C32
+[2019.04.09-02.50.07:345][825]LogScript: Warning: Script call stack:
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ReceiveTick
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC
+
+[2019.04.09-02.50.07:384][826]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue7
+	mainPC_C /Temp/Untitled_1.Untitled:PersistentLevel.mainPC_C_0
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC:1C32
+[2019.04.09-02.50.07:384][826]LogScript: Warning: Script call stack:
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ReceiveTick
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC
+
+[2019.04.09-02.50.07:419][827]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue7
+	mainPC_C /Temp/Untitled_1.Untitled:PersistentLevel.mainPC_C_0
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC:1C32
+[2019.04.09-02.50.07:419][827]LogScript: Warning: Script call stack:
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ReceiveTick
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC
+
+[2019.04.09-02.50.07:453][828]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue7
+	mainPC_C /Temp/Untitled_1.Untitled:PersistentLevel.mainPC_C_0
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC:1C32
+[2019.04.09-02.50.07:453][828]LogScript: Warning: Script call stack:
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ReceiveTick
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC
+
+[2019.04.09-02.50.07:491][829]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue7
+	mainPC_C /Temp/Untitled_1.Untitled:PersistentLevel.mainPC_C_0
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC:1C32
+[2019.04.09-02.50.07:491][829]LogScript: Warning: Script call stack:
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ReceiveTick
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC
+
+[2019.04.09-02.50.07:530][830]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue7
+	mainPC_C /Temp/Untitled_1.Untitled:PersistentLevel.mainPC_C_0
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC:1C32
+[2019.04.09-02.50.07:530][830]LogScript: Warning: Script call stack:
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ReceiveTick
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC
+
+[2019.04.09-02.50.07:596][831]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue7
+	mainPC_C /Temp/Untitled_1.Untitled:PersistentLevel.mainPC_C_0
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC:1C32
+[2019.04.09-02.50.07:596][831]LogScript: Warning: Script call stack:
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ReceiveTick
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC
+
+[2019.04.09-02.50.07:659][832]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue7
+	mainPC_C /Temp/Untitled_1.Untitled:PersistentLevel.mainPC_C_0
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC:1C32
+[2019.04.09-02.50.07:659][832]LogScript: Warning: Script call stack:
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ReceiveTick
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC
+
+[2019.04.09-02.50.07:698][833]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue7
+	mainPC_C /Temp/Untitled_1.Untitled:PersistentLevel.mainPC_C_0
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC:1C32
+[2019.04.09-02.50.07:698][833]LogScript: Warning: Script call stack:
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ReceiveTick
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC
+
+[2019.04.09-02.50.07:744][834]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue7
+	mainPC_C /Temp/Untitled_1.Untitled:PersistentLevel.mainPC_C_0
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC:1C32
+[2019.04.09-02.50.07:744][834]LogScript: Warning: Script call stack:
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ReceiveTick
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC
+
+[2019.04.09-02.50.07:849][835]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue7
+	mainPC_C /Temp/Untitled_1.Untitled:PersistentLevel.mainPC_C_0
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC:1C32
+[2019.04.09-02.50.07:849][835]LogScript: Warning: Script call stack:
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ReceiveTick
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC
+
+[2019.04.09-02.50.07:904][836]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue7
+	mainPC_C /Temp/Untitled_1.Untitled:PersistentLevel.mainPC_C_0
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC:1C32
+[2019.04.09-02.50.07:904][836]LogScript: Warning: Script call stack:
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ReceiveTick
+	Function /Game/Creations/GInstances/mainPC.mainPC_C:ExecuteUbergraph_mainPC
+
+[2019.04.09-02.50.07:958][838]LogAIModule: Creating AISystem for world TestMap
+[2019.04.09-02.50.07:958][838]LogLoad: Game class is 'MainGm_C'
+[2019.04.09-02.50.07:959][838]LogStats:     SeamlessTravel FlushLevelStreaming  -  0.001 s
+[2019.04.09-02.50.08:031][838]LogWorld: Bringing World /Game/Creations/Maps/TestMap.TestMap up for play (max tick rate 0) at 2019.04.08-19.50.08
+[2019.04.09-02.50.08:041][838]LogWorld: Bringing up level for play took: 0.082039
+[2019.04.09-02.50.08:124][838]LogWorld: Sending NotifyLoadedWorld for LP: LocalPlayer_0 PC: mainPC_C_0
+[2019.04.09-02.50.08:124][838]LogNet: Verbose: NotifyLoadedWorld Begin
+[2019.04.09-02.50.08:124][838]LogNet: VeryVerbose: GetFunctionCallspace Server calling Server function: ServerNotifyLoadedWorld Local
+[2019.04.09-02.50.08:124][838]LogNet: Verbose: NotifyLoadedWorld End
+[2019.04.09-02.50.08:124][838]LogWorld: ----SeamlessTravel finished in 1.05 seconds ------
+[2019.04.09-02.50.27:991][553]LogBlueprintUserMessages: [TestMap_C_1] 2
+[2019.04.09-02.50.29:599][625]LogBlueprintUserMessages: [mainPC_C_2] test mode toggled
+[2019.04.09-02.50.58:489][447]LogBlueprintUserMessages: [TestMap_C_1] 2
+[2019.04.09-02.51.29:035][670]LogBlueprintUserMessages: [TestMap_C_1] 2
+[2019.04.09-02.51.43:333][195]LogPackageName: SearchForPackageOnDisk took   0.685s to resolve MainMenu.umap.
+[2019.04.09-02.51.44:026][195]LogPackageName: SearchForPackageOnDisk took   0.682s to resolve MainMenu.umap.
+[2019.04.09-02.51.44:026][195]LogNet: Browse: /Game/Creations/Maps/MainMenu
+[2019.04.09-02.51.44:026][195]LogLoad: LoadMap: /Game/Creations/Maps/MainMenu
+[2019.04.09-02.51.44:027][195]LogNet: World NetDriver shutdown IpNetDriver_1 [GameNetDriver]
+[2019.04.09-02.51.44:027][195]LogNet: DestroyNamedNetDriver IpNetDriver_1 [GameNetDriver]
+[2019.04.09-02.51.44:027][195]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 158.104.225.238:59176, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_1, IsServer: YES, PC: mainPC_C_3, Owner: mainPC_C_3
+[2019.04.09-02.51.44:027][195]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 158.104.225.238:59176, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_1, IsServer: YES, PC: mainPC_C_3, Owner: mainPC_C_3, Channels: 30, Time: 2019.04.09-02.51.44
+[2019.04.09-02.51.44:027][195]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 158.104.225.238:59176, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_1, IsServer: YES, PC: mainPC_C_3, Owner: mainPC_C_3
+[2019.04.09-02.51.44:028][195]LogExit: GameNetDriver IpNetDriver_1 shut down
+[2019.04.09-02.51.44:280][195]LogAIModule: Creating AISystem for world MainMenu
+[2019.04.09-02.51.44:280][195]LogLoad: Game class is 'MainGm_C'
+[2019.04.09-02.51.44:282][195]LogWorld: Bringing World /Game/Creations/Maps/MainMenu.MainMenu up for play (max tick rate 0) at 2019.04.08-19.51.44
+[2019.04.09-02.51.44:282][195]LogWorld: Bringing up level for play took: 0.001077
+[2019.04.09-02.51.44:283][195]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.04.09-02.51.44:288][195]LogLoad: Took 0.261201 seconds to LoadMap(/Game/Creations/Maps/MainMenu)
+[2019.04.09-02.51.45:221][230]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.04.09-02.51.45:224][230]LogEngine: All Windows Closed
+[2019.04.09-02.51.45:224][230]LogWindows: FPlatformMisc::RequestExit(0)
+[2019.04.09-02.51.45:902][231]LogExit: Preparing to exit.
+[2019.04.09-02.51.45:905][231]LogMoviePlayer: Shutting down movie player
+[2019.04.09-02.51.47:386][231]LogExit: Game engine shut down
+[2019.04.09-02.51.49:469][231]LogExit: Object subsystem successfully closed.
+[2019.04.09-02.51.49:923][231]LogD3D11RHI: Shutdown
+[2019.04.09-02.51.49:933][231]LogD3D11RHI: CleanupD3DDevice
+[2019.04.09-02.51.49:977][231]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.04.09-02.51.50:389][231]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (332)
+[2019.04.09-02.51.50:418][231]LogModuleManager: Shutting down and abandoning module SequenceRecorder (330)
+[2019.04.09-02.51.50:424][231]LogModuleManager: Shutting down and abandoning module AutomationController (328)
+[2019.04.09-02.51.50:433][231]LogModuleManager: Shutting down and abandoning module AutomationWorker (326)
+[2019.04.09-02.51.50:444][231]LogModuleManager: Shutting down and abandoning module Voice (324)
+[2019.04.09-02.51.50:445][231]LogModuleManager: Shutting down and abandoning module AIModule (322)
+[2019.04.09-02.51.50:445][231]LogModuleManager: Shutting down and abandoning module GameplayDebugger (321)
+[2019.04.09-02.51.50:458][231]LogModuleManager: Shutting down and abandoning module AITestSuite (319)
+[2019.04.09-02.51.50:467][231]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (316)
+[2019.04.09-02.51.50:467][231]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (314)
+[2019.04.09-02.51.50:467][231]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (312)
+[2019.04.09-02.51.50:467][231]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (310)
+[2019.04.09-02.51.50:467][231]LogModuleManager: Shutting down and abandoning module CharacterAI (308)
+[2019.04.09-02.51.50:467][231]LogModuleManager: Shutting down and abandoning module SessionServices (306)
+[2019.04.09-02.51.50:467][231]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (304)
+[2019.04.09-02.51.50:467][231]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (302)
+[2019.04.09-02.51.50:467][231]LogModuleManager: Shutting down and abandoning module MovieScene (300)
+[2019.04.09-02.51.50:467][231]LogModuleManager: Shutting down and abandoning module GeometryCache (298)
+[2019.04.09-02.51.50:475][231]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (297)
+[2019.04.09-02.51.50:475][231]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (294)
+[2019.04.09-02.51.50:475][231]LogModuleManager: Shutting down and abandoning module PortalServices (292)
+[2019.04.09-02.51.50:475][231]LogModuleManager: Shutting down and abandoning module PortalRpc (290)
+[2019.04.09-02.51.50:476][231]LogModuleManager: Shutting down and abandoning module MessagingRpc (288)
+[2019.04.09-02.51.50:476][231]LogModuleManager: Shutting down and abandoning module ProfilerService (286)
+[2019.04.09-02.51.50:647][231]LogModuleManager: Shutting down and abandoning module TaskGraph (284)
+[2019.04.09-02.51.50:666][231]LogModuleManager: Shutting down and abandoning module SteamVRController (282)
+[2019.04.09-02.51.50:667][231]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (280)
+[2019.04.09-02.51.50:667][231]LogModuleManager: Shutting down and abandoning module OculusInput (278)
+[2019.04.09-02.51.50:677][231]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (276)
+[2019.04.09-02.51.50:677][231]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (274)
+[2019.04.09-02.51.50:677][231]LogModuleManager: Shutting down and abandoning module CableComponent (272)
+[2019.04.09-02.51.50:684][231]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (270)
+[2019.04.09-02.51.50:684][231]LogModuleManager: Shutting down and abandoning module AndroidPermission (268)
+[2019.04.09-02.51.50:684][231]LogModuleManager: Shutting down and abandoning module LoginFlow (266)
+[2019.04.09-02.51.50:684][231]LogModuleManager: Shutting down and abandoning module Rejoin (264)
+[2019.04.09-02.51.50:684][231]LogModuleManager: Shutting down and abandoning module Hotfix (262)
+[2019.04.09-02.51.50:696][231]LogModuleManager: Shutting down and abandoning module Lobby (260)
+[2019.04.09-02.51.50:696][231]LogModuleManager: Shutting down and abandoning module Party (258)
+[2019.04.09-02.51.50:696][231]LogModuleManager: Shutting down and abandoning module Qos (256)
+[2019.04.09-02.51.50:696][231]LogModuleManager: Shutting down and abandoning module ActorSequence (254)
+[2019.04.09-02.51.50:696][231]LogModuleManager: Shutting down and abandoning module MediaCompositing (252)
+[2019.04.09-02.51.50:697][231]LogModuleManager: Shutting down and abandoning module HTML5Networking (250)
+[2019.04.09-02.51.50:697][231]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (248)
+[2019.04.09-02.51.50:697][231]LogModuleManager: Shutting down and abandoning module HotReload (247)
+[2019.04.09-02.51.50:710][231]LogDirectoryWatcher: A directory notification for 'C:/Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Binaries/Win64' was aborted.
+[2019.04.09-02.51.50:710][231]LogDirectoryWatcher: A directory notification for 'C:/Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Plugins/AdvancedSessions/Binaries/Win64' was aborted.
+[2019.04.09-02.51.50:710][231]LogDirectoryWatcher: A directory notification for 'C:/Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Plugins/AdvancedSteamSessions/Binaries/Win64' was aborted.
+[2019.04.09-02.51.50:711][231]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (244)
+[2019.04.09-02.51.50:711][231]LogModuleManager: Shutting down and abandoning module UObjectPlugin (242)
+[2019.04.09-02.51.50:711][231]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (240)
+[2019.04.09-02.51.50:739][231]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (238)
+[2019.04.09-02.51.50:748][231]LogModuleManager: Shutting down and abandoning module SourceControl (237)
+[2019.04.09-02.51.50:748][231]LogModuleManager: Shutting down and abandoning module AdvancedSteamSessions (234)
+[2019.04.09-02.51.50:748][231]LogModuleManager: Shutting down and abandoning module AdvancedSessions (232)
+[2019.04.09-02.51.50:748][231]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (230)
+[2019.04.09-02.51.50:748][231]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (228)
+[2019.04.09-02.51.50:748][231]LogModuleManager: Shutting down and abandoning module PhysXVehicles (226)
+[2019.04.09-02.51.50:748][231]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (224)
+[2019.04.09-02.51.50:748][231]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (222)
+[2019.04.09-02.51.50:748][231]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (220)
+[2019.04.09-02.51.50:758][231]LogModuleManager: Shutting down and abandoning module UdpMessaging (218)
+[2019.04.09-02.51.50:872][231]LogModuleManager: Shutting down and abandoning module TcpMessaging (216)
+[2019.04.09-02.51.50:980][231]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (214)
+[2019.04.09-02.51.50:994][231]LogModuleManager: Shutting down and abandoning module FacialAnimation (212)
+[2019.04.09-02.51.50:994][231]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (210)
+[2019.04.09-02.51.51:042][231]LogModuleManager: Shutting down and abandoning module GraphEditor (209)
+[2019.04.09-02.51.51:042][231]LogModuleManager: Shutting down and abandoning module ContentBrowser (207)
+[2019.04.09-02.51.51:071][231]LogModuleManager: Shutting down and abandoning module CollectionManager (206)
+[2019.04.09-02.51.51:102][231]LogDirectoryWatcher: A directory notification for 'C:/Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Collections/' was aborted.
+[2019.04.09-02.51.51:102][231]LogDirectoryWatcher: A directory notification for 'C:/Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Content/Developers/Alex/Collections/' was aborted.
+[2019.04.09-02.51.51:102][231]LogDirectoryWatcher: A directory notification for 'C:/Users/lockw/OneDrive/Documents/Unreal Projects/Illuminate/Saved/Collections/' was aborted.
+[2019.04.09-02.51.51:102][231]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (205)
+[2019.04.09-02.51.51:103][231]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (200)
+[2019.04.09-02.51.51:103][231]LogModuleManager: Shutting down and abandoning module Paper2D (198)
+[2019.04.09-02.51.51:103][231]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (196)
+[2019.04.09-02.51.51:123][231]LogModuleManager: Shutting down and abandoning module WmfMedia (194)
+[2019.04.09-02.51.51:133][231]LogModuleManager: Shutting down and abandoning module ImgMedia (192)
+[2019.04.09-02.51.51:133][231]LogModuleManager: Shutting down and abandoning module PacketHandler (190)
+[2019.04.09-02.51.51:133][231]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (188)
+[2019.04.09-02.51.51:133][231]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (186)
+[2019.04.09-02.51.51:142][231]LogModuleManager: Shutting down and abandoning module MediaAssets (184)
+[2019.04.09-02.51.51:142][231]LogModuleManager: Shutting down and abandoning module Media (183)
+[2019.04.09-02.51.51:148][231]LogModuleManager: Shutting down and abandoning module Overlay (180)
+[2019.04.09-02.51.51:148][231]LogModuleManager: Shutting down and abandoning module OverlayEditor (179)
+[2019.04.09-02.51.51:148][231]LogModuleManager: Shutting down and abandoning module VREditor (176)
+[2019.04.09-02.51.51:168][231]LogModuleManager: Shutting down and abandoning module StringTableEditor (174)
+[2019.04.09-02.51.51:193][231]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (172)
+[2019.04.09-02.51.51:193][231]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (170)
+[2019.04.09-02.51.51:251][231]LogModuleManager: Shutting down and abandoning module FunctionalTesting (168)
+[2019.04.09-02.51.51:268][231]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (166)
+[2019.04.09-02.51.51:282][231]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (165)
+[2019.04.09-02.51.51:282][231]LogModuleManager: Shutting down and abandoning module UMG (162)
+[2019.04.09-02.51.51:282][231]LogModuleManager: Shutting down and abandoning module UMGEditor (161)
+[2019.04.09-02.51.51:289][231]LogModuleManager: Shutting down and abandoning module Sequencer (160)
+[2019.04.09-02.51.51:289][231]LogModuleManager: Shutting down and abandoning module MessageLog (157)
+[2019.04.09-02.51.51:290][231]LogModuleManager: Shutting down and abandoning module SlateReflector (152)
+[2019.04.09-02.51.51:359][231]LogModuleManager: Shutting down and abandoning module Slate (150)
+[2019.04.09-02.51.51:359][231]LogModuleManager: Shutting down and abandoning module EditorStyle (148)
+[2019.04.09-02.51.51:364][231]LogModuleManager: Shutting down and abandoning module MRMesh (146)
+[2019.04.09-02.51.51:364][231]LogModuleManager: Shutting down and abandoning module Messaging (144)
+[2019.04.09-02.51.51:364][231]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (142)
+[2019.04.09-02.51.51:364][231]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (140)
+[2019.04.09-02.51.51:364][231]LogModuleManager: Shutting down and abandoning module XAudio2 (138)
+[2019.04.09-02.51.51:364][231]LogModuleManager: Shutting down and abandoning module Networking (136)
+[2019.04.09-02.51.51:364][231]LogModuleManager: Shutting down and abandoning module Core (134)
+[2019.04.09-02.51.51:364][231]LogModuleManager: Shutting down and abandoning module LevelSequence (132)
+[2019.04.09-02.51.51:376][231]LogModuleManager: Shutting down and abandoning module KismetCompiler (130)
+[2019.04.09-02.51.51:376][231]LogModuleManager: Shutting down and abandoning module MeshUtilities (128)
+[2019.04.09-02.51.51:393][231]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (127)
+[2019.04.09-02.51.51:401][231]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (126)
+[2019.04.09-02.51.51:401][231]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (125)
+[2019.04.09-02.51.51:422][231]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (123)
+[2019.04.09-02.51.51:422][231]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (121)
+[2019.04.09-02.51.51:445][231]LogModuleManager: Shutting down and abandoning module MaterialBaking (117)
+[2019.04.09-02.51.51:451][231]LogModuleManager: Shutting down and abandoning module DerivedDataCache (112)
+[2019.04.09-02.51.51:520][231]LogDerivedDataCache: Shutdown
+[2019.04.09-02.51.51:520][231]LogModuleManager: Shutting down and abandoning module TargetPlatform (110)
+[2019.04.09-02.51.51:520][231]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (109)
+[2019.04.09-02.51.51:525][231]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (107)
+[2019.04.09-02.51.51:547][231]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (105)
+[2019.04.09-02.51.51:563][231]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (103)
+[2019.04.09-02.51.51:578][231]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (101)
+[2019.04.09-02.51.51:623][231]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (99)
+[2019.04.09-02.51.51:623][231]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (97)
+[2019.04.09-02.51.51:623][231]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (95)
+[2019.04.09-02.51.51:645][231]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (93)
+[2019.04.09-02.51.51:652][231]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (91)
+[2019.04.09-02.51.51:652][231]LogModuleManager: Shutting down and abandoning module ImageWrapper (90)
+[2019.04.09-02.51.51:652][231]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (87)
+[2019.04.09-02.51.51:652][231]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (85)
+[2019.04.09-02.51.51:652][231]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (83)
+[2019.04.09-02.51.51:652][231]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (81)
+[2019.04.09-02.51.51:652][231]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (79)
+[2019.04.09-02.51.51:652][231]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (77)
+[2019.04.09-02.51.51:652][231]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (75)
+[2019.04.09-02.51.51:652][231]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (73)
+[2019.04.09-02.51.51:652][231]LogModuleManager: Shutting down and abandoning module InputCore (70)
+[2019.04.09-02.51.51:652][231]LogModuleManager: Shutting down and abandoning module Settings (68)
+[2019.04.09-02.51.51:652][231]LogModuleManager: Shutting down and abandoning module PhysXCooking (66)
+[2019.04.09-02.51.51:652][231]LogModuleManager: Shutting down and abandoning module SteamVR (64)
+[2019.04.09-02.51.51:652][231]LogModuleManager: Shutting down and abandoning module OculusHMD (62)
+[2019.04.09-02.51.51:658][231]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (60)
+[2019.04.09-02.51.51:658][231]LogModuleManager: Shutting down and abandoning module AppleARKit (58)
+[2019.04.09-02.51.51:658][231]LogModuleManager: Shutting down and abandoning module AugmentedReality (57)
+[2019.04.09-02.51.51:658][231]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (54)
+[2019.04.09-02.51.51:658][231]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (50)
+[2019.04.09-02.51.51:658][231]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2019.04.09-02.51.51:665][231]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2019.04.09-02.51.51:703][231]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2019.04.09-02.51.51:703][231]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2019.04.09-02.51.51:703][231]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2019.04.09-02.51.51:723][231]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2019.04.09-02.51.51:740][231]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2019.04.09-02.51.51:756][231]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.04.09-02.51.51:780][231]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.04.09-02.51.51:780][231]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.04.09-02.51.51:802][231]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.04.09-02.51.51:853][231]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.04.09-02.51.51:853][231]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.04.09-02.51.51:853][231]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.04.09-02.51.51:881][231]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.04.09-02.51.51:905][231]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.04.09-02.51.51:905][231]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.04.09-02.51.51:921][231]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.04.09-02.51.51:921][231]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.04.09-02.51.51:937][231]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.04.09-02.51.51:937][231]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.04.09-02.51.51:959][231]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.04.09-02.51.51:959][231]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.04.09-02.51.51:980][231]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.04.09-02.51.52:000][231]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.04.09-02.51.52:057][231]LogExit: Exiting.
+[2019.04.09-02.51.52:221][231]Log file closed, 04/08/19 19:51:52
