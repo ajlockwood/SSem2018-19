@@ -1,3 +1,43 @@
+## 4/11/19
+
+Added a possible temporary workaround to reported performance problems. I say possible because I haven't gotten a chance to test it yet.
+
+Started adding support for player profiles that can be loaded locally, trying to figure out if its possible to store that information online reliably.
+
+The engine kept crashing so I didn't get very far...
+
+## 4/10/19 
+
+Cleaned up some blueprints. They look prettier now.
+
+Fixed a bug where swap was not teleporting players properly.
+
+Fixed a bug where Ensnare was not properly snaring players.
+
+Axes: 
+
+	Reduced duration from 4 seconds to 2 seconds.
+
+	Increased Damage from 6 to 12
+
+	Uses increased from 1 to 3
+
+	Cooldown increased to 2 seconds (to match duration).
+
+Added BigAxes.
+
+BigAxes:
+
+	1.5 times bigger than Axes. Lasts 1.5 seconds. 
+
+	Damage: 15 per hit.
+
+Began work on a profile system and an experience-based progression system. Huzzah for stretch goals!
+
+Source:
+
+	https://www.youtube.com/watch?v=TwOnAmBkGbo&list=PLvxXd3EPisPfAvH3OFLIdX8VAaLbtiSQY&index=5&t=0s
+
 ## 4/8/19
 
 Players can now see a damage number widget when they themselves are damaged.
