@@ -1,3 +1,7 @@
+## 4/16/19
+
+Added a scoreboard to track kills and deaths. Also added an end-game condition of 3 kills and an end-game screen.
+
 ## 4/11/19
 
 Added a possible temporary workaround to reported performance problems. I say possible because I haven't gotten a chance to test it yet.
