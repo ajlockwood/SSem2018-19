@@ -1,6 +1,14 @@
+## 4/21/19
+
+Completely reworked how movement works to fix a significant multiplayer networking issue.
+
+Finalized the version for presentation purposes, and tested the first 3-player multiplayer game. Took note of some bugs but most things work!
+
 ## 4/16/19
 
 Added a scoreboard to track kills and deaths. Also added an end-game condition of 3 kills and an end-game screen.
+
+Removed a plugin that didn't prove very helpful...
 
 ## 4/11/19
 
