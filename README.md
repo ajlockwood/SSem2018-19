@@ -389,4 +389,4 @@ Parallel:
   Damage: 20x6x2
 
 ## Changelog Beginning 2/4/19
-## Changes and additions before this have been undocumented. Whoops!
+### (Which was when this repository was first pushed to Github)
